@@ -50,14 +50,23 @@ respuesta correcta. Ahí el enunciado debe anclar a una fracción concreta
 
 ## Cobertura actual
 
-**Hojas 1–9 de 18** (Artículos 1 al 29, más el arranque del Artículo 30).
-Cubre los Capítulos I a VII completos y el inicio del Capítulo VIII
-(Planeación de Operativos): solo su fracción I. Las fracciones II a VII del
-Artículo 30 quedan en la hoja 9 sin convertir en reactivo; se cierran junto
-con el resto del Artículo 30 en la hoja 10.
+**Alcance cubierto por completo.** Los 11 capítulos (Art. 1 al 44) y los
+transitorios Primero y Tercero de la Ley original, hojas 1–13.
 
-**Pendiente:** continuar en la hoja 10, con la fracción II del Artículo 30 en
-adelante. Capítulos IX a XI (hojas 10–17) sin empezar.
+**Las hojas 14–18 no son articulado y no llevan reactivos:**
+
+- **Hojas 14–17:** no son parte de la Ley. Son la sentencia de la Suprema
+  Corte de Justicia de la Nación en la Acción de Inconstitucionalidad
+  64/2019, anexada por la Cámara de Diputados a continuación del texto legal.
+  Es jurisprudencia sobre la Ley, no la Ley misma.
+- **Hoja 18:** el decreto de reformas del 24-01-2024 (ya señalado en el
+  reconocimiento inicial de este archivo).
+- **El transitorio Segundo** (derogación genérica de disposiciones que se
+  opongan al decreto) se dejó fuera por no tener contenido verificable de
+  memoria: no dice qué se deroga en concreto.
+
+**Pendiente:** ninguno. La Ley Nacional Sobre el Uso de la Fuerza está
+cerrada.
 
 ## Una advertencia para cuando se llegue al Capítulo IX del Manual DN-M-110
 
@@ -854,6 +863,364 @@ requiera el uso de la fuerza?
 Deberán determinar el agente o agentes al mando del operativo, que serán
 responsables de su debido cumplimiento.
 
+### 42
+
+Según el Artículo 30 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué
+señala su fracción XI sobre grabar o filmar el desarrollo del operativo?
+
+- A. Que es legal grabar o filmar el desarrollo del operativo, desde el inicio hasta la conclusión del mismo
+- B. Que es obligatorio grabar o filmar el desarrollo del operativo, únicamente cuando se autorice el uso de fuerza letal
+- C. Que está prohibido grabar o filmar el desarrollo del operativo sin autorización judicial previa
+- D. Que solo el mando operativo puede grabar o filmar el desarrollo del operativo
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 30, fracción XI, Pág. 10
+**Subtema:** artículo 30 · planeación de operativos
+
+Es legal grabar o filmar el desarrollo del operativo, desde el inicio hasta
+la conclusión del mismo.
+
+### 43
+
+De acuerdo con el Artículo 30 de la Ley, ¿qué debe asegurar el mando
+operativo durante la realización de un operativo, según su fracción VIII?
+
+- A. Una constante comunicación con sus superiores para la toma de decisiones, incluida la posible negociación con las personas que ejercen la resistencia
+- B. La revista de agentes, equipo, armamento, cartuchos y vehículos antes del operativo
+- C. Un plan de desplazamiento de los agentes en la zona del operativo
+- D. El uso progresivo y diferenciado de la fuerza, procurando generar el menor daño posible
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 30, fracción VIII, Pág. 10
+**Subtema:** artículo 30 · planeación de operativos
+
+Asegurar que el mando operativo mantenga una constante comunicación con sus
+superiores para la toma de decisiones durante la realización del operativo,
+incluida la posible negociación con las personas que ejercen la resistencia.
+
+### 44
+
+Según el Artículo 31 de la Ley Nacional sobre el Uso de la Fuerza, ¿con quién
+deberá permanecer en comunicación directa y en coordinación el agente que
+funja como negociador?
+
+- A. Con el mando operativo, quien a su vez tendrá contacto directo con el mando superior
+- B. Directamente con el Consejo del Sistema Nacional de Seguridad Pública
+- C. Con los líderes de los manifestantes, sin intermediarios
+- D. Con la Comisión Nacional de los Derechos Humanos
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 31, Pág. 10
+**Subtema:** artículo 31 · negociación en manifestaciones violentas
+
+El agente que funja como negociador deberá permanecer en comunicación
+directa y en coordinación con el mando operativo, quien a su vez tendrá
+contacto directo con el mando superior.
+
 ---
 
-**Reactivos en este archivo:** 41
+## Sub-lote 10 · Capítulo IX — Informes del Uso de la Fuerza (Art. 32–39)
+
+### 45
+
+Según el Artículo 32 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué
+deberán realizar los miembros de las instituciones de seguridad siempre que
+utilicen la fuerza en cumplimiento de sus funciones?
+
+- A. Un reporte pormenorizado a su superior jerárquico inmediato
+- B. Una denuncia ante el Ministerio Público, independientemente del nivel de fuerza empleado
+- C. Un examen médico y psicológico inmediato posterior al operativo
+- D. Una notificación a la Comisión Nacional de los Derechos Humanos
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 32, Pág. 10
+**Subtema:** artículo 32 · reporte del uso de la fuerza
+
+Siempre que los miembros de las instituciones de seguridad utilicen la
+fuerza en cumplimiento de sus funciones deberán realizar un reporte
+pormenorizado a su superior jerárquico inmediato.
+
+### 46
+
+De acuerdo con el Artículo 32 de la Ley, ¿cuándo serán responsables los
+superiores jerárquicos por el uso ilícito de la fuerza de sus subordinados?
+
+- A. Cuando deban tener o tengan conocimiento de que sus agentes hayan empleado ilícitamente la fuerza y no lo impidan o no lo denuncien ante las autoridades correspondientes
+- B. Únicamente cuando hayan ordenado expresamente el uso ilícito de la fuerza
+- C. Cuando el agente involucrado haya sido sancionado previamente por la misma conducta
+- D. En ningún caso, ya que la responsabilidad es exclusiva del agente que ejerció la fuerza
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 32, Pág. 10
+**Subtema:** artículo 32 · reporte del uso de la fuerza
+
+Los superiores jerárquicos serán responsables cuando deban tener o tengan
+conocimiento de que los agentes bajo su mando hayan empleado ilícitamente la
+fuerza, los instrumentos o armas de fuego a su cargo y no lo impidan o no lo
+denuncien ante las autoridades correspondientes.
+
+### 47
+
+Según el Artículo 33 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué debe
+contener el reporte pormenorizado, de acuerdo con su fracción I?
+
+- A. Nombre, adscripción y datos de identificación del agente
+- B. Nivel de fuerza utilizado
+- C. Circunstancias de modo, tiempo y lugar de los hechos
+- D. El número de disparos o la cantidad de detonación de explosivos
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 33, fracción I, Pág. 10
+**Subtema:** artículo 33 · contenido del reporte
+
+El reporte pormenorizado contendrá nombre, adscripción y datos de
+identificación del agente.
+
+### 48
+
+Según el Artículo 33 de la Ley, en caso de haber utilizado armas letales, el
+reporte pormenorizado debe identificar, conforme al inciso b) de su fracción
+IV, ¿qué dato?
+
+- A. El número de disparos o la cantidad de detonación de explosivos
+- B. Las razones que se tuvieron para hacer uso del arma de fuego o explosivo
+- C. El tipo de lesiones, el número e identidad de las personas lesionadas
+- D. El número e identidad de las personas que hayan perdido la vida
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 33, fracción IV, inciso b), Pág. 10
+**Subtema:** artículo 33 · contenido del reporte
+
+En caso de haber utilizado armas letales, se deberá identificar el número de
+disparos o la cantidad de detonación de explosivos.
+
+### 49
+
+Según el Artículo 34 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué
+establecerán las instituciones de seguridad de acuerdo con estándares de
+eficiencia sobre el uso de la fuerza?
+
+- A. Un programa de evaluaciones periódicas
+- B. Un programa de capacitación obligatoria trimestral
+- C. Un registro público de sanciones administrativas
+- D. Un comité ciudadano de vigilancia del uso de la fuerza
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 34, Pág. 11
+**Subtema:** artículo 34 · evaluaciones periódicas
+
+Las instituciones de seguridad establecerán un programa de evaluaciones
+periódicas de acuerdo con estándares de eficiencia sobre el uso de la
+fuerza.
+
+### 50
+
+De acuerdo con el Artículo 35 de la Ley, los informes públicos anuales deben
+contener el número de personas fallecidas por el uso de la fuerza,
+¿desagregado cómo?
+
+- A. Por sexo
+- B. Por entidad federativa
+- C. Por institución de seguridad responsable
+- D. Por rango de edad
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 35, fracción III, Pág. 11
+**Subtema:** artículo 35 · informes públicos anuales
+
+El número de personas fallecidas por el uso de la fuerza, desagregado por
+sexo.
+
+### 51
+
+Según el Artículo 36 de la Ley Nacional sobre el Uso de la Fuerza, ¿en qué
+operativos se podrán utilizar dispositivos tecnológicos para registrar
+audiovisualmente su desarrollo con fines de verificación?
+
+- A. En aquellos en los que se requiera y autorice desde la planeación el uso de la fuerza letal
+- B. En todos los operativos, sin excepción, que realicen las instituciones de seguridad
+- C. Únicamente en operativos relacionados con manifestaciones o reuniones públicas
+- D. En los operativos donde participe la Fuerza Armada permanente
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 36, Pág. 11
+**Subtema:** artículo 36 · registro audiovisual
+
+En aquellos operativos en los que se requiera y autorice desde la
+planeación el uso de la fuerza letal, se podrán utilizar dispositivos
+tecnológicos con el fin de registrar audiovisualmente el desarrollo del
+operativo con fines de verificación.
+
+### 52
+
+De acuerdo con el Artículo 38 de la Ley, ¿para qué será accesible el material
+audiovisual registrado?
+
+- A. Para investigaciones y procedimientos judiciales, en términos de la legislación en la materia
+- B. Únicamente para uso interno de la institución de seguridad correspondiente
+- C. Para su difusión pública inmediata en medios de comunicación
+- D. Exclusivamente para los informes públicos anuales de la institución
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 38, Pág. 11
+**Subtema:** artículo 38 · material audiovisual
+
+El material audiovisual será accesible para investigaciones y
+procedimientos judiciales, en términos de la legislación en la materia.
+
+---
+
+## Sub-lote 11 · Capítulo X — Capacitación y Profesionalización (Art. 40–41)
+
+### 53
+
+Según el Artículo 40 de la Ley Nacional sobre el Uso de la Fuerza, ¿cuál es
+el primero de los aspectos que debe incluir, al menos, la capacitación que
+reciban los agentes?
+
+- A. Derechos Humanos
+- B. No discriminación
+- C. Perspectiva de género
+- D. Principios para el uso de la fuerza
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 40, fracción I, Pág. 11
+**Subtema:** artículo 40 · capacitación de los agentes
+
+La capacitación deberá incluir, al menos, Derechos Humanos.
+
+### 54
+
+De acuerdo con el Artículo 40 de la Ley, ¿cuál de los siguientes es uno de
+los aspectos que debe incluir la capacitación de los agentes, según su
+fracción XVI?
+
+- A. Manejo de crisis, estrés y emociones
+- B. Ética y doctrina policial
+- C. Primeros auxilios y asistencia médica de emergencia
+- D. Responsabilidades jurídicas derivadas del uso de la fuerza
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 40, fracción XVI, Pág. 12
+**Subtema:** artículo 40 · capacitación de los agentes
+
+Manejo de crisis, estrés y emociones.
+
+### 55
+
+Según el Artículo 41 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué debe
+considerar la capacitación de los agentes respecto al uso de las armas
+letales y menos letales?
+
+- A. El uso diferenciado, escalonado y gradual de la fuerza, siempre con el objetivo de evitar daño a la integridad física de las personas
+- B. El uso exclusivo de armas menos letales durante los primeros dos años de servicio
+- C. La prohibición absoluta del uso de armas letales, salvo autorización del mando superior
+- D. El uso simultáneo de armas letales y menos letales en cualquier nivel de resistencia
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 41, Pág. 12
+**Subtema:** artículo 41 · capacitación de los agentes
+
+La capacitación a que se refiere el artículo anterior deberá considerar el
+uso diferenciado, escalonado y gradual de la fuerza, tanto de armas letales
+como menos letales, siempre con el objetivo de evitar daño a la integridad
+física de las personas.
+
+---
+
+## Sub-lote 12 · Capítulo XI — Régimen de Responsabilidades (Art. 42–44) y Transitorios
+
+### 56
+
+Según el Artículo 42 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué
+deberán verificar los mandos de las instituciones de seguridad respecto al
+empleo de la fuerza de sus subordinados?
+
+- A. Que se efectúe conforme a lo establecido en la Ley y demás ordenamientos aplicables
+- B. Que se reporte únicamente cuando se hayan utilizado armas letales
+- C. Que se documente exclusivamente en los informes públicos anuales
+- D. Que se realice bajo la supervisión directa de la Comisión Nacional de los Derechos Humanos
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 42, Pág. 12
+**Subtema:** artículo 42 · régimen de responsabilidades
+
+Los mandos deberán verificar que el empleo de la fuerza ejercida por sus
+subordinados se efectúe conforme a lo establecido en la presente Ley y demás
+ordenamientos aplicables.
+
+### 57
+
+De acuerdo con el Artículo 43 de la Ley, ¿en términos de qué disposiciones
+deberán sancionarse las infracciones derivadas de uso indebido de la fuerza?
+
+- A. De las disposiciones legales civiles, penales o administrativas correspondientes
+- B. Únicamente de las disposiciones administrativas internas de cada institución
+- C. De las disposiciones exclusivamente penales del Código de Justicia Militar
+- D. De las disposiciones que emita el Consejo del Sistema Nacional de Seguridad Pública
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 43, Pág. 12
+**Subtema:** artículo 43 · régimen de responsabilidades
+
+Las infracciones a la Ley, derivadas de uso indebido de la fuerza, deberán
+ser sancionadas en términos de las disposiciones legales civiles, penales o
+administrativas correspondientes.
+
+### 58
+
+Según el Artículo 44 de la Ley Nacional sobre el Uso de la Fuerza, ¿qué
+deberá hacer cualquier integrante de las instituciones de seguridad que
+tenga conocimiento de que se usó indebidamente la fuerza?
+
+- A. Denunciar el hecho ante la autoridad competente
+- B. Reportarlo únicamente a su superior jerárquico inmediato, sin necesidad de denuncia
+- C. Documentarlo en el reporte pormenorizado del operativo correspondiente
+- D. Notificarlo a la Comisión Nacional de los Derechos Humanos exclusivamente
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Artículo 44, Pág. 12
+**Subtema:** artículo 44 · régimen de responsabilidades
+
+Al tener conocimiento de que se usó indebidamente la fuerza, deberá
+denunciar el hecho ante la autoridad competente.
+
+### 59
+
+Según el artículo Primero Transitorio de la Ley Nacional sobre el Uso de la
+Fuerza, ¿cuándo entrará en vigor la Ley?
+
+- A. Al día siguiente de su publicación en el Diario Oficial de la Federación
+- B. Treinta días después de su publicación en el Diario Oficial de la Federación
+- C. El primero de enero del año siguiente a su publicación
+- D. Al momento de su publicación en el Diario Oficial de la Federación
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Transitorio Primero, Pág. 12
+**Subtema:** transitorios
+
+La Ley entrará en vigor al día siguiente de su publicación en el Diario
+Oficial de la Federación.
+
+### 60
+
+Según el artículo Tercero Transitorio de la Ley, para cumplir con la
+obligación contenida en el Artículo 38, ¿qué procurarán las instituciones de
+seguridad pública?
+
+- A. Adquirir la tecnología correspondiente, en la medida de las disponibilidades presupuestarias
+- B. Contratar personal especializado en investigaciones judiciales
+- C. Suscribir convenios con la Comisión Nacional de los Derechos Humanos
+- D. Capacitar a todo su personal en el manejo de dispositivos audiovisuales en un plazo de 60 días
+
+**Respuesta:** A
+**Referencia:** *Ley Nacional sobre el Uso de la Fuerza*, Transitorio Tercero, Pág. 13
+**Subtema:** transitorios
+
+Para cumplir con la obligación contenida en el artículo 38, las
+instituciones de seguridad pública procurarán, en medida de las
+disponibilidades presupuestarias, adquirir la tecnología correspondiente.
+
+---
+
+**Reactivos en este archivo:** 60

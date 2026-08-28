@@ -91,5 +91,9 @@ preguntar dos veces lo mismo con otras palabras** — saldrían reactivos gemelo
 en el mismo examen, que es justo lo que la limpieza del banco cultural vino a
 quitar.
 
-**Pendiente:** todo. No se ha escrito ni un reactivo. Empezar por la Ley
-Nacional Sobre el Uso de la Fuerza, hoja 1.
+**Pendiente:** la Ley Nacional Sobre el Uso de la Fuerza está **cerrada**
+(60 reactivos, ver `ley-uso-de-la-fuerza/ley-completa.md`). Sigue el Manual de
+Derechos Humanos DN-M-110: empezar por el Capítulo II (hojas 22–26), luego
+Capítulo VIII (hojas 99–119) y Capítulo IX (hojas 120–130). Al escribir el
+Capítulo IX, revisar `ley-uso-de-la-fuerza/ley-completa.md` primero para no
+repetir reactivos — el manual resume esa misma ley.
