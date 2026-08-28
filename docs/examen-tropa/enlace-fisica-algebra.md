@@ -1,9 +1,14 @@
 # Enlazar Física General y Álgebra al temario de tropa
 
-> **CERRADO el 28 ago 2026.** Migración aplicada, 35 `Plantel` tipo `TROPA`
-> creados (el catálogo completo) y 16 de ellos con Temario 2026 publicado y
-> enlazado a Física General y/o Álgebra. Verificado armando el examen de
-> prueba: los 16 sirven reactivos reales muy por encima de lo pedido. Detalle
+> **CERRADO el 28 ago 2026 — y CONFIRMADO EN PRODUCCIÓN.** El chat que hizo
+> este trabajo verificó todo contra una base local y dejó el seed
+> (`seed-temarios-tropa.ts`) commiteado sin correrlo contra la base real — la
+> migración sí había llegado a producción, pero los 35 cursos no. Se detectó
+> al retomar la sesión (consulta directa a producción: 0 `Plantel` tipo
+> `TROPA`) y se corrigió corriendo el seed contra la base real, con el visto
+> bueno de Carlo. **Ahora sí está confirmado con una consulta a producción,
+> no sólo por el log de la terminal:** 35 `Plantel` tipo `TROPA`, 16 Temarios
+> 2026 publicados, Física General enlazada en 13 y Álgebra en 10. Detalle
 > abajo, en "Cómo quedó al cerrar".
 >
 > Reconocimiento hecho el 28 ago 2026. A diferencia de Derechos Humanos y
