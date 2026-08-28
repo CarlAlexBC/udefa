@@ -151,10 +151,9 @@ copia propia.
    la misma revisión que se hizo entre la Ley del Uso de la Fuerza y el
    Capítulo IX de Derechos Humanos.
 
-**Pendiente:** Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, Título
-Cuarto, Capítulos I y II (Composición del Ejército y F.A.M. / Composición
-del Ejército Mexicano), Art. 53, hoja 9. Los Títulos Primero y Segundo de
-la Ley Orgánica están CERRADOS (19 reactivos) — ver
-`docs/examen-tropa/ley-organica-ejercito/titulo-01-misiones-generales.md` y
-`titulo-02-integracion.md`. El Código de Justicia Militar sigue CERRADO por
-completo (Títulos Octavo y Noveno, 97 reactivos).
+**Pendiente:** Ley de Disciplina del Ejército, Fuerza Aérea y Guardia
+Nacional (Sin transitorios), Art. 1, hoja 1. **La Ley Orgánica del Ejército
+y Fuerza Aérea Mexicanos está CERRADA por completo** dentro del alcance del
+temario (Títulos Primero, Segundo y Cuarto Cap. I-II, 31 reactivos) — ver
+`docs/examen-tropa/ley-organica-ejercito/`. El Código de Justicia Militar
+sigue CERRADO (Títulos Octavo y Noveno, 97 reactivos).
