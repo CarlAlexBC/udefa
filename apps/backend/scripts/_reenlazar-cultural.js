@@ -29,12 +29,30 @@ const BANCO = 'cultural';
 const RAIZ = path.resolve(__dirname, '../../../docs/examen-cultural');
 const NO_BANCO = new Set(['auditoria']);
 
-// Las MISMAS dos expresiones con las que se limpiaron los .md.
+// Las MISMAS expresiones con las que se limpiaron los .md.
+//
+// ── OJO AL MANTENERLO ──────────────────────────────────────────────────────
+// Cada vez que una tanda de limpieza estrene un patrón nuevo, hay que copiarlo
+// AQUÍ. Si no, este script no sabe mapear el enunciado viejo de la base con el
+// nuevo del .md, los reporta como "sin destino claro" y el importador acaba
+// creando duplicados. Pasó con los recuadros: la tanda MARCO limpió 58
+// enunciados y este script devolvía 0 re-enlaces.
 const FIGURA = /,?\s*(?:seg[uú]n|de acuerdo con|conforme a)\s+(?:el|la|los|las)\s+(?:figuras?|tablas?|esquemas?|gr[aá]ficas?|diagramas?|mapas?|ilustraciones?|im[aá]genes?|paneles?|panel)[^,?¿]*,/i;
 const PREAMBULO = /,?\s*(?:en|del?)\s+(?:el\s+)?(?:cap[ií]tulo|secci[oó]n|apartado)\s*\d*[^,?¿]*,/i;
 
+// "en el recuadro de la notación exponencial" -> "en la notación exponencial".
+// Va PRIMERO que MARCO: ahí el nombre del recuadro es el contexto de la
+// pregunta y borrarlo entero la deja sin sentido.
+const CON_TEMA = /\b(?:el\s+)?recuadro\s+de\s+(?=(?:la|el|las|los)\s)/i;
+// El \b tras el sustantivo NO sobra: sin él "nota" coincide dentro de
+// "notación" y se borra media pregunta.
+const MARCO = /,?\s*(?:seg[uú]n|de acuerdo con|conforme a|en)\s+(?:el|la)\s+(?:recuadros?|notas?|cuadros?)\b[^,?¿]*,/i;
+const EMBEBIDA = /\s+del?\s+(?:recuadro|cuadro|nota)\s+[\w.\-]+/i;
+
 function limpiar(e) {
-  let n = e.replace(FIGURA, ',').replace(PREAMBULO, ',');
+  let n = e.replace(CON_TEMA, '');
+  n = n.replace(FIGURA, ',').replace(PREAMBULO, ',').replace(MARCO, ',');
+  n = n.replace(EMBEBIDA, '');
   n = n.replace(/,\s*,/g, ',').replace(/\s{2,}/g, ' ').trim();
   n = n.replace(/,\s*¿/g, ', ¿');
   return n;
