@@ -140,7 +140,7 @@ copia propia.
    la misma revisión que se hizo entre la Ley del Uso de la Fuerza y el
    Capítulo IX de Derechos Humanos.
 
-**Pendiente:** Código de Justicia Militar, Título Octavo, Capítulo V
-(Inutilización voluntaria para el servicio), Art. 276, hoja 71. Ver
-`docs/examen-tropa/codigo-justicia-militar/titulo-08-delitos-existencia-fap.md`
-(Capítulos I–IV Bis cerrados, 58 reactivos).
+**Pendiente:** Código de Justicia Militar, Título Noveno, Capítulo I
+(Insubordinación), Art. 283, hoja 72. El Título Octavo está CERRADO (68
+reactivos) — ver
+`docs/examen-tropa/codigo-justicia-militar/titulo-08-delitos-existencia-fap.md`.

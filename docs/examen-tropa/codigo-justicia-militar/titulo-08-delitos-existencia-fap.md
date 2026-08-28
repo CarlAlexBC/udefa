@@ -60,13 +60,19 @@ fracción**, no la página por sí sola.
 
 ## Cobertura actual
 
-**Capítulos I a IV Bis** (Falsificación; Fraude, malversación y retención de
-haberes; Extravío, enajenación, robo y destrucción de lo perteneciente a la
-Fuerza Armada Permanente; Deserción e insumisión; Traición a las Fuerzas
-Armadas Mexicanas), Arts. 228–275 Ter, hojas 58–70.
+**Alcance cubierto por completo.** Los ocho capítulos del Título Octavo
+(Falsificación; Fraude, malversación y retención de haberes; Extravío,
+enajenación, robo y destrucción de lo perteneciente a la Fuerza Armada
+Permanente; Deserción e insumisión; Traición a las Fuerzas Armadas
+Mexicanas; Inutilización voluntaria para el servicio; Insultos, amenazas o
+violencias contra Centinelas, Guardias, Tropa formada, Salvaguardias,
+Seguridad Física a Instalaciones o Personas, Bandera y Fuerza Armada
+Permanente; Ultrajes y violencias contra la policía; Falsa Alarma), Arts.
+228–282, hojas 58–72.
 
-**Pendiente:** Capítulo V (Inutilización voluntaria para el servicio), Art.
-276, hoja 71.
+**Pendiente:** ninguno. El Título Octavo está cerrado. Sigue el Título
+Noveno (Delitos contra la jerarquía y la autoridad), Art. 283, hoja 72 — ver
+`docs/examen-tropa/codigo-justicia-militar/titulo-09-delitos-jerarquia-autoridad.md`.
 
 ---
 
@@ -1168,4 +1174,183 @@ Código Penal Federal.
 
 ---
 
-**Reactivos en este archivo (hasta ahora):** 58
+## Sub-lote 6 · Capítulos V a VIII — cierre del Título Octavo (Art. 276–282, hojas 71–72)
+
+### 59
+
+Según el Código de Justicia Militar, ¿qué comete la persona militar que,
+lesionándose o de cualquier otra manera, se inutiliza voluntariamente, por
+sí o por medio de otra, para el servicio?
+
+- A. El delito de inutilización voluntaria previsto en el artículo 276
+- B. El delito de abandono de servicio previsto en el artículo 310
+- C. El delito de desobediencia previsto en el artículo 301
+- D. El delito de deserción previsto en el artículo 255
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 276, Pág. 71
+**Subtema:** inutilización voluntaria · autolesión
+
+La persona militar que lesionándose o de cualquiera otra manera se
+inutilice voluntariamente, por sí o por medio de otra, para el servicio.
+
+### 60
+
+De acuerdo con el Código de Justicia Militar, ¿a quién más sanciona el
+artículo 276, además de quien se inutiliza a sí mismo?
+
+- A. Al que, a petición de otro, lo inutilice con ese mismo objeto
+- B. Al médico que certifica la inutilización sin haberla verificado
+- C. Al superior que no advierte la inutilización
+- D. Al compañero que denuncia la inutilización
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 276, Pág. 71
+**Subtema:** inutilización voluntaria · inutilización a petición de otro
+
+Las mismas penas se impondrán al que a petición de otro, lo inutilice con
+el objeto indicado.
+
+### 61
+
+Según el Código de Justicia Militar, ¿qué conducta distinta a la
+autolesión sanciona el artículo 277?
+
+- A. Valerse de recursos o medios fraudulentos que lo imposibiliten para el cumplimiento de alguna obligación militar
+- B. Lesionarse voluntariamente para el servicio
+- C. Inutilizar a otro a petición de éste
+- D. Simular una enfermedad ante el médico militar
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 277, Pág. 71
+**Subtema:** inutilización voluntaria · medios fraudulentos
+
+A quien se valga de recursos o medios fraudulentos que lo imposibiliten
+para el cumplimiento de alguna obligación militar.
+
+### 62
+
+De acuerdo con el Código de Justicia Militar, ¿a qué personas protege el
+artículo 278 frente a ofensas o amenazas?
+
+- A. A un centinela, a un miembro de una guardia, a un vigilante, serviola, guardián o salvaguardia
+- B. Únicamente a los oficiales de mayor jerarquía
+- C. Sólo al comandante de la plaza o guarnición
+- D. Únicamente al personal médico militar
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 278, Pág. 71
+**Subtema:** insultos y amenazas · centinelas y guardias
+
+Quien ofenda o amenace a un centinela, a un miembro de una guardia, a un
+vigilante, serviola, guardián o salvaguardia y el que destruya ésta si
+fuere escrita.
+
+### 63
+
+Según el Código de Justicia Militar, ¿contra quiénes se sanciona la
+violencia prevista en el artículo 279?
+
+- A. Contra cualquiera de los individuos mencionados en el artículo anterior: un centinela, un miembro de una guardia, un vigilante, serviola, guardián o salvaguardia
+- B. Únicamente contra un miembro de la policía
+- C. Únicamente contra un oficial de mayor jerarquía
+- D. Contra cualquier persona civil dentro de una instalación militar
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 279, Pág. 71
+**Subtema:** violencias contra centinelas · sujetos protegidos
+
+Quien cometa violencia contra cualquiera de los individuos mencionados en
+el artículo anterior.
+
+### 64
+
+De acuerdo con el Código de Justicia Militar, ¿qué conducta sanciona el
+artículo 280 respecto a la Fuerza Armada Permanente?
+
+- A. Injuriar, difamar o calumniar a la Fuerza Armada Permanente o a las instituciones que de ésta dependan, armas, cuerpos, guardias o tropa formada
+- B. Ultrajar la bandera nacional
+- C. Ofender o amenazar a un centinela
+- D. Ejercer violencia contra un miembro de la policía
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 280, Pág. 72
+**Subtema:** injurias y difamación · Fuerza Armada Permanente
+
+Quien injurie, difame o calumnie a la Fuerza Armada Permanente o a las
+instituciones que de ésta dependan, armas, cuerpos, guardias o tropa
+formada.
+
+### 65
+
+Según el Código de Justicia Militar, ¿qué otra conducta sanciona el
+artículo 280, distinta de injuriar a la Fuerza Armada Permanente?
+
+- A. Ultrajar la bandera nacional
+- B. Ofender a un centinela
+- C. Amenazar a un miembro de una guardia
+- D. Injuriar a un miembro de la policía
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 280, Pág. 72
+**Subtema:** ultraje · bandera nacional
+
+Al que ultraje la bandera nacional.
+
+### 66
+
+De acuerdo con el Código de Justicia Militar, ¿qué primera conducta
+sanciona el artículo 281 respecto a un miembro de la policía?
+
+- A. Injuriarlo o ultrajarlo mientras esté en ejercicio de sus funciones
+- B. Desobedecer sus órdenes
+- C. Ejercer violencia física contra él
+- D. Resistirse a la orden que le haya intimado
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 281, Pág. 72
+**Subtema:** ultrajes contra la policía · injuria
+
+Quien injurie o ultraje a un miembro de la policía que esté en ejercicio de
+sus funciones.
+
+### 67
+
+Según el Código de Justicia Militar, ¿qué conducta agrava la responsabilidad
+de quien injuria a un miembro de la policía, conforme al artículo 281?
+
+- A. Que lo desobedezca o resista a la orden que le haya intimado en uso de sus facultades, o que ejerza violencia contra él
+- B. Que la injuria se haga por escrito
+- C. Que la injuria ocurra frente a otros policías
+- D. Que la injuria se repita más de una vez
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 281, Pág. 72
+**Subtema:** ultrajes contra la policía · desobediencia y violencia
+
+Si lo desobedece o resiste a la orden que le haya intimado en uso de sus
+facultades o ejerza violencia contra él.
+
+### 68
+
+De acuerdo con el Código de Justicia Militar, ¿qué conducta describe el
+artículo 282 sobre la falsa alarma?
+
+- A. Ocasionar intencionalmente una falsa alarma, o causar intencionalmente una confusión o desorden en la tropa, en marcha, campamento, guarnición, cuartel o dependencia
+- B. Ofender o amenazar a un centinela
+- C. Injuriar a la Fuerza Armada Permanente
+- D. Ultrajar la bandera nacional
+
+**Respuesta:** A
+**Referencia:** *Código de Justicia Militar (Sin Penas)*, Artículo 282, Pág. 72
+**Subtema:** falsa alarma · confusión o desorden intencional
+
+Quien intencionalmente ocasione una falsa alarma, o que en marcha o en
+campamento, guarnición, cuartel o dependencia cause intencionalmente una
+confusión o desorden en la tropa y sus equivalentes en la Armada o en las
+formaciones de los buques, o aeronaves, en las dotaciones o en la población
+donde las fuerzas estuvieren.
+
+---
+
+**Reactivos en este archivo:** 68
