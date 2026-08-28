@@ -22,13 +22,23 @@ reglamentos** distintos. Todas coinciden en edición con lo que pide el temario
 
 | Título | Nombre | Hojas del PDF |
 |---|---|---|
-| **Octavo** | Delitos contra la existencia y seguridad de la Fuerza Armada Permanente | **58 – 71** (14 hojas) |
-| **Noveno** | Delitos contra la jerarquía y la autoridad | **72 – 76** (5 hojas) |
+| **Octavo** | Delitos contra la existencia y seguridad de la Fuerza Armada Permanente | **58 – 72** (arranca a media hoja 58, cierra a media hoja 72) |
+| **Noveno** | Delitos contra la jerarquía y la autoridad | **72 – 77** (arranca a media hoja 72, cierra a media hoja 77) |
 
 Verificado por nombre, no sólo por número: el Código repite "Título Octavo" más
 adelante (hoja 132, dentro del Libro Tercero) — **ese NO es el que pide el
 temario.** El único Libro Segundo del documento va de la hoja 34 a la 102, y
 ahí es donde están los títulos correctos.
+
+> **Corrección hecha al escribir los reactivos (28 ago):** el reconocimiento
+> original decía 58–71 y 72–76. Al leer el PDF completo hoja por hoja se
+> confirmó que **ningún título cierra en la hoja redonda que aquí se anotó**
+> — ambos títulos terminan a media hoja, un patrón ya visto en la Ley
+> Orgánica (ver fuente 2 abajo). El Título Octavo llega hasta media hoja 72
+> (Art. 282) y el Noveno hasta media hoja 77 (Art. 309, justo antes de que
+> arranque el Título Décimo en esa misma hoja). Documentado con el detalle
+> completo en los encabezados de `titulo-08-delitos-existencia-fap.md` y
+> `titulo-09-delitos-jerarquia-autoridad.md`.
 
 **"(Sin Penas)" — la advertencia más importante de esta materia.** Cada
 artículo trae fracciones numeradas con la pena de prisión que le toca a cada
@@ -90,9 +100,10 @@ temario — coherente con que ésta es materia de tropa, hasta sargento 1º.
 
 ## El tamaño real del trabajo
 
-**44 hojas en total** (19 + 4 + 9 + 12). Comparable a Derechos Humanos (55
-hojas) y con la misma ventaja: las 4 fuentes tienen capa de texto completa, se
-leen directo, sin renderizar ni una hoja.
+**~45 hojas en total** (20 + 4 + 9 + 12 — el Código de Justicia Militar subió
+de 19 a 20 hojas tras la corrección de rango de arriba). Comparable a
+Derechos Humanos (55 hojas) y con la misma ventaja: las 4 fuentes tienen capa
+de texto completa, se leen directo, sin renderizar ni una hoja.
 
 ## Cómo se guarda — el reactivo cuelga del LIBRO
 
@@ -140,7 +151,8 @@ copia propia.
    la misma revisión que se hizo entre la Ley del Uso de la Fuerza y el
    Capítulo IX de Derechos Humanos.
 
-**Pendiente:** Código de Justicia Militar, Título Noveno, Capítulo I
-(Insubordinación), Art. 283, hoja 72. El Título Octavo está CERRADO (68
-reactivos) — ver
-`docs/examen-tropa/codigo-justicia-militar/titulo-08-delitos-existencia-fap.md`.
+**Pendiente:** Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, Título
+Primero (Misiones Generales), hoja 1. **El Código de Justicia Militar está
+CERRADO por completo** (Títulos Octavo y Noveno, 97 reactivos) — ver
+`docs/examen-tropa/codigo-justicia-militar/titulo-08-delitos-existencia-fap.md`
+y `titulo-09-delitos-jerarquia-autoridad.md`.
