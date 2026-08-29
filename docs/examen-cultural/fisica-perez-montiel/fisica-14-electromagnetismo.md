@@ -3,18 +3,16 @@
 **Materia:** único plantel de tropa que pide esta unidad, `EMMG_MG_TEC_MANTO_I_2026`
 (Escuela Militar de Materiales de Guerra, curso Técnico en Mantenimiento — ver
 `docs/examen-tropa/enlace-fisica-algebra.md`), junto con las Unidades 12 y 13.
-**Unidad del libro:** Unidad 14, Electromagnetismo → **completa** en el
-temario (13 subtemas). **Escritos: 1, 2, 3 y 4. Faltan el 5 (Inductancia), 6
-(Corriente alterna), 7 (Circuitos de corriente alterna), 8
-(Transformadores), 9 (Bobina de inducción), 10 (Generador eléctrico), 11
-(Motor eléctrico), 12 (Síntesis de Maxwell) y 13 (Plantas generadoras).**
+**Unidad del libro:** Unidad 14, Electromagnetismo → **completa**, los 13
+subtemas.
 
 > Es, con diferencia, la unidad más grande de los tres huecos de tropa: 42
 > páginas y 13 subtemas, contra 14 páginas/7 subtemas de Magnetismo. Se
-> cierra por partes, igual que ya se hizo con `fisica-11-termologia.md`
-> (temas 1-9 y 12 escritos primero, 10/11/13 después). Antes de seguir con
-> los subtemas 5-13, revisar `**Pendiente:**` abajo — no releer el PDF desde
-> el principio.
+> cerró en dos tandas dentro de la misma sesión (28 ago 2026): primero los
+> subtemas 1-4 (historia, campo magnético por corriente, fuerzas sobre
+> cargas, Lenz/Faraday), después 5-13 (Inductancia, Corriente alterna,
+> Circuitos de CA, Transformadores, Bobina de inducción, Generador, Motor,
+> Síntesis de Maxwell, Plantas generadoras).
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Las líneas `**Referencia:**` y `**Subtema:**`
@@ -34,23 +32,13 @@ muestra impreso "478" (arranque de la Unidad 14, 491−478=13); la hoja 505
 muestra "492" (Ley de Lenz y ley de Faraday, 505−492=13). Mismo desfase que
 `fisica-13-magnetismo.md`, confirmado de nuevo para esta unidad.
 
-## Alcance de este archivo (subtemas 1-4 de 13)
+## Alcance
 
-Arranca en la página impresa **478** y llega hasta la **493** (subtemas 1 a
-4). El resto de la unidad (subtemas 5-13, páginas 493-519) queda pendiente.
-
-1. **Desarrollo histórico del electromagnetismo** (pp. 480-481): Volta,
-   Oersted, Ampère, Henry, Faraday, Gramme, Tesla, Maxwell, Hertz.
-2. **Campo magnético producido por una corriente** (pp. 481-484): regla de
-   Ampere, regla de la mano izquierda, conductor recto, espira, solenoide.
-3. **Fuerzas sobre cargas eléctricas en movimiento dentro de campos
-   magnéticos** (pp. 485-488): fuerza de Ampere, trayectorias, regla de los
-   tres dedos, fuerza entre conductores paralelos.
-4. **Inducción electromagnética y ley del electromagnetismo** (pp. 490-493):
-   Ley de Lenz, Ley de Faraday. **OJO:** la definición general de qué es
-   "inducción electromagnética" (págs. 490-491, antes de Lenz) todavía no se
-   leyó hoja por hoja — verificarla al reabrir este archivo, puede sumar 1-2
-   reactivos a este sub-lote.
+Arranca en la página impresa **478** y termina en la **510** (los 13
+subtemas; la Actividad experimental 23, p. 510-512, y el Proyecto de
+integración, Resumen, Autoevaluación y Coevaluación, p. 513-518, quedan
+fuera). El Glosario (p. 519) se revisó pero no aportó definiciones nuevas
+que no vinieran ya del cuerpo del texto en alguno de los 13 subtemas.
 
 **Fuera del banco** (misma norma de teoría sobre práctica):
 
@@ -59,22 +47,33 @@ Arranca en la página impresa **478** y llega hasta la **493** (subtemas 1 a
 - Fórmulas repetidas para variantes del mismo cálculo: el libro da B=μI/2πd
   (conductor recto), B=μI/2r (espira) y B=NμI/l (solenoide) — se escribió
   sólo la primera como representativa; las otras dos son el mismo patrón
-  aplicado a otra geometría, no un concepto nuevo.
+  aplicado a otra geometría, no un concepto nuevo. Igual criterio para las
+  fórmulas de reactancia capacitiva e impedancia RLC del subtema 7 (Circuitos
+  de CA): se cubrieron los conceptos (qué es la impedancia, cuándo hay
+  retraso o adelanto de fase) sin repetir cada variante de fórmula.
 
-## Cobertura actual (parcial)
+## Cobertura actual
 
-**34 reactivos**, subtemas 1 a 4:
+**COMPLETA, en 76 reactivos**, los 13 subtemas:
 
 **1 · Desarrollo histórico** (pp. 480-481): 12 reactivos.
 **2 · Campo magnético producido por una corriente** (pp. 481-484): 9 reactivos.
 **3 · Fuerzas sobre cargas en movimiento** (pp. 485-488): 8 reactivos.
-**4 · Inducción electromagnética — Lenz y Faraday** (pp. 492-493): 5 reactivos.
+**4 · Inducción electromagnética — Lenz y Faraday** (pp. 490-493): 7 reactivos.
+**5 · Inductancia** (pp. 494-495): 6 reactivos.
+**6 · Corriente alterna** (pp. 496-497): 6 reactivos.
+**7 · Circuitos de corriente alterna** (pp. 498-500): 5 reactivos.
+**8 · Transformadores** (pp. 502-504): 5 reactivos.
+**9 · Bobina de inducción o carrete de Ruhmkorff** (pp. 505-506): 2 reactivos.
+**10 · Generador eléctrico** (p. 506): 4 reactivos.
+**11 · Motor eléctrico** (p. 507): 3 reactivos.
+**12 · Síntesis de Maxwell del electromagnetismo** (pp. 507-508): 5 reactivos.
+**13 · Plantas generadoras de electricidad y su transmisión** (pp. 509-510): 4 reactivos.
 
-**Pendiente:** subtemas 5 a 13 (Inductancia, Corriente alterna, Circuitos de
-CA, Transformadores, Bobina de inducción, Generador, Motor, Síntesis de
-Maxwell, Plantas generadoras), páginas 493-519 — sin leer todavía. También
-falta releer las páginas 490-491 (definición general de inducción
-electromagnética, antes de la Ley de Lenz). Retomar en sesión nueva.
+**Pendiente:** ninguno de esta unidad — las Unidades 13 y 14 del hueco de
+`EMMG_MG_TEC_MANTO_I_2026` quedan cerradas. Sigue sólo la Unidad 12
+(Electricidad, 78 páginas, la más grande de las tres) — ver
+`docs/examen-tropa/enlace-fisica-algebra.md`.
 
 ## Criterio: teoría sobre práctica
 
@@ -614,6 +613,672 @@ En relación con el libro de Física, ¿a qué se debe el signo negativo en la e
 
 El signo (-) de la ecuación se debe a la oposición existente entre la fem inducida y la variación del flujo que la produce (ley de Lenz).
 
+### 35
+
+En relación con el libro de Física, ¿qué son las corrientes inducidas?
+
+- A. Aquellas producidas cuando se mueve un conductor en sentido transversal a las líneas de flujo de un campo magnético
+- B. Aquellas que circulan únicamente por conductores conectados directamente a una pila
+- C. Aquellas producidas cuando un conductor permanece inmóvil dentro de un campo magnético constante
+- D. Aquellas que se producen sólo en materiales diamagnéticos
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 491
+**Subtema:** Inducción electromagnética · Corrientes inducidas
+
+Las corrientes inducidas son aquellas producidas cuando se mueve un conductor en sentido transversal a las líneas de flujo de un campo magnético.
+
+### 36
+
+En relación con el libro de Física, ¿qué es la inducción electromagnética?
+
+- A. El fenómeno que da origen a la producción de una fuerza electromotriz y de una corriente eléctrica inducida, como resultado de la variación del flujo magnético debido al movimiento relativo entre un conductor y un campo magnético
+- B. El fenómeno por el cual un imán pierde su magnetismo al calentarse
+- C. El fenómeno por el cual dos conductores paralelos se atraen o se repelen
+- D. El fenómeno por el cual una corriente eléctrica crea a su alrededor un campo magnético constante
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 491
+**Subtema:** Inducción electromagnética · Definición
+
+La inducción electromagnética es el fenómeno que da origen a la producción de una fuerza electromotriz (fem) y de una corriente eléctrica inducida, como resultado de la variación del flujo magnético debido al movimiento relativo entre un conductor y un campo magnético.
+
 ---
 
-**Reactivos en este archivo:** 34
+## Sub-lote 5 · Inductancia (pp. 494-495)
+
+### 37
+
+En relación con el libro de Física, ¿qué es la autoinducción?
+
+- A. La producción de una fem en un circuito por la variación de la corriente en ese circuito
+- B. La producción de una fem en un circuito por la variación de la corriente en un circuito distinto y cercano
+- C. La pérdida total de la corriente en un circuito al interrumpir su fuente de alimentación
+- D. El aumento de la resistencia de un conductor al calentarse
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Autoinducción
+
+Por definición, la autoinducción es la producción de una fem en un circuito por la variación de la corriente en ese circuito. La fem inducida siempre se opone al cambio de corriente.
+
+### 38
+
+En relación con el libro de Física, ¿qué magnitud mide la capacidad de una bobina de producir una fem autoinducida, y cómo se le conoce a dicha bobina?
+
+- A. La inductancia; la bobina es conocida como autoinductor o inductor
+- B. La reluctancia; la bobina es conocida como solenoide
+- C. La impedancia; la bobina es conocida como transformador
+- D. La permeabilidad; la bobina es conocida como espira
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Qué mide y cómo se llama la bobina
+
+La capacidad de una bobina de producir una fem autoinducida se mide con una magnitud llamada inductancia. La bobina es conocida como autoinductor o simplemente inductor.
+
+### 39
+
+En relación con el libro de Física, ¿qué unidad recibe la inductancia, y en honor a quién?
+
+- A. El henry (H), en honor de Joseph Henry
+- B. El weber (Wb), en honor de Wilhelm Weber
+- C. El tesla (T), en honor de Nikola Tesla
+- D. El faraday (F), en honor de Michael Faraday
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Unidad, Joseph Henry
+
+La unidad de inductancia es el henry (H), llamada así en honor de Joseph Henry (1797-1878), maestro y físico estadounidense pionero en el estudio del electromagnetismo.
+
+### 40
+
+En relación con el libro de Física, ¿a qué equivale una inductancia de un henry, en términos de la fem inducida?
+
+- A. A la inductancia de una bobina cuando la rapidez de cambio de la corriente es de un ampere por segundo e induce una fem de un volt
+- B. A la inductancia de una bobina cuando la corriente permanece constante e induce una fem de un volt
+- C. A la inductancia de una bobina cuando la rapidez de cambio de la corriente es de un volt por segundo
+- D. A la inductancia de una bobina que tiene exactamente una espira
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Definición del henry
+
+La inductancia equivale a un henry si la rapidez de cambio de la corriente es de un ampere por segundo e induce una fem de un volt.
+
+### 41
+
+En relación con el libro de Física, en la fórmula ε=-LΔi/Δt, ¿a qué se debe el signo negativo?
+
+- A. A que la fem autoinducida es una fuerza llamada contraelectromotriz que se opone al cambio de la corriente
+- B. A que la corriente inducida siempre fluye en sentido contrario a la corriente original
+- C. A un error de convención sin significado físico
+- D. A que la inductancia de toda bobina tiene un valor negativo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Fuerza contraelectromotriz
+
+El signo negativo indica que la fem autoinducida ε es una fuerza llamada contraelectromotriz que se opone al cambio de la corriente.
+
+### 42
+
+En relación con el libro de Física, cuando dos bobinas se colocan una cerca de la otra y la corriente en una de ellas induce una fem en la otra, ¿cómo se llama cada una?
+
+- A. La que tiene la corriente inicial es la bobina primaria, y aquella en la que se induce la fem es la bobina secundaria
+- B. La que tiene la corriente inicial es la bobina secundaria, y aquella en la que se induce la fem es la bobina primaria
+- C. Ambas bobinas reciben el nombre de bobinas primarias
+- D. Ambas bobinas reciben el nombre de autoinductores
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 494
+**Subtema:** Inductancia · Inductancia mutua, bobina primaria y secundaria
+
+La bobina en la que circula la corriente en forma inicial recibe el nombre de bobina primaria, y en la que se induce una fem, bobina secundaria.
+
+---
+
+## Sub-lote 6 · Corriente alterna (pp. 496-497)
+
+### 43
+
+En relación con el libro de Física, ¿por qué a la corriente que se mueve en forma constante en un mismo sentido se le llama corriente continua o directa?
+
+- A. Porque los electrones que la originan van en forma constante del polo negativo al positivo en un mismo sentido
+- B. Porque circula alternativamente entre dos sentidos opuestos
+- C. Porque su frecuencia es siempre de 60 ciclos por segundo
+- D. Porque su voltaje puede aumentarse o disminuirse fácilmente con un transformador
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 496
+**Subtema:** Corriente alterna · Corriente continua o directa
+
+Los electrones que la originan van en forma constante del polo negativo al positivo en un mismo sentido, por eso se le denomina corriente continua o directa.
+
+### 44
+
+En relación con el libro de Física, ¿por qué a la corriente que se usa en las casas, fábricas y oficinas se le llama corriente alterna?
+
+- A. Porque no se mueve en forma constante en el mismo sentido, sino que circula alternativamente
+- B. Porque se mueve en forma constante del polo negativo al positivo
+- C. Porque su voltaje no puede modificarse una vez generada
+- D. Porque no puede transportarse a largas distancias
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 496
+**Subtema:** Corriente alterna · Definición
+
+La corriente que se usa en las casas, fábricas y oficinas no se mueve en forma constante en el mismo sentido, sino que circula alternativamente, razón por la cual se le llama corriente alterna.
+
+### 45
+
+En relación con el libro de Física, ¿por qué se prefiere el uso de la corriente alterna sobre la corriente continua en los hogares e industrias?
+
+- A. Porque es la más sencilla de producir y su voltaje puede aumentarse o disminuirse fácilmente por medio de un transformador
+- B. Porque nunca produce pérdidas de energía al transportarse
+- C. Porque su frecuencia siempre es mayor que la de la corriente continua
+- D. Porque no requiere generadores para producirse
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 496
+**Subtema:** Corriente alterna · Por qué se prefiere
+
+Se usa la corriente alterna, pues es la más sencilla de producir mediante el empleo de generadores de corriente alterna. También se prefiere porque su voltaje puede aumentarse o disminuirse fácilmente por medio de un aparato denominado transformador.
+
+### 46
+
+En relación con el libro de Física, ¿qué se entiende por un ciclo completo de la corriente alterna?
+
+- A. Dos alternancias consecutivas
+- B. Una sola alternancia
+- C. El tiempo que tarda la corriente en llegar a su voltaje pico
+- D. El paso de la corriente por un transformador
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 496
+**Subtema:** Corriente alterna · Ciclo completo
+
+Cuando el electrón cambia de sentido efectúa una alternancia, dos alternancias consecutivas constituyen un ciclo completo.
+
+### 47
+
+En relación con el libro de Física, en una corriente alterna doméstica de 110 volts, ¿qué representa el valor de 110 volts?
+
+- A. Un voltaje efectivo denominado fem media cuadrática, distinto del voltaje pico o máximo que es de 155 volts
+- B. El voltaje pico o máximo de la corriente
+- C. El voltaje mínimo que alcanza la corriente en cada ciclo
+- D. El voltaje promedio entre la corriente continua y la alterna
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 497
+**Subtema:** Corriente alterna · Voltaje efectivo y voltaje pico
+
+El valor de 110 volts representa un voltaje efectivo denominado fem media cuadrática porque es la raíz cuadrada de la media de los cuadrados de la fem, y no el llamado pico o máximo de ésta cuyo valor es de 155 volts.
+
+### 48
+
+En relación con el libro de Física, ¿por qué la electricidad se envía a voltajes muy altos cuando tiene que recorrer grandes distancias?
+
+- A. Porque posibilita la transferencia de una gran cantidad de electricidad a baja intensidad, con lo que se pierde muy poca energía por calentamiento del conductor
+- B. Porque a mayor voltaje, menor es la frecuencia de la corriente
+- C. Porque los transformadores sólo funcionan a voltajes muy altos
+- D. Porque así se evita por completo el uso de corriente alterna
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 497
+**Subtema:** Corriente alterna · Transmisión a grandes distancias
+
+Ello posibilita la transferencia de una gran cantidad de electricidad a baja intensidad, así se pierde muy poca energía por calentamiento del conductor.
+
+---
+
+## Sub-lote 7 · Circuitos de corriente alterna (pp. 498-500)
+
+### 49
+
+En relación con el libro de Física, en un circuito de corriente alterna donde existe resistencia pero no hay inductancia, ¿cómo se relacionan el voltaje y la corriente?
+
+- A. Están en fase, es decir, no hay retraso entre ellas
+- B. La corriente siempre está retrasada 90° respecto al voltaje
+- C. El voltaje siempre está retrasado 90° respecto a la corriente
+- D. No guardan ninguna relación entre sí
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 498
+**Subtema:** Circuitos de CA · Voltaje y corriente en fase
+
+El voltaje y la corriente están en fase, es decir, no hay retraso entre ellas, por este motivo la ley de Ohm se aplica de la misma manera que si se tratara de un circuito de corriente directa.
+
+### 50
+
+En relación con el libro de Física, ¿qué es la reactancia inductiva?
+
+- A. La capacidad que tiene un inductor para reducir la corriente en un circuito de corriente alterna
+- B. La capacidad que tiene un resistor para producir energía calorífica
+- C. La capacidad que tiene un capacitor para almacenar carga eléctrica
+- D. La oposición total a la corriente producida por R, XL y XC en conjunto
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 498
+**Subtema:** Circuitos de CA · Reactancia inductiva
+
+Por definición, la reactancia inductiva (XL) es la capacidad que tiene un inductor para reducir la corriente en un circuito de corriente alterna.
+
+### 51
+
+En relación con el libro de Física, en un circuito eléctrico donde existe únicamente inductancia, ¿cuánto se atrasa la onda de intensidad de corriente respecto al voltaje?
+
+- A. 1/4 de ciclo, es decir, 90°
+- B. 1/2 ciclo, es decir, 180°
+- C. Un ciclo completo, es decir, 360°
+- D. No sufre ningún atraso, permanecen en fase
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 498
+**Subtema:** Circuitos de CA · Desfase en circuito inductivo
+
+En un circuito eléctrico donde existe únicamente inductancia, la onda de intensidad de corriente se atrasa 1/4 de ciclo, es decir, 90°, por esta razón se dice que se encuentran desfasadas 90°.
+
+### 52
+
+En relación con el libro de Física, ¿qué es la impedancia de un circuito de corriente alterna, en conclusión?
+
+- A. Es, respecto a las corrientes alternas, lo que la resistencia es a las corrientes continuas; una resistencia aparente medida en ohms
+- B. Es la capacidad de un inductor para reducir la corriente, medida en henrys
+- C. Es la capacidad de un capacitor para almacenar carga, medida en faradios
+- D. Es el ángulo formado entre los vectores de reactancia y resistencia
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 500
+**Subtema:** Circuitos de CA · Qué es la impedancia
+
+En conclusión, la impedancia es, respecto a las corrientes alternas, lo que la resistencia es a las corrientes continuas. En otras palabras, es una resistencia aparente medida en ohms.
+
+### 53
+
+En relación con el libro de Física, en un circuito de corriente alterna, ¿cuándo fluye la corriente con un retraso respecto al voltaje recibido, y cuándo con un adelanto?
+
+- A. Con retraso cuando la reactancia inductiva XL es mayor que la reactancia capacitiva XC, y con adelanto en caso contrario
+- B. Con adelanto cuando la reactancia inductiva XL es mayor que la reactancia capacitiva XC, y con retraso en caso contrario
+- C. Siempre con retraso, sin importar la relación entre XL y XC
+- D. Siempre con adelanto, sin importar la relación entre XL y XC
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 500
+**Subtema:** Circuitos de CA · Retraso o adelanto de la corriente
+
+Cuando la reactancia inductiva XL es mayor que la reactancia capacitiva XC, la corriente fluye con un retraso respecto al voltaje recibido. En caso contrario, cuando XC es mayor que XL, la corriente fluye con un adelanto respecto al voltaje.
+
+---
+
+## Sub-lote 8 · Transformadores (pp. 502-504)
+
+### 54
+
+En relación con el libro de Física, ¿quién inventó el transformador, y bajo qué principio funciona?
+
+- A. Michael Faraday; funciona por inducción magnética
+- B. Nikola Tesla; funciona por inducción magnética
+- C. James Clerk Maxwell; funciona por inducción magnética
+- D. Joseph Henry; funciona por autoinducción
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 502
+**Subtema:** Transformadores · Invención, Michael Faraday
+
+El transformador es otro invento realizado por Michael Faraday, funciona por inducción magnética.
+
+### 55
+
+En relación con el libro de Física, en un transformador, ¿cómo se llama la bobina conectada a la fuente de voltaje de corriente alterna, y cómo aquella en la que se induce la corriente?
+
+- A. Bobina primaria la conectada a la fuente, y bobina secundaria aquella donde la corriente es inducida
+- B. Bobina secundaria la conectada a la fuente, y bobina primaria aquella donde la corriente es inducida
+- C. Ambas se llaman bobina primaria
+- D. Ambas se llaman bobina inductora
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 502
+**Subtema:** Transformadores · Bobina primaria y secundaria
+
+Recibe el nombre de bobina primaria la que está conectada a la fuente de voltaje de CA, y de bobina secundaria aquella donde la corriente es inducida.
+
+### 56
+
+En relación con el libro de Física, ¿cómo se llaman los transformadores que elevan el voltaje, y cómo los que lo disminuyen?
+
+- A. De subida o de elevación los que lo elevan, y de bajada o de reducción los que lo disminuyen
+- B. De bajada o de reducción los que lo elevan, y de subida o de elevación los que lo disminuyen
+- C. Ambos se llaman transformadores de subida
+- D. Ambos se llaman transformadores de impedancia
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 502
+**Subtema:** Transformadores · De elevación y de reducción
+
+Si lo elevan se denominan de subida o de elevación, si lo disminuyen se llaman de bajada o de reducción.
+
+### 57
+
+En relación con el libro de Física, al transformar el voltaje de una corriente alterna mediante un transformador, ¿qué NO cambia?
+
+- A. La potencia ni la frecuencia
+- B. El número de espiras de la bobina secundaria
+- C. La corriente en la bobina secundaria
+- D. El sentido de la corriente alterna
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 503
+**Subtema:** Transformadores · Qué no cambia al transformar
+
+Al transformar el voltaje no cambia su potencia ni su frecuencia.
+
+### 58
+
+En relación con el libro de Física, ¿cómo se relaciona la potencia en la bobina primaria con la potencia en la bobina secundaria de un transformador, dado que éste no genera energía ni produce pérdidas apreciables?
+
+- A. Son iguales entre sí
+- B. La potencia primaria siempre es el doble de la secundaria
+- C. La potencia secundaria siempre es el doble de la primaria
+- D. No guardan ninguna relación fija entre sí
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 504
+**Subtema:** Transformadores · Conservación de la potencia
+
+Como el transformador no genera energía y prácticamente tampoco produce pérdidas de ella, la potencia en la bobina primaria es igual a la potencia en la bobina secundaria: VpIp = VsIs.
+
+---
+
+## Sub-lote 9 · Bobina de inducción o carrete de Ruhmkorff (pp. 505-506)
+
+### 59
+
+En relación con el libro de Física, ¿de qué dos partes principales está compuesta una bobina de inducción o carrete de Ruhmkorff?
+
+- A. De un carrete primario con pocas vueltas de alambre grueso, y una bobina de salida o carrete secundario con miles de vueltas
+- B. De dos carretes idénticos, ambos con miles de vueltas de alambre delgado
+- C. De un inductor y un inducido, igual que en un generador eléctrico
+- D. De un electroimán y un capacitor únicamente, sin ningún carrete
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 505
+**Subtema:** Bobina de inducción · Estructura
+
+Un carrete primario hecho con unas cuantas vueltas de alambre grueso, enrolladas en un núcleo de hierro, así como una bobina de salida o carrete secundario con miles de vueltas.
+
+### 60
+
+En relación con el libro de Física, en una bobina de inducción o carrete de Ruhmkorff, ¿qué función cumple el capacitor o condensador eléctrico?
+
+- A. Sirve como un depósito al que fluye la carga si el contacto del vibrador se abre, con lo cual impide que salten chispas entre las terminales de salida
+- B. Genera el campo magnético que imanta el núcleo de hierro
+- C. Produce la corriente alterna que alimenta al carrete primario
+- D. Sustituye a la batería como fuente de alimentación del circuito
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 506
+**Subtema:** Bobina de inducción · Función del capacitor
+
+El capacitor o condensador eléctrico sirve como un depósito al que fluye la carga si el contacto del vibrador se abre. Con ello el capacitor impide que salten chispas entre las terminales de salida y que el metal con el cual están hechas se funda.
+
+---
+
+## Sub-lote 10 · Generador eléctrico (p. 506)
+
+### 61
+
+En relación con el libro de Física, ¿qué transforma un generador eléctrico?
+
+- A. La energía mecánica en energía eléctrica
+- B. La energía eléctrica en energía mecánica
+- C. La energía eléctrica en energía calorífica únicamente
+- D. La energía magnética en energía química
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 506
+**Subtema:** Generador eléctrico · Definición
+
+El generador eléctrico es un aparato que transforma la energía mecánica en energía eléctrica.
+
+### 62
+
+En relación con el libro de Física, ¿de qué dos partes está constituido un generador eléctrico?
+
+- A. De un inductor, elaborado a base de electroimanes o imanes permanentes, y un inducido, que consta de un núcleo de hierro con alambre conductor enrollado
+- B. De un carrete primario y un carrete secundario, igual que en la bobina de inducción
+- C. De una bobina primaria y una bobina secundaria, igual que en un transformador
+- D. De un rotor y un estator, ambos hechos de cobre puro
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 506
+**Subtema:** Generador eléctrico · Inductor e inducido
+
+Está constituido por un inductor elaborado a base de electroimanes o imanes permanentes que producen un campo magnético y por un inducido que consta de un núcleo de hierro al cual se le enrolla alambre conductor previamente aislado.
+
+### 63
+
+En relación con el libro de Física, ¿qué dispositivo debe incorporarse a un generador para obtener una corriente continua o directa, en lugar de una fem alterna?
+
+- A. Un conmutador
+- B. Un transformador
+- C. Un capacitor
+- D. Un reactor nuclear
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 506
+**Subtema:** Generador eléctrico · El conmutador
+
+Para obtener una corriente continua o directa debe incorporarse un dispositivo conveniente llamado conmutador.
+
+### 64
+
+En relación con el libro de Física, en la mayor parte de los generadores de corriente continua, ¿qué parte es fija y cuál es móvil?
+
+- A. El inductor es fijo y el inducido es móvil
+- B. El inductor es móvil y el inducido es fijo
+- C. Ambos, inductor e inducido, son fijos
+- D. Ambos, inductor e inducido, son móviles
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 506
+**Subtema:** Generador eléctrico · Inductor fijo, inducido móvil (CC)
+
+En la mayor parte de los generadores de la corriente continua el inductor que produce el campo magnético es fijo y el inducido móvil. En cambio, en los de corriente alterna permanece fijo el inducido y el inductor gira.
+
+---
+
+## Sub-lote 11 · Motor eléctrico (p. 507)
+
+### 65
+
+En relación con el libro de Física, ¿qué transforma un motor eléctrico?
+
+- A. La energía eléctrica en energía mecánica
+- B. La energía mecánica en energía eléctrica
+- C. La energía eléctrica en energía nuclear
+- D. La energía magnética en energía calorífica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 507
+**Subtema:** Motor eléctrico · Definición
+
+Un motor eléctrico es un aparato que transforma la energía eléctrica en energía mecánica.
+
+### 66
+
+En relación con el libro de Física, ¿cuáles son las dos partes principales de todo motor eléctrico?
+
+- A. El electroimán, llamado inductor o estator, pues suele ser fijo, y el circuito eléctrico, que puede girar y recibe el nombre de inducido o rotor
+- B. El carrete primario y el carrete secundario
+- C. La bobina primaria y la bobina secundaria
+- D. El reactor y el conmutador
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 507
+**Subtema:** Motor eléctrico · Inductor/estator e inducido/rotor
+
+En general, todo motor eléctrico consta de dos partes principales: el electroimán, llamado inductor o estator pues suele ser fijo, y el circuito eléctrico, que puede girar alrededor de un eje y recibe el nombre de inducido o rotor.
+
+### 67
+
+En relación con el libro de Física, ¿por qué el motor de corriente alterna de inducción es el más empleado?
+
+- A. Gracias a su bajo costo de mantenimiento
+- B. Porque es el único tipo de motor que puede transformar energía mecánica en eléctrica
+- C. Porque no requiere de un inductor ni de un inducido
+- D. Porque funciona exclusivamente con corriente continua
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 507
+**Subtema:** Motor eléctrico · Motor de inducción
+
+El motor de corriente alterna de inducción es el más empleado gracias a su bajo costo de mantenimiento.
+
+---
+
+## Sub-lote 12 · Síntesis de Maxwell del electromagnetismo (pp. 507-508)
+
+### 68
+
+En relación con el libro de Física, ¿a quién correspondió establecer las leyes del electromagnetismo en la forma en que las conocemos actualmente, y cómo se les llama?
+
+- A. A James Clerk Maxwell; se les llama ecuaciones de Maxwell
+- B. A Michael Faraday; se les llama leyes de Faraday
+- C. A Heinrich Hertz; se les llama ecuaciones de Hertz
+- D. A Heinrich Lenz; se les llama leyes de Lenz
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 507
+**Subtema:** Síntesis de Maxwell · Ecuaciones de Maxwell
+
+Correspondió a James Clerk Maxwell establecer las leyes del electromagnetismo en la forma en que las conocemos actualmente. Estas leyes, llamadas a menudo ecuaciones de Maxwell, desempeñan en el electromagnetismo el mismo papel que las leyes de Newton del movimiento y de la gravitación desempeñan en la mecánica.
+
+### 69
+
+En relación con el libro de Física, ¿qué dedujo Maxwell respecto a la naturaleza de la luz?
+
+- A. Que la luz es de naturaleza electromagnética, y que la magnitud de su velocidad puede calcularse a partir de experimentos puramente eléctricos y magnéticos
+- B. Que la luz no tiene ninguna relación con los fenómenos eléctricos o magnéticos
+- C. Que la luz sólo puede propagarse a través de un medio material
+- D. Que la velocidad de la luz depende exclusivamente de la intensidad del campo magnético
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 507
+**Subtema:** Síntesis de Maxwell · La luz es electromagnética
+
+Maxwell dedujo que la luz es de naturaleza electromagnética y que la magnitud de su velocidad puede calcularse a partir de experimentos puramente eléctricos y magnéticos.
+
+### 70
+
+En relación con el libro de Física, ¿qué simetría sorprendió a Maxwell en los procesos de la electricidad y el magnetismo?
+
+- A. Que los campos magnéticos cambiantes van acompañados por campos eléctricos, y los campos eléctricos cambiantes van acompañados por campos magnéticos
+- B. Que los campos magnéticos siempre son más intensos que los campos eléctricos
+- C. Que los campos eléctricos no pueden existir sin la presencia de un conductor
+- D. Que los campos magnéticos y eléctricos nunca coexisten en el mismo punto del espacio
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 508
+**Subtema:** Síntesis de Maxwell · Simetría electricidad-magnetismo
+
+Existe una gran simetría en los procesos de la electricidad y del magnetismo: los campos magnéticos cambiantes van acompañados por campos eléctricos, y los campos eléctricos cambiantes van acompañados por campos magnéticos.
+
+### 71
+
+En relación con el libro de Física, ¿qué es una onda electromagnética?
+
+- A. Un cambio tipo ondulatorio de las intensidades de campo acompañado de una propagación de energía en dirección de la onda
+- B. El movimiento de partículas materiales, como las moléculas de agua en la superficie de un estanque
+- C. Una corriente eléctrica que circula exclusivamente por conductores metálicos
+- D. Un campo magnético constante que no varía con el tiempo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 508
+**Subtema:** Síntesis de Maxwell · Qué es una onda electromagnética
+
+La onda electromagnética es un cambio tipo ondulatorio de las intensidades de campo acompañado de una propagación de energía en dirección de la onda.
+
+### 72
+
+En relación con el libro de Física, en una onda electromagnética, ¿cómo se relacionan el campo eléctrico, el campo magnético y la dirección de propagación?
+
+- A. El campo eléctrico siempre es perpendicular al campo magnético, y ambos son perpendiculares a la dirección de propagación
+- B. El campo eléctrico siempre es paralelo al campo magnético, y ambos son paralelos a la dirección de propagación
+- C. El campo eléctrico es perpendicular a la dirección de propagación, pero el campo magnético es paralelo a ella
+- D. No existe ninguna relación fija entre el campo eléctrico, el campo magnético y la dirección de propagación
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 508
+**Subtema:** Síntesis de Maxwell · Campos perpendiculares, onda transversal
+
+El campo eléctrico siempre es perpendicular al campo magnético, y ambos campos son perpendiculares a la dirección de propagación. La onda es transversal.
+
+---
+
+## Sub-lote 13 · Tipos de plantas generadoras de electricidad y su transmisión (pp. 509-510)
+
+### 73
+
+En relación con el libro de Física, ¿qué combustible se emplea en una planta nucleoeléctrica?
+
+- A. Uranio
+- B. Carbón
+- C. Gas natural
+- D. Petróleo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 509
+**Subtema:** Plantas generadoras · Combustible nuclear
+
+En una planta nucleoeléctrica se emplea uranio como combustible.
+
+### 74
+
+En relación con el libro de Física, ¿cómo se logra la fisión del uranio en una planta nucleoeléctrica?
+
+- A. Al hacer que un neutrón golpee el núcleo de un átomo de uranio, lo divida en dos partes y produzca la liberación de energía y de neutrones, obteniéndose una reacción nuclear en cadena
+- B. Al calentar el uranio directamente con una caldera de vapor, sin necesidad de ningún neutrón
+- C. Al someter el uranio a un campo magnético de alta intensidad
+- D. Al disolver el uranio en agua a presión, sin liberación de neutrones
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 509
+**Subtema:** Plantas generadoras · Fisión y reacción en cadena
+
+La fisión de éste se logra al hacer que un neutrón golpee el núcleo de un átomo de uranio, lo divida en dos partes y produzca la liberación de energía y de neutrones que, a su vez, golpean otros núcleos de uranio, con lo que se obtiene una reacción nuclear en cadena, misma que se controla por medio del reactor nuclear.
+
+### 75
+
+En relación con el libro de Física, en una planta termoeléctrica, ¿en qué se transforma la energía del vapor producido por una caldera?
+
+- A. En movimiento rotatorio, por medio de álabes del rotor de la turbina
+- B. Directamente en energía nuclear
+- C. En energía magnética almacenada en un inductor
+- D. En corriente continua, sin pasar por ninguna turbina
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 510
+**Subtema:** Plantas generadoras · Planta termoeléctrica
+
+En una planta termoeléctrica la energía del vapor producido por medio de una caldera se transforma en movimiento rotatorio por medio de álabes del rotor de la turbina.
+
+### 76
+
+En relación con el libro de Física, ¿en qué estado de la República Mexicana se encuentra la planta nuclear de Laguna Verde?
+
+- A. Veracruz
+- B. Jalisco
+- C. Nuevo León
+- D. Sonora
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 510
+**Subtema:** Plantas generadoras · Laguna Verde
+
+En nuestro país, en el estado de Veracruz se encuentra la planta nuclear de Laguna Verde, misma que ha incrementado la producción de energía eléctrica.
+
+---
+
+**Reactivos en este archivo:** 76
