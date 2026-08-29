@@ -10,15 +10,15 @@
 > La unidad más grande de todo el banco de tropa: 78 páginas, contra 42 de
 > Electromagnetismo y 14 de Magnetismo. Se cierra por partes dentro de la
 > misma sesión (28 ago 2026), igual que ya se hizo con
-> `fisica-14-electromagnetismo.md`. **Escritos: 1 a 8** (antecedentes
-> históricos, carga eléctrica, interacción de cargas, formas de electrizar,
-> electroscopio y jaula de Faraday, materiales conductores/aislantes,
-> unidades de carga, ley de Coulomb — toda la parte de electrostática).
-> **Faltan: 9 a 20** (campo eléctrico, potencial eléctrico, corriente
-> eléctrica, fuerza electromotriz, conexión de pilas, resistencia eléctrica,
-> ley de Ohm, circuitos y conexión de resistencias, potencia eléctrica y
-> efecto Joule, leyes de Kirchhoff, capacitores, electroquímica y ley de
-> Faraday de la electrólisis).
+> `fisica-14-electromagnetismo.md`. **Escritos: 1 a 13** (toda la
+> electrostática — antecedentes, carga eléctrica, interacción de cargas,
+> formas de electrizar, electroscopio y jaula de Faraday, materiales
+> conductores/aislantes, unidades de carga, ley de Coulomb, campo eléctrico,
+> potencial eléctrico, corriente eléctrica, fuerza electromotriz, conexión de
+> pilas). **Faltan: 14 a 20** (resistencia eléctrica, ley de Ohm, circuitos y
+> conexión de resistencias, potencia eléctrica y efecto Joule, leyes de
+> Kirchhoff, capacitores, electroquímica y ley de Faraday de la
+> electrólisis).
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Las líneas `**Referencia:**` y `**Subtema:**`
@@ -37,11 +37,13 @@ carpeta EMM (`examen_cultural/libros_examen_cultural/EMM/Física General.pdf`).
 muestra impreso "384" (arranque de la Unidad 12, 397−384=13). Mismo desfase
 que `fisica-13-magnetismo.md` y `fisica-14-electromagnetismo.md`.
 
-## Alcance de este archivo (subtemas 1-8 de 20)
+## Alcance de este archivo (subtemas 1-13 de 20)
 
-Arranca en la página impresa **384** y llega hasta la **393** (subtemas 1 a
-8, toda la electrostática antes de campo y potencial eléctrico). El resto
-de la unidad (subtemas 9-20, páginas 393-461) queda pendiente.
+Arranca en la página impresa **384** y llega hasta la **418** (subtemas 1 a
+13: toda la electrostática, más campo eléctrico, potencial eléctrico,
+corriente eléctrica, fuerza electromotriz y conexión de pilas — todo lo
+previo a resistencia y circuitos). El resto de la unidad (subtemas 14-20,
+páginas 418-461) queda pendiente.
 
 **Ojo con el antecedente histórico (subtema 1):** varias figuras (Henry y
 el electroimán, Lenz y la corriente inducida, Maxwell y la teoría
@@ -61,7 +63,7 @@ Thomson.
 
 ## Cobertura actual (parcial)
 
-**30 reactivos**, subtemas 1 a 8:
+**64 reactivos**, subtemas 1 a 13:
 
 **1 · Antecedentes históricos** (pp. 386-387): 5 reactivos.
 **2 · Carga eléctrica y ley de conservación de la carga** (p. 387-388): 4 reactivos.
@@ -71,15 +73,18 @@ Thomson.
 **6 · Materiales conductores y aislantes** (p. 391): 3 reactivos.
 **7 · Unidades de carga eléctrica** (pp. 391-392): 2 reactivos.
 **8 · Ley de Coulomb** (pp. 392-393): 6 reactivos.
+**9 · Campo eléctrico y líneas de fuerza** (pp. 399-400): 8 reactivos.
+**10 · Potencial eléctrico** (pp. 405-409): 10 reactivos.
+**11 · Corriente eléctrica** (pp. 414-416): 7 reactivos.
+**12 · Fuerza electromotriz** (p. 417): 5 reactivos.
+**13 · Conexión de pilas en serie y en paralelo** (pp. 417-418): 4 reactivos.
 
-**Pendiente:** subtemas 9 a 20 (Campo eléctrico y líneas de fuerza,
-Potencial eléctrico, Corriente eléctrica, Fuerza electromotriz, Conexión de
-pilas en serie y en paralelo, Resistencia eléctrica, Ley de Ohm, Circuitos
-eléctricos y conexión de resistencias, Potencia eléctrica y efecto Joule,
-Leyes de Kirchhoff, Capacitores o condensadores eléctricos, Electroquímica y
-ley de Faraday de la electrólisis), páginas 393-461 — sin leer todavía.
-Retomar en la misma sesión o en una nueva; el índice completo (con página de
-arranque de cada subtema) ya está confirmado, no hace falta releerlo.
+**Pendiente:** subtemas 14 a 20 (Resistencia eléctrica, Ley de Ohm, Circuitos
+eléctricos y conexión de resistencias en serie/paralelo/mixtas, Potencia
+eléctrica y efecto Joule, Leyes de Kirchhoff, Capacitores o condensadores
+eléctricos, Electroquímica y ley de Faraday de la electrólisis), páginas
+418-461 — sin leer todavía. El índice completo (con página de arranque de
+cada subtema) ya está confirmado, no hace falta releerlo.
 
 ## Criterio: teoría sobre práctica
 
@@ -577,4 +582,534 @@ Puede observarse que la ley de Coulomb es similar a la ley de la gravitación un
 
 ---
 
-**Reactivos en este archivo:** 30
+## Sub-lote 9 · Campo eléctrico y líneas de fuerza (pp. 399-400)
+
+### 31
+
+En relación con el libro de Física, ¿qué es un campo eléctrico?
+
+- A. La región de influencia que rodea a una carga eléctrica, donde su fuerza se manifiesta sobre cualquier carga cercana
+- B. El movimiento de las cargas negativas a través de un conductor
+- C. La oposición que presenta un material al paso de la corriente eléctrica
+- D. La energía que proporciona una pila o un generador a un circuito
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 399
+**Subtema:** Campo eléctrico y líneas de fuerza · Definición
+
+Las cargas eléctricas influyen sobre la región que está a su alrededor; la región de influencia recibe el nombre de campo eléctrico.
+
+### 32
+
+En relación con el libro de Física, a diferencia del campo magnético, ¿de qué depende la existencia del campo eléctrico de un electrón?
+
+- A. Es inherente a la naturaleza del electrón e independiente de sus movimientos
+- B. Sólo aparece cuando el electrón está en movimiento
+- C. Depende de la temperatura a la que se encuentre el electrón
+- D. Sólo existe si el electrón forma parte de un conductor metálico
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 399
+**Subtema:** Campo eléctrico y líneas de fuerza · Campo eléctrico vs campo magnético
+
+El campo eléctrico es inherente a la naturaleza del electrón e independiente de sus movimientos. No así el campo magnético que aparece sólo cuando el electrón está en movimiento.
+
+### 33
+
+En relación con el libro de Física, ¿quién introdujo el concepto de líneas de fuerza para representar gráficamente el campo eléctrico, y en qué año?
+
+- A. Michael Faraday, en 1823
+- B. Charles Coulomb, en 1777
+- C. Georg Ohm, en 1827
+- D. Alessandro Volta, en 1800
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 399
+**Subtema:** Campo eléctrico y líneas de fuerza · Michael Faraday, líneas de fuerza
+
+Como el campo eléctrico no se puede ver, el inglés Michael Faraday introdujo, en 1823, el concepto de líneas de fuerza, para poder representarlo gráficamente.
+
+### 34
+
+En relación con el libro de Física, ¿cómo son las líneas de fuerza del campo eléctrico de una carga positiva, y cómo las de una carga negativa?
+
+- A. En la positiva salen radialmente de la carga; en la negativa llegan de modo radial a la carga
+- B. En la positiva llegan de modo radial a la carga; en la negativa salen radialmente de la carga
+- C. En ambos casos las líneas de fuerza son siempre paralelas entre sí
+- D. En ambos casos las líneas de fuerza forman círculos concéntricos alrededor de la carga
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 400
+**Subtema:** Campo eléctrico y líneas de fuerza · Dirección de las líneas
+
+Las líneas de fuerza que representan al campo eléctrico de una carga positiva salen radialmente de la carga, mientras en una carga negativa las líneas de fuerza llegan de modo radial a la carga.
+
+### 35
+
+En relación con el libro de Física, en la representación de las líneas de fuerza de un campo eléctrico, ¿qué indica que las líneas estén más juntas o más separadas entre sí?
+
+- A. Están más juntas donde el campo eléctrico es más intenso, y más separadas donde disminuye la intensidad
+- B. Están más juntas donde el campo eléctrico es menos intenso, y más separadas donde es más intenso
+- C. La separación de las líneas no tiene relación con la intensidad del campo
+- D. Están más juntas cerca del suelo y más separadas lejos de él, sin relación con la carga
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 400
+**Subtema:** Campo eléctrico y líneas de fuerza · Densidad de líneas e intensidad
+
+Las líneas de fuerza estarán más juntas entre sí cuando el campo eléctrico sea intenso y más separadas al disminuir la intensidad.
+
+### 36
+
+En relación con el libro de Física, ¿qué es la carga de prueba que se emplea para interpretar la intensidad del campo eléctrico?
+
+- A. Una carga positiva, por convención, de valor muy pequeño, que se coloca en el punto del espacio a investigar
+- B. Una carga negativa de valor muy grande, que anula el campo eléctrico del punto investigado
+- C. La carga total del cuerpo que genera el campo eléctrico
+- D. Una carga neutra que no recibe ninguna fuerza del campo eléctrico
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 400
+**Subtema:** Campo eléctrico y líneas de fuerza · Carga de prueba
+
+Se emplea una carga positiva (por convención) de valor muy pequeño llamada carga de prueba, de esta manera sus efectos, debido a su propio campo eléctrico, se pueden despreciar. Esa pequeña carga de prueba q se coloca en el punto del espacio a investigar.
+
+### 37
+
+En relación con el libro de Física, ¿cuál es la expresión para calcular la intensidad del campo eléctrico E a partir de la fuerza F que recibe una carga de prueba q?
+
+- A. E = F/q
+- B. E = F × q
+- C. E = q/F
+- D. E = F + q
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 400
+**Subtema:** Campo eléctrico y líneas de fuerza · Fórmula de la intensidad
+
+Si la carga de prueba recibe una fuerza de origen eléctrico, diremos que en ese punto del espacio existe un campo eléctrico cuya intensidad E es igual a la relación dada entre la fuerza F y el valor de dicha carga de prueba q: E = F/q.
+
+### 38
+
+En relación con el libro de Física, ¿por qué los campos eléctricos se suman vectorialmente?
+
+- A. Porque la intensidad del campo eléctrico es una magnitud vectorial, toda vez que la fuerza también lo es
+- B. Porque la intensidad del campo eléctrico es una magnitud escalar
+- C. Porque el campo eléctrico siempre tiene el mismo valor en cualquier punto del espacio
+- D. Porque los campos eléctricos nunca pueden combinarse entre sí
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 400
+**Subtema:** Campo eléctrico y líneas de fuerza · Naturaleza vectorial
+
+La intensidad del campo eléctrico E es una magnitud vectorial, toda vez que la fuerza F también lo es; por ello, los campos eléctricos se suman vectorialmente.
+
+---
+
+## Sub-lote 10 · Potencial eléctrico (pp. 405-409)
+
+### 39
+
+En relación con el libro de Física, ¿por qué toda carga eléctrica, positiva o negativa, tiene una energía potencial eléctrica?
+
+- A. Debido a su capacidad para realizar trabajo sobre otras cargas
+- B. Porque toda carga eléctrica se encuentra siempre en movimiento
+- C. Únicamente porque está conectada a una pila o generador
+- D. Porque toda carga eléctrica tiene la misma masa
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 405
+**Subtema:** Potencial eléctrico · Energía potencial eléctrica
+
+Toda carga eléctrica, positiva o negativa, tiene una energía potencial eléctrica debido a su capacidad para realizar trabajo sobre otras cargas.
+
+### 40
+
+En relación con el libro de Física, ¿cuándo se dice que una carga tiene un potencial positivo, y cuándo un potencial negativo?
+
+- A. Cuando la carga es positiva tiene un potencial positivo, y cuando es negativa su potencial es igualmente negativo
+- B. Cuando la carga es positiva tiene un potencial negativo, y cuando es negativa su potencial es positivo
+- C. Todas las cargas, sin importar su signo, tienen siempre un potencial positivo
+- D. El signo del potencial depende únicamente de la distancia a la que se mida, no del signo de la carga
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 405
+**Subtema:** Potencial eléctrico · Signo del potencial
+
+Cuando una carga es positiva se dice que tiene un potencial positivo, y si es negativa su potencial es igualmente negativo.
+
+### 41
+
+En relación con el libro de Física, ¿qué es una superficie equipotencial?
+
+- A. Aquella que resulta de la unión de todos los puntos de un campo eléctrico que se encuentran al mismo potencial eléctrico
+- B. Aquella formada únicamente por las líneas de fuerza de un campo eléctrico
+- C. La superficie de un conductor que tiene la mayor concentración de carga
+- D. La región donde la intensidad del campo eléctrico vale cero
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 407
+**Subtema:** Potencial eléctrico · Superficie equipotencial
+
+Una superficie equipotencial es aquella que resulta de la unión de todos los puntos de un campo eléctrico que se encuentran al mismo potencial eléctrico.
+
+### 42
+
+En relación con el libro de Física, ¿cómo son las superficies equipotenciales respecto a las líneas de fuerza del campo eléctrico?
+
+- A. Siempre son perpendiculares en todos sus puntos a las líneas de fuerza del campo eléctrico
+- B. Siempre son paralelas en todos sus puntos a las líneas de fuerza del campo eléctrico
+- C. No guardan ninguna relación geométrica fija con las líneas de fuerza
+- D. Siempre forman un ángulo de 45° con las líneas de fuerza
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 407
+**Subtema:** Potencial eléctrico · Perpendicularidad con las líneas de fuerza
+
+Las superficies equipotenciales son siempre perpendiculares en todos sus puntos a las líneas de fuerza del campo eléctrico.
+
+### 43
+
+En relación con el libro de Física, ¿qué trabajo eléctrico se necesita para llevar una carga de un punto a otro dentro de una misma superficie equipotencial?
+
+- A. Ninguno
+- B. El máximo posible, según la ley de Coulomb
+- C. Depende de la trayectoria seguida por la carga
+- D. Siempre es igual al producto de la carga por la distancia recorrida
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 407
+**Subtema:** Potencial eléctrico · Trabajo en una superficie equipotencial
+
+Es importante señalar que en una superficie equipotencial no se necesita realizar ningún trabajo eléctrico para llevar una carga de un punto a otro de dicha superficie.
+
+### 44
+
+En relación con el libro de Física, ¿qué tipo de magnitud es el potencial eléctrico, y cómo se suman los potenciales de varias cargas en un mismo punto?
+
+- A. Es una magnitud escalar, por lo que los potenciales se suman algebraicamente
+- B. Es una magnitud vectorial, por lo que los potenciales se suman vectorialmente
+- C. Es una magnitud escalar, pero los potenciales nunca pueden sumarse
+- D. Es una magnitud vectorial, pero los potenciales se restan entre sí
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 407
+**Subtema:** Potencial eléctrico · Magnitud escalar
+
+Cuando se tienen varias cargas eléctricas y se desea calcular el potencial en determinado punto, éste se calcula de manera individual y luego se suman algebraicamente, pues el potencial eléctrico es una magnitud escalar y no una magnitud vectorial.
+
+### 45
+
+En relación con el libro de Física, ¿qué es la diferencia de potencial entre dos puntos cualesquiera A y B de un campo eléctrico?
+
+- A. Es igual al trabajo por unidad de carga positiva que realizan fuerzas eléctricas al mover una carga de prueba desde el punto A al B
+- B. Es igual a la suma de los potenciales individuales en A y en B
+- C. Es igual al producto de las cargas presentes en A y en B
+- D. Es igual a la distancia entre los puntos A y B multiplicada por la carga de prueba
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 408
+**Subtema:** Potencial eléctrico · Diferencia de potencial
+
+Por definición, la diferencia de potencial entre dos puntos cualesquiera A y B es igual al trabajo por unidad de carga positiva que realizan fuerzas eléctricas al mover una carga de prueba desde el punto A al B.
+
+### 46
+
+En relación con el libro de Física, además de diferencia de potencial, ¿con qué otros dos nombres se le conoce a esta magnitud?
+
+- A. Voltaje y tensión
+- B. Corriente y resistencia
+- C. Campo y flujo
+- D. Fuerza y energía
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 408
+**Subtema:** Potencial eléctrico · Otros nombres de la diferencia de potencial
+
+La diferencia de potencial también recibe los nombres de voltaje y de tensión.
+
+### 47
+
+En relación con el libro de Física, ¿por qué la fuerza eléctrica es un ejemplo de fuerza conservativa?
+
+- A. Porque el trabajo realizado para que una carga se mueva de un punto a otro es independiente de la trayectoria seguida durante su desplazamiento
+- B. Porque siempre actúa en la misma dirección que el movimiento de la carga
+- C. Porque su magnitud nunca cambia, sin importar la distancia entre las cargas
+- D. Porque sólo actúa quiere sobre cargas positivas
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 408
+**Subtema:** Potencial eléctrico · Fuerza conservativa
+
+El trabajo realizado por la fuerza eléctrica para que la carga se mueva del punto A al B es independiente de la trayectoria seguida por la carga durante su desplazamiento. Por ello, la fuerza eléctrica es un ejemplo de fuerza conservativa, como lo es la fuerza debida a la gravedad.
+
+### 48
+
+En relación con el libro de Física, ¿cuándo se tiene un campo eléctrico uniforme?
+
+- A. Cuando existe un campo constante en magnitud y dirección, como el formado por dos placas metálicas planas y paralelas con cargas de igual magnitud pero de signo contrario
+- B. Cuando el campo eléctrico varía constantemente en magnitud y dirección
+- C. Cuando existe una sola carga puntual aislada en el espacio
+- D. Cuando dos placas metálicas paralelas tienen cargas del mismo signo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 408
+**Subtema:** Potencial eléctrico · Campo eléctrico uniforme
+
+Un campo eléctrico uniforme se tiene cuando existe un campo constante en magnitud y dirección, como el formado por dos placas metálicas planas y paralelas con cargas de igual magnitud, pero de signo contrario.
+
+---
+
+## Sub-lote 11 · Corriente eléctrica (pp. 414-416)
+
+### 49
+
+En relación con el libro de Física, ¿cómo se llama la parte de la Física encargada del estudio de las cargas eléctricas en movimiento dentro de un conductor?
+
+- A. Electrodinámica
+- B. Electrostática
+- C. Electromagnetismo
+- D. Electroquímica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Electrodinámica
+
+La parte de la Física encargada del estudio de las cargas eléctricas en movimiento dentro de un conductor, recibe el nombre de electrodinámica.
+
+### 50
+
+En relación con el libro de Física, ¿qué es la corriente eléctrica?
+
+- A. Un movimiento de las cargas negativas a través de un conductor
+- B. Un movimiento de las cargas positivas a través de un conductor
+- C. La oposición que presenta un conductor al paso de las cargas
+- D. La energía potencial almacenada en un conductor en reposo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Definición
+
+La corriente eléctrica es un movimiento de las cargas negativas a través de un conductor.
+
+### 51
+
+En relación con el libro de Física, ¿por qué son los electrones y no los protones los que en realidad tienen la libertad de moverse en un material conductor?
+
+- A. Porque los protones están fuertemente unidos al núcleo del átomo
+- B. Porque los protones tienen carga negativa y son repelidos por el conductor
+- C. Porque los electrones tienen mayor masa que los protones
+- D. Porque los protones sólo existen en los materiales aislantes
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Por qué se mueven los electrones
+
+Como los protones están fuertemente unidos al núcleo del átomo, son los electrones los que en realidad tienen la libertad de moverse en un material conductor.
+
+### 52
+
+En relación con el libro de Física, aunque es erróneo, ¿qué se dice convencionalmente sobre el sentido de la corriente eléctrica?
+
+- A. Que el sentido de la corriente es del polo positivo al negativo
+- B. Que el sentido de la corriente es del polo negativo al positivo
+- C. Que la corriente no tiene un sentido definido
+- D. Que la corriente cambia de sentido cada segundo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Sentido convencional
+
+Convencionalmente, pero de manera errónea, se dice que el sentido de la corriente es del polo positivo al negativo.
+
+### 53
+
+En relación con el libro de Física, ¿a qué velocidad se transmite la corriente eléctrica por los conductores?
+
+- A. A la misma magnitud de la velocidad de la luz: 300 mil km/s
+- B. A un promedio de 10 cm/s
+- C. A una velocidad fija de 100 km/h, sin importar el conductor
+- D. A la velocidad del sonido en el aire
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Velocidad de transmisión
+
+La corriente eléctrica se transmite por los conductores a la misma magnitud de la velocidad de la luz: 300 mil km/s.
+
+### 54
+
+En relación con el libro de Física, aunque la corriente se transmite a la velocidad de la luz, ¿a qué velocidad promedio se desplazan realmente los electrones dentro del conductor?
+
+- A. 10 cm/s
+- B. 300 mil km/s
+- C. 100 km/h
+- D. La velocidad del sonido
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Velocidad real de los electrones
+
+Sin embargo, los electrones no se desplazan a la misma magnitud de la velocidad, en general el promedio es de 10 cm/s. Esto se explica porque cada electrón obliga al siguiente a moverse en forma instantánea, tal como sucede con el movimiento de un tren.
+
+### 55
+
+En relación con el libro de Física, ¿qué son los electrólitos?
+
+- A. Soluciones capaces de conducir la corriente eléctrica
+- B. Materiales que impiden por completo el paso de la corriente eléctrica
+- C. Los electrones libres que se desplazan dentro de un metal
+- D. Dispositivos que transforman la energía mecánica en eléctrica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 414
+**Subtema:** Corriente eléctrica · Electrólitos
+
+Los electrólitos son soluciones capaces de conducir la corriente eléctrica.
+
+---
+
+## Sub-lote 12 · Fuerza electromotriz (p. 417)
+
+### 56
+
+En relación con el libro de Física, ¿qué es una pila?
+
+- A. Un dispositivo que transforma la energía química en energía eléctrica
+- B. Un aparato que transforma la energía mecánica en energía eléctrica
+- C. Un dispositivo que mide la diferencia de potencial entre dos puntos
+- D. Un aparato que transforma la energía eléctrica en energía mecánica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Fuerza electromotriz · Qué es una pila
+
+Una pila es un dispositivo que transforma la energía química en energía eléctrica.
+
+### 57
+
+En relación con el libro de Física, ¿qué es un generador eléctrico, según se explica al introducir la fuerza electromotriz?
+
+- A. Un aparato que transforma la energía mecánica en eléctrica
+- B. Un dispositivo que transforma la energía química en eléctrica
+- C. Un aparato que mide la intensidad de la corriente eléctrica
+- D. Un dispositivo que almacena carga eléctrica de forma permanente
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Fuerza electromotriz · Qué es un generador
+
+Para obtener un suministro continuo de electrones se utilizan las pilas y los generadores eléctricos. Una pila es un dispositivo que transforma la energía química en eléctrica; un generador es un aparato que transforma la energía mecánica en eléctrica.
+
+### 58
+
+En relación con el libro de Física, ¿qué mide la fuerza electromotriz (fem)?
+
+- A. La cantidad de energía que proporciona un elemento generador de corriente eléctrica
+- B. La oposición que presenta un conductor al paso de la corriente
+- C. La velocidad a la que se desplazan los electrones en un conductor
+- D. La cantidad de carga eléctrica almacenada en un capacitor
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Fuerza electromotriz · Qué mide la fem
+
+La fuerza electromotriz (fem) mide la cantidad de energía que proporciona un elemento generador de corriente eléctrica.
+
+### 59
+
+En relación con el libro de Física, ¿cuál es la expresión que permite calcular la fuerza electromotriz ε a partir del trabajo W realizado para que una carga q recorra todo el circuito?
+
+- A. ε = W/q
+- B. ε = W × q
+- C. ε = q/W
+- D. ε = W + q
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Fuerza electromotriz · Fórmula
+
+La fuerza electromotriz aplicada en un circuito eléctrico es igual a la energía suministrada para que la unidad de carga recorra el circuito completo: ε = W/q.
+
+### 60
+
+En relación con el libro de Física, ¿por qué el término "fuerza electromotriz" no es utilizado con propiedad?
+
+- A. Porque en realidad se trata de una energía y no de una fuerza
+- B. Porque en realidad se trata de una distancia y no de una energía
+- C. Porque en realidad se trata de una corriente y no de una fuerza
+- D. Porque el término correcto debería ser "resistencia electromotriz"
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Fuerza electromotriz · Un término usado con impropiedad
+
+Como puede observarse, el término fuerza electromotriz no es utilizado con propiedad, pues se trata, en realidad, de una energía y no de una fuerza. Sin embargo, es muy común escuchar el término incorrecto de fuerza electromotriz.
+
+---
+
+## Sub-lote 13 · Conexión de pilas en serie y en paralelo (pp. 417-418)
+
+### 61
+
+En relación con el libro de Física, ¿qué es una batería?
+
+- A. Un agrupamiento de dos o más pilas unidas en serie o en paralelo
+- B. Un dispositivo que transforma la energía mecánica en eléctrica
+- C. Un aparato que mide la fuerza electromotriz de una pila
+- D. El polo negativo de una pila seca
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Conexión de pilas · Qué es una batería
+
+Una batería es un agrupamiento de dos o más pilas unidas en serie o en paralelo.
+
+### 62
+
+En relación con el libro de Física, ¿qué fuerza electromotriz produce entre sus terminales la pila seca?
+
+- A. 1.5 volts
+- B. 4.5 volts
+- C. 9 volts
+- D. 12 volts
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 417
+**Subtema:** Conexión de pilas · Fem de la pila seca
+
+Una muy usada en radios portátiles, lámparas de mano o rasuradoras eléctricas es la pila seca que produce una fuerza electromotriz (fem) de 1.5 volts entre sus terminales.
+
+### 63
+
+En relación con el libro de Física, ¿cómo se efectúa la conexión de pilas en serie, y qué ocurre con la fem total?
+
+- A. Se une el polo positivo de una con el polo negativo de la otra, sucesivamente; la fem total es igual a la suma de las fem de cada pila
+- B. Se enlazan todos los polos positivos entre sí y todos los negativos entre sí; la fem total es igual a la de una sola pila
+- C. Se une el polo positivo de una con el polo positivo de la otra; la fem total siempre es cero
+- D. Se conectan las pilas sin ningún orden particular; la fem total es siempre impredecible
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 418
+**Subtema:** Conexión de pilas · Conexión en serie
+
+La conexión de pilas en serie se efectúa al unir el polo positivo de una con el polo negativo de la otra y así sucesivamente de acuerdo con la fem que se desea obtener. La fem total es igual a la suma de las fem de las pilas conectadas: VT = V1 + V2 + V3.
+
+### 64
+
+En relación con el libro de Física, ¿cómo se efectúa la conexión de pilas en paralelo, y qué ocurre con la diferencia de potencial resultante?
+
+- A. Se enlazan, por una parte, todos los polos positivos y, por la otra, todos los polos negativos; la diferencia de potencial resultante es igual a la de cualquiera de las pilas conectadas, como si fuera una sola pila
+- B. Se une el polo positivo de una con el polo negativo de la otra; la diferencia de potencial resultante es la suma de todas las pilas
+- C. Se enlazan todos los polos positivos entre sí únicamente; la diferencia de potencial resultante siempre es el doble de una sola pila
+- D. Se conectan alternando polos positivos y negativos sin un patrón fijo; la diferencia de potencial resultante es impredecible
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 418
+**Subtema:** Conexión de pilas · Conexión en paralelo
+
+La conexión de pilas en paralelo se realiza al enlazar, por una parte, todos los polos positivos y, por la otra, todos los polos negativos. El resultado obtenido al medir la diferencia de potencial entre las terminales de la conexión es el mismo que se tiene al medir la diferencia de potencial de cualquiera de las pilas conectadas.
+
+---
+
+**Reactivos en este archivo:** 64
