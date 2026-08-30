@@ -110,6 +110,16 @@ const CURSOS: Curso[] = [
   { codigo: 'EMTEFA_F_S_2os_FAAMA_2026', escuela: 'Escuela Militar de Tropas Especialistas de la F.A.', materias: ['Álgebra', 'Física General', 'Cálculo Diferencial', 'Cálculo Integral'], fisica: FISICA_EMTEFA_2OS, algebra: ALGEBRA_EMTEFA_2OS },
   { codigo: 'EMTEFA_F_S_2os_FAEEA_2026', escuela: 'Escuela Militar de Tropas Especialistas de la F.A.', materias: ['Álgebra', 'Física General', 'Cálculo Diferencial', 'Cálculo Integral'], fisica: FISICA_EMTEFA_2OS, algebra: ALGEBRA_EMTEFA_2OS },
   { codigo: 'EMTEFA_F_S_2os_FAEMA_2026', escuela: 'Escuela Militar de Tropas Especialistas de la F.A.', materias: ['Álgebra', 'Física General', 'Cálculo Diferencial', 'Cálculo Integral'], fisica: FISICA_EMTEFA_2OS, algebra: ALGEBRA_EMTEFA_2OS },
+
+  // EMI: temario subido el 29 ago 2026, `materias` sin reconocer todavía
+  // (fila de identidad nada más -- igual que el resto antes de vaciarles
+  // Física/Álgebra).
+  { codigo: 'EMI_ADM_EVLN_PROYEC_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
+  { codigo: 'EMI_ING_AUTOMOTRIZ_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
+  { codigo: 'EMI_ING_COSTOS_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
+  { codigo: 'EMI_SIST_CALIDAD_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
+  { codigo: 'EMI_ESP_TELEM__TICA_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
+  { codigo: 'EMI_T_I_2026', escuela: 'Escuela Militar de Ingeniería', materias: [] },
 ];
 
 /**
