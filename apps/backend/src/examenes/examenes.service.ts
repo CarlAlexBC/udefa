@@ -815,6 +815,7 @@ export class ExamenesService {
         JOIN "Tema" t ON t.id = r."temaId"
         WHERE r.banco IN (${Prisma.join(BANCOS_LIBRO)})
           AND t."capituloId" IN (${Prisma.join(capituloIds)})
+          AND r.retirado IS NULL
         ORDER BY random()
         LIMIT ${m.numPreguntas}
       `);
