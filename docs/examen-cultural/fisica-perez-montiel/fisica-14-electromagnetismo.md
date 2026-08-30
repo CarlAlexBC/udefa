@@ -70,9 +70,8 @@ que no vinieran ya del cuerpo del texto en alguno de los 13 subtemas.
 **12 · Síntesis de Maxwell del electromagnetismo** (pp. 507-508): 5 reactivos.
 **13 · Plantas generadoras de electricidad y su transmisión** (pp. 509-510): 4 reactivos.
 
-**Pendiente:** ninguno de esta unidad — las Unidades 13 y 14 del hueco de
-`EMMG_MG_TEC_MANTO_I_2026` quedan cerradas. Sigue sólo la Unidad 12
-(Electricidad, 78 páginas, la más grande de las tres) — ver
+**Pendiente:** ninguno de esta unidad — las Unidades 12, 13 y 14 del hueco de
+`EMMG_MG_TEC_MANTO_I_2026` quedan cerradas (29 ago 2026). Ver
 `docs/examen-tropa/enlace-fisica-algebra.md`.
 
 ## Criterio: teoría sobre práctica

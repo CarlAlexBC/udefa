@@ -60,10 +60,10 @@ mucho más cercano en método al banco cultural de humanidades que a Álgebra.
 **6 · Reluctancia** (p. 473): 1 reactivo.
 **7 · Materiales ferro/para/diamagnéticos** (p. 473): 3 reactivos.
 
-**Pendiente:** ninguno de esta unidad. Siguen las Unidades 12 (Electricidad,
-78 págs.) y 14 (Electromagnetismo, 42 págs.), que junto con ésta cierran el
-hueco de tropa de `EMMG_MG_TEC_MANTO_I_2026` documentado en
-`docs/examen-tropa/enlace-fisica-algebra.md`.
+**Pendiente:** ninguno de esta unidad. Las Unidades 12 (Electricidad, 78
+págs.) y 14 (Electromagnetismo, 42 págs.) también quedaron cerradas (29 ago
+2026), completando el hueco de tropa de `EMMG_MG_TEC_MANTO_I_2026`
+documentado en `docs/examen-tropa/enlace-fisica-algebra.md`.
 
 ## Criterio: teoría sobre práctica
 

@@ -8,17 +8,14 @@
 20 subtemas.
 
 > La unidad más grande de todo el banco de tropa: 78 páginas, contra 42 de
-> Electromagnetismo y 14 de Magnetismo. Se cierra por partes dentro de la
-> misma sesión (28 ago 2026), igual que ya se hizo con
-> `fisica-14-electromagnetismo.md`. **Escritos: 1 a 13** (toda la
-> electrostática — antecedentes, carga eléctrica, interacción de cargas,
-> formas de electrizar, electroscopio y jaula de Faraday, materiales
-> conductores/aislantes, unidades de carga, ley de Coulomb, campo eléctrico,
-> potencial eléctrico, corriente eléctrica, fuerza electromotriz, conexión de
-> pilas). **Faltan: 14 a 20** (resistencia eléctrica, ley de Ohm, circuitos y
-> conexión de resistencias, potencia eléctrica y efecto Joule, leyes de
-> Kirchhoff, capacitores, electroquímica y ley de Faraday de la
-> electrólisis).
+> Electromagnetismo y 14 de Magnetismo. Se cerró por partes en dos sesiones:
+> subtemas 1-13 (28 ago 2026) y subtemas 14-20 (29 ago 2026), igual que ya se
+> hizo con `fisica-14-electromagnetismo.md`. **Unidad 12 completa: los 20
+> subtemas están redactados** (toda la electrostática, campo eléctrico,
+> potencial eléctrico, corriente eléctrica, fuerza electromotriz y conexión de
+> pilas; más resistencia eléctrica, ley de Ohm, circuitos y conexión de
+> resistencias, potencia eléctrica y efecto Joule, leyes de Kirchhoff,
+> capacitores y electroquímica).
 
 > **Los reactivos NO se etiquetan por plantel.** Este archivo pertenece al
 > **libro**, no a una escuela. Las líneas `**Referencia:**` y `**Subtema:**`
@@ -37,13 +34,14 @@ carpeta EMM (`examen_cultural/libros_examen_cultural/EMM/Física General.pdf`).
 muestra impreso "384" (arranque de la Unidad 12, 397−384=13). Mismo desfase
 que `fisica-13-magnetismo.md` y `fisica-14-electromagnetismo.md`.
 
-## Alcance de este archivo (subtemas 1-13 de 20)
+## Alcance de este archivo (subtemas 1-20 de 20 — completo)
 
-Arranca en la página impresa **384** y llega hasta la **418** (subtemas 1 a
+Arranca en la página impresa **384** y llega hasta la **450** (subtemas 1 a
 13: toda la electrostática, más campo eléctrico, potencial eléctrico,
-corriente eléctrica, fuerza electromotriz y conexión de pilas — todo lo
-previo a resistencia y circuitos). El resto de la unidad (subtemas 14-20,
-páginas 418-461) queda pendiente.
+corriente eléctrica, fuerza electromotriz y conexión de pilas; subtemas 14 a
+20: resistencia eléctrica, ley de Ohm, circuitos y conexión de resistencias,
+potencia eléctrica y efecto Joule, leyes de Kirchhoff, capacitores y
+electroquímica). Unidad 12 cerrada.
 
 **Ojo con el antecedente histórico (subtema 1):** varias figuras (Henry y
 el electroimán, Lenz y la corriente inducida, Maxwell y la teoría
@@ -61,9 +59,9 @@ Thomson.
 - La tabla de permitividad relativa de distintos medios (cuadro 12.1): son
   datos de consulta, no una regla o definición.
 
-## Cobertura actual (parcial)
+## Cobertura actual
 
-**64 reactivos**, subtemas 1 a 13:
+**106 reactivos**, subtemas 1 a 20 (unidad completa):
 
 **1 · Antecedentes históricos** (pp. 386-387): 5 reactivos.
 **2 · Carga eléctrica y ley de conservación de la carga** (p. 387-388): 4 reactivos.
@@ -78,72 +76,16 @@ Thomson.
 **11 · Corriente eléctrica** (pp. 414-416): 7 reactivos.
 **12 · Fuerza electromotriz** (p. 417): 5 reactivos.
 **13 · Conexión de pilas en serie y en paralelo** (pp. 417-418): 4 reactivos.
+**14 · Resistencia eléctrica** (pp. 418-421): 7 reactivos.
+**15 · Ley de Ohm** (p. 423): 4 reactivos.
+**16 · Circuitos eléctricos y conexión de resistencias** (pp. 424-428): 10 reactivos.
+**17 · Potencia eléctrica y efecto Joule** (pp. 435-437): 5 reactivos.
+**18 · Leyes de Kirchhoff** (pp. 439-442): 4 reactivos.
+**19 · Capacitores o condensadores eléctricos** (pp. 444-447): 7 reactivos.
+**20 · Electroquímica y ley de Faraday de la electrólisis** (pp. 449-450): 5 reactivos.
 
-**Pendiente:** subtemas 14 a 20. **Ya leídos y con los datos abajo — NO
-releer el PDF, sólo falta redactarlos como reactivos** (formato Anexo H,
-igual que arriba). Corte por límite de uso de sesión (28 ago 2026), no por
-falta de contenido.
-
-### Datos ya extraídos, listos para redactar
-
-**14 · Resistencia eléctrica** (pp. 418-421):
-- Definición: "la resistencia eléctrica de un material es la oposición que presenta al paso de la corriente o flujo de electrones" (p. 418).
-- R = ρL/A (resistencia directamente proporcional a la longitud, inversamente proporcional al área de la sección transversal) (p. 420).
-- Unidad: 1 Ω = 1 V/1 A (p. 420).
-- Variación con la temperatura: R_T = R_0(1+αT). En los metales α > 0 (resistencia aumenta con T); en carbono, silicio y germanio α < 0 (resistencia disminuye con T) (p. 420).
-- Superconductividad: fenómeno en que algunos materiales, a temperaturas muy bajas (del orden de 90 K en los de "Alta Temperatura Crítica"), alcanzan resistencia eléctrica CERO (p. 421). Descubierta en 1911 por el holandés Heike Kamerlingh Onnes (Nobel 1913), investigando metales a ~1 K. Temperatura crítica (Tc): temperatura a partir de la cual, si se sigue enfriando, el material se vuelve superconductor. Efecto Meissner: los superconductores expulsan el campo magnético de su interior, produciendo repulsión con los imanes (permite la levitación magnética, trenes Maglev).
-
-**15 · Ley de Ohm** (p. 423):
-- Georg Simon Ohm (físico alemán, 1787-1854) enunció en 1827: "la intensidad de la corriente eléctrica que pasa por un conductor en un circuito es directamente proporcional a la diferencia de potencial aplicada a sus extremos e inversamente proporcional a la resistencia del conductor". I=V/R, V=IR.
-- Definición de 1 ohm vía ley de Ohm: la resistencia de un conductor es de 1 Ω si existe una corriente de 1 A cuando se mantiene una diferencia de potencial de 1 V a través de la resistencia.
-- Limitaciones de la ley de Ohm: (a) se aplica a los metales ("conductores óhmicos"), NO al carbono ni a los semiconductores usados en transistores ("conductores no óhmicos": su resistencia no permanece constante con voltajes diferentes); (b) la resistencia cambia con la temperatura, pues los materiales se calientan al paso de la corriente; (c) algunas aleaciones conducen mejor las cargas en una dirección que en otra.
-
-**16 · Circuitos eléctricos y conexión de resistencias en serie, paralelo y mixtas** (pp. 424-428):
-- Circuito eléctrico: sistema en el cual la corriente fluye por un conductor en una trayectoria completa (cerrada), debido a una diferencia de potencial.
-- Elementos fundamentales de todo circuito: a) Voltaje, b) Corriente, c) Resistencia.
-- Circuito cerrado: la corriente circula en todo el sistema. Circuito abierto: no circula. El interruptor abre o cierra el circuito.
-- Serie: los elementos conductores se unen uno a continuación del otro; toda la corriente circula por cada elemento; si se abre el circuito en cualquier parte, se interrumpe TOTALMENTE la corriente.
-- Paralelo: los elementos están separados en dos o más ramales; la corriente se divide entre ellos; al abrir el circuito en una parte, la corriente NO se interrumpe en los demás ramales.
-- Mixto: los elementos se conectan tanto en serie como en paralelo.
-- Resistencia equivalente en serie: Re = R1+R2+...+Rn. El voltaje total se reparte: V = V1+V2+V3.
-- Resistencia equivalente en paralelo: 1/Re = 1/R1+1/R2+...+1/Rn.
-- Nota del libro (recuadro): "la resistencia equivalente en un circuito en paralelo tiene siempre un valor MENOR que cualquiera de las resistencias componentes conectadas" (a más ramificaciones, menos oposición); "en una conexión en serie la resistencia equivalente siempre será MAYOR que cualquiera de las resistencias conectadas" (p. 428).
-- Resistencia interna de una pila: la caída de voltaje que se observa en una batería al cerrar el circuito (p.ej. de 6 V a 5.5 V) se produce por la resistencia interna de las pilas de la batería; si no se señala esa resistencia interna en un problema, se considera el valor de la diferencia de potencial dado como el voltaje real que recibe el circuito estando cerrado (p. 428).
-
-**17 · Potencia eléctrica y efecto Joule** (pp. 435-437):
-- Definición: "la potencia eléctrica es la rapidez con que se realiza un trabajo; también se interpreta como la energía que consume una máquina o cualquier dispositivo eléctrico en un segundo" (p. 435).
-- P = VI; se demuestra que 1 watt = 1 volt-ampere.
-- Efecto Joule: "cuando circula corriente eléctrica en un conductor, parte de la energía cinética de los electrones se transforma en calor y eleva la temperatura de éste" (p. 437).
-- Ley de Joule: "el calor que produce una corriente eléctrica al circular por un conductor es directamente proporcional al cuadrado de la intensidad de la corriente, a la resistencia y al tiempo que dura circulando la corriente." Q = 0.24 I²Rt.
-- Equivalencia: 1 joule de trabajo = 0.24 calorías de energía térmica.
-
-**18 · Leyes de Kirchhoff** (pp. 439-442):
-- Gustav Robert Kirchhoff, físico alemán (1824-1887), propuso a mediados del s. XIX dos leyes que llevan su nombre.
-- Nodo: "un punto de una red eléctrica en el cual convergen tres o más conductores" (p. 439).
-- Primera ley (de nodos): "la suma algebraica de todas las intensidades de corriente en cualquier unión o nodo de un circuito es igual a cero" (corrientes que entran = signo positivo; las que salen = signo negativo). Confirma el principio de la conservación de las cargas eléctricas.
-- Segunda ley (de mallas): "en un circuito cerrado o malla, las caídas de tensión totales en las resistencias son iguales a la tensión total que se aplica al circuito" — la suma de las fem (Σε) en una malla es igual a la suma de todas las caídas de potencial IR (ΣIR): Σε = ΣIR (p. 442). Confirma el principio de la conservación de la energía.
-
-**19 · Capacitores o condensadores eléctricos** (pp. 444-447):
-- Definición: "un capacitor o condensador eléctrico es un dispositivo empleado para almacenar cargas eléctricas". Consta de dos láminas metálicas separadas por un aislante o dieléctrico (aire, vidrio, mica, aceite o papel encerado) (p. 444).
-- Tres formas de aumentar la capacitancia: a) disminuir la distancia entre las placas metálicas; b) aumentar el área de las placas (mayor superficie, mayor capacidad de almacenamiento); c) aumentar el voltaje de la batería.
-- Q = CV (la carga Q que puede almacenar un capacitor a un voltaje dado es proporcional a la capacitancia C y al voltaje V).
-- Unidad de capacitancia: el farad (F), en honor de Michael Faraday (1791-1867). Definición: "un capacitor tiene la capacitancia de un farad cuando al almacenar la carga de un coulomb su potencial aumenta un volt".
-- Submúltiplos: microfarad (µF = 1×10⁻⁶ F), picofarad o micromicrofarad (pF = 1×10⁻¹² F).
-- Conexión en serie: 1/Ce = 1/C1+1/C2+...+1/Cn (misma forma que las resistencias en paralelo); la carga depositada es la MISMA en cada capacitor.
-- Conexión en paralelo: Ce = C1+C2+...+Cn (misma forma que las resistencias en serie); la diferencia de potencial es la MISMA en cada capacitor (todos conectados directamente a la fuente).
-
-**20 · Electroquímica y ley de Faraday de la electrólisis** (pp. 449-450):
-- Michael Faraday observó que algunas soluciones líquidas permiten la conducción de la electricidad y las llamó electrólitos.
-- Al electrodo negativo se le llama cátodo; al positivo, ánodo.
-- Los iones positivos (atraídos al cátodo) se llaman cationes; los iones negativos (atraídos al ánodo) se llaman aniones.
-- Ley de Faraday de la electrólisis (enunciada en 1833): "el grado de reacción química en un electrodo es directamente proporcional a la cantidad de carga que fluye por este electrodo durante la reacción".
-- "El cambio químico que siempre ocurre en el cátodo es de reducción" (ganancia de electrones; ejemplo dado: Na⁺ + e⁻ → Na⁰).
-
-**Al redactar:** seguir el mismo formato Anexo H y estilo de enunciado
-("En relación con el libro de Física, ¿...?") que los subtemas 1-13 de este
-mismo archivo. Verificar cada cita contra el PDF (copia EMM, offset +13)
-sólo si algo no queda claro en las notas de arriba — no releer todo desde
-cero.
+**Pendiente:** ninguno. Unidad 12 (Electricidad) cerrada, 20/20 subtemas,
+106 reactivos.
 
 ## Criterio: teoría sobre práctica
 
@@ -1171,4 +1113,662 @@ La conexión de pilas en paralelo se realiza al enlazar, por una parte, todos lo
 
 ---
 
-**Reactivos en este archivo:** 64
+## Sub-lote 14 · Resistencia eléctrica (pp. 418-421)
+
+### 65
+
+En relación con el libro de Física, ¿qué es la resistencia eléctrica de un material?
+
+- A. La oposición que presenta al paso de la corriente o flujo de electrones
+- B. La capacidad que tiene para almacenar cargas eléctricas
+- C. La rapidez con que un material transforma la energía eléctrica en calor
+- D. La cantidad de electrones libres que posee un conductor
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 418
+**Subtema:** Resistencia eléctrica · Definición
+
+La resistencia eléctrica de un material es la oposición que presenta al paso de la corriente o flujo de electrones.
+
+### 66
+
+En relación con el libro de Física, ¿cómo varía la resistencia eléctrica de un conductor respecto a su longitud y al área de su sección transversal?
+
+- A. Es directamente proporcional a la longitud e inversamente proporcional al área de la sección transversal
+- B. Es inversamente proporcional a la longitud y directamente proporcional al área de la sección transversal
+- C. Es directamente proporcional tanto a la longitud como al área de la sección transversal
+- D. No depende ni de la longitud ni del área, sólo del material del que está hecho
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 420
+**Subtema:** Resistencia eléctrica · Relación con longitud y área (R = ρL/A)
+
+La resistencia de un conductor es directamente proporcional a su longitud e inversamente proporcional al área de su sección transversal: R = ρL/A.
+
+### 67
+
+En relación con el libro de Física, ¿cómo se define la unidad de resistencia eléctrica, el ohm?
+
+- A. 1 Ω = 1 V/1 A
+- B. 1 Ω = 1 A/1 V
+- C. 1 Ω = 1 V × 1 A
+- D. 1 Ω = 1 C/1 s
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 420
+**Subtema:** Resistencia eléctrica · Unidad (el ohm)
+
+La unidad de resistencia eléctrica es el ohm (Ω), que se define como: 1 Ω = 1 V/1 A.
+
+### 68
+
+En relación con el libro de Física, en los metales, ¿cómo varía la resistencia eléctrica al aumentar la temperatura?
+
+- A. Aumenta, pues su coeficiente de temperatura α es mayor que cero
+- B. Disminuye, pues su coeficiente de temperatura α es menor que cero
+- C. Permanece siempre constante, sin importar la temperatura
+- D. Se vuelve cero a cualquier temperatura por encima de 0 °C
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 420
+**Subtema:** Resistencia eléctrica · Variación con la temperatura en los metales
+
+La resistencia de un conductor varía con la temperatura según R_T = R_0(1+αT). En los metales, el coeficiente de temperatura α es mayor que cero, por lo que su resistencia aumenta con la temperatura.
+
+### 69
+
+En relación con el libro de Física, en el carbono, el silicio y el germanio, ¿cómo varía la resistencia eléctrica al aumentar la temperatura?
+
+- A. Disminuye, pues su coeficiente de temperatura α es menor que cero
+- B. Aumenta de la misma manera que en los metales
+- C. Permanece siempre constante, sin importar la temperatura
+- D. Depende únicamente del área de la sección transversal, no de la temperatura
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 420
+**Subtema:** Resistencia eléctrica · Variación con la temperatura en carbono, silicio y germanio
+
+En el carbono, el silicio y el germanio, el coeficiente de temperatura α es menor que cero, por lo que su resistencia disminuye al aumentar la temperatura.
+
+### 70
+
+En relación con el libro de Física, ¿qué es la superconductividad y quién la descubrió?
+
+- A. El fenómeno en que algunos materiales, a temperaturas muy bajas, alcanzan resistencia eléctrica cero; fue descubierta en 1911 por el holandés Heike Kamerlingh Onnes
+- B. El fenómeno en que algunos materiales aumentan su resistencia eléctrica al enfriarse; fue descubierta en 1827 por Georg Ohm
+- C. El fenómeno en que todos los metales, a cualquier temperatura, carecen por completo de resistencia eléctrica
+- D. El fenómeno en que un material pierde su capacidad de conducir electricidad al enfriarse; fue descubierta por Michael Faraday
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 421
+**Subtema:** Resistencia eléctrica · Superconductividad
+
+La superconductividad es el fenómeno en que algunos materiales, a temperaturas muy bajas, alcanzan resistencia eléctrica cero. Fue descubierta en 1911 por el holandés Heike Kamerlingh Onnes (Premio Nobel 1913), investigando metales a temperaturas del orden de 1 K.
+
+### 71
+
+En relación con el libro de Física, ¿qué es el efecto Meissner?
+
+- A. El fenómeno por el cual los superconductores expulsan el campo magnético de su interior, produciendo repulsión con los imanes
+- B. El fenómeno por el cual los superconductores atraen con más fuerza el campo magnético de su interior
+- C. El fenómeno por el cual un imán pierde su magnetismo al acercarse a un superconductor
+- D. El fenómeno por el cual la resistencia de un superconductor aumenta bruscamente al enfriarse más allá de su temperatura crítica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 421
+**Subtema:** Resistencia eléctrica · Efecto Meissner
+
+Los superconductores expulsan el campo magnético de su interior, produciendo repulsión con los imanes; este fenómeno, llamado efecto Meissner, permite la levitación magnética, como en los trenes Maglev.
+
+---
+
+## Sub-lote 15 · Ley de Ohm (p. 423)
+
+### 72
+
+En relación con el libro de Física, ¿qué estableció Georg Simon Ohm en 1827 como ley fundamental de las corrientes eléctricas?
+
+- A. Que la intensidad de la corriente eléctrica que pasa por un conductor en un circuito es directamente proporcional a la diferencia de potencial aplicada a sus extremos e inversamente proporcional a la resistencia del conductor
+- B. Que la intensidad de la corriente es inversamente proporcional tanto a la diferencia de potencial como a la resistencia del conductor
+- C. Que la resistencia de un conductor es directamente proporcional a la intensidad de la corriente que circula por él
+- D. Que la diferencia de potencial es independiente de la resistencia y de la intensidad de la corriente
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 423
+**Subtema:** Ley de Ohm · Enunciado
+
+Georg Simon Ohm, físico alemán (1787-1854), enunció en 1827: "la intensidad de la corriente eléctrica que pasa por un conductor en un circuito es directamente proporcional a la diferencia de potencial aplicada a sus extremos e inversamente proporcional a la resistencia del conductor".
+
+### 73
+
+En relación con el libro de Física, según la ley de Ohm, ¿cuándo se dice que la resistencia de un conductor es de 1 ohm?
+
+- A. Si existe una corriente de 1 A cuando se mantiene una diferencia de potencial de 1 V a través de la resistencia
+- B. Si existe una corriente de 1 V cuando se mantiene una diferencia de potencial de 1 A a través de la resistencia
+- C. Si la corriente y la diferencia de potencial son ambas iguales a cero
+- D. Si la corriente es el doble de la diferencia de potencial aplicada
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 423
+**Subtema:** Ley de Ohm · Definición del ohm
+
+La resistencia de un conductor es de 1 Ω si existe una corriente de 1 A cuando se mantiene una diferencia de potencial de 1 V a través de la resistencia.
+
+### 74
+
+En relación con el libro de Física, según las limitaciones de la ley de Ohm, ¿a qué materiales se aplica y a cuáles no?
+
+- A. Se aplica a los metales (conductores óhmicos), pero no al carbono ni a los semiconductores usados en transistores (conductores no óhmicos), cuya resistencia no permanece constante con voltajes diferentes
+- B. Se aplica únicamente al carbono y a los semiconductores, pero no a los metales
+- C. Se aplica por igual a todos los materiales conductores y aislantes, sin excepción
+- D. No se aplica a ningún material real, sólo es válida en condiciones ideales de laboratorio
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 423
+**Subtema:** Ley de Ohm · Conductores óhmicos y no óhmicos
+
+Una de las limitaciones de la ley de Ohm es que se aplica a los metales, llamados por ello conductores óhmicos, pero no al carbono ni a los semiconductores usados en transistores, llamados conductores no óhmicos, pues su resistencia no permanece constante con voltajes diferentes.
+
+### 75
+
+En relación con el libro de Física, además de que sólo se aplica a los conductores óhmicos, ¿qué otras dos limitaciones tiene la ley de Ohm?
+
+- A. La resistencia cambia con la temperatura porque los materiales se calientan al paso de la corriente, y algunas aleaciones conducen mejor las cargas en una dirección que en otra
+- B. Sólo es válida quiere a corrientes continuas, nunca a corrientes alternas, y no admite ningún tipo de aleación
+- C. Sólo es válida a temperaturas superiores a los 100 °C, y únicamente en conductores de cobre
+- D. Sólo describe circuitos en serie, nunca circuitos en paralelo ni mixtos
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 423
+**Subtema:** Ley de Ohm · Otras limitaciones
+
+Otras limitaciones de la ley de Ohm son que la resistencia cambia con la temperatura, pues los materiales se calientan al paso de la corriente, y que algunas aleaciones conducen mejor las cargas en una dirección que en otra.
+
+---
+
+## Sub-lote 16 · Circuitos eléctricos y conexión de resistencias (pp. 424-428)
+
+### 76
+
+En relación con el libro de Física, ¿qué es un circuito eléctrico?
+
+- A. Un sistema en el cual la corriente fluye por un conductor en una trayectoria completa (cerrada), debido a una diferencia de potencial
+- B. Un sistema en el cual las cargas eléctricas permanecen siempre en reposo
+- C. Un dispositivo que sólo almacena cargas eléctricas sin permitir su circulación
+- D. Un material que impide por completo el paso de cualquier corriente eléctrica
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 424
+**Subtema:** Circuitos eléctricos · Definición
+
+Un circuito eléctrico es un sistema en el cual la corriente fluye por un conductor en una trayectoria completa (cerrada), debido a una diferencia de potencial.
+
+### 77
+
+En relación con el libro de Física, ¿cuáles son los elementos fundamentales de todo circuito eléctrico?
+
+- A. Voltaje, corriente y resistencia
+- B. Voltaje, campo magnético y capacitancia
+- C. Corriente, temperatura y masa
+- D. Resistencia, longitud y área de la sección transversal
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 424
+**Subtema:** Circuitos eléctricos · Elementos fundamentales
+
+Los elementos fundamentales de todo circuito son: a) voltaje, b) corriente y c) resistencia.
+
+### 78
+
+En relación con el libro de Física, ¿qué diferencia hay entre un circuito cerrado y uno abierto?
+
+- A. En el cerrado la corriente circula en todo el sistema; en el abierto no circula; el interruptor es el que abre o cierra el circuito
+- B. En el cerrado la corriente nunca circula; en el abierto circula siempre, sin necesidad de interruptor
+- C. Un circuito abierto siempre tiene mayor resistencia equivalente que uno cerrado
+- D. La diferencia entre cerrado y abierto sólo aplica a los circuitos en paralelo, no a los de serie
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 424
+**Subtema:** Circuitos eléctricos · Circuito cerrado y abierto
+
+En un circuito cerrado la corriente circula en todo el sistema; en uno abierto no circula. El interruptor es el elemento que abre o cierra el circuito.
+
+### 79
+
+En relación con el libro de Física, ¿cómo es la conexión de resistencias en serie?
+
+- A. Los elementos conductores se unen uno a continuación del otro; toda la corriente circula por cada elemento; si se abre el circuito en cualquier parte, se interrumpe totalmente la corriente
+- B. Los elementos se separan en dos o más ramales; si se abre el circuito en una parte, la corriente no se interrumpe en los demás ramales
+- C. Los elementos se conectan tanto en serie como en paralelo dentro del mismo circuito
+- D. Los elementos conducen distintas cantidades de corriente según su posición, sin que se interrumpa nunca el circuito completo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 424
+**Subtema:** Circuitos eléctricos · Conexión en serie
+
+En la conexión en serie, los elementos conductores se unen uno a continuación del otro; toda la corriente circula por cada elemento, de manera que si se abre el circuito en cualquier parte, se interrumpe totalmente la corriente.
+
+### 80
+
+En relación con el libro de Física, ¿cómo es la conexión de resistencias en paralelo?
+
+- A. Los elementos están separados en dos o más ramales; la corriente se divide entre ellos; al abrir el circuito en una parte, la corriente no se interrumpe en los demás ramales
+- B. Los elementos se unen uno a continuación del otro; si se abre el circuito en cualquier parte, se interrumpe totalmente la corriente
+- C. Los elementos se conectan tanto en serie como en paralelo dentro del mismo circuito
+- D. Toda la corriente circula obligatoriamente por un único ramal, sin dividirse nunca
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 425
+**Subtema:** Circuitos eléctricos · Conexión en paralelo
+
+En la conexión en paralelo, los elementos están separados en dos o más ramales; la corriente se divide entre ellos, de manera que al abrir el circuito en una parte, la corriente no se interrumpe en los demás ramales.
+
+### 81
+
+En relación con el libro de Física, ¿qué es una conexión mixta de resistencias?
+
+- A. Aquella en la que los elementos se conectan tanto en serie como en paralelo
+- B. Aquella en la que todos los elementos se conectan únicamente en serie
+- C. Aquella en la que todos los elementos se conectan únicamente en paralelo
+- D. Aquella en la que no existe ninguna resistencia, sólo capacitores
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 426
+**Subtema:** Circuitos eléctricos · Conexión mixta
+
+En una conexión mixta, los elementos se conectan tanto en serie como en paralelo.
+
+### 82
+
+En relación con el libro de Física, ¿cómo se calcula la resistencia equivalente en un circuito en serie, y cómo se reparte el voltaje total?
+
+- A. Re = R1+R2+...+Rn; el voltaje total se reparte: V = V1+V2+V3
+- B. 1/Re = 1/R1+1/R2+...+1/Rn; el voltaje total es igual en cada resistencia
+- C. Re = R1+R2+...+Rn; el voltaje total es siempre igual al de la resistencia mayor
+- D. 1/Re = 1/R1+1/R2+...+1/Rn; el voltaje total se reparte: V = V1+V2+V3
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 427
+**Subtema:** Circuitos eléctricos · Resistencia equivalente en serie
+
+En un circuito en serie, la resistencia equivalente es Re = R1+R2+...+Rn, y el voltaje total se reparte entre las resistencias: V = V1+V2+V3.
+
+### 83
+
+En relación con el libro de Física, ¿cómo se calcula la resistencia equivalente en un circuito en paralelo?
+
+- A. 1/Re = 1/R1+1/R2+...+1/Rn
+- B. Re = R1+R2+...+Rn
+- C. Re = R1×R2×...×Rn
+- D. 1/Re = R1+R2+...+Rn
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 428
+**Subtema:** Circuitos eléctricos · Resistencia equivalente en paralelo
+
+En un circuito en paralelo, la resistencia equivalente se calcula como: 1/Re = 1/R1+1/R2+...+1/Rn.
+
+### 84
+
+En relación con el libro de Física, ¿cómo es la resistencia equivalente en un circuito en paralelo comparada con las resistencias componentes, y cómo en uno en serie?
+
+- A. En paralelo, la resistencia equivalente tiene siempre un valor menor que cualquiera de las resistencias componentes; en serie, siempre será mayor que cualquiera de las resistencias conectadas
+- B. En paralelo, la resistencia equivalente tiene siempre un valor mayor que cualquiera de las resistencias componentes; en serie, siempre será menor
+- C. En ambos casos, serie y paralelo, la resistencia equivalente es siempre igual a la resistencia mayor de las conectadas
+- D. En ambos casos, serie y paralelo, la resistencia equivalente es siempre igual al promedio de las resistencias conectadas
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 428
+**Subtema:** Circuitos eléctricos · Comparación de la resistencia equivalente
+
+Como señala el libro: la resistencia equivalente en un circuito en paralelo tiene siempre un valor menor que cualquiera de las resistencias componentes conectadas; en una conexión en serie, la resistencia equivalente siempre será mayor que cualquiera de las resistencias conectadas.
+
+### 85
+
+En relación con el libro de Física, ¿a qué se debe la caída de voltaje que se observa en una batería al cerrar el circuito (por ejemplo, de 6 V a 5.5 V)?
+
+- A. A la resistencia interna de las pilas de la batería
+- B. A que la ley de Ohm deja de cumplirse al cerrar el circuito
+- C. A la resistencia equivalente del circuito externo conectado a la batería
+- D. A que la fuerza electromotriz de la batería disminuye por sí sola con el tiempo, sin relación con su resistencia interna
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 428
+**Subtema:** Circuitos eléctricos · Resistencia interna de una pila
+
+La caída de voltaje que se observa en una batería al cerrar el circuito, por ejemplo de 6 V a 5.5 V, se produce por la resistencia interna de las pilas de la batería.
+
+---
+
+## Sub-lote 17 · Potencia eléctrica y efecto Joule (pp. 435-437)
+
+### 86
+
+En relación con el libro de Física, ¿qué es la potencia eléctrica?
+
+- A. La rapidez con que se realiza un trabajo; también se interpreta como la energía que consume una máquina o cualquier dispositivo eléctrico en un segundo
+- B. La cantidad total de trabajo realizado por un dispositivo eléctrico, sin importar el tiempo empleado
+- C. La oposición que presenta un conductor al paso de la corriente eléctrica
+- D. La cantidad de carga eléctrica que puede almacenar un dispositivo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 435
+**Subtema:** Potencia eléctrica y efecto Joule · Definición de potencia eléctrica
+
+La potencia eléctrica es la rapidez con que se realiza un trabajo; también se interpreta como la energía que consume una máquina o cualquier dispositivo eléctrico en un segundo.
+
+### 87
+
+En relación con el libro de Física, ¿cuál es la expresión que permite calcular la potencia eléctrica P a partir del voltaje V y la corriente I, y a qué equivale un watt?
+
+- A. P = VI; se demuestra que 1 watt = 1 volt-ampere
+- B. P = V/I; se demuestra que 1 watt = 1 volt/ampere
+- C. P = I/V; se demuestra que 1 watt = 1 ampere/volt
+- D. P = V+I; se demuestra que 1 watt = 1 volt más 1 ampere
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 435
+**Subtema:** Potencia eléctrica y efecto Joule · Fórmula de la potencia
+
+La potencia eléctrica se calcula como P = VI, con lo que se demuestra que 1 watt equivale a 1 volt-ampere.
+
+### 88
+
+En relación con el libro de Física, ¿qué es el efecto Joule?
+
+- A. Cuando circula corriente eléctrica en un conductor, parte de la energía cinética de los electrones se transforma en calor y eleva la temperatura de éste
+- B. Cuando circula corriente eléctrica en un conductor, su resistencia se reduce a cero y deja de calentarse
+- C. Cuando un conductor se enfría, su capacidad de conducir electricidad aumenta indefinidamente
+- D. Cuando un capacitor se descarga, toda su energía se transforma en luz
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 437
+**Subtema:** Potencia eléctrica y efecto Joule · Efecto Joule
+
+Cuando circula corriente eléctrica en un conductor, parte de la energía cinética de los electrones se transforma en calor y eleva la temperatura de éste; a esto se le llama efecto Joule.
+
+### 89
+
+En relación con el libro de Física, ¿cómo enuncia la ley de Joule la relación entre el calor producido y la corriente, la resistencia y el tiempo?
+
+- A. El calor que produce una corriente eléctrica al circular por un conductor es directamente proporcional al cuadrado de la intensidad de la corriente, a la resistencia y al tiempo que dura circulando la corriente
+- B. El calor producido es directamente proporcional a la resistencia únicamente, sin relación con la corriente ni el tiempo
+- C. El calor producido es inversamente proporcional al cuadrado de la intensidad de la corriente
+- D. El calor producido no depende del tiempo que dure circulando la corriente
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 437
+**Subtema:** Potencia eléctrica y efecto Joule · Ley de Joule
+
+La ley de Joule establece que el calor que produce una corriente eléctrica al circular por un conductor es directamente proporcional al cuadrado de la intensidad de la corriente, a la resistencia y al tiempo que dura circulando la corriente: Q = 0.24 I²Rt.
+
+### 90
+
+En relación con el libro de Física, ¿a cuántas calorías de energía térmica equivale 1 joule de trabajo?
+
+- A. 0.24 calorías
+- B. 1 caloría
+- C. 4.18 calorías
+- D. 100 calorías
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 437
+**Subtema:** Potencia eléctrica y efecto Joule · Equivalencia joule-caloría
+
+1 joule de trabajo equivale a 0.24 calorías de energía térmica.
+
+---
+
+## Sub-lote 18 · Leyes de Kirchhoff (pp. 439-442)
+
+### 91
+
+En relación con el libro de Física, ¿quién fue Gustav Robert Kirchhoff y qué propuso?
+
+- A. Un físico alemán (1824-1887) que propuso, a mediados del siglo XIX, dos leyes que llevan su nombre
+- B. Un físico holandés que descubrió la superconductividad a principios del siglo XX
+- C. Un físico inglés que introdujo el concepto de líneas de fuerza del campo eléctrico
+- D. Un físico alemán que enunció la ley fundamental de las corrientes eléctricas en 1827
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 439
+**Subtema:** Leyes de Kirchhoff · Quién fue Kirchhoff
+
+Gustav Robert Kirchhoff, físico alemán (1824-1887), propuso a mediados del siglo XIX dos leyes que llevan su nombre.
+
+### 92
+
+En relación con el libro de Física, ¿qué es un nodo en una red eléctrica?
+
+- A. Un punto de una red eléctrica en el cual convergen tres o más conductores
+- B. El punto de una red eléctrica donde se ubica la fuente de fuerza electromotriz
+- C. Cualquier punto de un conductor, sin importar cuántos otros conductores converjan en él
+- D. El punto de una red eléctrica donde la corriente siempre vale cero
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 439
+**Subtema:** Leyes de Kirchhoff · Nodo
+
+Un nodo es un punto de una red eléctrica en el cual convergen tres o más conductores.
+
+### 93
+
+En relación con el libro de Física, ¿qué establece la primera ley de Kirchhoff (ley de nodos)?
+
+- A. Que la suma algebraica de todas las intensidades de corriente en cualquier unión o nodo de un circuito es igual a cero, lo cual confirma el principio de la conservación de las cargas eléctricas
+- B. Que la suma de las caídas de tensión en un circuito cerrado es siempre igual a cero, lo cual confirma el principio de la conservación de la energía
+- C. Que la corriente que entra a un nodo es siempre mayor que la que sale de él
+- D. Que en un nodo sólo pueden converger dos conductores como máximo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 439
+**Subtema:** Leyes de Kirchhoff · Primera ley (de nodos)
+
+La primera ley de Kirchhoff, o ley de nodos, establece que la suma algebraica de todas las intensidades de corriente en cualquier unión o nodo de un circuito es igual a cero. Esto confirma el principio de la conservación de las cargas eléctricas.
+
+### 94
+
+En relación con el libro de Física, ¿qué establece la segunda ley de Kirchhoff (ley de mallas)?
+
+- A. Que en un circuito cerrado o malla, las caídas de tensión totales en las resistencias son iguales a la tensión total que se aplica al circuito (Σε = ΣIR), lo cual confirma el principio de la conservación de la energía
+- B. Que la suma algebraica de las corrientes en cualquier nodo de un circuito es igual a cero, lo cual confirma el principio de la conservación de las cargas
+- C. Que las caídas de tensión en una malla son siempre mayores que la tensión total aplicada al circuito
+- D. Que en un circuito cerrado la resistencia equivalente es siempre igual a la resistencia mayor de la malla
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 442
+**Subtema:** Leyes de Kirchhoff · Segunda ley (de mallas)
+
+La segunda ley de Kirchhoff, o ley de mallas, establece que en un circuito cerrado o malla, las caídas de tensión totales en las resistencias son iguales a la tensión total que se aplica al circuito: Σε = ΣIR. Esto confirma el principio de la conservación de la energía.
+
+---
+
+## Sub-lote 19 · Capacitores o condensadores eléctricos (pp. 444-447)
+
+### 95
+
+En relación con el libro de Física, ¿qué es un capacitor o condensador eléctrico?
+
+- A. Un dispositivo empleado para almacenar cargas eléctricas, que consta de dos láminas metálicas separadas por un aislante o dieléctrico
+- B. Un dispositivo empleado para medir la intensidad de la corriente eléctrica en un circuito
+- C. Un dispositivo que transforma la energía química en energía eléctrica
+- D. Un dispositivo que mide la diferencia de potencial entre dos puntos de un circuito
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 444
+**Subtema:** Capacitores · Definición
+
+Un capacitor o condensador eléctrico es un dispositivo empleado para almacenar cargas eléctricas. Consta de dos láminas metálicas separadas por un aislante o dieléctrico (aire, vidrio, mica, aceite o papel encerado).
+
+### 96
+
+En relación con el libro de Física, ¿cuáles son las tres formas de aumentar la capacitancia de un capacitor?
+
+- A. Disminuir la distancia entre las placas metálicas, aumentar el área de las placas, y aumentar el voltaje de la batería
+- B. Aumentar la distancia entre las placas metálicas, disminuir el área de las placas, y disminuir el voltaje de la batería
+- C. Cambiar el dieléctrico por aire únicamente, sin modificar el área ni la distancia entre placas
+- D. Aumentar el número de placas sin importar su área, su distancia ni el voltaje aplicado
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 444
+**Subtema:** Capacitores · Formas de aumentar la capacitancia
+
+Existen tres formas de aumentar la capacitancia de un capacitor: disminuir la distancia entre las placas metálicas, aumentar el área de las placas, y aumentar el voltaje de la batería.
+
+### 97
+
+En relación con el libro de Física, ¿cuál es la expresión que relaciona la carga Q que puede almacenar un capacitor con su capacitancia C y el voltaje V?
+
+- A. Q = CV
+- B. Q = C/V
+- C. Q = V/C
+- D. Q = C+V
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 445
+**Subtema:** Capacitores · Fórmula Q = CV
+
+La carga Q que puede almacenar un capacitor a un voltaje dado es proporcional a la capacitancia C y al voltaje V: Q = CV.
+
+### 98
+
+En relación con el libro de Física, ¿cómo se define la unidad de capacitancia, el farad?
+
+- A. Un capacitor tiene la capacitancia de un farad cuando al almacenar la carga de un coulomb su potencial aumenta un volt
+- B. Un capacitor tiene la capacitancia de un farad cuando al almacenar la carga de un volt su potencial aumenta un coulomb
+- C. Un capacitor tiene la capacitancia de un farad cuando su resistencia interna es igual a un ohm
+- D. Un capacitor tiene la capacitancia de un farad cuando su fuerza electromotriz es de un volt
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 446
+**Subtema:** Capacitores · Unidad (el farad)
+
+La unidad de capacitancia es el farad (F), en honor de Michael Faraday. Un capacitor tiene la capacitancia de un farad cuando al almacenar la carga de un coulomb su potencial aumenta un volt.
+
+### 99
+
+En relación con el libro de Física, ¿cuáles son los submúltiplos usuales de la unidad de capacitancia?
+
+- A. El microfarad (µF = 1×10⁻⁶ F) y el picofarad o micromicrofarad (pF = 1×10⁻¹² F)
+- B. El milifarad (mF = 1×10⁻³ F) y el kilofarad (kF = 1×10³ F)
+- C. El megafarad (MF = 1×10⁶ F) y el gigafarad (GF = 1×10⁹ F)
+- D. El centifarad (cF = 1×10⁻² F) y el decifarad (dF = 1×10⁻¹ F)
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 446
+**Subtema:** Capacitores · Submúltiplos
+
+Los submúltiplos usuales de la unidad de capacitancia son el microfarad (µF = 1×10⁻⁶ F) y el picofarad o micromicrofarad (pF = 1×10⁻¹² F).
+
+### 100
+
+En relación con el libro de Física, ¿cómo se calcula la capacitancia equivalente en una conexión de capacitores en serie, y qué ocurre con la carga?
+
+- A. 1/Ce = 1/C1+1/C2+...+1/Cn; la carga depositada es la misma en cada capacitor
+- B. Ce = C1+C2+...+Cn; la carga depositada es la misma en cada capacitor
+- C. 1/Ce = 1/C1+1/C2+...+1/Cn; la diferencia de potencial es la misma en cada capacitor
+- D. Ce = C1+C2+...+Cn; la diferencia de potencial es la misma en cada capacitor
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 447
+**Subtema:** Capacitores · Conexión en serie
+
+En una conexión de capacitores en serie, la capacitancia equivalente es 1/Ce = 1/C1+1/C2+...+1/Cn, y la carga depositada es la misma en cada capacitor.
+
+### 101
+
+En relación con el libro de Física, ¿cómo se calcula la capacitancia equivalente en una conexión de capacitores en paralelo, y qué ocurre con la diferencia de potencial?
+
+- A. Ce = C1+C2+...+Cn; la diferencia de potencial es la misma en cada capacitor
+- B. 1/Ce = 1/C1+1/C2+...+1/Cn; la diferencia de potencial es la misma en cada capacitor
+- C. Ce = C1+C2+...+Cn; la carga depositada es la misma en cada capacitor
+- D. 1/Ce = 1/C1+1/C2+...+1/Cn; la carga depositada es la misma en cada capacitor
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 447
+**Subtema:** Capacitores · Conexión en paralelo
+
+En una conexión de capacitores en paralelo, la capacitancia equivalente es Ce = C1+C2+...+Cn, y la diferencia de potencial es la misma en cada capacitor, pues todos están conectados directamente a la fuente.
+
+---
+
+## Sub-lote 20 · Electroquímica y ley de Faraday de la electrólisis (pp. 449-450)
+
+### 102
+
+En relación con el libro de Física, ¿qué observó Michael Faraday sobre algunas soluciones líquidas?
+
+- A. Que permiten la conducción de la electricidad, y las llamó electrólitos
+- B. Que impiden por completo la conducción de la electricidad, y las llamó dieléctricos
+- C. Que generan espontáneamente corriente eléctrica sin necesidad de una fuente externa
+- D. Que sólo conducen la electricidad si se encuentran a temperaturas muy bajas
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 449
+**Subtema:** Electroquímica · Electrólitos
+
+Michael Faraday observó que algunas soluciones líquidas permiten la conducción de la electricidad, y las llamó electrólitos.
+
+### 103
+
+En relación con el libro de Física, ¿cómo se llaman el electrodo negativo y el electrodo positivo?
+
+- A. Al electrodo negativo se le llama cátodo; al positivo, ánodo
+- B. Al electrodo negativo se le llama ánodo; al positivo, cátodo
+- C. Ambos electrodos, sin importar su signo, se llaman cátodos
+- D. Ambos electrodos, sin importar su signo, se llaman ánodos
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 449
+**Subtema:** Electroquímica · Cátodo y ánodo
+
+Al electrodo negativo se le llama cátodo; al positivo, ánodo.
+
+### 104
+
+En relación con el libro de Física, ¿cómo se llaman los iones positivos y los iones negativos?
+
+- A. Los iones positivos, atraídos al cátodo, se llaman cationes; los iones negativos, atraídos al ánodo, se llaman aniones
+- B. Los iones positivos, atraídos al ánodo, se llaman aniones; los iones negativos, atraídos al cátodo, se llaman cationes
+- C. Todos los iones, sin importar su signo, se llaman cationes
+- D. Todos los iones, sin importar su signo, se llaman aniones
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 449
+**Subtema:** Electroquímica · Cationes y aniones
+
+Los iones positivos, atraídos al cátodo, se llaman cationes; los iones negativos, atraídos al ánodo, se llaman aniones.
+
+### 105
+
+En relación con el libro de Física, ¿qué establece la ley de Faraday de la electrólisis, enunciada en 1833?
+
+- A. Que el grado de reacción química en un electrodo es directamente proporcional a la cantidad de carga que fluye por este electrodo durante la reacción
+- B. Que el grado de reacción química en un electrodo es inversamente proporcional a la cantidad de carga que fluye por este electrodo durante la reacción
+- C. Que el grado de reacción química en un electrodo no depende de la carga que fluye por él, sino únicamente del tiempo transcurrido
+- D. Que la cantidad de carga que fluye por un electrodo es siempre constante, sin importar la reacción química que ocurra
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 450
+**Subtema:** Electroquímica · Ley de Faraday de la electrólisis
+
+La ley de Faraday de la electrólisis, enunciada en 1833, establece que el grado de reacción química en un electrodo es directamente proporcional a la cantidad de carga que fluye por este electrodo durante la reacción.
+
+### 106
+
+En relación con el libro de Física, ¿qué tipo de cambio químico siempre ocurre en el cátodo?
+
+- A. Uno de reducción (ganancia de electrones; por ejemplo: Na⁺ + e⁻ → Na⁰)
+- B. Uno de oxidación (pérdida de electrones; por ejemplo: Na⁰ → Na⁺ + e⁻)
+- C. Uno de neutralización, en el que la carga del ion se vuelve cero de forma permanente
+- D. Ninguno; el cátodo nunca participa en un cambio químico, sólo el ánodo
+
+**Respuesta:** A
+**Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 450
+**Subtema:** Electroquímica · Cambio químico en el cátodo
+
+El cambio químico que siempre ocurre en el cátodo es de reducción, es decir, de ganancia de electrones; por ejemplo: Na⁺ + e⁻ → Na⁰.
+
+---
+
+**Reactivos en este archivo:** 106
