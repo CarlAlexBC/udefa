@@ -48,12 +48,23 @@ interface Curso {
   // Sólo se llenan si el curso pide Física/Álgebra y ya se verificó el alcance:
   fisica?: number[]; // números de Capitulo (fisica-perez-montiel) a enlazar
   algebra?: number[]; // números de Capitulo (algebra-baldor) a enlazar
+  // La EMMA pide Álgebra y Trigonometría del OTRO libro de tropa (Zill/Dewar,
+  // slug `zill-atg`) — el mismo que ya sirve a la EMMA/EMI del cultural
+  // (`ÁLGE-01-2026` y `TGA-02-2026`), ya escrito y cerrado. Ver
+  // docs/examen-tropa/algebra-trigonometria-zill.md.
+  algebraZill?: number[]; // números de Capitulo (zill-atg) para la materia "Álgebra"
+  trigonometria?: number[]; // números de Capitulo (zill-atg) para "Trigonometría"
 }
 
 const FISICA_EMMA_COMPLETO = [4, 5, 6, 8, 11];
 const FISICA_EMTEFA_2OS = [4, 5, 6];
 const ALGEBRA_EMCS = [1, 2, 3, 4, 5, 8, 10, 18, 20];
-const ALGEBRA_EMTEFA_2OS = [5, 6, 8, 10, 13, 20, 21, 24]; // XXVIII(28) fuera: no está en el banco
+const ALGEBRA_EMTEFA_2OS = [5, 6, 8, 10, 13, 20, 21, 24, 28]; // XXVIII ya está en el banco (29 ago 2026)
+// EMMA (Zill/Dewar, zill-atg): mismos capítulos "Completo" que ÁLGE-01-2026 y
+// TGA-02-2026 del cultural — verificado en los encabezados de zill-02/03/04 y
+// zill-08/09/10/11 (los 4 cursos de tropa piden exactamente lo mismo).
+const ALGEBRA_EMMA_ZILL = [2, 3, 4];
+const TRIGONOMETRIA_EMMA_ZILL = [8, 9, 10, 11];
 
 // Derechos Humanos (DH-03-2026): 2 libros completos, sin variante entre los 23
 // cursos que la piden. Capítulos = orden de aparición en importar-tropa.ts.
@@ -80,19 +91,19 @@ const CURSOS: Curso[] = [
   { codigo: 'EMCT_F_S_1os_TRANS_2026', escuela: 'Escuela Militar de Clases de Transmisiones', materias: ['Legislación Militar', 'Derechos Humanos'] },
   { codigo: 'EMCT_F_S_2os_TRANS_2026', escuela: 'Escuela Militar de Clases de Transmisiones', materias: ['Legislación Militar', 'Derechos Humanos'] },
   { codigo: 'EME_C_I_F_O_E_M_2026', escuela: 'Escuela Militar de Enfermería (CIFOEM)', materias: ['Legislación Militar', 'Derechos Humanos', 'Enfermería'] },
-  { codigo: 'EMMA_F_A_I_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO },
-  { codigo: 'EMMA_F_O_F_A_A_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO },
-  { codigo: 'EMMA_F_O_F_A_A_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO },
-  { codigo: 'EMMA_F_O_F_A_E_E_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Electrónica'], fisica: FISICA_EMMA_COMPLETO },
+  { codigo: 'EMMA_F_A_I_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO, algebraZill: ALGEBRA_EMMA_ZILL, trigonometria: TRIGONOMETRIA_EMMA_ZILL },
+  { codigo: 'EMMA_F_O_F_A_A_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO, algebraZill: ALGEBRA_EMMA_ZILL, trigonometria: TRIGONOMETRIA_EMMA_ZILL },
+  { codigo: 'EMMA_F_O_F_A_A_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Aeronáutica'], fisica: FISICA_EMMA_COMPLETO, algebraZill: ALGEBRA_EMMA_ZILL, trigonometria: TRIGONOMETRIA_EMMA_ZILL },
+  { codigo: 'EMMA_F_O_F_A_E_E_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Álgebra', 'Física General', 'Trigonometría', 'Electrónica'], fisica: FISICA_EMMA_COMPLETO, algebraZill: ALGEBRA_EMMA_ZILL, trigonometria: TRIGONOMETRIA_EMMA_ZILL },
   { codigo: 'EMMA_I_F_O_F_A_A_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Legislación Militar', 'Derechos Humanos', 'Física General'], fisica: FISICA_EMMA_COMPLETO },
   { codigo: 'EMMA_I_F_O_F_A_A_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Legislación Militar', 'Derechos Humanos', 'Administración Moderna'] },
   { codigo: 'EMMA_I_F_O_F_A_E_M_A_2026', escuela: 'Escuela Militar de Mantenimiento y Abastecimiento', materias: ['Legislación Militar', 'Derechos Humanos', 'Física General'], fisica: FISICA_EMMA_COMPLETO },
   { codigo: 'EMMG_F_S_1os_M_G_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Derechos Humanos', 'Álgebra', 'Matemáticas'] },
   { codigo: 'EMMG_F_S_2os_M_G_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Legislación Militar', 'Derechos Humanos'] },
   { codigo: 'EMMG_MG_LIC_LOG_M_G_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Álgebra', 'Matemáticas', 'Español', 'Historia de México', 'Metodología de la Investigación'] },
-  { codigo: 'EMMG_MG_TEC_MANTO_I_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Álgebra', 'Matemáticas', 'Física General', 'Química', 'Táctica'], fisica: [5], algebra: [8, 24] },
+  { codigo: 'EMMG_MG_TEC_MANTO_I_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Álgebra', 'Matemáticas', 'Física General', 'Química', 'Táctica'], fisica: [5, 12, 13, 14], algebra: [8, 24, 16, 23] },
   { codigo: 'EMMG_Sgto_1o_M_I_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Derechos Humanos'] },
-  { codigo: 'EMMG_T_E_BALISTICA_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Derechos Humanos', 'Álgebra', 'Matemáticas', 'Física General'], fisica: [4, 5, 6], algebra: [24, 25, 33] },
+  { codigo: 'EMMG_T_E_BALISTICA_2026', escuela: 'Escuela Militar de Materiales de Guerra', materias: ['Derechos Humanos', 'Álgebra', 'Matemáticas', 'Física General'], fisica: [4, 5, 6], algebra: [24, 25, 33, 35] },
   { codigo: 'EMOS_C_I_F_O_S_T_U_M_2026', escuela: 'Escuela Militar de Oficiales de Sanidad (CIFOS)', materias: ['Álgebra', 'Física General', 'Biología', 'Química'], fisica: [4, 5, 8], algebra: [1, 2, 3, 4, 5, 8, 10, 18, 20, 24, 25] },
   { codigo: 'EMT_F_O_TRANS_2026', escuela: 'Escuela Militar de Transmisiones', materias: ['Derechos Humanos', 'Álgebra', 'Matemáticas', 'Electrónica'] },
   { codigo: 'EMT_TRANS_LIC_TICS_2026', escuela: 'Escuela Militar de Transmisiones', materias: ['Álgebra', 'Cálculo Diferencial', 'Español', 'Metodología de la Investigación'], algebra: [1, 2, 3, 4, 5, 8, 10, 18, 20, 24] },
@@ -133,42 +144,29 @@ const CURSOS: Curso[] = [
  * sale de MateriaTemarioCapitulo → Capitulo → Libro); con una sola materia
  * bastaría, pero el esquema no admite varios.
  */
-async function enlazarMateria(
+/**
+ * Enlaza los capítulos de `fuentes` a un materiaTemario YA EXISTENTE que no
+ * los tenga todavía. Reconcilia sólo por ADICIÓN (nunca quita un capítulo que
+ * ya estuviera enlazado), para que correr el seed de nuevo tras ampliar el
+ * alcance de una materia (p. ej. sumar capítulos nuevos del banco) sume lo que
+ * falta sin duplicar lo que ya estaba.
+ */
+async function reconciliarCapitulos(
   tx: any,
-  temarioId: number,
+  materiaTemarioId: number,
   nombre: string,
   fuentes: FuenteLibro[],
-  cuota: number,
-  orden: number,
 ): Promise<void> {
-  const yaExiste = await tx.materiaTemario.findFirst({
-    where: { temarioId, nombre },
-    select: { id: true },
+  const existentes = await tx.materiaTemarioCapitulo.findMany({
+    where: { materiaTemarioId },
+    select: { capituloId: true },
   });
-  if (yaExiste) {
-    console.log(`      • ${nombre}: ya estaba enlazada (materiaTemario id=${yaExiste.id}), skip`);
-    return;
-  }
+  const idsExistentes = new Set(existentes.map((e: { capituloId: number }) => e.capituloId));
 
-  for (const fuente of fuentes) {
-    const unicos = new Set(fuente.capitulos);
-    if (unicos.size !== fuente.capitulos.length) {
-      throw new Error(`${nombre}/${fuente.slug}: números de capítulo repetidos en la fuente (${fuente.capitulos.join(',')})`);
-    }
-  }
-
-  const primerLibro = await tx.libro.findUnique({ where: { slug: fuentes[0].slug }, select: { id: true } });
-  if (!primerLibro) throw new Error(`libro "${fuentes[0].slug}" no existe`);
-
-  const mt = await tx.materiaTemario.create({
-    data: { temarioId, nombre, libroId: primerLibro.id, numPreguntas: cuota, orden },
-    select: { id: true },
-  });
-
-  let ok = 0;
+  let sumados = 0;
   let total = 0;
   for (const fuente of fuentes) {
-    const libro = fuente.slug === fuentes[0].slug ? primerLibro : await tx.libro.findUnique({ where: { slug: fuente.slug }, select: { id: true } });
+    const libro = await tx.libro.findUnique({ where: { slug: fuente.slug }, select: { id: true } });
     if (!libro) throw new Error(`libro "${fuente.slug}" no existe`);
     for (const numero of fuente.capitulos) {
       total++;
@@ -180,14 +178,54 @@ async function enlazarMateria(
         console.log(`      ⚠ ${nombre}: capítulo ${numero} no está en la oferta (${fuente.slug}) — se omite`);
         continue;
       }
-      // @@unique([materiaTemarioId, capituloId]) revienta si se repite: es la
-      // segunda barrera anti-duplicado, a nivel de base de datos.
-      await tx.materiaTemarioCapitulo.create({ data: { materiaTemarioId: mt.id, capituloId: cap.id } });
-      ok++;
+      if (idsExistentes.has(cap.id)) continue; // ya estaba enlazado de una corrida anterior
+      await tx.materiaTemarioCapitulo.create({ data: { materiaTemarioId, capituloId: cap.id } });
+      sumados++;
     }
   }
-  const slugs = fuentes.map((f) => f.slug).join(' + ');
-  console.log(`      • ${nombre}: ${cuota} preguntas · ${ok}/${total} caps enlazados (${slugs})`);
+  if (sumados > 0) {
+    console.log(`      • ${nombre}: +${sumados} capítulo(s) nuevo(s) enlazado(s) (de ${total} pedidos en total)`);
+  } else {
+    console.log(`      • ${nombre}: ya estaba enlazada (materiaTemario id=${materiaTemarioId}), sin capítulos nuevos que sumar`);
+  }
+}
+
+async function enlazarMateria(
+  tx: any,
+  temarioId: number,
+  nombre: string,
+  fuentes: FuenteLibro[],
+  cuota: number,
+  orden: number,
+): Promise<void> {
+  for (const fuente of fuentes) {
+    const unicos = new Set(fuente.capitulos);
+    if (unicos.size !== fuente.capitulos.length) {
+      throw new Error(`${nombre}/${fuente.slug}: números de capítulo repetidos en la fuente (${fuente.capitulos.join(',')})`);
+    }
+  }
+
+  const yaExiste = await tx.materiaTemario.findFirst({
+    where: { temarioId, nombre },
+    select: { id: true },
+  });
+  if (yaExiste) {
+    // La materia ya existe (de una corrida anterior): sólo se reconcilian los
+    // capítulos por si `fuentes` trae números nuevos que antes no estaban en
+    // el banco. La cuota y el orden no cambian una vez creada la materia.
+    await reconciliarCapitulos(tx, yaExiste.id, nombre, fuentes);
+    return;
+  }
+
+  const primerLibro = await tx.libro.findUnique({ where: { slug: fuentes[0].slug }, select: { id: true } });
+  if (!primerLibro) throw new Error(`libro "${fuentes[0].slug}" no existe`);
+
+  const mt = await tx.materiaTemario.create({
+    data: { temarioId, nombre, libroId: primerLibro.id, numPreguntas: cuota, orden },
+    select: { id: true },
+  });
+
+  await reconciliarCapitulos(tx, mt.id, nombre, fuentes);
 }
 
 async function main() {
@@ -213,7 +251,7 @@ async function main() {
 
     const tieneLM = curso.materias.includes('Legislación Militar');
     const tieneDH = curso.materias.includes('Derechos Humanos');
-    if (!curso.fisica && !curso.algebra && !tieneLM && !tieneDH) continue; // fila de identidad nada más, por ahora
+    if (!curso.fisica && !curso.algebra && !curso.algebraZill && !curso.trigonometria && !tieneLM && !tieneDH) continue; // fila de identidad nada más, por ahora
 
     // cuota y orden por posición en curso.materias (catálogo README), no sólo
     // entre las materias que se enlazan hoy — así no hay que recalcular nada
@@ -247,6 +285,12 @@ async function main() {
       if (curso.algebra) {
         await enlazarMateria(tx, temario.id, 'Álgebra', [{ slug: 'algebra-baldor', capitulos: curso.algebra }], cuotaDe('Álgebra'), ordenDe('Álgebra'));
       }
+      if (curso.algebraZill) {
+        await enlazarMateria(tx, temario.id, 'Álgebra', [{ slug: 'zill-atg', capitulos: curso.algebraZill }], cuotaDe('Álgebra'), ordenDe('Álgebra'));
+      }
+      if (curso.trigonometria) {
+        await enlazarMateria(tx, temario.id, 'Trigonometría', [{ slug: 'zill-atg', capitulos: curso.trigonometria }], cuotaDe('Trigonometría'), ordenDe('Trigonometría'));
+      }
       if (curso.fisica) {
         await enlazarMateria(tx, temario.id, 'Física General', [{ slug: 'fisica-perez-montiel', capitulos: curso.fisica }], cuotaDe('Física General'), ordenDe('Física General'));
       }
@@ -256,7 +300,10 @@ async function main() {
       if (tieneDH) {
         await enlazarMateria(tx, temario.id, 'Derechos Humanos', DH_LIBROS, cuotaDe('Derechos Humanos'), ordenDe('Derechos Humanos'));
       }
-    });
+    }, { timeout: 60000, maxWait: 10000 });
+    // timeout generoso (default de Prisma: 5 s): contra Neon en producción, la
+    // latencia de red por las varias consultas de un curso con varias materias
+    // agota el default y la transacción se cierra a medio curso (P2028).
   }
 
   console.log('\n  Resumen:');

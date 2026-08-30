@@ -93,11 +93,21 @@ ed. 2012. Se marcó "fuera de alcance" en este cierre porque el PDF no
 aparecía en la plataforma — **corregido el 28 ago 2026**: Carlo lo tiene en
 `examenes_tropa/libros/academicos/algebra-trigonometria-zill.pdf`, edición
 verificada contra la página legal, alcance de temario mapeado. Ver
-`docs/examen-tropa/algebra-trigonometria-zill.md`. Todavía no tiene banco
-escrito (es trabajo de contenido, ~318 hojas) ni fila en `Libro`.
+`docs/examen-tropa/algebra-trigonometria-zill.md`.
 
-Cursos EMMA sin Álgebra por ahora: `EMMA_F_A_I_M_A`, `EMMA_F_O_F_A_A_A`,
-`EMMA_F_O_F_A_A_M_A`, `EMMA_F_O_F_A_E_E_A`.
+**29 ago 2026 — el banco YA EXISTÍA, no había que escribir nada.** Este mismo
+libro (misma edición, mismo ISBN) ya estaba escrito y cerrado en
+`docs/examen-cultural/zill-atg/` desde antes, sirviendo a la EMMA y la EMI del
+cultural (códigos `ÁLGE-01-2026` y `TGA-02-2026` — los mismos que piden estos
+4 cursos de tropa). Los capítulos 2, 3 y 4 (Álgebra, 361 reactivos) y 8, 9, 10
+y 11 (Trigonometría, 255 reactivos) ya estaban en la base con libro `Libro`
+de slug `zill-atg`. Se enlazaron directo con `seed-temarios-tropa.ts`
+(`algebraZill` + `trigonometria`, libro `zill-atg`) — cero reactivos nuevos,
+cero trabajo de contenido. Confirmado en producción el 29-30 ago 2026: los 4
+cursos ya sirven Física, Álgebra y Trigonometría reales.
+
+Cursos EMMA ya con Álgebra y Trigonometría: `EMMA_F_A_I_M_A`,
+`EMMA_F_O_F_A_A_A`, `EMMA_F_O_F_A_A_M_A`, `EMMA_F_O_F_A_E_E_A`.
 
 ## Lo que falta verificar ANTES de escribir la migración
 
@@ -161,7 +171,7 @@ todavía para el banco cultural. Se dejaron fuera del enlace a propósito:
 
 | Falta | Lo pide |
 |---|---|
-| Física Unidad 12 (Electricidad, 78 págs.) | `EMMG_MG_TEC_MANTO_I` |
+| ~~Física Unidad 12 (Electricidad, 78 págs.)~~ — **escrita 29 ago 2026** (`fisica-12`, 106 react.) | `EMMG_MG_TEC_MANTO_I` |
 | ~~Física Unidad 13 (Magnetismo), 14 (Electromagnetismo)~~ — **escritas 28 ago 2026** (`fisica-13`, 34 react.; `fisica-14`, 76 react.) | `EMMG_MG_TEC_MANTO_I` |
 | ~~Baldor XVI (Ecuaciones Literales 1er Grado), XXIII (Ecuaciones Indeterminadas)~~ — **escritos 28 ago 2026** (`algebra-16`, 3 react.; `algebra-23`, 8 react.) | `EMMG_MG_TEC_MANTO_I` |
 | ~~Baldor XXXV (Teoría de Ecuaciones de 2º Grado)~~ — **escrito 28 ago 2026** (`algebra-35`, 16 react.) | `EMMG_T_E_BALISTICA` |
@@ -192,21 +202,16 @@ dejar la selección por subtema para después.
    sirven reactivos reales, entre 242 y 942 disponibles por temario — muy por
    encima de lo pedido.
 
-**Pendiente:**
-- Los 4 huecos de Baldor (XVI, XXIII, XXVIII, XXXV) y las Unidades 13-14 de
-  Física (Magnetismo, Electromagnetismo) **ya están escritos** (28 ago 2026,
-  53 + 34 + 76 = 163 reactivos en total) — falta sumarlos a
+**Pendiente:** ninguno de este archivo.
+- ~~Los 4 huecos de Baldor (XVI, XXIII, XXVIII, XXXV) y las Unidades 12-14 de
+  Física~~ — **enlazados en producción el 29-30 ago 2026**: se sumaron a
   `seed-temarios-tropa.ts` (cursos `EMMG_MG_TEC_MANTO_I_2026`,
-  `EMMG_T_E_BALISTICA_2026` y los 4 `EMTEFA_F_S_2os_*`) y correr
-  `importar-cultural-oferta.ts` para que entren a la base — se deja para
-  cuando se sume la Unidad 12, no pieza por pieza.
-- Física Unidad 12 (Electricidad, 78 págs., la más grande de las tres) sigue
-  sin ubicar en el PDF — trabajo de banco, no de esquema.
-- Conseguir o decidir sobre el libro de Zill/Dewar para los 4 cursos EMMA de
-  Álgebra — **el libro ya lo tiene Carlo** (`algebra-trigonometria-zill.pdf`,
-  edición verificada, alcance mapeado en
-  `docs/examen-tropa/algebra-trigonometria-zill.md`), falta escribir el banco
-  (~318 hojas, 7 capítulos).
+  `EMMG_T_E_BALISTICA_2026` y los 4 `EMTEFA_F_S_2os_*`) y ya sirven reactivos
+  reales, verificado con consulta directa.
+- ~~Libro de Zill/Dewar para los 4 cursos EMMA~~ — **resuelto el 29 ago 2026**:
+  no hacía falta escribir banco nuevo, ya existía completo en
+  `docs/examen-cultural/zill-atg/` (ver la sección de arriba). Enlazado y
+  verificado en producción.
 - ~~Enlazar Legislación Militar y Derechos Humanos~~ — **hecho el 28 ago 2026**,
   ver `docs/examen-tropa/importador-tropa.md` (Fase 2). 19 cursos con
   Legislación Militar y 23 con Derechos Humanos ya sirven reactivos reales,

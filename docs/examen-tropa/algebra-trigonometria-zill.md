@@ -1,5 +1,15 @@
 # Álgebra y Trigonometría (Zill/Dewar, EMMA) — orden de trabajo
 
+> **RESUELTO el 29 ago 2026 — no hacía falta escribir nada.** Antes de arrancar
+> este orden de trabajo, se encontró que el banco **ya existía completo**: es
+> el mismo libro (misma edición, mismo ISBN) que `docs/examen-cultural/zill-atg/`
+> ya tenía escrito y cerrado para la EMMA/EMI del cultural (códigos
+> `ÁLGE-01-2026` y `TGA-02-2026` — los mismos que piden estos 4 cursos de
+> tropa). Se enlazó directo vía `seed-temarios-tropa.ts` (libro `zill-atg`,
+> capítulos 2-3-4 para Álgebra y 8-9-10-11 para Trigonometría), verificado en
+> producción. **Este documento queda como registro histórico del
+> reconocimiento — no como orden de trabajo pendiente.**
+>
 > Reconocimiento hecho el 28 ago 2026. Sirve a **4 cursos, todos de la Escuela
 > Militar de Mantenimiento y Abastecimiento**: `EMMA_F_A_I_M_A_2026`,
 > `EMMA_F_O_F_A_A_A_2026`, `EMMA_F_O_F_A_A_M_A_2026`, `EMMA_F_O_F_A_E_E_A_2026`.
@@ -123,7 +133,7 @@ riesgo que Ley del Uso de la Fuerza/Cap. IX del Manual DH (ahí eran el mismo
 libro citándose a sí mismo), pero conviene no preguntar "qué es una ecuación
 cuadrática" dos veces con libros distintos sin que aporte nada nuevo.
 
-**Pendiente:** todo. No se ha escrito un solo reactivo. Empezar por el
-Capítulo 2 (el más grande, 64 hojas) en una sesión nueva — este documento es
-el punto de partida para esa sesión, no hace falta releer el PDF para
-reconocer el alcance otra vez.
+**Pendiente:** ninguno. Ver la nota del encabezado (29 ago 2026): el banco ya
+existía en `docs/examen-cultural/zill-atg/` y sólo hizo falta enlazarlo, no
+escribirlo. Este archivo queda como registro del reconocimiento del 28 ago,
+no como trabajo por hacer.
