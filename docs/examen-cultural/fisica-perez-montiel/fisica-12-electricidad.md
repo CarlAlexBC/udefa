@@ -79,12 +79,71 @@ Thomson.
 **12 · Fuerza electromotriz** (p. 417): 5 reactivos.
 **13 · Conexión de pilas en serie y en paralelo** (pp. 417-418): 4 reactivos.
 
-**Pendiente:** subtemas 14 a 20 (Resistencia eléctrica, Ley de Ohm, Circuitos
-eléctricos y conexión de resistencias en serie/paralelo/mixtas, Potencia
-eléctrica y efecto Joule, Leyes de Kirchhoff, Capacitores o condensadores
-eléctricos, Electroquímica y ley de Faraday de la electrólisis), páginas
-418-461 — sin leer todavía. El índice completo (con página de arranque de
-cada subtema) ya está confirmado, no hace falta releerlo.
+**Pendiente:** subtemas 14 a 20. **Ya leídos y con los datos abajo — NO
+releer el PDF, sólo falta redactarlos como reactivos** (formato Anexo H,
+igual que arriba). Corte por límite de uso de sesión (28 ago 2026), no por
+falta de contenido.
+
+### Datos ya extraídos, listos para redactar
+
+**14 · Resistencia eléctrica** (pp. 418-421):
+- Definición: "la resistencia eléctrica de un material es la oposición que presenta al paso de la corriente o flujo de electrones" (p. 418).
+- R = ρL/A (resistencia directamente proporcional a la longitud, inversamente proporcional al área de la sección transversal) (p. 420).
+- Unidad: 1 Ω = 1 V/1 A (p. 420).
+- Variación con la temperatura: R_T = R_0(1+αT). En los metales α > 0 (resistencia aumenta con T); en carbono, silicio y germanio α < 0 (resistencia disminuye con T) (p. 420).
+- Superconductividad: fenómeno en que algunos materiales, a temperaturas muy bajas (del orden de 90 K en los de "Alta Temperatura Crítica"), alcanzan resistencia eléctrica CERO (p. 421). Descubierta en 1911 por el holandés Heike Kamerlingh Onnes (Nobel 1913), investigando metales a ~1 K. Temperatura crítica (Tc): temperatura a partir de la cual, si se sigue enfriando, el material se vuelve superconductor. Efecto Meissner: los superconductores expulsan el campo magnético de su interior, produciendo repulsión con los imanes (permite la levitación magnética, trenes Maglev).
+
+**15 · Ley de Ohm** (p. 423):
+- Georg Simon Ohm (físico alemán, 1787-1854) enunció en 1827: "la intensidad de la corriente eléctrica que pasa por un conductor en un circuito es directamente proporcional a la diferencia de potencial aplicada a sus extremos e inversamente proporcional a la resistencia del conductor". I=V/R, V=IR.
+- Definición de 1 ohm vía ley de Ohm: la resistencia de un conductor es de 1 Ω si existe una corriente de 1 A cuando se mantiene una diferencia de potencial de 1 V a través de la resistencia.
+- Limitaciones de la ley de Ohm: (a) se aplica a los metales ("conductores óhmicos"), NO al carbono ni a los semiconductores usados en transistores ("conductores no óhmicos": su resistencia no permanece constante con voltajes diferentes); (b) la resistencia cambia con la temperatura, pues los materiales se calientan al paso de la corriente; (c) algunas aleaciones conducen mejor las cargas en una dirección que en otra.
+
+**16 · Circuitos eléctricos y conexión de resistencias en serie, paralelo y mixtas** (pp. 424-428):
+- Circuito eléctrico: sistema en el cual la corriente fluye por un conductor en una trayectoria completa (cerrada), debido a una diferencia de potencial.
+- Elementos fundamentales de todo circuito: a) Voltaje, b) Corriente, c) Resistencia.
+- Circuito cerrado: la corriente circula en todo el sistema. Circuito abierto: no circula. El interruptor abre o cierra el circuito.
+- Serie: los elementos conductores se unen uno a continuación del otro; toda la corriente circula por cada elemento; si se abre el circuito en cualquier parte, se interrumpe TOTALMENTE la corriente.
+- Paralelo: los elementos están separados en dos o más ramales; la corriente se divide entre ellos; al abrir el circuito en una parte, la corriente NO se interrumpe en los demás ramales.
+- Mixto: los elementos se conectan tanto en serie como en paralelo.
+- Resistencia equivalente en serie: Re = R1+R2+...+Rn. El voltaje total se reparte: V = V1+V2+V3.
+- Resistencia equivalente en paralelo: 1/Re = 1/R1+1/R2+...+1/Rn.
+- Nota del libro (recuadro): "la resistencia equivalente en un circuito en paralelo tiene siempre un valor MENOR que cualquiera de las resistencias componentes conectadas" (a más ramificaciones, menos oposición); "en una conexión en serie la resistencia equivalente siempre será MAYOR que cualquiera de las resistencias conectadas" (p. 428).
+- Resistencia interna de una pila: la caída de voltaje que se observa en una batería al cerrar el circuito (p.ej. de 6 V a 5.5 V) se produce por la resistencia interna de las pilas de la batería; si no se señala esa resistencia interna en un problema, se considera el valor de la diferencia de potencial dado como el voltaje real que recibe el circuito estando cerrado (p. 428).
+
+**17 · Potencia eléctrica y efecto Joule** (pp. 435-437):
+- Definición: "la potencia eléctrica es la rapidez con que se realiza un trabajo; también se interpreta como la energía que consume una máquina o cualquier dispositivo eléctrico en un segundo" (p. 435).
+- P = VI; se demuestra que 1 watt = 1 volt-ampere.
+- Efecto Joule: "cuando circula corriente eléctrica en un conductor, parte de la energía cinética de los electrones se transforma en calor y eleva la temperatura de éste" (p. 437).
+- Ley de Joule: "el calor que produce una corriente eléctrica al circular por un conductor es directamente proporcional al cuadrado de la intensidad de la corriente, a la resistencia y al tiempo que dura circulando la corriente." Q = 0.24 I²Rt.
+- Equivalencia: 1 joule de trabajo = 0.24 calorías de energía térmica.
+
+**18 · Leyes de Kirchhoff** (pp. 439-442):
+- Gustav Robert Kirchhoff, físico alemán (1824-1887), propuso a mediados del s. XIX dos leyes que llevan su nombre.
+- Nodo: "un punto de una red eléctrica en el cual convergen tres o más conductores" (p. 439).
+- Primera ley (de nodos): "la suma algebraica de todas las intensidades de corriente en cualquier unión o nodo de un circuito es igual a cero" (corrientes que entran = signo positivo; las que salen = signo negativo). Confirma el principio de la conservación de las cargas eléctricas.
+- Segunda ley (de mallas): "en un circuito cerrado o malla, las caídas de tensión totales en las resistencias son iguales a la tensión total que se aplica al circuito" — la suma de las fem (Σε) en una malla es igual a la suma de todas las caídas de potencial IR (ΣIR): Σε = ΣIR (p. 442). Confirma el principio de la conservación de la energía.
+
+**19 · Capacitores o condensadores eléctricos** (pp. 444-447):
+- Definición: "un capacitor o condensador eléctrico es un dispositivo empleado para almacenar cargas eléctricas". Consta de dos láminas metálicas separadas por un aislante o dieléctrico (aire, vidrio, mica, aceite o papel encerado) (p. 444).
+- Tres formas de aumentar la capacitancia: a) disminuir la distancia entre las placas metálicas; b) aumentar el área de las placas (mayor superficie, mayor capacidad de almacenamiento); c) aumentar el voltaje de la batería.
+- Q = CV (la carga Q que puede almacenar un capacitor a un voltaje dado es proporcional a la capacitancia C y al voltaje V).
+- Unidad de capacitancia: el farad (F), en honor de Michael Faraday (1791-1867). Definición: "un capacitor tiene la capacitancia de un farad cuando al almacenar la carga de un coulomb su potencial aumenta un volt".
+- Submúltiplos: microfarad (µF = 1×10⁻⁶ F), picofarad o micromicrofarad (pF = 1×10⁻¹² F).
+- Conexión en serie: 1/Ce = 1/C1+1/C2+...+1/Cn (misma forma que las resistencias en paralelo); la carga depositada es la MISMA en cada capacitor.
+- Conexión en paralelo: Ce = C1+C2+...+Cn (misma forma que las resistencias en serie); la diferencia de potencial es la MISMA en cada capacitor (todos conectados directamente a la fuente).
+
+**20 · Electroquímica y ley de Faraday de la electrólisis** (pp. 449-450):
+- Michael Faraday observó que algunas soluciones líquidas permiten la conducción de la electricidad y las llamó electrólitos.
+- Al electrodo negativo se le llama cátodo; al positivo, ánodo.
+- Los iones positivos (atraídos al cátodo) se llaman cationes; los iones negativos (atraídos al ánodo) se llaman aniones.
+- Ley de Faraday de la electrólisis (enunciada en 1833): "el grado de reacción química en un electrodo es directamente proporcional a la cantidad de carga que fluye por este electrodo durante la reacción".
+- "El cambio químico que siempre ocurre en el cátodo es de reducción" (ganancia de electrones; ejemplo dado: Na⁺ + e⁻ → Na⁰).
+
+**Al redactar:** seguir el mismo formato Anexo H y estilo de enunciado
+("En relación con el libro de Física, ¿...?") que los subtemas 1-13 de este
+mismo archivo. Verificar cada cita contra el PDF (copia EMM, offset +13)
+sólo si algo no queda claro en las notas de arriba — no releer todo desde
+cero.
 
 ## Criterio: teoría sobre práctica
 
