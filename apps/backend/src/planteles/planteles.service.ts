@@ -14,8 +14,12 @@ export class PlantelesService {
     });
   }
 
+  // Esta lista alimenta el formulario público de registro y el panel de
+  // Planteles del admin -- los dos son sólo escuelas de ADMISIÓN. Los
+  // "Plantel" de tropa (tipo TROPA) son cursos, no escuelas reales; se
+  // gestionan aparte, nunca aquí.
   async obtenerTodos() {
-    return this.prisma.plantel.findMany();
+    return this.prisma.plantel.findMany({ where: { tipo: 'ADMISION' } });
   }
 
   async borrar(id: number) {
