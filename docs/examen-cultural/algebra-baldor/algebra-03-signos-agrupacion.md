@@ -101,6 +101,7 @@ De conformidad con el libro de Álgebra, ¿quién fue Thales de Mileto?
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 58
 **Subtema:** Signos de agrupación · Thales de Mileto
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario (mismo criterio ya aplicado a Ptolomeo y Caldea/Asiria en este libro)
 
 Thales de Mileto. El primero y más famoso de los siete sabios de Grecia.
 

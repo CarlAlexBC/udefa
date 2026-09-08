@@ -133,6 +133,7 @@ En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágora
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 63
 **Subtema:** Multiplicación · Pitágoras
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario (mismo criterio ya aplicado a Ptolomeo y Caldea/Asiria en este libro)
 
 Célebre filósofo griego nacido en Samos y muerto en Metaponte.
 
