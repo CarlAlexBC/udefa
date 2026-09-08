@@ -2488,6 +2488,7 @@ En relación con el libro de Geografía, ¿qué representa la Figura 3.13?
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
 **Subtema:** husos horarios · Figura 3.13
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 3.13 Sistema de husos horarios sin modificación (horas legales)."
 

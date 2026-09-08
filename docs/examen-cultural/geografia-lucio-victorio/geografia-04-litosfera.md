@@ -1301,6 +1301,7 @@ En relación con el libro de Geografía, según la Figura 4.26, ¿qué dos facto
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 142
 **Subtema:** contaminación ambiental · Figura 4.26
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 4.26 Dos factores de contaminación ambiental: fábricas y vehículos."
 
@@ -1697,6 +1698,7 @@ De conformidad con el libro de Geografía, según la Figura 4.27, ¿qué se mues
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 144
 **Subtema:** causas de la contaminación · Figura 4.27
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 4.27 Dos vistas de Nueva York (Estados Unidos de América)."
 

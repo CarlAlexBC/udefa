@@ -1,20 +1,19 @@
-Reactivos totales en los .md: 10362
-Señalados: 227  (2.2%)
+Reactivos totales en los .md: 10354
+Señalados: 200  (1.9%)
 
 POR FAMILIA
-  PLANTILLA          112   fisica-perez-montiel 37, zill-atg 33, calculo-salazar 22, geografia-lucio-victorio 20
+  PLANTILLA           92   fisica-perez-montiel 37, zill-atg 33, calculo-salazar 22
   PERSONA             67   fisica-perez-montiel 20, EMM 17, historia-mexico-menchaca 10, algebra-baldor 6, zill-atg 5, HCM 4
-  VISUAL              40   EMM 13, zill-atg 7, geografia-lucio-victorio 6, espanol-zarzar 5, fisica-perez-montiel 5, larson-precalculo 3
+  VISUAL              34   EMM 13, zill-atg 7, espanol-zarzar 5, fisica-perez-montiel 5, larson-precalculo 3, algebra-baldor 1
   SIN_ANTECEDENTE      6   historia-mexico-menchaca 5, EMM 1
   LIBRO                1   espanol-zarzar 1
-  MARCO                1   geografia-lucio-victorio 1
 
 POR DETECTOR
-    112  PLANTILLA · apertura fuera de las establecidas
+     92  PLANTILLA · apertura fuera de las establecidas
      46  PERSONA · autoria o merito
          [EMM] "En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?"
          [EMM] "De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?"
-     40  VISUAL · esquema/figura/tabla
+     34  VISUAL · esquema/figura/tabla
          [EMM] "En relación con el libro de Biología, ¿qué representa el gráfico de la figura 14-1, "El vigoroso campo de la epigenética"?"
          [EMM] "De acuerdo con el libro de Biología, ¿qué muestra la figura 14-1 sobre el crecimiento del campo de la epigenética?"
      16  PERSONA · gentilicio de cientifico
@@ -26,5 +25,3 @@ POR DETECTOR
          [algebra-baldor] "En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?"
       1  LIBRO · bibliografia o fuentes
          [espanol-zarzar] "De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se enlistan las fuentes en la bibliografía final, y de qué carác"
-      1  MARCO · cita o epigrafe
-         [geografia-lucio-victorio] "Según la cita del libro de Geografía, ¿qué se nos ha enseñado fundamentalmente desde hace dos siglos, y frente a lo cual debemos a"

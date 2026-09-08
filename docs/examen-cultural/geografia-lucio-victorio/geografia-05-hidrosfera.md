@@ -1966,6 +1966,7 @@ De conformidad con el libro de Geografía, según la Figura 5.5, ¿qué ejemplos
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
 **Subtema:** aguas oceánicas · Figura 5.5
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.5 Ejemplos de mares y golfos: mares Mediterráneo y Rojo; golfos de Suez y de Akaba."
 
@@ -1981,6 +1982,7 @@ En relación con el libro de Geografía, según la Figura 5.6, ¿qué es en real
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
 **Subtema:** aguas oceánicas · Figura 5.6
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.6 Una vista del llamado Mar de Galilea, que en realidad es un lago de agua dulce."
 
@@ -3240,6 +3242,7 @@ De conformidad con el libro de Geografía, según la Figura 5.10, ¿qué modific
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
 **Subtema:** las corrientes marinas · Figura 5.10
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.10 La Corriente del Golfo de México modifica el clima de las Islas Británicas."
 

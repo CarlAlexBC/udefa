@@ -89,7 +89,10 @@ DETECTORES = [
 
 APERTURAS_VALIDAS = re.compile(
     r'^(en relaci[oó]n con el|de acuerdo con el|de conformidad con el|seg[uú]n el|conforme al)'
-    r'\s+libro de',
+    # "el libro de X" o, cuando el dato viene de un cuadro/tabla con número
+    # (ej. Köppen en Geografía), "el Cuadro N.N del libro de X" — estilo
+    # válido, revisado el 3 sep 2026: cita la fuente exacta, no es defecto.
+    r'\s+(libro de|cuadro \d|tabla \d)',
     re.I,
 )
 

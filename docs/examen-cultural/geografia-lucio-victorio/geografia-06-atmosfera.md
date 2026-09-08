@@ -4184,6 +4184,7 @@ De conformidad con la cita del libro de Geografía sobre la contaminación ambie
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
 **Subtema:** la contaminación atmosférica
+**Retirado:** MARCO · se apoya en una cita/epígrafe reflexivo del libro, no en contenido geográfico del temario
 
 "«Estamos desviándonos del curso de la historia del hombre sobre la Tierra. Hemos vivido mucho tiempo con la idea de que la naturaleza era un bien inagotable, gratuito y eterno. Hoy descubrimos por el contrario que la naturaleza no es un bien inagotable, sino un bien raro; no gratuito y sí cada vez más caro de proteger; y no eterno, sino temporal.»"
 
@@ -4199,5 +4200,6 @@ Según la cita del libro de Geografía, ¿qué se nos ha enseñado fundamentalme
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
 **Subtema:** la contaminación atmosférica
+**Retirado:** MARCO · se apoya en la misma cita/epígrafe reflexivo del libro que el 269, no en contenido geográfico del temario
 
 "«Debemos, pues, adoptar una posición contraria a todo lo que se nos ha enseñado fundamentalmente desde hace dos siglos: el culto al progreso científico y técnico, la creencia en las ventajas de la urbanización y el fervor por el progreso industrial.»"
