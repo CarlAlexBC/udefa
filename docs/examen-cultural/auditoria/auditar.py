@@ -1,7 +1,9 @@
 """
 Auditoría a fondo del banco cultural.
 
-Busca reactivos que probablemente NO debieron existir, en cuatro familias:
+Dos rondas de detectores:
+
+RONDA 1 — reactivos que probablemente NO debieron existir, en cuatro familias:
 
   VISUAL  — piden mirar algo (figura, esquema, gráfica, mapa) que la
             plataforma no muestra. Son literalmente incontestables.
@@ -11,6 +13,29 @@ Busca reactivos que probablemente NO debieron existir, en cuatro familias:
             "se verá en este capítulo".
   MARCO   — se apoyan explícitamente en un recuadro, nota al pie o cita.
 
+RONDA 2 — reactivos mal logrados aunque sí correspondan al tema (agosto→
+septiembre 2026, a raíz de reportes de aspirantes reales sobre redacción
+sin contexto):
+
+  PLANTILLA        — el enunciado no arranca con ninguna de las aperturas
+                      establecidas ("En relación con el libro de…", etc.).
+  SIN_ANTECEDENTE   — el enunciado usa un pronombre (lo/la/le/los/las) antes
+                      de nombrar a quién se refiere. Ilegible fuera de la
+                      página del libro, donde el antecedente vive en el
+                      párrafo anterior.
+
+Lo que este script deliberadamente NO intenta: decidir qué tan importante es
+un tema, o si un subtema es "relleno" (introducción, dato curioso, ejemplo
+ilustrativo) frente a contenido central. Se probó una señal por cantidad de
+reactivos por subtema y Carlo la descartó (3 sep 2026): cuántos reactivos
+tiene un subtema no dice nada de si es relleno o no — un subtema con pocos
+reactivos puede ser igual de importante que uno con muchos, y viceversa. Esa
+clasificación es de lectura y criterio, no de patrón de texto — el propio
+README de esta carpeta ya lo advertía para la familia PERSONA ("hay que
+revisarla uno por uno") y para el relleno de en medio del capítulo ("no
+tiene patrón lingüístico"). Se hace en la Fase C de revisión, leyendo, no
+aquí.
+
 Escribe dos archivos: un resumen y una lista completa con archivo y número
 de cada reactivo señalado, para que el trabajo de limpieza no tenga que
 volver a rastrear nada.
@@ -18,6 +43,9 @@ volver a rastrear nada.
 import glob, re, collections, os, sys
 
 SALIDA = sys.argv[1] if len(sys.argv) > 1 else '.'
+# Carpetas a auditar: por defecto todas (glob '*'); se puede acotar con una
+# lista separada por comas, ej. `python auditar.py auditoria HCM,algebra-baldor`
+CARPETAS = sys.argv[2].split(',') if len(sys.argv) > 2 else None
 
 DETECTORES = [
     # ── VISUAL: exige ver algo que no está ────────────────────────────
@@ -57,6 +85,78 @@ DETECTORES = [
      r'bibliograf[ií]a|fuentes consultadas|lecturas recomendadas|¿en qu[eé] editorial|¿de qu[eé] a[nñ]o es (el|la)'),
 ]
 
+# ── RONDA 2 ─────────────────────────────────────────────────────────────
+
+APERTURAS_VALIDAS = re.compile(
+    r'^(en relaci[oó]n con el|de acuerdo con el|de conformidad con el|seg[uú]n el|conforme al)'
+    r'\s+libro de',
+    re.I,
+)
+
+# Palabras que empiezan con mayúscula pero son parte del molde de la
+# pregunta, no un antecedente real (nombre propio, sigla, institución).
+PALABRAS_INTERROGATIVAS = {
+    'qué', 'quién', 'quiénes', 'cuál', 'cuáles', 'cómo', 'cuándo', 'dónde',
+    'cuánto', 'cuánta', 'cuántos', 'cuántas', 'por', 'para', 'en', 'de',
+    'según', 'bajo', 'con', 'entre', 'sobre', 'desde', 'hasta', 'del', 'al',
+}
+
+# Sólo pretérito (-ó/-aron/-ieron): el imperfecto (-ía/-aba) choca demasiado
+# con sustantivos femeninos comunes (teoría, energía, biología...) y disparaba
+# falsos positivos por "la teoría", "la energía", etc.
+PRONOMBRE_SIN_NOMBRAR = re.compile(
+    r'\b(lo|la|le|los|las)\s+[a-záéíóúñ]+(?:ó|aron|ieron)\b', re.I,
+)
+CAPITALIZADO = re.compile(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,}\b')
+
+
+def revisar_plantilla(e: str):
+    if APERTURAS_VALIDAS.match(e.strip()):
+        return None
+    return 'apertura fuera de las establecidas'
+
+
+ARTICULO_QUE_CONCUERDA = {'lo': 'el', 'la': 'la', 'los': 'los', 'las': 'las'}
+
+
+def revisar_sin_antecedente(e: str):
+    # Quita la cláusula fija ("En relación con el libro de X, ") para no
+    # confundir el título del libro con el antecedente que se busca.
+    pregunta = re.sub(
+        r'^(en relaci[oó]n con el|de acuerdo con el|de conformidad con el|seg[uú]n el|conforme al)'
+        r'\s+libro de [^,]+,\s*', '', e.strip(), flags=re.I,
+    )
+    m = PRONOMBRE_SIN_NOMBRAR.search(pregunta)
+    if not m:
+        return None
+    pronombre = m.group(1).lower()
+    # El antecedente puede ir antes ("Fulano... lo hizo") o después, en una
+    # frase aclaratoria pospuesta muy común en español ("le faltaba A LA
+    # TEORÍA DE OPARIN", "¿qué es la superconductividad y quién LA
+    # descubrió?"). Se busca en los dos lados.
+    antes = pregunta[:m.start()]
+    despues = pregunta[m.end():]
+    articulo = ARTICULO_QUE_CONCUERDA.get(pronombre)
+    for lado in (antes, despues):
+        if articulo:
+            # "lo"/"la"/"los"/"las" sólo pueden referirse a un sustantivo con
+            # el MISMO artículo (concuerda en género y número). "la
+            # influencia" no sirve de antecedente para "lo" — son de género
+            # distinto — pero "la superconductividad" sí sirve para "la".
+            # Este cruce es lo que de verdad separa el caso de la CIA (sin
+            # ningún sustantivo que concuerde) de una oración normal.
+            if re.search(rf'\b{articulo}\s+[a-záéíóúñ]{{3,}}\b', lado, re.I):
+                return None
+        else:
+            # "le" no marca género: se cae al criterio más débil (nombre
+            # propio, o "el/la/los/las X de NOMBRE") a cualquier lado.
+            for token in CAPITALIZADO.findall(lado):
+                if token.lower() not in PALABRAS_INTERROGATIVAS:
+                    return None
+            if re.search(r'\b(el|la|los|las)\s+\w+\s+de\s+[A-ZÁÉÍÓÚÑ]', lado):
+                return None
+    return f'pronombre "{pronombre}" sin nombrar antes a quién se refiere'
+
 
 def enunciado(bloque: str) -> str:
     txt = re.split(r'^- [A-D]\.', bloque, flags=re.M)[0]
@@ -75,10 +175,18 @@ por_libro = collections.defaultdict(collections.Counter)
 filas = []
 ejemplos = collections.defaultdict(list)
 
-for f in sorted(glob.glob('*/*.md')):
+patron_archivos = [f'{c}/*.md' for c in CARPETAS] if CARPETAS else ['*/*.md']
+rutas = sorted({
+    p for pat in patron_archivos for p in glob.glob(pat)
+    if not p.replace(os.sep, '/').startswith('auditoria/')
+})
+
+for f in rutas:
     ruta = f.replace(os.sep, '/')
     libro = ruta.split('/')[0]
-    for b in re.split(r'^### ', open(f, encoding='utf-8').read(), flags=re.M)[1:]:
+    texto_completo = open(f, encoding='utf-8').read()
+
+    for b in re.split(r'^### ', texto_completo, flags=re.M)[1:]:
         # Los retirados conservan su texto en el archivo, así que seguirían
         # apareciendo aquí para siempre. La auditoría mide el banco VIVO: lo que
         # de verdad le puede tocar a un aspirante.
@@ -86,6 +194,8 @@ for f in sorted(glob.glob('*/*.md')):
             continue
         total += 1
         e = enunciado(b)
+
+        flagged = False
         for familia, etiqueta, patron in DETECTORES:
             if re.search(patron, e, re.I):
                 por_familia[familia] += 1
@@ -94,17 +204,36 @@ for f in sorted(glob.glob('*/*.md')):
                 filas.append((ruta, numero(b), familia, etiqueta, e[:160]))
                 if len(ejemplos[f'{familia} · {etiqueta}']) < 2:
                     ejemplos[f'{familia} · {etiqueta}'].append((libro, e[:130]))
+                flagged = True
                 break
+        if flagged:
+            continue
+
+        motivo = revisar_plantilla(e)
+        if motivo:
+            por_familia['PLANTILLA'] += 1
+            por_detector[f'PLANTILLA · {motivo}'] += 1
+            por_libro['PLANTILLA'][libro] += 1
+            filas.append((ruta, numero(b), 'PLANTILLA', motivo, e[:160]))
+            continue
+
+        motivo = revisar_sin_antecedente(e)
+        if motivo:
+            por_familia['SIN_ANTECEDENTE'] += 1
+            por_detector['SIN_ANTECEDENTE · pronombre sin nombrar'] += 1
+            por_libro['SIN_ANTECEDENTE'][libro] += 1
+            filas.append((ruta, numero(b), 'SIN_ANTECEDENTE', motivo, e[:160]))
+            continue
 
 señalados = len(filas)
 lineas = []
 lineas.append(f'Reactivos totales en los .md: {total}')
-lineas.append(f'Señalados: {señalados}  ({señalados*100/total:.1f}%)')
+lineas.append(f'Señalados: {señalados}  ({señalados*100/total:.1f}%)' if total else 'Señalados: 0')
 lineas.append('')
 lineas.append('POR FAMILIA')
 for fam, n in por_familia.most_common():
     det = ', '.join(f'{l} {c}' for l, c in por_libro[fam].most_common(6))
-    lineas.append(f'  {fam:9} {n:5}   {det}')
+    lineas.append(f'  {fam:16} {n:5}   {det}')
 lineas.append('')
 lineas.append('POR DETECTOR')
 for k, n in por_detector.most_common():
