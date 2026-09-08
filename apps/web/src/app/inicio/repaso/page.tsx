@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
 import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
+import { renderizarEnfasis } from '@/lib/enfasis'
 import { Button } from '@/components/ui/button'
 import { EntiendeElTema } from '@/components/entiende-tema/EntiendeElTema'
 import {
@@ -284,7 +285,7 @@ export default function RepasoPage() {
           )}
           <div className="mt-3 mb-6 flex min-h-[96px] items-center">
             <h1 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
-              {actual.enunciado}
+              {renderizarEnfasis(actual.enunciado)}
             </h1>
           </div>
 
@@ -335,7 +336,7 @@ export default function RepasoPage() {
                   Lo que dice el libro
                 </p>
                 <p className="mt-2 text-sm italic leading-relaxed text-foreground">
-                  «{correccion.explicacion}»
+                  «{renderizarEnfasis(correccion.explicacion)}»
                 </p>
                 {correccion.referencia && (
                   <p className="mt-2 flex items-center gap-1.5 text-xs text-muted-foreground">
@@ -459,7 +460,7 @@ function OpcionRepaso({
           (esCorrecta || esElegidaMal) && 'text-foreground',
         )}
       >
-        {opcion}
+        {renderizarEnfasis(opcion)}
       </span>
 
       {/* En teléfono este hueco no existe: 104 px fijos aquí le dejaban al

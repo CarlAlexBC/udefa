@@ -5,6 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { apiFetch } from '@/lib/api'
 import { COLOR_PAQUETE_CLARO, COLOR_DE_MODULO } from '@/lib/colores-paquete'
+import { renderizarEnfasis } from '@/lib/enfasis'
 import { Button } from '@/components/ui/button'
 import {
   ArrowLeft,
@@ -205,7 +206,7 @@ function Quiz({
         >
           {mod.etiqueta}
         </span>
-        <p className="mt-3 text-lg font-medium text-foreground">{p.enunciado}</p>
+        <p className="mt-3 text-lg font-medium text-foreground">{renderizarEnfasis(p.enunciado)}</p>
 
         {/* Figura del reactivo, si la trae. Hasta hoy la probadita los excluía
             porque no sabía pintarlos; ahora entra el que tenga su recorte
@@ -239,7 +240,7 @@ function Quiz({
                     : 'border-border text-muted-foreground hover:bg-muted')
                 }
               >
-                {op}
+                {renderizarEnfasis(op)}
               </button>
             )
           })}

@@ -14,6 +14,7 @@ import {
 import { Button, buttonVariants } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { colorDeExamen, HOJA_DE_PLATA_CLARA } from '@/lib/colores-paquete'
+import { renderizarEnfasis } from '@/lib/enfasis'
 import {
   ArrowRight,
   Brain,
@@ -293,7 +294,7 @@ function SlidePsicometricoUI({
 
       {/* Enunciado */}
       <p className="mb-5 text-lg font-semibold leading-snug text-foreground md:text-xl">
-        {slide.enunciado}
+        {renderizarEnfasis(slide.enunciado)}
       </p>
 
       {/* Opciones */}
@@ -333,7 +334,7 @@ function SlidePsicometricoUI({
               >
                 {letra}
               </span>
-              <span className="flex-1">{opcion}</span>
+              <span className="flex-1">{renderizarEnfasis(opcion)}</span>
               {mostrarCorrecta && <CheckCircle2 className="h-4 w-4 text-military" />}
               {mostrarIncorrecta && <XCircle className="h-4 w-4 text-destructive" />}
             </button>
@@ -483,7 +484,7 @@ function FeedbackExplicacion({
 
       {/* Explicación pedagógica */}
       <div className="rounded-lg border-l-2 border-l-accent bg-accent/5 p-4">
-        <p className="text-sm leading-relaxed text-foreground">{explicacion}</p>
+        <p className="text-sm leading-relaxed text-foreground">{renderizarEnfasis(explicacion)}</p>
       </div>
 
       {/* CTA para pasar al siguiente slide */}
