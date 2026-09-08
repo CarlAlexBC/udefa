@@ -1260,6 +1260,7 @@ De conformidad con el libro de Historia de México 1, entre los grandes personaj
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 117
 
 El fundador de los jesuitas Ignacio de Loyola, el misionero de parte de la India Francisco Javier; Teresa de Jesús, Juan de la Cruz, etc.
 
@@ -1684,6 +1685,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fue el fundador d
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México
 
 Su fundador fue el español Santo Domingo de Guzmán, y su objetivo era proporcionar instrucción religiosa.
 
@@ -1864,6 +1866,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fue el fundador d
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 77
 
 Su fundador fue San Ignacio de Loyola.
 

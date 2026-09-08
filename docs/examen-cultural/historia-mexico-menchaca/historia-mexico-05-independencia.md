@@ -2789,6 +2789,7 @@ De acuerdo con el libro de Historia de México 1, ¿quién fue el diputado que r
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
 **Subtema:** 5.2 Congreso de Chilpancingo
+**Retirado:** PERSONA · qué diputado representó a qué ciudad es un dato arbitrario de una lista de ocho, no una comprensión del Congreso
 
 Los diputados fueron: Ignacio López Rayón, que representó a Guadalajara; José María Liceaga a Guanajuato; Carlos María Bustamante a México; José Sixto Berduzco a Valladolid; José María Murguía a Oaxaca; Andrés Quintana Roo a Puebla; José Manuel de Herrera a Tecpan y José María Cos a Veracruz.
 

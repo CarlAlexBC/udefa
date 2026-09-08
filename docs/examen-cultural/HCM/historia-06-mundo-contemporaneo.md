@@ -8734,7 +8734,7 @@ Al año siguiente, João Goulart emprendió una política en la que destacó la 
 
 ### 555
 
-En relación con el libro de Historia Universal, ¿bajo la influencia de qué organismo lo derrocaron los militares en 1964?
+En relación con el libro de Historia Universal, ¿bajo la influencia de qué organismo derrocaron los militares a João Goulart en 1964?
 
 - A. De la *Central Intelligence Agency*
 - B. Del Fondo Monetario Internacional
@@ -8948,7 +8948,7 @@ En junio de 2010 la Convención Nacional del PT oficializó a Dilma Rousseff com
 
 ### 569
 
-En relación con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia y por qué partido?
+En relación con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia de Brasil y por qué partido?
 
 - A. Michel Temer, líder del Partido del Movimiento Democrático Brasileño
 - B. José Serra, líder del Partido de la Democracia Social Brasileña
