@@ -2611,6 +2611,7 @@ De conformidad con el libro de Física, según la figura 11.20, ¿de qué está 
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
 **Tema:** U11 t13 · termodinámica
 **Subtema:** Física · Termodinámica
+**Retirado:** VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática
 
 <Pared diatérmica (hecha de metal).>
 
@@ -2627,6 +2628,7 @@ En relación con el libro de Física, según la figura 11.21, ¿de qué está he
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
 **Tema:** U11 t13 · termodinámica
 **Subtema:** Física · Termodinámica
+**Retirado:** VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática
 
 <Pared adiabática (hecha de asbesto).>
 

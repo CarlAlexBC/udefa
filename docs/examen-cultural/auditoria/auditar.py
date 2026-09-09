@@ -87,12 +87,20 @@ DETECTORES = [
 
 # ── RONDA 2 ─────────────────────────────────────────────────────────────
 
+_FUENTE = r'\s*.{0,40}?(libro de|cuadro \d|tabla \d)'
 APERTURAS_VALIDAS = re.compile(
-    r'^(en relaci[oó]n con el|de acuerdo con el|de conformidad con el|seg[uú]n el|conforme al)'
-    # "el libro de X" o, cuando el dato viene de un cuadro/tabla con número
-    # (ej. Köppen en Geografía), "el Cuadro N.N del libro de X" — estilo
-    # válido, revisado el 3 sep 2026: cita la fuente exacta, no es defecto.
-    r'\s+(libro de|cuadro \d|tabla \d)',
+    # El conector no siempre sigue con "el" — "la nota", "la conclusión",
+    # "los ejemplos", "las propiedades"... concuerdan en género/número con
+    # lo que citan, no con "el libro". "conforme al" ya trae el artículo
+    # fundido ("a" + "el"), por eso va aparte.
+    #
+    # "el/la/los/las libro de X" directo, o con hasta ~40 caracteres de por
+    # medio citando la parte exacta de donde sale el dato ("la nota del
+    # libro de", "el pie de figura del libro de", "el Cuadro 6.2 del libro
+    # de"...) — estilo válido, revisado el 3-4 sep 2026 en Geografía y
+    # Física: cita la fuente con más precisión, no es un defecto.
+    r'^(en relaci[oó]n con|de acuerdo con|de conformidad con|seg[uú]n)\s+(el|la|los|las)' + _FUENTE
+    + r'|^conforme al' + _FUENTE,
     re.I,
 )
 

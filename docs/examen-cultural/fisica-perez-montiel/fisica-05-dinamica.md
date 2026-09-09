@@ -1784,6 +1784,7 @@ En relación con el libro de Física, ¿qué logró Hiparco, astrónomo griego q
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 151
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · el dato (un catálogo de estrellas) no aporta a entender la gravitación universal, a diferencia de Aristarco/Copérnico/Kepler/Newton en el mismo subtema
 
 <Hiparco, astrónomo griego que vivió en 125 a. C. aproximadamente, logró hacer una lista con más de mil estrellas.>
 
@@ -2096,6 +2097,7 @@ De acuerdo con el libro de Física, ¿en qué año nació Newton y qué ocurrió
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 153
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · dato curioso (coincidencia de fechas), no un concepto de física
 
 <Newton, el gran físico y matemático inglés, nació en 1642, año en que murió Galileo Galilei.>
 
@@ -6395,6 +6397,7 @@ De conformidad con el libro de Física, ¿quién fue Julio Verne?
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
 **Tema:** U5 t4 · satélites naturales y artificiales
 **Subtema:** física · dinámica
+**Retirado:** PERSONA · referencia literaria/cultural, no contenido de física
 
 <Escritores como Julio Verne, novelista francés (1828-1905), se anticiparon a la exploración de la Luna a través de sus novelas de ficción científica.>
 

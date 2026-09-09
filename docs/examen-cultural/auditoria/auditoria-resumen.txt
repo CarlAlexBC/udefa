@@ -1,27 +1,27 @@
-Reactivos totales en los .md: 10352
-Señalados: 198  (1.9%)
+Reactivos totales en los .md: 10347
+Señalados: 131  (1.3%)
 
 POR FAMILIA
-  PLANTILLA           92   fisica-perez-montiel 37, zill-atg 33, calculo-salazar 22
-  PERSONA             65   fisica-perez-montiel 20, EMM 17, historia-mexico-menchaca 10, zill-atg 5, HCM 4, algebra-baldor 4
-  VISUAL              34   EMM 13, zill-atg 7, espanol-zarzar 5, fisica-perez-montiel 5, larson-precalculo 3, algebra-baldor 1
+  PERSONA             62   EMM 17, fisica-perez-montiel 17, historia-mexico-menchaca 10, zill-atg 5, HCM 4, algebra-baldor 4
+  VISUAL              32   EMM 13, zill-atg 7, espanol-zarzar 5, fisica-perez-montiel 3, larson-precalculo 3, algebra-baldor 1
+  PLANTILLA           30   calculo-salazar 22, zill-atg 5, fisica-perez-montiel 3
   SIN_ANTECEDENTE      6   historia-mexico-menchaca 5, EMM 1
   LIBRO                1   espanol-zarzar 1
 
 POR DETECTOR
-     92  PLANTILLA · apertura fuera de las establecidas
-     45  PERSONA · autoria o merito
+     44  PERSONA · autoria o merito
          [EMM] "En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de endosimbiosis en serie?"
          [EMM] "De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?"
-     34  VISUAL · esquema/figura/tabla
+     32  VISUAL · esquema/figura/tabla
          [EMM] "En relación con el libro de Biología, ¿qué representa el gráfico de la figura 14-1, "El vigoroso campo de la epigenética"?"
          [EMM] "De acuerdo con el libro de Biología, ¿qué muestra la figura 14-1 sobre el crecimiento del campo de la epigenética?"
-     16  PERSONA · gentilicio de cientifico
+     30  PLANTILLA · apertura fuera de las establecidas
+     15  PERSONA · gentilicio de cientifico
          [EMM] "En relación con el libro de Biología, ¿qué permitieron establecer de manera inequívoca los trabajos del físico inglés James Joule?"
          [EMM] "De conformidad con el libro de Biología, en su trabajo *Materiales para el estudio de la variación*, ¿qué resaltó el científico in"
       6  SIN_ANTECEDENTE · pronombre sin nombrar
-      4  PERSONA · nacimiento o muerte
+      3  PERSONA · nacimiento o muerte
          [HCM] "En relación con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?"
-         [fisica-perez-montiel] "De acuerdo con el libro de Física, ¿en qué año nació Newton y qué ocurrió ese mismo año?"
+         [historia-mexico-menchaca] "De acuerdo con el libro de Historia de México 1, ¿cuándo murió Hermenegildo Galeana, hecho que mermó aún más la moral del Siervo d"
       1  LIBRO · bibliografia o fuentes
          [espanol-zarzar] "De acuerdo con el libro de Taller de Lectura y Redacción 1, ¿cómo se enlistan las fuentes en la bibliografía final, y de qué carác"
