@@ -74,6 +74,12 @@ huecos de Álgebra que documentaba `docs/examen-tropa/enlace-fisica-algebra.md`
 (XVI, XXIII, XXVIII, XXXV). Sigue Física (Unidades 12, 13, 14), sin ubicar
 todavía en el PDF.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (16/16 reactivos)**. Revisados los 5 sub-lotes de
+punta a punta (discriminante, suma y producto de las raíces, descomposición del trinomio
+por sus raíces, variaciones del signo del trinomio, valor máximo o mínimo). **0 retiros
+nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no

@@ -57,6 +57,15 @@ cálculo quedan fuera por la norma de teoría sobre práctica.
 **Álgebra Baldor queda CERRADA para la EMMG**: los ocho capítulos que pide su temario
 (`MATE-01-2026`) —VIII, X, XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (38/38 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (Niels Henrik Abel, definición y clases de ecuación, raíces, completar el
+cuadrado, fórmula general, fórmula particular, descomposición en factores, ecuaciones
+literales, las dos formas incompletas, ecuaciones con radicales y soluciones extrañas,
+representación gráfica y carácter de las raíces). **0 retiros nuevos.** Los 5 retiros que
+tiene el archivo (#1–#5, todo el recuadro de Abel, MARCO) ya venían de una ronda de
+detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
