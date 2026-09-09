@@ -89,6 +89,18 @@ todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unid
 sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su
 subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (48/48 reactivos)**. Revisados los 6 sub-lotes de
+punta a punta (características y escala de un vector; coplanares/no coplanares/deslizantes/
+libres y sistemas colineales; concurrentes o angulares, resultante y equilibrante;
+propiedades de los vectores; composición y descomposición rectangular, vectores unitarios;
+suma de vectores concurrentes por paralelogramo, polígono y triángulo; productos por
+escalar, escalar y vectorial). Los pares deliberadamente contrastados que el propio
+archivo ya señala en sus notas `>` (dirección/sentido, deslizantes/libres, resultante/
+equilibrante, transmisibilidad/vectores libres, composición/descomposición, producto
+escalar/vectorial) se confirman como reactivos legítimamente distintos, no relleno. **0
+retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
