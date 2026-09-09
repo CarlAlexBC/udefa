@@ -155,6 +155,18 @@ confirmarlo; no hay contenido examinable que se haya perdido.
 declara el archivo del capítulo en curso — hoy
 `biologia-04-organizacion-celulas.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (221/221 reactivos)**. Revisados los 37 sub-lotes de
+punta a punta (del Big Bang al origen del sistema solar, qué distingue a lo vivo, Oparin y
+Haldane, el experimento de Miller, coacervados y microesferas, el mundo del ARN, las
+primeras células y sus evidencias, fósiles moleculares, origen extraterrestre, condiciones
+para la vida, archaeas metanógenas, la Ecuación de Drake, heterótrofos/autótrofos, teoría
+celular, procariontes/eucariontes, endosimbiosis, niveles de organización jerárquica, los
+tres ensayos históricos —teoría celular, generación espontánea, mecanicismo/vitalismo— y
+la apertura del capítulo con Big Bang y vida sintética). **0 retiros nuevos.** Los 2
+retiros que tiene el archivo (#82 Ecuación de Drake y #199 vitalismo del siglo XIX, ambos
+TEMA) ya venían de una ronda de detector anterior.
+
 ## Erratas del libro
 
 Se anotan aquí y **no se escribe reactivo sobre ese punto**: fijar una errata le
