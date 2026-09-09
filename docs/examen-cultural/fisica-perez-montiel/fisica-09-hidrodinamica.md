@@ -59,6 +59,12 @@ el único plantel que la pide. Con esta unidad, **la materia Física queda CERRA
 la EMA** salvo el re-keying de la Unidad 3 (Vectores), que está escrita pero sin la
 clave `**Tema:**` (pendiente aparte, ver `fisica-03-vectores.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (17/17 reactivos)**. Revisados los 2 sub-lotes de
+punta a punta (teorema de Bernoulli y sus tres tipos de energía; aplicaciones —Torricelli,
+tubo de Pitot, tubo de Venturi, sustentación del ala de avión—). **0 retiros nuevos, 0
+retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación (entre `<...>`) son **cita
