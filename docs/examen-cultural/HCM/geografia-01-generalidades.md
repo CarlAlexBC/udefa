@@ -38,6 +38,11 @@ páginas 17–31.
 
 **Pendiente:** ninguno. El alcance del capítulo 1 está cerrado.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (13/13 reactivos)**. Revisados los 4 sub-lotes de
+punta a punta. **0 retiros nuevos.** Cada reactivo prueba un dato distinto (coordenada,
+cifra, nombre propio, fecha); no hay reactivos ya retirados en este archivo.
+
 ## Cómo se escriben estos reactivos
 
 Formato del Anexo "H" de la convocatoria 2026. El examen cultural evalúa

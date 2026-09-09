@@ -74,6 +74,12 @@ orogénicas (pp. 69–79, lo que pide el HCM) y las Regiones geomorfológicas
 falta del escaneo la p.86 (hueco documentado arriba). La p.91 ya es el capítulo 4,
 Litorales, que queda fuera.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (89/89 reactivos)**. Revisados los 26 sub-lotes de
+punta a punta (unidades orogénicas y regiones geomorfológicas). **0 retiros nuevos.** Es
+contenido descriptivo con una cifra o dato distinto por reactivo (longitud, altitud,
+límite, topónimo); no hay reactivos ya retirados en este archivo.
+
 ---
 
 ## Sub-lote 1 · Sierra Madre Occidental
