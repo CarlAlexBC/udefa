@@ -110,6 +110,20 @@ contra las hojas renderizadas 105 y 111.
 cerrado en 81 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo
 en curso — hoy `calculo-03-derivadas.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (81/81 reactivos)**. Revisados los 19
+sub-lotes de punta a punta (caída libre y velocidad promedio; razón promedio de
+cambio y secantes; pendiente de una curva y tangente; razón instantánea de cambio;
+definición informal de límite; cuándo no existe un límite; las siete leyes de los
+límites; límites de polinomios y racionales; teorema del sándwich y comparación;
+definición formal ε-δ; límites laterales; continuidad en un punto; prueba de
+continuidad y tipos de discontinuidad; funciones continuas y sus propiedades;
+composición y teorema del valor intermedio; límites finitos en el infinito;
+asíntotas horizontales y oblicuas; límites infinitos y asíntotas verticales;
+términos dominantes). El aviso al aspirante sobre la errata de notación del Teorema 9
+(p.79, composición ƒ∘g vs g∘ƒ) ya estaba documentado y publicado desde el 27 jul 2026;
+no genera retiro. **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
