@@ -87,7 +87,7 @@ DETECTORES = [
 
 # ── RONDA 2 ─────────────────────────────────────────────────────────────
 
-_FUENTE = r'\s*.{0,40}?(libro de|cuadro \d|tabla \d)'
+_FUENTE = r'\s*.{0,40}?(libro de|cuadro \d|tabla \d|teorema \d)'
 APERTURAS_VALIDAS = re.compile(
     # El conector no siempre sigue con "el" — "la nota", "la conclusión",
     # "los ejemplos", "las propiedades"... concuerdan en género/número con

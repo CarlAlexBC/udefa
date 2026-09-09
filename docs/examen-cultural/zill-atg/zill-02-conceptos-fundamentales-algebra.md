@@ -250,6 +250,7 @@ De conformidad con el libro de Geometría Analítica, ¿quién fue el más grand
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 47
 **Subtema:** Conceptos fundamentales del álgebra · un poco de historia
+**Retirado:** PERSONA · ranking superlativo sin ningún aporte matemático descrito, mismo criterio que Thales de Mileto en Álgebra
 
 El más grande matemático francés del siglo XVI fue François Viète (1540-1603), abogado y miembro del Parlamento, quien dedicó la mayor parte de su tiempo libre a las matemáticas.
 

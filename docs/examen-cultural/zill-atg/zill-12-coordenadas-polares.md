@@ -157,6 +157,7 @@ En relación con el libro de Geometría Analítica, según la reseña histórica
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 521
 **Subtema:** Coordenadas polares · Historia
+**Retirado:** PERSONA · quién acuñó el nombre de un sistema no explica ninguna técnica ni fórmula del sistema
 
 Fue el matemático italiano Gregorio Fontana (1735-1803) quien acuñó el término coordenadas polares.
 
