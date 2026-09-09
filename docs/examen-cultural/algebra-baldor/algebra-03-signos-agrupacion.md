@@ -70,6 +70,13 @@ tradición asocia a Thales.
 Álgebra lo declara el archivo del capítulo en curso — hoy
 `algebra-04-multiplicacion.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (18/18 reactivos)**. Revisados los 6 sub-lotes de
+punta a punta (Thales de Mileto, uso de los signos, equivalencia entre las cuatro formas,
+regla para suprimir, signos incluidos unos en otros, ley asociativa y regla para
+introducir). **0 retiros nuevos.** El único retiro que tiene el archivo (#1, quién fue
+Thales, MARCO) ya venía de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.
