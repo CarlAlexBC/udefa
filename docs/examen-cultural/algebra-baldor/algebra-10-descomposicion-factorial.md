@@ -62,6 +62,15 @@ combinar casos) queda cerrado; los ejercicios de descomposición en 3, 4, 5 y 6 
 cerrada del todo**: todos los capítulos que piden los planteles que usan este libro —HCM,
 EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos y cerrados.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (46/46 reactivos)**. Revisados los 14 sub-lotes de
+punta a punta (Hypatia, factores y factorización, factorar un polinomio, prueba general y
+los diez casos, y los diez casos completos: factor común, agrupación, trinomio cuadrado
+perfecto, diferencia de cuadrados, combinación III/IV, x²+bx+c, ax²+bx+c, cubo perfecto de
+binomios, suma/diferencia de cubos, y potencias iguales con combinación de casos). **0
+retiros nuevos.** Los 6 retiros que tiene el archivo (#1–#6, todo el recuadro de Hypatia,
+MARCO) ya venían de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
