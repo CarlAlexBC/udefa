@@ -1,4 +1,5 @@
 import {
+  BadRequestException,
   Controller,
   Get,
   Param,
@@ -8,6 +9,7 @@ import {
   UseGuards,
 } from '@nestjs/common';
 import { AdminService } from './admin.service';
+import { RecordatoriosCompraService } from '../recordatorios-compra/recordatorios-compra.service';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
 import { RolesGuard } from '../auth/guards/roles.guard';
 import { Roles } from '../auth/decorators/roles.decorator';
@@ -20,7 +22,10 @@ import { Roles } from '../auth/decorators/roles.decorator';
 @Roles('admin')
 @Controller('admin')
 export class AdminController {
-  constructor(private adminService: AdminService) {}
+  constructor(
+    private adminService: AdminService,
+    private recordatoriosCompra: RecordatoriosCompraService,
+  ) {}
 
   @Get('stats')
   obtenerStats() {
@@ -57,6 +62,23 @@ export class AdminController {
   @Get('compras-sin-completar')
   comprasSinCompletar() {
     return this.adminService.comprasSinCompletar();
+  }
+
+  /**
+   * Fuerza uno de los 3 recordatorios (?numero=1|2|3) para una compra sin
+   * completar puntual, sin esperar las 3/24/72 horas reales. Para probar las
+   * plantillas con un correo controlado antes de dejar que el cron corra
+   * solo.
+   */
+  @Post('compras-sin-completar/:id/forzar-recordatorio')
+  forzarRecordatorio(
+    @Param('id', ParseIntPipe) id: number,
+    @Query('numero', ParseIntPipe) numero: number,
+  ) {
+    if (numero !== 1 && numero !== 2 && numero !== 3) {
+      throw new BadRequestException('numero debe ser 1, 2 o 3.');
+    }
+    return this.recordatoriosCompra.forzarRecordatorio(id, numero);
   }
 
   /** Todas las ventas, para revisarlas o exportarlas a archivo. */

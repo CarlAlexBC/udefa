@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 import { APP_GUARD } from '@nestjs/core';
+import { ScheduleModule } from '@nestjs/schedule';
 import { ThrottlerModule, ThrottlerGuard } from '@nestjs/throttler';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
@@ -27,10 +28,14 @@ import { ComentariosModule } from './comentarios/comentarios.module';
 import { GuiaModule } from './guia/guia.module';
 import { ExplicacionesModule } from './explicaciones/explicaciones.module';
 import { MetricasModule } from './metricas/metricas.module';
+import { RecordatoriosCompraModule } from './recordatorios-compra/recordatorios-compra.module';
 
 @Module({
   imports: [
     MetricasModule,
+    // Habilita @Cron en cualquier servicio — lo usa RecordatoriosCompraModule
+    // para revisar cada hora las compras sin completar.
+    ScheduleModule.forRoot(),
     // Freno general contra abuso: 200 peticiones por minuto desde una misma
     // dirección IP. Es holgado a propósito — un aspirante contestando su examen
     // no se acerca a ese número. El login lleva su propio freno, mucho más
@@ -60,6 +65,7 @@ import { MetricasModule } from './metricas/metricas.module';
     ComentariosModule,
     GuiaModule,
     ExplicacionesModule,
+    RecordatoriosCompraModule,
   ],
   controllers: [AppController],
   providers: [

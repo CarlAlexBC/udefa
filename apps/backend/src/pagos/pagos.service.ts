@@ -15,10 +15,14 @@ const CICLO = '2027';
 // Acceso vigente hasta el cierre de la convocatoria (resultados en mayo 2027).
 const FIN_CONVOCATORIA = new Date('2027-06-30T23:59:59');
 
-type Paquete = 'cultural' | 'psicologico' | 'completa';
+export type Paquete = 'cultural' | 'psicologico' | 'completa';
 
-/** Qué vende cada paquete: título, precio (MXN) y qué módulos desbloquea. */
-const PAQUETES: Record<
+/**
+ * Qué vende cada paquete: título, precio (MXN) y qué módulos desbloquea.
+ * Exportado porque RecordatoriosCompraService también necesita el título
+ * para armar los correos de compra sin completar.
+ */
+export const PAQUETES: Record<
   Paquete,
   { titulo: string; precio: number; modulos: string[] }
 > = {

@@ -143,4 +143,115 @@ export class MailService implements OnModuleInit {
       html,
     });
   }
+
+  /**
+   * Recordatorio 1 (≈3 horas de compra sin completar). Tono bajo: solo un
+   * enlace para retomar donde se quedó, sin presión.
+   */
+  async enviarRecordatorioCompra1(opts: {
+    to: string;
+    nombre: string;
+    paqueteTitulo: string;
+  }) {
+    const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const html = `
+    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+        Hola ${opts.nombre}. Notamos que comenzaste tu proceso de preparación para <strong>${opts.paqueteTitulo}</strong>, y nos encantaría acompañarte a completarlo. Con tu acceso podrás avanzar con un simulador apegado al examen real y un panel que te muestra, paso a paso, en qué enfocar tu estudio.
+      </p>
+      <p style="margin:24px 0;">
+        <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
+          Continuar mi preparación
+        </a>
+      </p>
+      <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
+        Si tuviste alguna duda durante el proceso, responde este correo: con gusto te orientamos.
+      </p>
+    </div>`;
+    return this.enviar({
+      to: opts.to,
+      subject: 'Tu proceso de preparación te espera — El Monote te Guía',
+      html,
+    });
+  }
+
+  /**
+   * Recordatorio 2 (≈24 horas). Va acompañado de una cuenta de prueba de 60
+   * minutos del módulo psicológico (la crea UsuariosService.crearCuentaPrueba
+   * PorAbandono), así que aquí solo se entregan las credenciales que ese
+   * método ya generó — este correo no crea nada por su cuenta.
+   */
+  async enviarRecordatorioCompraConPrueba(opts: {
+    to: string;
+    nombre: string;
+    paqueteTitulo: string;
+    passwordPrueba: string;
+  }) {
+    const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
+    const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const html = `
+    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+        Hola ${opts.nombre}. El examen psicológico (Psicométrico, Personalidad y Axiológico) lo armamos con apoyo de psicólogos militares y con la experiencia de haber presentado el proceso real de admisión. Su panel de resultados no se queda en calificarte: identifica los patrones detrás de tus respuestas y te remite a la sección exacta de la Guía del Aspirante que conviene reforzar.
+      </p>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+        Para que lo conozcas antes de decidir, habilitamos especialmente para ti un acceso de prueba por 60 minutos a este módulo.
+      </p>
+      <div style="border:1px solid #3D3A34; border-radius:8px; padding:16px; margin:20px 0;">
+        <p style="font-size:12px; color:#9A9382; text-transform:uppercase; letter-spacing:1px; margin:0 0 8px;">Tu acceso de prueba</p>
+        <p style="font-size:15px; margin:0 0 4px;"><strong>Correo:</strong> ${opts.to}</p>
+        <p style="font-size:15px; margin:0;"><strong>Contraseña:</strong> ${opts.passwordPrueba}</p>
+      </div>
+      <p style="margin:24px 0;">
+        <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
+          Explorar el examen psicológico
+        </a>
+      </p>
+      <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
+        Cuando decidas continuar, tu proceso de ${opts.paqueteTitulo} sigue disponible:
+        <a href="${retomar}" style="color:#C99A3B;">continúa aquí</a>.
+      </p>
+    </div>`;
+    return this.enviar({
+      to: opts.to,
+      subject: 'Conoce tu preparación por dentro, antes de decidir',
+      html,
+    });
+  }
+
+  /**
+   * Recordatorio 3 (≈72 horas). A propósito sin fecha de corte ni tono de
+   * ultimátum: es una invitación a retomar cuando decida, no una amenaza de
+   * que se le va a dejar de escribir (el corte de 7 días es un límite
+   * técnico interno, no algo que el aspirante necesite leer).
+   */
+  async enviarRecordatorioCompra3(opts: {
+    to: string;
+    nombre: string;
+    paqueteTitulo: string;
+  }) {
+    const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const html = `
+    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+        Hola ${opts.nombre}. Queremos que tomes esta decisión con calma y confianza, no bajo presión. Si tu interés en prepararte con <strong>${opts.paqueteTitulo}</strong> continúa, seguimos aquí para acompañarte en el momento en que decidas retomarlo.
+      </p>
+      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+        Tu preparación incluye el simulacro cronometrado, tal como se vive el día del examen, y un panel de resultados que no solo califica: identifica tus patrones y te dice exactamente qué capítulo de la Guía del Aspirante conviene reforzar. Es el mismo método con el que nació este proyecto, construido con apoyo de psicólogos militares y la experiencia de haber presentado el proceso real de admisión.
+      </p>
+      <p style="margin:24px 0;">
+        <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
+          Continuar mi preparación
+        </a>
+      </p>
+    </div>`;
+    return this.enviar({
+      to: opts.to,
+      subject: `Tu preparación para ${opts.paqueteTitulo} sigue disponible`,
+      html,
+    });
+  }
 }

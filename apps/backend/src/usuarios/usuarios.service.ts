@@ -761,4 +761,78 @@ export class UsuariosService {
 
     return { borradas: ids.length };
   }
+
+  /**
+   * Cuenta de prueba automática para quien empezó una compra y no la
+   * terminó (correo 2 del recordatorio de compra sin completar, ≈24 h).
+   *
+   * A diferencia de `crearCuentaDePrueba` (que inventa un correo
+   * @prueba.local para que el admin la reparta a mano), aquí el correo SÍ es
+   * el real de quien intentó comprar: se la mandamos nosotros por email,
+   * nadie la pide. Por eso, si ese correo ya tiene cuenta, no se crea nada
+   * nuevo — se deja que use la que ya tiene.
+   *
+   * Sin plantel: el módulo psicológico es igual para todos los planteles, así
+   * que no hace falta elegir uno para esta prueba (a diferencia del cultural,
+   * que si depende del plantel).
+   */
+  async crearCuentaPruebaPorAbandono(compraId: number): Promise<{
+    creada: boolean;
+    nombre: string;
+    email: string;
+    password?: string;
+    expiraEn?: Date;
+  }> {
+    const compra = await this.prisma.compraPendiente.findUnique({
+      where: { id: compraId },
+    });
+    if (!compra) {
+      throw new NotFoundException(`No existe la compra pendiente ${compraId}.`);
+    }
+
+    const yaExiste = await this.prisma.usuario.findUnique({
+      where: { email: compra.email },
+    });
+    if (yaExiste) {
+      return { creada: false, nombre: compra.nombre, email: compra.email };
+    }
+
+    const MINUTOS_PRUEBA = 60;
+    const SIN_CONFUSIONES = 'abcdefghjkmnpqrstuvwxyz23456789';
+    const passwordEnClaro =
+      'monote-' +
+      Array.from(
+        { length: 6 },
+        () => SIN_CONFUSIONES[randomInt(SIN_CONFUSIONES.length)],
+      ).join('');
+    const expiraEn = new Date(Date.now() + MINUTOS_PRUEBA * 60_000);
+
+    const usuario = await this.prisma.usuario.create({
+      data: {
+        nombre: compra.nombre,
+        email: compra.email,
+        password: await bcrypt.hash(passwordEnClaro, 10),
+        plantelId: null,
+        estado: 'ACTIVA',
+      },
+    });
+
+    await this.prisma.acceso.create({
+      data: {
+        usuarioId: usuario.id,
+        modulo: 'psicologico',
+        ciclo: compra.ciclo,
+        expiraEn,
+        origen: 'prueba-abandono',
+      },
+    });
+
+    return {
+      creada: true,
+      nombre: usuario.nombre,
+      email: usuario.email,
+      password: passwordEnClaro,
+      expiraEn,
+    };
+  }
 }
