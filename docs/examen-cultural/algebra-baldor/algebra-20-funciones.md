@@ -50,6 +50,15 @@ anterior, que decía que ningún temario lo pedía, era falsa. Los capítulos **
 cerrada del todo**: todos los capítulos que piden los planteles que usan este libro —HCM,
 EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos y cerrados.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (25/25 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (Fermat, constantes y variables, la función y la definición de Cauchy,
+función de una y de varias variables, ley de dependencia, funciones analíticas y
+concretas, variación directa/inversa/conjunta, funciones expresables por fórmulas). **0
+retiros nuevos.** Los 4 retiros que tiene el archivo (#1–#3, recuadro de Fermat, MARCO;
+#8, a quién se debe la definición de función, PERSONA) ya venían de rondas de detector
+anteriores.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

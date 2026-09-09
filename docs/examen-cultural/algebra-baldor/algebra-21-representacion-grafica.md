@@ -52,6 +52,14 @@ sobre práctica.
 **EMI**, de este Baldor, todo hasta aquí; falta de Álgebra para la EMI el capítulo
 **XXXII (Números complejos)**, que todavía no tiene archivo.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (52/52 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (Blas Pascal, sistema rectangular de coordenadas, abscisa/ordenada y sus
+signos, determinación de un punto, papel cuadriculado y gráfico de una relación, función
+lineal de primer grado, gráficos de segundo grado y las cónicas). **0 retiros nuevos.**
+Los 4 retiros que tiene el archivo (#1–#4, todo el recuadro de Blas Pascal, MARCO) ya
+venían de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
