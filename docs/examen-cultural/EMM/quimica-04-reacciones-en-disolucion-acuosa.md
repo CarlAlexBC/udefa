@@ -895,4 +895,15 @@ pide el temario de Medicina (4.1, 4.3, 4.4 y 4.5); el resto del capítulo (4.2 y
 4.6 a 4.8) no entra. Química quedó cerrada; el resumen lo sostiene el `.md` del
 capítulo 24.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (53/53 reactivos)**. Revisados los 4 sub-lotes de
+punta a punta (propiedades generales de las soluciones acuosas —soluto/solvente,
+electrolitos fuertes y disociación, el agua como disolvente polar, la hidratación—, la
+concentración y la molaridad, las reacciones ácido-base —Arrhenius, Brønsted, ion hidronio,
+ácidos mono/dipróticos, neutralización y sal—, y las reacciones de oxidación-reducción
+—semirreacciones, agente oxidante/reductor, número de oxidación—). **0 retiros nuevos, 0
+retiros preexistentes.** Los pares contrapuestos del capítulo (soluto/solvente, ácido de
+Brønsted dona/base de Brønsted acepta, agente reductor dona-se oxida/agente oxidante
+acepta-se reduce) prueban cada uno un dato distinto y no son relleno.
+
 **Reactivos en este archivo:** 53
