@@ -104,6 +104,15 @@ escribió reactivo sobre las fechas de Euclides.**
 **EME** (`ÁLGE-03-2026`) pide además el capítulo VIII, en
 `algebra-08-ecuaciones-primer-grado.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (28/28 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (Euclides, concepto de productos notables, cuadrados y suma por diferencia,
+cubo de un binomio, producto de dos binomios, cocientes notables, diferencia de cuadrados,
+suma/diferencia de cubos, divisibilidad de potencias iguales y leyes de estos cocientes).
+**0 retiros nuevos.** El archivo no tenía retiros previos. Con esto **cierra Álgebra
+Preliminares–VI (el libro completo del temario del HCM)**: 186 + 19 + 23 + 18 + 30 + 32 +
+28 = 336 reactivos, todos con lectura exhaustiva.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.
