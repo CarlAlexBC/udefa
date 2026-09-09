@@ -192,6 +192,7 @@ En relación con el libro de Física, ¿quién inventó el motor de inducción, 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 481
 **Subtema:** Desarrollo histórico · Nikola Tesla, motor de inducción
+**Retirado:** PERSONA · quién inventó qué y en qué año, sin explicar el principio de funcionamiento (el 54, sobre el transformador de Faraday, sí lo explica)
 
 En 1888 Nikola Tesla inventó el motor de inducción, el cual funciona con corriente alterna.
 

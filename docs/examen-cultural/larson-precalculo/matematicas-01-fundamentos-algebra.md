@@ -3787,6 +3787,7 @@ De conformidad con el libro de Matemáticas, ¿quién inventó los logaritmos y 
 **Respuesta:** A
 **Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 73
 **Subtema:** propiedades de los logaritmos · nota histórica
+**Retirado:** PERSONA · nombre y nacionalidad del inventor, sin ninguna propiedad de los logaritmos
 
 John Napier, matemático escocés, inventó los logaritmos.
 

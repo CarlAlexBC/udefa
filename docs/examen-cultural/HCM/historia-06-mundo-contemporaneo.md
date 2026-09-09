@@ -2361,6 +2361,7 @@ De conformidad con el libro de Historia Universal, ¿quién fue el Emir de Kuwai
 **Respuesta:** A
 **Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
 **Subtema:** Acontecimientos de nuestros días · Kuwait
+**Retirado:** PERSONA · nombre de un jefe de estado sin explicar nada del conflicto (a diferencia del 186, que sí explica el desenlace de la guerra)
 
 El Emir desde 1977, exiliado al momento de la invasión iraquí, fue Jaber al-Hamad al-Sabah.
 

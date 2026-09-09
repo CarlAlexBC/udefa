@@ -176,6 +176,7 @@ De acuerdo con el libro de Geografía, ¿quién fue el primero en sostener que l
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 66
 **Subtema:** la tierra como astro · eratóstenes
+**Retirado:** PERSONA · quién sostuvo la idea primero, sin explicar cómo la sustentó (a diferencia de sus reactivos sobre la medición del radio terrestre)
 
 "Eratóstenes de Cirene (276-196 a.C.) fue el primero en sostener que la Tierra es esférica."
 
@@ -191,6 +192,7 @@ De conformidad con el libro de Geografía, ¿en qué años vivió Eratóstenes d
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 66
 **Subtema:** la tierra como astro · eratóstenes
+**Retirado:** PERSONA · fechas de nacimiento/muerte puras, dato curioso sin ningún concepto geográfico
 
 "Eratóstenes de Cirene (276-196 a.C.) fue el primero en sostener que la Tierra es esférica."
 

@@ -24,17 +24,31 @@ sin contexto):
                       página del libro, donde el antecedente vive en el
                       párrafo anterior.
 
-Lo que este script deliberadamente NO intenta: decidir qué tan importante es
-un tema, o si un subtema es "relleno" (introducción, dato curioso, ejemplo
-ilustrativo) frente a contenido central. Se probó una señal por cantidad de
-reactivos por subtema y Carlo la descartó (3 sep 2026): cuántos reactivos
-tiene un subtema no dice nada de si es relleno o no — un subtema con pocos
-reactivos puede ser igual de importante que uno con muchos, y viceversa. Esa
-clasificación es de lectura y criterio, no de patrón de texto — el propio
-README de esta carpeta ya lo advertía para la familia PERSONA ("hay que
-revisarla uno por uno") y para el relleno de en medio del capítulo ("no
-tiene patrón lingüístico"). Se hace en la Fase C de revisión, leyendo, no
-aquí.
+RONDA 3 — relleno biográfico/ilustrativo, sin importar cuántos reactivos
+tenga el subtema (8 sep 2026, Carlo no quedó conforme con la ronda 2: "muy
+pocos problemas" y pidió la revisión de relleno que había pedido antes):
+
+  SIN_CONCEPTO      — sub-marca dentro de PERSONA: el dato biográfico no
+                      trae ningún concepto reutilizable (teoría, ley,
+                      fórmula, método...) en su cita — nacionalidad, fecha,
+                      ranking ("el más grande") sin nada que enseñar aparte
+                      del nombre. Es la distinción exacta que pidió Carlo:
+                      cuántos reactivos tenga el subtema NO importa, lo que
+                      importa es si ESTE dato en particular sostiene un
+                      concepto o no.
+
+  Se probó también EJEMPLO_ILUSTRATIVO (cita que compara el concepto con un
+  objeto cotidiano, ej. "equivale a", "similar a") y se descartó: dio 12
+  candidatos y los 12 eran falsos positivos — "equivale a" es como se
+  redactan la mayoría de las definiciones técnicas normales ("el vínculo
+  equivale a un paréntesis"), no hay forma barata de distinguir eso de una
+  comparación frívola sin leer el contexto completo. Mismo desenlace que
+  COBERTURA en la ronda 2: se probó, no funcionó, se quitó.
+
+SIN_CONCEPTO SÍ corre sobre el banco completo, no sólo sobre lo que ya se
+había marcado — a diferencia de PESO_TEMA (descartado el 3 sep: contar
+reactivos por subtema no distingue relleno de contenido real), esta lee
+el CONTENIDO de la cita, no la cantidad.
 
 Escribe dos archivos: un resumen y una lista completa con archivo y número
 de cada reactivo señalado, para que el trabajo de limpieza no tenga que
@@ -179,6 +193,32 @@ def numero(bloque: str) -> str:
     return m.group(1) if m else '?'
 
 
+def citacion(bloque: str) -> str:
+    """El párrafo de respaldo: todo lo que sigue a la última línea de
+    metadatos (Respuesta/Referencia/Subtema/Tema/Retirado)."""
+    lineas = bloque.split('\n')
+    ultima_meta = -1
+    for i, linea in enumerate(lineas):
+        if re.match(r'^\*\*(Respuesta|Referencia|Subtema|Tema|Retirado):\*\*', linea):
+            ultima_meta = i
+    resto = '\n'.join(lineas[ultima_meta + 1:]) if ultima_meta >= 0 else bloque
+    return re.split(r'^---\s*$', resto, flags=re.M)[0].strip()
+
+
+# ── RONDA 3 ─────────────────────────────────────────────────────────────
+
+CONCEPTO_REUTILIZABLE = re.compile(
+    r'\b(teor[ií]as?|leyes?|principios?|modelos?|efectos?|f[oó]rmulas?|'
+    r'ecuaci[oó]n(es)?|postulados?|reglas?|hip[oó]tesis|m[eé]todos?|'
+    r't[eé]cnicas?|teoremas?)\b', re.I,
+)
+
+def revisar_sin_concepto(cita: str):
+    if CONCEPTO_REUTILIZABLE.search(cita):
+        return None
+    return 'dato biográfico sin ningún concepto reutilizable en la cita — revisar si es relleno'
+
+
 total = 0
 por_familia = collections.Counter()
 por_detector = collections.Counter()
@@ -205,10 +245,15 @@ for f in rutas:
             continue
         total += 1
         e = enunciado(b)
+        cita = citacion(b)
 
         flagged = False
         for familia, etiqueta, patron in DETECTORES:
             if re.search(patron, e, re.I):
+                # RONDA 3, dentro de PERSONA: ¿el dato biográfico trae un
+                # concepto reutilizable o es puro nombre/fecha/nacionalidad?
+                if familia == 'PERSONA' and revisar_sin_concepto(cita):
+                    etiqueta = f'{etiqueta} · SIN CONCEPTO (revisar prioritario)'
                 por_familia[familia] += 1
                 por_detector[f'{familia} · {etiqueta}'] += 1
                 por_libro[familia][libro] += 1

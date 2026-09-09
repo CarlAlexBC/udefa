@@ -3140,6 +3140,7 @@ De acuerdo con el libro de Biología, ¿quién llamó "sinapsis" a esas zonas, s
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
 **Subtema:** sistema nervioso · la sinapsis
+**Retirado:** PERSONA · quién puso el nombre "sinapsis", no qué es o cómo funciona — el 193 (qué describió Ramón y Cajal) sí se queda
 
 Sobre la base de sus experimentos acerca de la velocidad de propagación de la señal en vías reflejas, el fisiólogo inglés Charles Sherrington (1857-1952) llamó sinapsis a esas zonas.
 

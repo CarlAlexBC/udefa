@@ -1002,6 +1002,7 @@ De conformidad con el libro de Biología, ¿quién fue la figura más trascenden
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
 **Subtema:** Metabolismo · estado estacionario
+**Retirado:** PERSONA · sólo dice quién "retomó ideas", sin decir qué aportó Prigogine — atribución sin concepto
 
 La figura más trascendente que retomó las ideas de Schrödinger fue el físico ruso-belga Ilya Prigogine (1917-2003).
 

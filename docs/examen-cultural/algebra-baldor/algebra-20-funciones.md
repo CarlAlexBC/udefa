@@ -195,6 +195,7 @@ En relación con el libro de Álgebra, ¿a quién se debe la definición moderna
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 283
 **Subtema:** Funciones · definición de Cauchy
+**Retirado:** PERSONA · a quién se debe la definición, sin decir cuál es la definición
 
 La definición moderna de función debida a Cauchy es la siguiente.
 

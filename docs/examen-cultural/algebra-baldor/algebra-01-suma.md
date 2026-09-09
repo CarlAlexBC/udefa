@@ -235,6 +235,7 @@ En relación con el libro de Álgebra, ¿a quién se debe el papiro de Rhind?
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 40
 **Subtema:** Suma · el Álgebra en el Antiguo Egipto
+**Retirado:** PERSONA · a quién se debe un documento, sin ningún contenido algebraico del documento (el 8 y el 10 sí preguntan por su contenido)
 
 En el papiro de Rhind, el más valioso y antiguo documento matemático que existe, debido al escriba Ahmes (1650 a. C.).
 

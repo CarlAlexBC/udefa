@@ -1152,6 +1152,7 @@ De acuerdo con el libro de Biología, ¿quién acuñó el concepto moderno de ep
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 298
 **Subtema:** epigenética · Waddington
+**Retirado:** PERSONA · quién acuñó el nombre del campo, no un concepto biológico — mismo criterio que Fontana/coordenadas polares en Zill
 
 El concepto moderno de epigenética, representativo de la concepción que actualmente organiza a este campo del conocimiento biológico, fue acuñado a mediados del siglo pasado por el biólogo escocés Conrad H. Waddington (1905-1975).
 

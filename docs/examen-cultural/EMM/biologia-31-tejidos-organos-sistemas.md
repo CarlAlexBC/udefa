@@ -117,6 +117,7 @@ De acuerdo con el libro de Biología, ¿quién fue el primero en disecar un cad�
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 740
 **Subtema:** tejidos, órganos y sistemas · historia de la anatomía
+**Retirado:** PERSONA · quién fue "el primero en" sin ningún hallazgo anatómico descrito
 
 El médico griego Alcmeón de Crotona, alrededor del 520 a. C., fue el primero en disecar un cadáver humano.
 

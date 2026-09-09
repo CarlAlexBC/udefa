@@ -1960,6 +1960,7 @@ En relación con el libro de Álgebra, ¿quién fue el primero en comprender la 
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 30
 **Subtema:** Preliminares · números positivos y negativos
+**Retirado:** PERSONA · atribuye "comprender la verdadera naturaleza" a Newton sin decir en qué consiste esa naturaleza
 
 Y fue Newton el primero en comprender la verdadera naturaleza de estos números.
 
