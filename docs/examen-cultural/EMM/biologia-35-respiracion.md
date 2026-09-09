@@ -160,6 +160,27 @@ completas las páginas impresas 828 a 838; el ensayo de cierre "Retomando la pro
 inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo
 declara el archivo del capítulo en curso — hoy, el capítulo 36 (`biologia-36-circulacion.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (166/166 reactivos)**. Revisados los 22 sub-lotes de
+punta a punta (los dos significados de respiración y la hematosis, la difusión de los
+gases y la presión parcial —hipoxia de altura, buceo—, la embolia del buceo y los
+mamíferos buceadores, los límites de la difusión y la aparición de los sistemas
+respiratorios, las características de los órganos respiratorios, la diversidad de
+estrategias —piel, branquias, tráqueas, pulmones—, cómo el O2 alcanza los tejidos y sale
+el CO2, las branquias de los vertebrados y el mecanismo de contracorriente, los pulmones
+de los vertebrados frente al agua, la respiración de los vertebrados terrestres y las
+aves, las vías aéreas superiores humanas, el control del flujo de aire y el sistema de
+las aves, el recorrido del aire y los alvéolos, la limpieza de las vías aéreas, el ensayo
+35-1 del asma, la membrana respiratoria y las pleuras, el proceso de la ventilación, los
+pigmentos respiratorios y el transporte de oxígeno, el intercambio de gases con los
+tejidos, el transporte de CO2, y el control nervioso de la ventilación con los
+quimiorreceptores y la hiperventilación). **0 retiros nuevos, 0 retiros preexistentes.**
+Los pares contrapuestos del capítulo (branquias evaginadas/pulmones invaginados, pigmentos
+disueltos en plasma en invertebrados/transportados en eritrocitos en vertebrados, pleura
+visceral/parietal, grupo respiratorio dorsal/ventral, capilares alveolares donde la
+hemoglobina se combina con O2/tejidos donde lo libera) prueban cada uno un dato distinto y
+no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
 > que le sigue hasta el primer renglón en blanco. Si se convierte en encabezado
