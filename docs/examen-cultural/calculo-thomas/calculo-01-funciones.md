@@ -84,6 +84,20 @@ la advertencia sobre extrapolar fuera del rango de los datos (pp. 29–34).
 108 reactivos. Lo que falta de Cálculo lo declara el archivo del capítulo en curso
 — hoy `calculo-02-limites-continuidad.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (108/108 reactivos)**. Revisados los 20
+sub-lotes de punta a punta (qué es una función y sus representaciones; dominio y
+rango; gráfica y representación numérica; prueba de la recta vertical; funciones
+definidas por partes; crecientes/decrecientes; pares/impares; funciones comunes
+—lineales, potencia, polinomios, racionales, algebraicas, trigonométricas,
+exponenciales, logarítmicas, trascendentes—; combinación y composición de funciones;
+traslación, cambio de escala y reflexión; radianes, las seis funciones
+trigonométricas, periodicidad y paridad; identidades trigonométricas; ley de los
+cosenos y función senoidal; conceptos citables de graficación con software). Los
+pares de fórmulas contrastadas (traslación vertical/horizontal, estiramiento/
+compresión, reflexión en x/y, par/impar, periodo π/2π) prueban cada uno un dato
+distinto — no relleno. **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
