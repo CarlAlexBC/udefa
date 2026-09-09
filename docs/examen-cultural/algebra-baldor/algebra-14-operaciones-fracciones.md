@@ -62,6 +62,15 @@ indeterminación es aparente y cómo se suprime, no los procedimientos.
 **Álgebra Baldor queda CERRADA para la EMMG**: los ocho capítulos que pide su temario
 (`MATE-01-2026`) —VIII, X, XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (35/35 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (propagadores europeos, suma, resta, cambios de signos, multiplicación,
+multiplicación de mixtas, división, división de mixtas y operaciones combinadas,
+fracciones complejas, fracciones continuas, evaluación de fracciones, verdadero valor de
+las indeterminadas). **0 retiros nuevos.** Los 6 retiros que tiene el archivo (#1–#6, todo
+el recuadro de los propagadores europeos, MARCO) ya venían de una ronda de detector
+anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

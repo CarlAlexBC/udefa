@@ -62,6 +62,14 @@ funciones y relaciones)** y **XXXII (Números complejos)**, que todavía no tien
 archivo. Los capítulos **XI (Máximo común divisor)** y **XII (Mínimo común múltiplo)**,
 que también pedía la EMI, ya están escritos (`algebra-11`, `algebra-12`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (40/40 reactivos)**. Revisados los 5 sub-lotes de
+punta a punta (universidades hispano-árabes, definiciones, principios fundamentales y
+signos, simplificación, y el resto de la reducción: términos mayores, expresión entera o
+mixta, mixta a fraccionaria, mínimo común denominador). **0 retiros nuevos.** Los 7
+retiros que tiene el archivo (#1–#7, todo el recuadro de las universidades hispano-árabes,
+MARCO) ya venían de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
