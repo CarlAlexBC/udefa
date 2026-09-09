@@ -87,6 +87,20 @@ Thomson.
 **Pendiente:** ninguno. Unidad 12 (Electricidad) cerrada, 20/20 subtemas,
 106 reactivos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (106/106 reactivos)**. Revisados los 20 sub-lotes de
+punta a punta (antecedentes históricos; carga eléctrica y su conservación; interacción
+entre cargas; formas de electrizar; electroscopio y jaula de Faraday; conductores,
+aislantes y semiconductores; unidades de carga; ley de Coulomb; campo eléctrico y líneas de
+fuerza; potencial eléctrico; corriente eléctrica; fuerza electromotriz; conexión de pilas;
+resistencia eléctrica y superconductividad; ley de Ohm; circuitos y conexión de
+resistencias; potencia eléctrica y efecto Joule; leyes de Kirchhoff; capacitores;
+electroquímica y ley de Faraday). Confirmado el retiro preexistente (#5, PERSONA,
+Thomson). La mención breve de Ohm en antecedentes históricos (#3) y su enunciado técnico
+completo en el sub-lote dedicado (#72) se confirman como niveles de detalle distintos, no
+relleno — mismo patrón ya establecido en el resto del banco. **0 retiros nuevos, 1 retiro
+preexistente (sin cambios).**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
