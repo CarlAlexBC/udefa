@@ -55,6 +55,21 @@ contenido de examen.
 **Pendiente:** ninguno. El Bloque 6 (subtema 6.1, único que pide la EMT) queda
 cerrado.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (63/63 reactivos)**. Revisados los 6 sub-lotes de
+punta a punta (definición y funciones de los textos expositivos; características externas
+—extensión, medio y estructura—; características internas —contenido y prototipo
+textual—; el lenguaje de los textos expositivos; conectores, prototipos textuales y
+diferencias entre los textos del bloque; clasificación de los textos expositivos). Nota de
+alcance (no relleno): los reactivos #56-63 citan página 174, que el encabezado del archivo
+marca como el arranque del subtema 6.2 (fuera del temario de la EMT), pero su contenido es
+la continuación de "su clasificación general" que el propio encabezado declara parte del
+alcance de 6.1 — coherente con la documentación ya existente del archivo, no un hallazgo
+nuevo. **0 retiros nuevos, 0 retiros preexistentes.**
+
+**Con este archivo se cierra la auditoría ronda 3 de TODA la materia Español** (5 archivos,
+268 reactivos), sin retiros nuevos en ningún archivo.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro
