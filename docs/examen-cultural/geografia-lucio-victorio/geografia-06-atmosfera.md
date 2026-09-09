@@ -74,6 +74,17 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno. La Unidad VI (La Atmósfera) quedó **CERRADA por completo** el 18 ago 2026, con 270 reactivos (1–270). Con este archivo se **cierra la materia Geografía completa para la EMEFA** (las Unidades I–V ya estaban cerradas).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (270/270 reactivos)**. Revisados los 29 sub-lotes de
+punta a punta. **0 retiros nuevos.** Los 2 retiros del archivo (#269 y #270, MARCO — se
+apoyan en la cita/epígrafe reflexivo final del libro, no en contenido geográfico del temario)
+ya venían de la ronda de detector anterior.
+
+**Con este archivo se cierra la lectura exhaustiva de las seis Unidades del libro Lucio
+Victorio (Geografía, EMEFA): 63+111+186+135+223+270 = 988 reactivos, 0 retiros nuevos en
+toda la lectura. Solo se confirmaron los retiros que ya existían de rondas de detector
+anteriores.**
+
 ---
 
 ## Sub-lote 1 · Definición, origen y composición de la atmósfera (6.1.1, p. 192)
