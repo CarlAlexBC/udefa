@@ -68,6 +68,13 @@ prudencia que se usó con Brahmagupta y Bháskara en Preliminares.
 **Pendiente:** ninguno. El capítulo I (pp. 40–45) está cerrado. Lo que falta de
 Álgebra lo declara el archivo del capítulo en curso — hoy `algebra-02-resta.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (19/19 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (concepto de suma, carácter general, el recuadro de Egipto, regla general,
+suma de polinomios, prueba por valor numérico, ordenación). **0 retiros nuevos.** El único
+retiro que tiene el archivo (#9, a quién se debe el papiro de Rhind, PERSONA) ya venía de
+una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.

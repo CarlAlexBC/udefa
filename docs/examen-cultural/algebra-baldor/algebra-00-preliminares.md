@@ -117,6 +117,14 @@ contrastar.
 Álgebra son los capítulos, y **lo declara el archivo del capítulo en curso** —
 hoy `algebra-01-suma.md`— para que no haya dos archivos diciendo qué falta.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (186/186 reactivos)**. Revisados los 35 sub-lotes de
+punta a punta (notación, signos, cantidades relativas, nomenclatura, grado, clases de
+términos y polinomios, historia de los números racionales/irracionales/negativos,
+axiomas de igualdad/suma/multiplicación/orden/continuidad, y las cuatro operaciones con
+relativos). **0 retiros nuevos.** El único retiro que tiene el archivo (#113, Newton,
+PERSONA) ya venía de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.
