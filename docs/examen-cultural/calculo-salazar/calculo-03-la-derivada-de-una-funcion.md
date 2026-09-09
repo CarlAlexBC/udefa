@@ -1392,7 +1392,7 @@ Conforme al libro de Cálculo, ¿cuál es la definición formal de que una funci
 
 ### 203
 
-¿Cuál es la definición formal de que una función y = f(x) es decreciente en un intervalo I = (a, b), según el libro de Cálculo?
+De acuerdo con el libro de Cálculo, ¿cuál es la definición formal de que una función y = f(x) es decreciente en un intervalo I = (a, b)?
 
 - A. Si a < b; entonces f(a) > f(b)
 - B. Si a < b; entonces f(a) < f(b)
@@ -1409,7 +1409,7 @@ Conforme al libro de Cálculo, ¿cuál es la definición formal de que una funci
 
 ### 204
 
-De acuerdo con el libro, si f'(x) > 0 en un intervalo I, ¿qué se puede afirmar de la función y del ángulo que forma la tangente con la horizontal?
+De acuerdo con el libro de Cálculo, si f'(x) > 0 en un intervalo I, ¿qué se puede afirmar de la función y del ángulo que forma la tangente con la horizontal?
 
 - A. f es creciente en ese intervalo, y el ángulo con la horizontal es mayor que cero y menor de 90°
 - B. f es decreciente en ese intervalo, y el ángulo con la horizontal es mayor que cero y menor de 90°
@@ -1426,7 +1426,7 @@ De acuerdo con el libro, si f'(x) > 0 en un intervalo I, ¿qué se puede afirmar
 
 ### 205
 
-Según el libro, si f'(x) < 0 en un intervalo I, ¿qué ocurre con la función y con el ángulo que forma la tangente con la horizontal?
+Según el libro de Cálculo, si f'(x) < 0 en un intervalo I, ¿qué ocurre con la función y con el ángulo que forma la tangente con la horizontal?
 
 - A. f es decreciente en ese intervalo, y el ángulo con la horizontal es mayor de 90° y menor que 180°
 - B. f es creciente en ese intervalo, y el ángulo con la horizontal es mayor de 90° y menor que 180°
@@ -1443,7 +1443,7 @@ Según el libro, si f'(x) < 0 en un intervalo I, ¿qué ocurre con la función y
 
 ### 206
 
-Conforme al libro, sea una función y = f(x) continua en el intervalo I = [a, b], ¿cómo define el máximo relativo de la función en el punto x ∈ I?
+Conforme al libro de Cálculo, sea una función y = f(x) continua en el intervalo I = [a, b], ¿cómo define el máximo relativo de la función en el punto x ∈ I?
 
 - A. Se verifica que f(x − h) < f(x) > f(x + h)
 - B. Se verifica que f(x − h) > f(x) < f(x + h)
@@ -1460,7 +1460,7 @@ Conforme al libro, sea una función y = f(x) continua en el intervalo I = [a, b]
 
 ### 207
 
-¿Cómo define el libro el mínimo relativo de la función y = f(x) en el punto x ∈ I?
+De acuerdo con el libro de Cálculo, ¿cómo se define el mínimo relativo de la función y = f(x) en el punto x ∈ I?
 
 - A. Se verifica que f(x − h) > f(x) < f(x + h)
 - B. Se verifica que f(x − h) < f(x) > f(x + h)
@@ -1477,7 +1477,7 @@ Conforme al libro, sea una función y = f(x) continua en el intervalo I = [a, b]
 
 ### 208
 
-Según el libro, ¿por qué a estos puntos máximos y mínimos se les llama "relativos"?
+Según el libro de Cálculo, ¿por qué a estos puntos máximos y mínimos se les llama "relativos"?
 
 - A. Porque en realidad no son máximos ni mínimos, ya que hay valores más grandes o más pequeños en la función, pero en un intervalo sí se cumplen
 - B. Porque su valor cambia según la escala de la gráfica que se utilice
@@ -1494,7 +1494,7 @@ Según el libro, ¿por qué a estos puntos máximos y mínimos se les llama "rel
 
 ### 209
 
-En el método de la primera derivada, ¿cuándo será máximo un punto según el libro?
+De acuerdo con el libro de Cálculo, en el método de la primera derivada, ¿cuándo será máximo un punto?
 
 - A. Si la función cambia de creciente a decreciente
 - B. Si la función cambia de decreciente a creciente
@@ -1511,7 +1511,7 @@ En el método de la primera derivada, ¿cuándo será máximo un punto según el
 
 ### 210
 
-En el método de la primera derivada, ¿cuándo será mínimo un punto conforme al libro?
+Conforme al libro de Cálculo, en el método de la primera derivada, ¿cuándo será mínimo un punto?
 
 - A. Si la función cambia de decreciente a creciente
 - B. Si la función cambia de creciente a decreciente
@@ -1528,7 +1528,7 @@ En el método de la primera derivada, ¿cuándo será mínimo un punto conforme 
 
 ### 211
 
-En el método de la segunda derivada, si el valor obtenido en la segunda derivada es mayor que cero, ¿qué representa ese punto según el libro?
+Según el libro de Cálculo, en el método de la segunda derivada, si el valor obtenido en la segunda derivada es mayor que cero, ¿qué representa ese punto?
 
 - A. Un valor mínimo
 - B. Un valor máximo
@@ -1545,7 +1545,7 @@ En el método de la segunda derivada, si el valor obtenido en la segunda derivad
 
 ### 212
 
-En el método de la segunda derivada, si el valor obtenido en la segunda derivada es menor que cero, ¿qué representa ese punto?
+De acuerdo con el libro de Cálculo, en el método de la segunda derivada, si el valor obtenido en la segunda derivada es menor que cero, ¿qué representa ese punto?
 
 - A. Un valor máximo
 - B. Un valor mínimo
@@ -1562,7 +1562,7 @@ En el método de la segunda derivada, si el valor obtenido en la segunda derivad
 
 ### 213
 
-Según el libro, cuando se tiene una ecuación de segundo grado, ¿qué ventaja ofrece la segunda derivada para el método de máximos y mínimos?
+Según el libro de Cálculo, cuando se tiene una ecuación de segundo grado, ¿qué ventaja ofrece la segunda derivada para el método de máximos y mínimos?
 
 - A. Al ser una constante, indica de inmediato si se trata de un mínimo o un máximo
 - B. Se vuelve igual a cero, por lo que ya no hace falta evaluarla
@@ -1598,7 +1598,7 @@ Conforme al libro de Cálculo, ¿cómo se define el punto de inflexión de una c
 
 ### 215
 
-Según el libro, en el procedimiento para obtener el punto de inflexión, ¿qué se hace con el valor que se obtiene al igualar a cero la segunda derivada?
+Según el libro de Cálculo, en el procedimiento para obtener el punto de inflexión, ¿qué se hace con el valor que se obtiene al igualar a cero la segunda derivada?
 
 - A. Se sustituye en la tercera derivada; si ésta es diferente de cero, entonces es punto de inflexión
 - B. Se sustituye en la primera derivada; si ésta es igual a cero, entonces es punto de inflexión
@@ -1615,7 +1615,7 @@ Según el libro, en el procedimiento para obtener el punto de inflexión, ¿qué
 
 ### 216
 
-De acuerdo con el libro, ¿por qué una curva de segundo grado (parábola) no tiene punto de inflexión?
+De acuerdo con el libro de Cálculo, ¿por qué una curva de segundo grado (parábola) no tiene punto de inflexión?
 
 - A. Porque su tercera derivada es cero
 - B. Porque su segunda derivada es cero
@@ -1632,7 +1632,7 @@ De acuerdo con el libro, ¿por qué una curva de segundo grado (parábola) no ti
 
 ### 217
 
-¿Cómo define el libro una concavidad?
+De acuerdo con el libro de Cálculo, ¿cómo se define una concavidad?
 
 - A. Un hueco que se forma en la gráfica de la función
 - B. El punto donde la función cambia de creciente a decreciente
@@ -1649,7 +1649,7 @@ De acuerdo con el libro, ¿por qué una curva de segundo grado (parábola) no ti
 
 ### 218
 
-Según el libro, ¿cómo se determina si una curva es cóncava hacia arriba o hacia abajo?
+Según el libro de Cálculo, ¿cómo se determina si una curva es cóncava hacia arriba o hacia abajo?
 
 - A. Si la segunda derivada es mayor que cero, la curva es cóncava hacia arriba; si es menor que cero, es cóncava hacia abajo
 - B. Si la primera derivada es mayor que cero, la curva es cóncava hacia arriba; si es menor que cero, es cóncava hacia abajo
@@ -1666,7 +1666,7 @@ Según el libro, ¿cómo se determina si una curva es cóncava hacia arriba o ha
 
 ### 219
 
-Conforme a la tabla resumen del libro, ¿qué indica que f'(x) = 0?
+Conforme a la tabla resumen del libro de Cálculo, ¿qué indica que f'(x) = 0?
 
 - A. Máximos o mínimos
 - B. Función creciente
@@ -1683,7 +1683,7 @@ Conforme a la tabla resumen del libro, ¿qué indica que f'(x) = 0?
 
 ### 220
 
-Conforme a la tabla resumen del libro, ¿qué indica que f''(x) = 0?
+Conforme a la tabla resumen del libro de Cálculo, ¿qué indica que f''(x) = 0?
 
 - A. Punto de inflexión
 - B. Cóncava hacia arriba
@@ -1719,7 +1719,7 @@ Según el libro de Cálculo, ¿a qué función sirve de introducción el estudio
 
 ### 222
 
-Conforme al libro, en el subtema 3.6 "Notaciones de la derivada", ¿cuáles son las cuatro notaciones que presenta para la derivada?
+Conforme al libro de Cálculo, en el subtema 3.6 "Notaciones de la derivada", ¿cuáles son las cuatro notaciones que presenta para la derivada?
 
 - A. Cauchy: D_x f(x); Lagrange: y'; Lagrange: f'(x); Leibniz: dy/dx
 - B. Cauchy: dy/dx; Lagrange: D_x f(x); Newton: y'; Leibniz: f'(x)
@@ -1736,7 +1736,7 @@ Conforme al libro, en el subtema 3.6 "Notaciones de la derivada", ¿cuáles son 
 
 ### 223
 
-¿Cómo define el libro la diferencial de una función?
+De acuerdo con el libro de Cálculo, ¿cómo se define la diferencial de una función?
 
 - A. Como la derivada de la función por el incremento de x
 - B. Como el incremento de la función dividido entre el incremento de x
@@ -1753,7 +1753,7 @@ Conforme al libro, en el subtema 3.6 "Notaciones de la derivada", ¿cuáles son 
 
 ### 224
 
-Según el libro, ¿con qué otro nombre se conoce el concepto de la diferencial?
+Según el libro de Cálculo, ¿con qué otro nombre se conoce el concepto de la diferencial?
 
 - A. Linealización de la función
 - B. Antidiferencial de la función
@@ -1770,7 +1770,7 @@ Según el libro, ¿con qué otro nombre se conoce el concepto de la diferencial?
 
 ### 225
 
-Según el libro, ¿qué relación hay entre el tamaño del incremento de la variable independiente y la exactitud de la diferencial como aproximación?
+Según el libro de Cálculo, ¿qué relación hay entre el tamaño del incremento de la variable independiente y la exactitud de la diferencial como aproximación?
 
 - A. Entre menor sea el incremento de la variable independiente, el valor de la diferencial se acerca más al valor exacto
 - B. Entre mayor sea el incremento de la variable independiente, el valor de la diferencial se acerca más al valor exacto
@@ -1787,7 +1787,7 @@ Según el libro, ¿qué relación hay entre el tamaño del incremento de la vari
 
 ### 226
 
-¿Cuál es la fórmula de linealización que presenta el libro para aproximar f(x ± Δx)?
+De acuerdo con el libro de Cálculo, ¿cuál es la fórmula de linealización que presenta para aproximar f(x ± Δx)?
 
 - A. f(x ± Δx) ≈ f(x) ± f'(x) dx
 - B. f(x ± Δx) ≈ f(x) ± f''(x) dx

@@ -99,7 +99,7 @@ APERTURAS_VALIDAS = re.compile(
     # libro de", "el pie de figura del libro de", "el Cuadro 6.2 del libro
     # de"...) — estilo válido, revisado el 3-4 sep 2026 en Geografía y
     # Física: cita la fuente con más precisión, no es un defecto.
-    r'^(en relaci[oó]n con|de acuerdo con|de conformidad con|seg[uú]n)\s+(el|la|los|las)' + _FUENTE
+    r'^(en relaci[oó]n con|de acuerdo con|de conformidad con|seg[uú]n|conforme a)\s+(el|la|los|las)' + _FUENTE
     + r'|^conforme al' + _FUENTE,
     re.I,
 )

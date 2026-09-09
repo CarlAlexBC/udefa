@@ -1,11 +1,11 @@
 Reactivos totales en los .md: 10343
-Señalados: 123  (1.2%)
+Señalados: 101  (1.0%)
 
 POR FAMILIA
   PERSONA             60   EMM 17, fisica-perez-montiel 17, historia-mexico-menchaca 10, HCM 4, algebra-baldor 4, geografia-lucio-victorio 3
   VISUAL              30   EMM 11, zill-atg 7, espanol-zarzar 5, fisica-perez-montiel 3, larson-precalculo 3, algebra-baldor 1
-  PLANTILLA           26   calculo-salazar 22, fisica-perez-montiel 3, zill-atg 1
   SIN_ANTECEDENTE      6   historia-mexico-menchaca 5, EMM 1
+  PLANTILLA            4   fisica-perez-montiel 3, zill-atg 1
   LIBRO                1   espanol-zarzar 1
 
 POR DETECTOR
@@ -15,11 +15,11 @@ POR DETECTOR
      30  VISUAL · esquema/figura/tabla
          [EMM] "En relación con el libro de Biología, ¿qué representa el gráfico de la figura 14-1, "El vigoroso campo de la epigenética"?"
          [EMM] "De acuerdo con el libro de Biología, ¿qué muestra la figura 14-1 sobre el crecimiento del campo de la epigenética?"
-     26  PLANTILLA · apertura fuera de las establecidas
      15  PERSONA · gentilicio de cientifico
          [EMM] "En relación con el libro de Biología, ¿qué permitieron establecer de manera inequívoca los trabajos del físico inglés James Joule?"
          [EMM] "De conformidad con el libro de Biología, en su trabajo *Materiales para el estudio de la variación*, ¿qué resaltó el científico in"
       6  SIN_ANTECEDENTE · pronombre sin nombrar
+      4  PLANTILLA · apertura fuera de las establecidas
       3  PERSONA · nacimiento o muerte
          [HCM] "En relación con el libro de Historia Universal, ¿qué era distinto cuando nació el plan del ALCA?"
          [historia-mexico-menchaca] "De acuerdo con el libro de Historia de México 1, ¿cuándo murió Hermenegildo Galeana, hecho que mermó aún más la moral del Siervo d"
