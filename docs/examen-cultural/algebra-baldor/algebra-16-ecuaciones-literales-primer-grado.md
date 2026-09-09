@@ -57,6 +57,11 @@ Fuera: los dos ejemplos resueltos (arts. 218 y 219) y los Ejercicios 143 y 144
 **Pendiente:** ninguno de este capítulo. Sigue el Capítulo XXIII (Ecuaciones
 indeterminadas, pp. 311–318), que la EMMG pide junto con éste.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (3/3 reactivos)**. Revisados los 2 sub-lotes de
+punta a punta (definición de ecuación literal, resolución de las enteras). **0 retiros
+nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
