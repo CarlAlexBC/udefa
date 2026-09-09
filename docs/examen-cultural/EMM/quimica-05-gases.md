@@ -1840,6 +1840,7 @@ De conformidad con el libro de Química, ¿con qué objeto se compara el volumen
 **Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 187
 **Tema:** 5.4 · la ecuación de los gases ideales
 **Subtema:** Química · volumen molar
+**Retirado:** VISUAL · pregunta por la analogía ilustrativa (una pelota de baloncesto), no por el dato químico (22.4 L)
 
 Una comparación del volumen molar en STP (que es de aproximadamente 22,4 L) con una pelota de baloncesto.
 

@@ -2959,6 +2959,7 @@ De acuerdo con el libro de Biología, ¿qué representan los puntos amarillos de
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 305
 **Subtema:** epigenética · fig. 14-9, los puntos amarillos
+**Retirado:** VISUAL · el color de los puntos en la ilustración es un detalle arbitrario, no el concepto de metilación
 
 Los puntos amarillos representan los grupos metilo.
 
