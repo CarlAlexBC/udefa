@@ -74,6 +74,23 @@ export class MailService implements OnModuleInit {
   }
 
   /**
+   * Envuelve el fragmento en un documento HTML completo (doctype + head con
+   * charset). Un <div> suelto sin documento alrededor lo sanitiza cada
+   * cliente a su manera — así fue como Gmail se comió el ancho fijado en la
+   * imagen de la cadete y la mostró a su resolución completa (440px) en vez
+   * de los 110px puestos en el <img>.
+   */
+  private envolverDocumento(cuerpo: string): string {
+    return `<!DOCTYPE html>
+<html lang="es">
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /></head>
+<body style="margin:0; padding:0; background:#0B0A09;">
+${cuerpo}
+</body>
+</html>`;
+  }
+
+  /**
    * Correo para restablecer la contraseña. `link` es la URL con el token que
    * lleva a la pantalla de "elige tu nueva contraseña".
    */
@@ -154,10 +171,10 @@ export class MailService implements OnModuleInit {
     paqueteTitulo: string;
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
-    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/acompana.webp`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/acompana-correo.png`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
       <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. Notamos que comenzaste tu proceso de preparación para <strong>${opts.paqueteTitulo}</strong>, y nos encantaría acompañarte a completarlo. Con tu acceso podrás avanzar con un simulador apegado al examen real y un panel que te muestra, paso a paso, en qué enfocar tu estudio.
@@ -174,7 +191,7 @@ export class MailService implements OnModuleInit {
     return this.enviar({
       to: opts.to,
       subject: 'Tu proceso de preparación te espera — El Monote te Guía',
-      html,
+      html: this.envolverDocumento(html),
     });
   }
 
@@ -192,10 +209,10 @@ export class MailService implements OnModuleInit {
   }) {
     const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
-    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/presenta.webp`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/presenta-correo.png`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
       <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. El examen psicológico (Psicométrico, Personalidad y Axiológico) lo armamos con apoyo de psicólogos militares y con la experiencia de haber presentado el proceso real de admisión. Su panel de resultados no se queda en calificarte: identifica los patrones detrás de tus respuestas y te remite a la sección exacta de la Guía del Aspirante que conviene reforzar.
@@ -221,7 +238,7 @@ export class MailService implements OnModuleInit {
     return this.enviar({
       to: opts.to,
       subject: 'Conoce tu preparación por dentro, antes de decidir',
-      html,
+      html: this.envolverDocumento(html),
     });
   }
 
@@ -237,10 +254,10 @@ export class MailService implements OnModuleInit {
     paqueteTitulo: string;
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
-    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/confianza.webp`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/confianza-correo.png`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
       <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. Queremos que tomes esta decisión con calma y confianza, no bajo presión. Si tu interés en prepararte con <strong>${opts.paqueteTitulo}</strong> continúa, seguimos aquí para acompañarte en el momento en que decidas retomarlo.
@@ -257,7 +274,7 @@ export class MailService implements OnModuleInit {
     return this.enviar({
       to: opts.to,
       subject: `Tu preparación para ${opts.paqueteTitulo} sigue disponible`,
-      html,
+      html: this.envolverDocumento(html),
     });
   }
 }
