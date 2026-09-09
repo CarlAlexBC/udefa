@@ -64,6 +64,13 @@ y **EB con su descripción completa** (tundra ET, hielos perpetuos por altitud).
 > tropicales, depresiones polares, alisios y contralisios. No eran rótulos de mapa;
 > son texto capturable, ya escrito en los reactivos 94–97.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (97/97 reactivos)**. Revisados los 16 sub-lotes de
+punta a punta (factores/elementos del clima, insolación, evaporación, régimen térmico,
+presión, vientos, frentes, humedad, nubosidad, heladas, precipitación, y toda la
+clasificación de Köppen). **0 retiros nuevos.** No hay reactivos ya retirados en este
+archivo.
+
 **Pendiente:** ninguno. El capítulo 7 está cerrado: cubierto en toda su prosa
 (pp. 120–167) con 97 reactivos; la p.168 ya es el arranque del capítulo 8,
 Hidrología, que queda fuera. Ya se corrió el importador de oferta en dry-run (árbol
