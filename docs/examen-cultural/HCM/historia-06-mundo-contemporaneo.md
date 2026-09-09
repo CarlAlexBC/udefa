@@ -68,6 +68,17 @@ apartado anterior.
 **Pendiente:** ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que
 pide el temario del HCM están completos, de la página 205 a la 279.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (600/600 reactivos)**. Revisados los 52 sub-lotes de
+punta a punta (Guerra Fría, organizaciones internacionales, Golfo Pérsico, fin del bloque
+socialista, América Latina país por país, Unión Europea, Torres Gemelas/invasión a Irak,
+potencias emergentes y la primera década en América) — **0 retiros nuevos**. Es un capítulo
+enciclopédico donde casi todos los reactivos que comparten un mismo párrafo fuente prueban
+un dato distinto (fecha, cifra, nombre, causa, consecuencia) en vez de repetir el mismo dato
+con otro disfraz; no apareció el patrón de "lista repetida sin agregar nada" que sí se
+encontró en `historia-mexico-02-poblamiento.md`. El único retiro que tiene el archivo (#138,
+Emir de Kuwait sin contexto) ya venía de las rondas Fase C / SIN_CONCEPTO anteriores.
+
 ## Verificación de transcripción (19 jul 2026)
 
 Los reactivos se escriben transcribiendo a mano desde imágenes del escaneo, así
