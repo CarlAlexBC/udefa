@@ -84,6 +84,17 @@ Cubiertas las páginas impresas **145 a 158**:
 
 **Pendiente:** ninguno. El capítulo 8 está cerrado en 149 reactivos (23 jul 2026); los ejercicios de razonamiento de la página 158 quedan fuera por no ser de recuerdo literal. Lo que falta de Biología lo declara el archivo del último capítulo escrito — hoy, el capítulo 11.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (149/149 reactivos)**. Revisados los 30 sub-lotes de
+punta a punta (el ATP y las vías catabólicas, panorama general de la oxidación de la
+glucosa, coenzimas transportadoras NAD/FAD, cadena respiratoria, la glucólisis paso a paso
+—los nueve pasos, sus enzimas y balances—, la mitocondria, oxidación del ácido pirúvico y
+acetil-CoA, el ciclo de Krebs completo, transporte de electrones y acoplamiento
+quimiosmótico de Mitchell, rendimiento energético global, fermentación láctica y
+alcohólica, otras vías catabólicas —grasas, proteínas, desaminación—, vías de síntesis
+autótrofas/heterótrofas, y el apartado del cianuro). **0 retiros nuevos.** El archivo no
+tenía retiros previos.
+
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
 > en blanco. Si se parte en viñetas o se le cambia el nombre, el archivo pasa a
