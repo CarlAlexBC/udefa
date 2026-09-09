@@ -743,4 +743,14 @@ pide el temario de Medicina (3.1, 3.2, 3.3, 3.5 y 3.7); el resto del capítulo
 (3.4, 3.6 y 3.8 a 3.10) no entra. Química quedó cerrada; el resumen lo sostiene
 el `.md` del capítulo 24.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (43/43 reactivos)**. Revisados los 5 sub-lotes de
+punta a punta (masa atómica y la uma/daltón, el número de Avogadro y la masa molar, la masa
+molecular y su relación con la masa molar, la composición porcentual de los compuestos, y
+las reacciones y ecuaciones químicas —reactivos/productos, coeficientes vs. subíndices, la
+ley de conservación de la masa—). **0 retiros nuevos, 0 retiros preexistentes.** El trío
+38-40 (qué son los coeficientes / qué son los subíndices / qué se puede cambiar al
+equilibrar) prueba tres preguntas distintas sobre el mismo par de conceptos y no es
+relleno.
+
 **Reactivos en este archivo:** 43
