@@ -58,6 +58,13 @@ cerrada. Con esta unidad, **la materia Física queda CERRADA para la EMO**
 (`FIS-03-2026`): están escritas y con clave `**Tema:**` todas sus unidades — U1,
 U2, U4, U5, U6, U8 y U11.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (20/20 reactivos)**. Revisados los 4 sub-lotes de
+punta a punta (concepto de ciencia, ciencias formales y factuales, juicios deductivos e
+inductivos, y el método científico en la construcción de la ciencia). **0 retiros nuevos, 0
+retiros preexistentes.** El trío sistemática/comprobable/perfectible y el par
+deductivo/inductivo prueban cada uno un dato distinto y no son relleno.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
