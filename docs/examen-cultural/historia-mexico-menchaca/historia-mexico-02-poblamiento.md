@@ -71,6 +71,16 @@ bloques que pide la **EMMG** (`HISMÉX-03-2026`) también están cerrados: el **
 `historia-mexico-03-conquista.md` y el **5** en `historia-mexico-05-independencia.md`, así que
 **Historia de México (Menchaca) queda cerrada del todo**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** revisados los sub-lotes 1-17 (reactivos 1-214: teorías del poblamiento, etapa lítica,
+áreas culturales, horizontes, y las culturas olmeca, teotihuacana, zapoteca, del Centro de
+Veracruz, de Occidente, del Centro norte, maya, tolteca y huasteca) — 3 retirados, todos por
+repetir la misma lista (localidades o dioses) en más de un reactivo sin agregar nada nuevo.
+A diferencia de `conquista.md`, este archivo casi no tiene relleno: su contenido es el
+temario mismo (culturas prehispánicas), no hay una sección de "contexto europeo" tangencial
+que cazar. **Sigue en el reactivo 215** (sub-lote 18, cultura mixteca). Faltan los sub-lotes
+18-26 (mixteca, totonaca, purépecha, y los seis bloques de la cultura mexica).
+
 ## Avisos al aspirante (erratas del libro)
 
 Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del
@@ -3242,6 +3252,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes loca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite la misma lista de localidades que el 203, sólo cambia cuál entrada se pregunta — no agrega nada nuevo
 
 Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
 
@@ -3257,6 +3268,7 @@ De acuerdo con el libro de Historia de México 1, ¿en qué entidad se localizab
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite la misma lista de localidades que el 203 y el 204, sólo cambia cuál entrada se pregunta — no agrega nada nuevo
 
 Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
 
@@ -3332,6 +3344,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuáles se cuentan entre los
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite el mismo reconocimiento de la lista de dioses que el 209, sin describir un atributo propio de cada uno — no agrega nada nuevo
 
 También destacan en la escultura en barro y piedra, en la que es posible identificar a sus dioses más importantes: Quetzalcóatl, Xipe, Tláloc, Chicomecóatl, Tlahuizcalpantecuhtli, Mixcóatl, Ome Tochtli, Tlazoltéotl y Ehécatl.
 
