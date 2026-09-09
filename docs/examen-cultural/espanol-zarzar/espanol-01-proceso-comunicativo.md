@@ -50,6 +50,16 @@ tipos de lenguaje, elementos del proceso comunicativo y funciones del lenguaje.
 
 **Pendiente:** ninguno. El bloque 1 está cerrado.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (32/32 reactivos)**. Revisados los 5 sub-lotes de
+punta a punta (tipos básicos de lenguaje; elementos del proceso comunicativo; funciones del
+lenguaje; ejemplo oficial del Anexo H, Actividad 1.3; introducción — tipos de lenguaje y el
+texto). El par #23/#24 (palabra "metalingüística" completa vs. solo el prefijo "meta") y el
+reactivo #27 del modelo alterno de la Actividad 1.3 frente al #15 del texto principal (ya
+documentados en el propio archivo como dos modelos distintos que la SEDENA usa) se
+confirman como datos legítimamente distintos, no relleno. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Formato del Anexo "H" de la convocatoria 2026. El examen cultural evalúa
