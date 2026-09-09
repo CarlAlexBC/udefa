@@ -60,6 +60,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno en este archivo. **La Unidad IV está CERRADA** en lo que pide el temario `GEO-01-2026`: el **4.5** (pp. 138–141) y el **4.6** completo —4.6.1 Concepto y clasificación (pp. 142–143), 4.6.2 Causas y consecuencias (pp. 144–145) y 4.6.3 La contaminación del suelo y el subsuelo (pp. 145–146)—, en **135 reactivos**. Las Unidades **V** (`geografia-05-hidrosfera.md`) y **VI** (`geografia-06-atmosfera.md`) también quedaron cerradas. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (135/135 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta. **0 retiros nuevos.** Los 2 retiros que tiene el archivo (#81 y #107, ambos
+VISUAL) ya venían de la ronda de detector anterior.
+
 > **Verificado el final del tema:** el cuerpo del 4.6.3 termina en la mitad superior de la **p.146**; el resto de esa página es un ejercicio (espacio en blanco para ilustrar). La **p.147** es una **"Lectura Complementaria" tomada de otro autor** (*Selecciones del Reader's Digest*, "¿Qué son las montañas?") y de la **148 a la 150** van los "Ejercicios de aplicación" con su escala de calificaciones. Por norma, nada de eso lleva reactivos. La Unidad V arranca en la p.151.
 
 ---
