@@ -81,11 +81,13 @@ Bloque 3 cerrado, y estando ya cerrados los Bloques 2 y 5, **Historia de México
 COMPLETA para la EMMG** en los tres bloques que pide su temario (`HISMÉX-03-2026`): 2, 3 y 5.
 
 **Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
-2026):** revisados el sub-lote 1-3 (reactivos 1-36, "causas" y "derechos de patronato") — 16
-retirados por relleno demográfico/genealógico sin relación causal con la conquista de México.
-**Sigue en el reactivo 37** (sub-lote 4, "la caída de México-Tenochtitlan"). Los reactivos 37-138
-ya se revisaron una vez contra los detectores automáticos (ronda 2) pero NO con esta lectura
-exhaustiva — falta leerlos con este criterio.
+2026):** ninguno — **archivo completo (los 138 reactivos leídos)**. Total 41 retiros: 16 en
+"causas" (sub-lote 1-3, demografía y genealogía europea sin relación causal), 1 en "conquista
+espiritual — plataforma" (fundador del anglicanismo), 21 en "órdenes religiosas" (sub-lote 7:
+fundadores europeos, fechas aisladas de llegada, conteos de conventos/frailes/centros de misión),
+más los 3 ya retirados en la ronda 2. Los reactivos 37-72 (caída de Tenochtitlan y expansión/
+encomienda) no tuvieron ningún retiro — es la narrativa central de la conquista, no relleno.
+Sigue en `historia-mexico-02-poblamiento.md` (346 reactivos, sin empezar esta lectura).
 
 ## Avisos al aspirante (erratas del libro)
 
@@ -1253,6 +1255,7 @@ En relación con el libro de Historia de México 1, ¿quién fundó el anglicani
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** quién fundó una religión europea es relleno, no contenido de la conquista de México — mismo criterio que el 77
 
 Enrique VIII de Inglaterra funda el anglicanismo; los príncipes alemanes abrazan el luteranismo, Ginebra el calvinismo, etc.
 
@@ -1483,6 +1486,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fundó la orden m
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México (el 91, con la misma cita, sí pregunta por algo específico de la Nueva España)
 
 Franciscanos. Esta orden mendicante, fundada por San Francisco de Asís (1182-1226), en Italia, fue la primera en llegar a la Nueva España.
 
@@ -1528,6 +1532,7 @@ De conformidad con el libro de Historia de México 1, ¿quiénes fueron los tres
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** memorización de tres nombres propios sin más contenido — el 92 (de dónde vinieron) y el 94 (qué pasó con ellos) ya cubren el mismo hecho con más sustancia
 
 En septiembre de 1523 arribaron tres franciscanos provenientes de Gante, Bélgica: Juan Deckkeres (Tecto), Juan de Auwera (Aora) Pedro van de Moere (Gante).
 
@@ -1618,6 +1623,7 @@ De conformidad con el libro de Historia de México 1, los franciscanos se organi
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos por provincia, estadística de relleno sin concepto detrás
 
 Los franciscanos se organizaron en provincias: México, con 60 conventos; Michoacán con 49 conventos, y Yucatán con 21 conventos.
 
@@ -1633,6 +1639,7 @@ En relación con el libro de Historia de México 1, ¿cuántos frailes francisca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno sin concepto detrás — duplica el 101 con el mismo dato
 
 Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
 
@@ -1648,6 +1655,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos frailes franciscano
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno sin concepto detrás — duplica el 100 con el mismo dato
 
 Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
 
@@ -1769,6 +1777,7 @@ En relación con el libro de Historia de México 1, hacia finales del siglo XVI,
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos y religiosos, estadística de relleno sin concepto detrás
 
 Hacia finales del siglo XVI tenían 40 conventos y 210 religiosos.
 
@@ -1799,6 +1808,7 @@ De conformidad con el libro de Historia de México 1, ¿qué provincia crearon l
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** trivia organizacional (fecha de creación de una provincia) sin relación con el proceso de evangelización
 
 A mediados del siglo XVII crearon la provincia dominica de Puebla.
 
@@ -1814,6 +1824,7 @@ En relación con el libro de Historia de México 1, ¿en la observancia de la co
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** en quién se basa una orden religiosa europea es relleno, mismo criterio que los fundadores ya retirados
 
 Agustinos. Su fundación pertenece también en el siglo XIII. Se basa en la observancia de la conducta de San Agustín de Hipona (siglo V).
 
@@ -1844,6 +1855,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué dos provincias s
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** trivia organizacional (provincias y fechas) sin relación con el proceso de evangelización — duplica el 115
 
 Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
 
@@ -1859,6 +1871,7 @@ En relación con el libro de Historia de México 1, en el siglo XVI, ¿cuántos 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos y religiosos, estadística de relleno — duplica el 114
 
 Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
 
@@ -1874,6 +1887,7 @@ De acuerdo con el libro de Historia de México 1, ¿por quién fue ratificada la
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha de ratificación papal en Europa, sin relación con la conquista de México — mismo criterio que los fundadores
 
 Jesuitas. Orden religiosa ratificada por el papa Paulo III en 1540.
 
@@ -1950,6 +1964,7 @@ En relación con el libro de Historia de México 1, ¿cerca de cuántos jesuitas
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno — duplica el 120
 
 Llegaron a México hasta 1572, en número de nueve frailes, que para finales del siglo XVI serían cerca de 300.
 
@@ -1995,6 +2010,7 @@ En relación con el libro de Historia de México 1, ¿cuántos centros de misió
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de centros de misión, estadística de relleno sin concepto detrás
 
 Hacia 1745 poseían 37 centros de misión en Baja California.
 
@@ -2025,6 +2041,7 @@ De conformidad con el libro de Historia de México 1, los dieguinos, o francisca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha de llegada y conteo de conventos de una orden menor, estadística de relleno
 
 Los dieguinos, o franciscanos descalzos, llegaron en 1580 y fundaron 16 conventos.
 
@@ -2055,6 +2072,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos conventos tuvieron 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos, estadística de relleno sin concepto detrás
 
 Al inicio, los mercedarios eran los capellanes militares, luego destacaron como personajes cultos y constructores de conventos. Tuvieron 19 conventos.
 
@@ -2070,6 +2088,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué año llegaron lo
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización
 
 Los carmelitas contemplativos llegaron en 1585.
 
@@ -2115,6 +2134,7 @@ De conformidad con el libro de Historia de México 1, la Congregación del Orato
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de fundación, sin relación con el proceso de evangelización (el 133 y 134, sobre el mismo templo, sí tienen sustancia narrativa)
 
 Congregación del Oratorio de San Felipe Neri. Fundada en México en 1659, construyeron conventos de difusión evangelizadora.
 
@@ -2160,6 +2180,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué año llegaron lo
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización
 
 Los benedictinos llegaron en 1602.
 
@@ -2175,6 +2196,7 @@ En relación con el libro de Historia de México 1, la orden de los benedictinos
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fundador y papel de una orden en Europa medieval, relleno sin relación con la conquista de México
 
 Esta orden, fundada desde el siglo V por San Benito de Nursia, fue la orden que educó a Europa durante la Edad Media a través de su gran red de monasterios, centros de religión, cultura y trabajo.
 
@@ -2190,6 +2212,7 @@ De acuerdo con el libro de Historia de México 1, entre las órdenes religiosas 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de fundación de una orden femenina menor, sin relación con el proceso de evangelización
 
 Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
 
@@ -2205,6 +2228,7 @@ De conformidad con el libro de Historia de México 1, las dominicas, orden relig
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** lista de ciudades donde una orden femenina fundó conventos, dato geográfico de relleno sin concepto detrás
 
 Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
 
