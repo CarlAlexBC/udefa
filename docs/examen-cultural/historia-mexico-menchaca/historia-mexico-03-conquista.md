@@ -80,6 +80,13 @@ Conquista" y "La controversia del indio" (pp. 102–104) NO entran** (decisión 
 Bloque 3 cerrado, y estando ya cerrados los Bloques 2 y 5, **Historia de México (Menchaca) queda
 COMPLETA para la EMMG** en los tres bloques que pide su temario (`HISMÉX-03-2026`): 2, 3 y 5.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** revisados el sub-lote 1-3 (reactivos 1-36, "causas" y "derechos de patronato") — 16
+retirados por relleno demográfico/genealógico sin relación causal con la conquista de México.
+**Sigue en el reactivo 37** (sub-lote 4, "la caída de México-Tenochtitlan"). Los reactivos 37-138
+ya se revisaron una vez contra los detectores automáticos (ronda 2) pero NO con esta lectura
+exhaustiva — falta leerlos con este criterio.
+
 ## Avisos al aspirante (erratas del libro)
 
 _Ninguno detectado por ahora en este bloque._
@@ -205,6 +212,7 @@ De conformidad con el libro de Historia de México 1, ¿en cuántos grados ecuat
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** PERSONA · el dato numérico exacto (104 grados) duplica al 7, que ya pregunta por el mismo cálculo de Toscanelli con contexto causal
 
 El geógrafo veneciano Toscanelli había calculado en 104 grados ecuatoriales la distancia de Lisboa a Cipango (una isla de Japón).
 
@@ -220,6 +228,7 @@ En relación con el libro de Historia de México 1, ¿en qué año cayó España
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato aislado (fecha de la invasión musulmana) sin relación causal con la llegada europea a América — relleno de contexto español, no de la conquista de México
 
 España cayó bajo el dominio musulmán, de los omeyas, en el año 750.
 
@@ -235,6 +244,7 @@ De acuerdo con el libro de Historia de México 1, ¿hasta qué ciudades llegó A
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato aislado (una campaña militar árabe del año 1000) sin relación causal con la llegada europea a América
 
 En el año 1000 Almanzor llegó hasta Compostela y Barcelona.
 
@@ -250,6 +260,7 @@ De conformidad con el libro de Historia de México 1, en el proceso de "Reconqui
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** fecha aislada de la Reconquista sin relación causal con la llegada europea a América
 
 De los siglos XI al XIII, en el proceso de "Reconquista", se recuperaron Córdoba y Sevilla entre 1236 y 1248, aunque también se dio un tercer avance musulmán.
 
@@ -280,6 +291,7 @@ De acuerdo con el libro de Historia de México 1, ¿desde qué año era reino Po
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** fecha aislada (fundación del reino de Portugal) sin relación causal con la llegada europea a América — el 12 ya cubre los cuatro reinos
 
 En el siglo XV existían en la Península Ibérica cuatro reinos: Portugal (reino desde 1139), Castilla, Aragón y Navarra.
 
@@ -329,6 +341,7 @@ De acuerdo con el libro de Historia de México 1, los Reyes Católicos tuvieron 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (con quién se casó una hija de los Reyes Católicos) sin relación causal con la conquista de México
 
 Los Reyes Católicos tuvieron dos hijas: Juana, la mayor, y Catalina, la menor. Catalina se casó con el rey de Inglaterra Enrique VIII.
 
@@ -344,6 +357,7 @@ De conformidad con el libro de Historia de México 1, Juana la Loca, heredera de
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (matrimonio de Juana la Loca) sin relación causal con la conquista de México
 
 Juana (apodada la Loca), heredera de la Corona española, se casó con Felipe de Habsburgo, hijo del emperador Maximiliano de Austria.
 
@@ -359,6 +373,7 @@ En relación con el libro de Historia de México 1, a la muerte de Fernando el C
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (sucesión dinástica de Carlos I) sin relación causal con la conquista de México
 
 A la muerte de Fernando el Católico en 1516, Carlos, hijo de Juana la Loca y de Felipe, heredó las coronas de Castilla, Navarra, Aragón, Sicilia y Nápoles, convirtiéndose en el rey Carlos I.
 
@@ -374,6 +389,7 @@ De acuerdo con el libro de Historia de México 1, al morir su abuelo Maximiliano
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (herencia de la Corona Imperial Alemana) sin relación causal con la conquista de México
 
 Al morir su abuelo Maximiliano (1519), heredó los dominios austriacos, los Países Bajos y la Corona Imperial Alemana, convirtiéndose en el emperador Carlos V.
 
@@ -389,6 +405,7 @@ De conformidad con el libro de Historia de México 1, ¿cómo describe el libro 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato de relleno (la frase "nunca se ponía el sol"), sin relación causal con la conquista de México — mismo criterio que el resto de la cadena genealógica
 
 Con estas posesiones y las descubiertas y conquistadas en América, Carlos V se convertiría en el emperador de un gran Imperio, en el cual "nunca se ponía el sol".
 
@@ -404,6 +421,7 @@ En relación con el libro de Historia de México 1, ¿quién sucedió a Carlos V
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (sucesión de Felipe II) sin relación causal con la conquista de México
 
 Al morir Carlos V le sucedió su hijo Felipe II, que gobernó de 1556 a 1598.
 
@@ -449,6 +467,7 @@ En relación con el libro de Historia de México 1, en la época de los descubri
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 La población se calcula en 8 millones de habitantes, de los cuales 80% eran campesinos.
 
@@ -464,6 +483,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos judíos había en E
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 500 000 judíos (que fueron expulsados en 1492).
 
@@ -479,6 +499,7 @@ De conformidad con el libro de Historia de México 1, ¿cuántos mudéjares hab�
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 Un millón de mudéjares.
 
@@ -494,6 +515,7 @@ En relación con el libro de Historia de México 1, los 75 000 eclesiásticos, "
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 75 000 eclesiásticos (1% de la población): es una sociedad dentro de la sociedad.
 
@@ -509,6 +531,7 @@ De acuerdo con el libro de Historia de México 1, los 115 000 aristócratas eran
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 115 000 aristócratas (2% de la población): 50 familias unidas por lazos de sangre (militares, nobleza urbana, caballeros).
 
