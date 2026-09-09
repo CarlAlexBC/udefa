@@ -51,6 +51,14 @@ sobre práctica.
 **Álgebra Baldor queda CERRADA para la EMMG**: los ocho capítulos que pide su temario
 (`MATE-01-2026`) —VIII, X, XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (23/23 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (Karl Weierstrass, ecuación binomia, número de raíces según el grado,
+raíces cúbicas de la unidad, ecuaciones trinomias y bicuadradas, resolución de trinomias,
+transformación de radicales dobles). **0 retiros nuevos.** Los 6 retiros que tiene el
+archivo (#1–#6, todo el recuadro de Weierstrass, MARCO) ya venían de una ronda de
+detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

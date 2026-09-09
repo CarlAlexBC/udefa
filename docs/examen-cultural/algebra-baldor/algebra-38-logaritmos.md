@@ -67,6 +67,16 @@ sobre práctica.
 CERRADA para la EMMG:** los ocho capítulos que pide su temario (`MATE-01-2026`) —VIII, X,
 XIV, XXIV, XXV, XXXIII, XXXVI y XXXVIII— están escritos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (37/37 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (Max Planck, definición de logaritmo y base, sistemas de logaritmos,
+propiedades generales, logaritmo de producto/cociente/potencia/raíz, logaritmos
+decimales, característica y mantisa, cologaritmo, tablas y ecuaciones exponenciales). **0
+retiros nuevos.** Los 6 retiros que tiene el archivo (#1–#6, todo el recuadro de Max
+Planck, MARCO) ya venían de una ronda de detector anterior. Con este archivo termina la
+lectura exhaustiva de **todo el libro Álgebra de Baldor** (26 archivos, Preliminares a
+Logaritmos).
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
