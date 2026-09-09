@@ -319,6 +319,24 @@ el 3.7 (diferencial de una función, con sus aplicaciones) ya tienen reactivo. S
 hasta la p.187 (autoevaluación); la p.188 ya es la portadilla de la Unidad 4 (La
 integral), que el temario `CÁLDIF-01-2026` de la EMT NO pide, así que no se toca.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (92/92 reactivos)**. Revisados los 12
+sub-lotes de punta a punta (historia del cálculo, Newton/Leibniz/notaciones; definición
+de derivada y las nueve fórmulas básicas; potencia con coeficiente y regla de la
+cadena; las seis trigonométricas directas; derivación implícita y las seis
+trigonométricas inversas; logaritmo/exponencial de base a; existencia de la derivada,
+derivadas sucesivas y recta normal; ángulo entre curvas y velocidad/aceleración; el
+incremento Δx; creciente/decreciente y máximos/mínimos relativos; punto de inflexión y
+concavidades; notaciones y diferencial). Las series de fórmulas de derivación
+(trigonométricas directas, inversas, logarítmicas) prueban cada una una fórmula
+distinta del recuadro del libro — no relleno. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
+**Con este archivo se cierra la auditoría ronda 3 del libro Salazar completo** (3
+archivos, 226 reactivos: Unidad 1 con 107, Unidad 2 con 27, Unidad 3 con 92), sin
+retiros nuevos en ningún archivo. Sigue el libro Thomas de esta misma materia
+(`calculo-thomas/`, 3 archivos, 269 reactivos).
+
 ---
 
 ## Sub-lote 1 · Historia del cálculo, y arranca la definición de derivada (3.1 y 3.2, pp. 105-106)
