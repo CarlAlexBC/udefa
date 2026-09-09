@@ -72,6 +72,13 @@ resueltos y los seis bloques de ejercicios de práctica (205, 206, 207, 209,
 las ecuaciones de segundo grado), que pide `EMMG_T_E_BALISTICA_2026` — ver
 `docs/examen-tropa/enlace-fisica-algebra.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (26/26 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (definición y signo de la potencia, potencia de un monomio, cuadrado y cubo
+de un polinomio, las seis leyes del Binomio de Newton, desarrollo de (a-b)ⁿ, la
+Observación sobre coeficientes repetidos, Triángulo de Pascal, término general). **0
+retiros nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
