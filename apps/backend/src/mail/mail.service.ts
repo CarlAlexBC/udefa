@@ -154,9 +154,11 @@ export class MailService implements OnModuleInit {
     paqueteTitulo: string;
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/acompana.webp`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. Notamos que comenzaste tu proceso de preparación para <strong>${opts.paqueteTitulo}</strong>, y nos encantaría acompañarte a completarlo. Con tu acceso podrás avanzar con un simulador apegado al examen real y un panel que te muestra, paso a paso, en qué enfocar tu estudio.
       </p>
@@ -190,9 +192,11 @@ export class MailService implements OnModuleInit {
   }) {
     const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/presenta.webp`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. El examen psicológico (Psicométrico, Personalidad y Axiológico) lo armamos con apoyo de psicólogos militares y con la experiencia de haber presentado el proceso real de admisión. Su panel de resultados no se queda en calificarte: identifica los patrones detrás de tus respuestas y te remite a la sección exacta de la Guía del Aspirante que conviene reforzar.
       </p>
@@ -233,9 +237,11 @@ export class MailService implements OnModuleInit {
     paqueteTitulo: string;
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
+    const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/confianza.webp`;
     const html = `
     <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px;">El Monote te Guía</h1>
+      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" style="display:block; width:110px; margin:0 auto 16px;" />
+      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
       <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
         Hola ${opts.nombre}. Queremos que tomes esta decisión con calma y confianza, no bajo presión. Si tu interés en prepararte con <strong>${opts.paqueteTitulo}</strong> continúa, seguimos aquí para acompañarte en el momento en que decidas retomarlo.
       </p>
