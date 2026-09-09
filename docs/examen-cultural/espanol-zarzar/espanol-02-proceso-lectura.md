@@ -52,6 +52,16 @@ lectura.
 **Pendiente:** ninguno. El Bloque 2 (2.2 Estrategias de comprensión lectora) queda
 cerrado para la EMMG.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (25/25 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (estrategia general y sus tres momentos; la prelectura; la lectura y sus
+causas de no comprensión; estrategias de Morles y el contexto histórico/lingüístico; la
+poslectura; estrategias particulares referencial e inferencial; tipos de lectura por nivel
+de comprensión; tipos de lectura por propósito del lector; lectura estructural, analítica y
+crítica). Las tres clasificaciones paralelas de tipos de lectura (por nivel, por propósito,
+estructural/analítica/crítica) se confirman como taxonomías distintas del libro, no
+relleno. **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro **exacto**:
