@@ -48,6 +48,17 @@ temario `ESP-03-2026`, que no incluye Bloque 5 ni Bloque 7).
 
 **Pendiente:** ninguno.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (58/58 reactivos)**. Revisados los 8 sub-lotes de
+punta a punta (introducción — qué es un prototipo textual; descripción; narración —
+incluidos los cinco tipos de relato: cuento, novela, fábula, leyenda, anécdota;
+argumentación; exposición; diálogos; conversación; propiedades particulares de los
+prototipos textuales, 4.3). Los cinco tipos de narración y el sub-lote 8 (síntesis de
+propiedades por prototipo, subtema 4.3, requerido por separado solo por la EMT y que
+retoma hechos ya vistos en 4.1) se confirman como contenido legítimamente distinto —
+mismo patrón ya establecido de subtemas con llave de temario propia, no relleno. **0
+retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro
