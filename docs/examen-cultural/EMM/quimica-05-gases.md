@@ -3295,4 +3295,20 @@ cerrado en su teoría, y con él **Química queda cerrada para todos los plantel
 que la piden (EMM, EME, EMO y EMOS): el capítulo 5 era el único subtema que
 faltaba y es exclusivo de la EMOS.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (191/191 reactivos), el capítulo más largo de
+Química.** Revisados los 8 sub-lotes de punta a punta (5.1 sustancias que existen como
+gases —composición del aire, elementos gaseosos, fuerzas intermoleculares, gas vs. vapor—,
+5.2 presión de un gas —unidades SI, barómetro, presión atmosférica estándar, manómetro—,
+5.3 las leyes de los gases —Boyle, Charles y Gay-Lussac, el cero absoluto, Avogadro—, 5.4 la
+ecuación de los gases ideales —gas ideal, STP, densidad y masa molar—, 5.5 estequiometría de
+gases, 5.6 ley de Dalton de las presiones parciales —fracción molar, recolección de gas
+sobre agua—, 5.7 la teoría cinética molecular —supuestos, energía cinética, distribución de
+Maxwell, difusión y efusión con la ley de Graham—, y 5.8 desviación del comportamiento ideal
+—la ecuación de van der Waals—). **0 retiros nuevos.** El único retiro preexistente (#102,
+VISUAL) ya venía de una ronda de detector anterior. Los muchos tríos y pares contrapuestos
+del capítulo (velocidad/aceleración, barómetro/manómetro, manómetro de tubo cerrado/abierto,
+Boyle-Charles-Avogadro por lo que mantienen constante, STP/condiciones atmosféricas
+normales, difusión/efusión) prueban cada uno un dato distinto y no son relleno.
+
 **Reactivos en este archivo:** 191
