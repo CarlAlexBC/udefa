@@ -35,6 +35,15 @@ El temario `FÍSICA-02-2026` pide de este capítulo **sólo 2.1, 2.2 y 2.5**; lo
 
 **Pendiente:** ninguno. El **Capítulo 2 queda CERRADO** (los tres temas del temario —2.1, 2.2 y 2.5— completos, 46 reactivos), y con los Cap. 1, 3, 5 y 10 también cerrados, **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (46/46 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (posición y desplazamiento; distancia, desplazamiento y cantidades
+vectoriales; velocidad promedio y rapidez promedio; cierre de 2.1; velocidad y rapidez
+instantáneas; cierre de 2.2; aceleración promedio e instantánea; signos, fuerza y segunda
+derivada; cierre de 2.5). Los pares paralelos velocidad/rapidez promedio e instantánea se
+confirman como definiciones legítimamente distintas (vectorial vs. escalar), no relleno.
+**0 retiros nuevos, 0 retiros preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Posición y desplazamiento (p.21)
