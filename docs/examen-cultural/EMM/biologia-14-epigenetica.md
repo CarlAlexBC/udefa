@@ -334,6 +334,37 @@ problemática inicial", que no lleva reactivos.
 
 **Pendiente:** ninguno; el capítulo 14 quedó **CERRADO** con la página impresa **321**, donde arranca el ensayo de cierre "Retomando la problemática inicial" (ese ensayo, la p. 322 con "Situaciones problemáticas" y la p. 323 con el resto de los ejercicios no llevan reactivos por norma). Los capítulos **15**, **33** y **37** ya estaban cerrados, así que con este **Biología queda cerrada del todo** y con ella la **EMOS**, cuyo único pendiente era esta materia.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (471/471 reactivos)**, el capítulo más largo revisado
+en toda esta ronda. Revisados de punta a punta: el apartado de apertura del glifosato (las
+cuatro generaciones F0-F3 y sus patologías), la definición y etimología de epigenética, el
+alcance del campo, epigénesis y preformacionismo (Aristóteles, Wilhelm His, los
+experimentos de Roux y Driesch), la escuela rusa y la plasticidad fenotípica, Waddington y
+el paisaje epigenético, la recuperación de la mirada compleja (Gould, Rose, Lewontin, el
+"ruido del desarrollo"), la metáfora del manual de instrucciones y los "escritores/
+lectores/borradores", el ensayo 14-1 completo sobre las metáforas en biología (bélica,
+máquina, lenguaje, texto, partitura, plano, switch, música), la metilación del ADN (islas
+CpG, DNMT1, el recuadro 14-1 de Jaenisch), la demetilación pasiva y activa, las
+modificaciones de histonas (metilación, acetilación, fosforilación, ADP-ribosilación,
+variantes, remodelación de la cromatina), los ARN no codificantes completos (ARNlnc, miARN
+con el recuadro 14-2 de Mello y Fire, ARNsi, ARNpi, ARN circulares, vesículas
+extracelulares), las interacciones epigenéticas y el epigenotipo, el desarrollo embrionario
+temprano y la reprogramación de la línea germinal, la mola hidatiforme, la inactivación del
+cromosoma X (XIST, corpúsculos de Barr, mosaicismo), los gemelos idénticos (Manel Esteller,
+el experimento de la NASA con los hermanos Kelly), el recuadro 14-3 de ligres y tigones, la
+herencia epigenética transgeneracional y sus condiciones teóricas, los modelos animales
+(ratones agouti, gen axin), el caso de Holanda y el de Överkalix, epigenética y evolución
+(el estudio de 170 genes, las bacterias, los nematodos, las tradiciones de cuidado maternal
+en ratas, el recuadro 14-4 de *C. elegans*, *Arabidopsis* y *Spartina*), Jablonka y Lamb con
+los cuatro sistemas de herencia, y epigenética y salud (diagnóstico y tratamiento con
+miARN, el ácido fólico, la crítica al reduccionismo genético y a la ciencia hegemónica).
+**0 retiros nuevos.** Los 2 retiros preexistentes (#46 Waddington, PERSONA; #151 los puntos
+amarillos de la fig. 14-9, VISUAL) ya venían de una ronda de detector anterior. Los muchos
+pares/tríos contrapuestos del capítulo (mecanicistas/químicos, epigénesis/
+preformacionismo, demetilación pasiva/activa, H3K4·36·79 activadoras/H3K9·27·H4K20
+silenciadoras, apareamiento perfecto/imperfecto del miARN, inactivación del X por línea
+paterna/materna, ligre/tigón) prueban cada uno un dato distinto y no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
 > que le sigue hasta el primer renglón en blanco. Si se convierte en encabezado
