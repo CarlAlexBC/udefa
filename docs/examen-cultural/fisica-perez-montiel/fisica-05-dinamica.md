@@ -199,6 +199,26 @@ e inelástico), que comparten la p. 206 con el tema 13; y los temas 9, 11, 12 y 
 cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la
 **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 6.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (447/447 reactivos)**. Revisados los 34 sub-lotes de
+punta a punta (las tres leyes de Newton; fuerzas centrípeta y centrífuga; tipos de energía y
+su conservación; cantidad de movimiento; momento de una fuerza y magnitudes angulares;
+inercia rotacional y momento angular; conservación del momento angular, ECR y giroscopio;
+antecedentes históricos, las tres leyes de Kepler, Newton y la gravitación universal; peso y
+plano inclinado; campo gravitacional; el cosmos, el Big Bang y el Sistema Solar; el Sol, los
+planetas y los cometas; estática, sistemas de fuerzas, par de fuerzas, centro de gravedad y
+condiciones de equilibrio; sustentabilidad y contaminación; conservación de la cantidad de
+movimiento; fricción; las fuerzas y sus efectos; satélites naturales y artificiales, la
+Estación Espacial Internacional, la Luna, el proyecto Apolo; trabajo mecánico). Confirmados
+los 3 retiros preexistentes (#96 Hiparco, #115 Newton/Galileo, #380 Julio Verne, los tres
+PERSONA). Los pares deliberadamente contrastados que el propio archivo ya señala en sus
+notas `>` (Galileo/Newton sobre la inercia; masa/peso en la Luna; fusión/fisión; hidráulica/
+mareomotriz/geotérmica; conservativo en ausencia de fricción; centroide/centro de gravedad;
+primera/segunda condición de equilibrio; los tres tipos de equilibrio; ozono arriba/abajo;
+convertidores catalíticos/torres de lavado; antes/después del choque con U y v; pendiente/
+área en las gráficas del MRUA) se confirman como reactivos legítimamente distintos, no
+relleno. **0 retiros nuevos, 3 retiros preexistentes (sin cambios).**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
