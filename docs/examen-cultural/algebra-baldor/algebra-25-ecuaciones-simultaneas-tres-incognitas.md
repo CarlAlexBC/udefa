@@ -662,4 +662,13 @@ piden los cinco planteles (HCM, EME, EMM, EMO y EMOS). Queda el relleno de
 determinantes de 2º orden del Capítulo XXIV (art. 302), que se trabaja en su propio
 archivo.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (35/35 reactivos)**. Revisados los 11 sub-lotes de
+punta a punta (Leonard Euler, método de resolución 3×3, determinante de tercer orden,
+Regla de Sarrus, Regla de Kramer, ejes coordenados en el espacio, coordenadas cartesianas
+de un punto, punto con coordenadas nulas, el plano, plano que pasa por un punto,
+significación gráfica de la solución). **0 retiros nuevos.** Los 5 retiros que tiene el
+archivo (#1–#5, todo el recuadro de Euler, MARCO) ya venían de una ronda de detector
+anterior.
+
 **Reactivos en este archivo:** 30
