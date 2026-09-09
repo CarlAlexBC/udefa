@@ -23,6 +23,10 @@ océano Pacífico, las costas del Golfo de México y las del Mar de las Antillas
 
 **Pendiente:** ninguno. El capítulo 4 está cerrado.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (27/27 reactivos)**. Revisados los 5 sub-lotes de
+punta a punta. **0 retiros nuevos.** No hay reactivos ya retirados en este archivo.
+
 ---
 
 ## Sub-lote 1 · Generalidades
