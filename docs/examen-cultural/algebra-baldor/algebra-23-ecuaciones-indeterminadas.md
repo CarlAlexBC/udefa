@@ -67,6 +67,11 @@ escritos los dos capítulos de Álgebra que le faltaban de su temario
 (`docs/examen-tropa/enlace-fisica-algebra.md`). Siguen los huecos de Física
 (Unidades 12–14) y los capítulos XXVIII (EMTEFA) y XXXV (EMMG_T_E_BALISTICA).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (8/8 reactivos)**. Revisados los 2 sub-lotes de
+punta a punta (ecuaciones indeterminadas y la regla del signo, representación gráfica de
+una ecuación lineal). **0 retiros nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
