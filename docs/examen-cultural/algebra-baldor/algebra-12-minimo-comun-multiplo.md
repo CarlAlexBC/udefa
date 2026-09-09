@@ -43,6 +43,16 @@ sobre práctica.
 los capítulos **XXI (Representación gráfica de funciones y relaciones)** y **XXXII
 (Números complejos)**, que todavía no tienen archivo.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (12/12 reactivos)**. Revisados los 3 sub-lotes de
+punta a punta (escuela de Bagdad, común múltiplo/mínimo común múltiplo, cómo hallar el
+M.C.M.). **0 retiros nuevos** — los reactivos 9, 11 y 12 fraccionan la misma regla del
+art. 171 en piezas atómicas (qué factores se toman, con qué exponente), pero cada pieza
+contrasta con la regla paralela del M.C.D. (cap. XI), mismo patrón "regla completa +
+piezas" ya aceptado en Preliminares (elementos del término). Los 4 retiros que tiene el
+archivo (#1–#4, todo el recuadro de la escuela de Bagdad, MARCO) ya venían de una ronda de
+detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

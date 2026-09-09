@@ -49,6 +49,13 @@ los capítulos **XII (Mínimo común múltiplo)**, **XXI (Representación gráfi
 funciones y relaciones)** y **XXXII (Números complejos)**, que todavía no tienen
 archivo.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (16/16 reactivos)**. Revisados los 4 sub-lotes de
+punta a punta (algebristas de la India, factor común/expresión prima/M.C.D., M.C.D. de
+monomios y de polinomios, M.C.D. por divisiones sucesivas). **0 retiros nuevos.** Los 3
+retiros que tiene el archivo (#1–#3, todo el recuadro de los algebristas de la India,
+MARCO) ya venían de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
