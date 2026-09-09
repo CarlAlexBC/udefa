@@ -75,6 +75,16 @@ cálculo.
 Queda una decisión de Carlo sobre las "Generalidades" (ver el aviso del
 encabezado).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (45/45 reactivos)**. Revisados los 8 sub-lotes de
+punta a punta (generalidades de hidráulica e hidrostática; características de los líquidos
+—viscosidad, tensión superficial, cohesión, adherencia, capilaridad—; densidad y peso
+específico; presión; presión hidrostática y paradoja de Stevin; presión atmosférica,
+barómetro y presión manométrica/absoluta; principio de Pascal; principio de Arquímedes y
+flotación). El trío flota/equilibrio/hunde (#40-42) y el par cohesión/adherencia (#9-10, ya
+señalado en nota `>` del propio archivo) se confirman como reactivos legítimamente
+distintos, no relleno. **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
