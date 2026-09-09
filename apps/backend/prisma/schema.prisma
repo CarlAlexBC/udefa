@@ -160,6 +160,13 @@ model CompraPendiente {
   usadaEn   DateTime?
   createdAt DateTime  @default(now())
 
+  /// Recordatorios por correo a quien no completó la compra (ver
+  /// RecordatoriosCompraService). Cada campo se llena una sola vez, para no
+  /// repetir el mismo correo si el cron corre de nuevo.
+  recordatorio1EnviadoEn DateTime?
+  recordatorio2EnviadoEn DateTime?
+  recordatorio3EnviadoEn DateTime?
+
   @@index([email])
 }
 
