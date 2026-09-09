@@ -122,6 +122,19 @@ los cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`
 la **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 7. Desfase
 de la copia de la EMA reverificado aquí: hoja 88 = p. 76 impresa (+12).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (142/142 reactivos)**. Revisados los 17 sub-lotes de
+punta a punta (distancia y desplazamiento; velocidad y rapidez; definición y unidades de
+la velocidad; partícula material y trayectoria; MRU; velocidad media; aceleración; MRUA y
+sus gráficas; caída libre; velocidad terminal y tiro vertical; tiro parabólico horizontal
+y oblicuo; movimiento circular, ángulo y radián; desplazamiento angular, periodo,
+frecuencia y velocidad angular; MCU; velocidad instantánea; importancia del estudio de la
+cinemática). Los pares deliberadamente contrastados que el propio archivo ya señala en sus
+notas `>` (rectilíneo/curvilíneo vs. uniforme/variado; pendiente vs. área en las cuatro
+gráficas del MRUA; tiro horizontal/oblicuo; eje de giro dentro/fuera en circular/rotación;
+ángulo/radián) se confirman como reactivos legítimamente distintos, no relleno. **0
+retiros nuevos, 0 retiros preexistentes.**
+
 ## Erratas del libro
 
 Verificadas con `crop.py` a 500–600 dpi para descartar suciedad del escaneo.
