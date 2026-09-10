@@ -2895,8 +2895,26 @@ la unión neuromuscular y la jerarquía del control motor). Quedan **fuera** por
 las páginas de ENSAYO (recuadros 33-x y "Biología en contexto social", con capa de
 texto lorem ipsum) y, de la p. 806 a la p. 810, el ensayo de cierre "Retomando la
 problemática inicial" y las "Situaciones problemáticas" (ejercicios). El capítulo 34
-(El sistema endocrino) empieza en la p. 811. Lo pide **sólo la EMO**. **Biología como
-materia NO está cerrada:** faltan los capítulos **14, 15 y 37**, que llevan otras
-sesiones y sostienen su propio pendiente.
+(El sistema endocrino) empieza en la p. 811. Lo pide **sólo la EMO**. **Biología quedó
+cerrada del todo** el 14 ago 2026 (capítulos 14, 15 y 37 cerrados por otras sesiones) —
+frase corregida el 9 sep 2026 al auditar este capítulo, que había quedado desfasada.
+
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (186/186 reactivos)**. Revisado de punta a
+punta: sensación/percepción y sus fundamentos (organización jerárquica, adaptación,
+transducción, codificación sensorial, espectro visible); anatomía completa del ojo,
+cuadro 33-1 de modalidades sensoriales, audición y equilibrio, olfato y gusto, sistema
+somatosensorial; Sub-lote 12-13 (Paul Broca 1864, feromonas y órgano vomeronasal); el
+encéfalo de los vertebrados completo (tronco cerebral, bulbo, cerebelo, diencéfalo,
+tálamo, hipotálamo, glándula pineal, telencéfalo, corteza cerebral); recuadro 33-2 de
+métodos de neurociencia (EEG, TC, RM, TEP, RMf); áreas funcionales de la corteza y
+homúnculos; lateralización hemisférica y formación reticular; memoria (corto/largo
+plazo, hipocampo, amígdala) y aprendizaje (Aplysia/Kandel, habituación,
+sensibilización, condicionamiento de Pavlov, aprendizaje social e imitativo, neuronas
+espejo); regeneración del sistema nervioso; y respuesta motora hasta la contracción
+muscular (sarcómero, actina/miosina, filamento deslizante, ATP, calcio, unidad motora,
+unión neuromuscular). La cita de Paul Broca (#81) carga un aporte científico concreto
+(la lateralización del habla), no sólo identidad — no es candidata a retiro bajo el
+criterio PERSONA. **0 retiros nuevos, 0 retiros preexistentes.**
 
 **Reactivos en este archivo:** 186
