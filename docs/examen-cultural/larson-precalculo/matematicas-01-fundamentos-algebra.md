@@ -96,6 +96,16 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 **Pendiente:** ninguno; el **capítulo 1 está CERRADO** en **284 reactivos**, con los siete subtemas que pide el temario `MATE-03-2026`: **1.3** (Exponentes y radicales), **1.4** (Polinomios y factorización), **1.6** (Resolución de ecuaciones), **1.8** (Propiedades de los logaritmos), **1.9** (Ecuaciones exponenciales y logarítmicas), **1.10** (Sistemas de ecuaciones lineales y no lineales) y **1.11** (Sistemas lineales de dos variables). **Matemáticas (Larson) está CERRADA por completo:** los otros dos capítulos que pide el temario también están cerrados, cada uno en su propio archivo — el **capítulo 2 · Fundamentos de trigonometría** (82 reactivos: 2.6, 2.9, 2.10, 2.15 y 2.16) y el **capítulo 3 · Fundamentos de geometría analítica** (113 reactivos, completo, §3.1–§3.6, pp. 271–328).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (284/284 reactivos)**. Revisados los 34
+sub-lotes de punta a punta (exponentes, radicales y notación científica; polinomios,
+productos especiales y factorización; ecuaciones lineales, cuadráticas, racionales,
+radicales y de valor absoluto; fórmulas comunes de área/perímetro/volumen; logaritmos
+—cambio de base, propiedades, condensar/expandir—; ecuaciones exponenciales y
+logarítmicas; sistemas de ecuaciones por sustitución, gráficos y eliminación;
+interpretación gráfica de soluciones y punto de equilibrio). El único retiro existente
+(#218, PERSONA · Napier) sigue vigente y no cambia. **0 retiros nuevos.**
+
 ---
 
 ## Sub-lote 1 · Notación exponencial y propiedades de los exponentes (1.3, p. 18)
