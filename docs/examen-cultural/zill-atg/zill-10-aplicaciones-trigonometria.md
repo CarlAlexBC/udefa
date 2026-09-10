@@ -175,7 +175,7 @@ Se puede resolver cualquier triángulo rectángulo si se conocen dos lados o un 
 
 ### 3
 
-En relación con la identificación normal de un triángulo rectángulo (Figura 10.1.1), ¿en qué vértice se sitúa el ángulo recto?
+En relación con el libro de Geometría Analítica, según la identificación normal de un triángulo rectángulo (Figura 10.1.1), ¿en qué vértice se sitúa el ángulo recto?
 
 - A. En el vértice C
 - B. En el vértice A
