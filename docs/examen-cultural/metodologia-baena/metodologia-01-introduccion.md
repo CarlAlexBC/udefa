@@ -68,6 +68,18 @@ EMMG y para la EMT**, los dos planteles que la piden.
 
 **Pendiente:** ninguno.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (44/44 reactivos)**. Revisados los 9
+sub-lotes de punta a punta (tipos de pensamiento; investigación científica y tipos
+de investigación; investigación en México; elementos, tipos y características del
+conocimiento; utilidad y características de la metodología; modelos y métodos;
+método inductivo y deductivo con Bacon/Descartes; investigación cualitativa y
+cuantitativa —la errata del cuadro comparativo ya documentada—; otros métodos). Los
+pares de definiciones cercanas (#4 "conocer" frente a #20 "el conocimiento"; #7
+"investigación" frente a #8 "investigación científica") son citas textuales
+distintas de páginas distintas del libro, cada una con su propio dato — no
+relleno. **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro
