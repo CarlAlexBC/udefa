@@ -64,6 +64,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno en este archivo. **La Unidad V está CERRADA** en lo que pide el temario `GEO-01-2026`: el **5.1** completo (pp. 151–156) y el **5.2** completo —5.2.1 Generalidades (pp. 157–159), 5.2.2 Características e importancia (pp. 160–161), 5.2.3 Olas y mareas (pp. 162–163), 5.2.4 Corrientes marinas (pp. 164–166) y 5.2.5 Formas del relieve submarino (p. 167)—, en **223 reactivos**. Verificado en la hoja que la p.168 arranca el **5.3 Las aguas continentales**, que el temario NO pide. La **Unidad VI · La Atmósfera** (`geografia-06-atmosfera.md`) quedó CERRADA el 18 ago 2026, en 270 reactivos. **Con las dos unidades cerradas, Geografía queda CERRADA por completo para la EMEFA.**
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (223/223 reactivos)**. Revisados los 16 sub-lotes de
+punta a punta. **0 retiros nuevos.** Los 3 retiros del archivo (#125, #126 y #209, todos
+VISUAL) ya venían de la ronda de detector anterior.
+
 ---
 
 ## Sub-lote 1 · Introducción a la Hidrósfera (portadilla, p. 151)
@@ -1966,6 +1971,7 @@ De conformidad con el libro de Geografía, según la Figura 5.5, ¿qué ejemplos
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
 **Subtema:** aguas oceánicas · Figura 5.5
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.5 Ejemplos de mares y golfos: mares Mediterráneo y Rojo; golfos de Suez y de Akaba."
 
@@ -1981,6 +1987,7 @@ En relación con el libro de Geografía, según la Figura 5.6, ¿qué es en real
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 159
 **Subtema:** aguas oceánicas · Figura 5.6
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.6 Una vista del llamado Mar de Galilea, que en realidad es un lago de agua dulce."
 
@@ -3240,6 +3247,7 @@ De conformidad con el libro de Geografía, según la Figura 5.10, ¿qué modific
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 166
 **Subtema:** las corrientes marinas · Figura 5.10
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 5.10 La Corriente del Golfo de México modifica el clima de las Islas Británicas."
 

@@ -105,6 +105,22 @@ experimental 19" y el Resumen/Autoevaluación/Coevaluación/Glosario —pp. 373 
 t7; U11 t8, t9, t10, t11 y t13) ya están todos escritos, y las unidades que
 comparte con la EMO, la EMM y la EMA seguían cubiertas desde el 25 jul 2026.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (349/349 reactivos)**. Revisados los 21 sub-lotes de
+punta a punta (calor y temperatura; medida de la temperatura; escalas Celsius/Kelvin/
+Fahrenheit; formas de propagación del calor; unidades del calor; los gases y sus leyes
+—Boyle, Charles, Gay-Lussac, ley general del estado gaseoso—; energía solar; dilatación de
+los cuerpos; capacidad calorífica y calor específico; calor latente de fusión y
+vaporización; calor cedido y absorbido, el calorímetro; termodinámica completa —sistema,
+paredes, procesos, ley cero, equivalente mecánico del calor, primera y segunda ley,
+entropía, tercera ley, máquinas térmicas, motores de combustión interna/Diesel/reacción,
+eficiencia, el refrigerador, impacto ecológico, fuentes de energía calorífica, poder
+calorífico y degradación de la energía). Confirmados los 2 retiros preexistentes (#151 y
+#152, VISUAL). Los pares deliberadamente contrastados que el propio archivo ya señala en
+sus notas `>` (Boyle/Charles/Gay-Lussac, masa/peso en la Luna citado por analogía, entre
+otros) se confirman como reactivos legítimamente distintos, no relleno. **0 retiros
+nuevos, 2 retiros preexistentes (sin cambios).**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
@@ -2611,6 +2627,7 @@ De conformidad con el libro de Física, según la figura 11.20, ¿de qué está 
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
 **Tema:** U11 t13 · termodinámica
 **Subtema:** Física · Termodinámica
+**Retirado:** VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática
 
 <Pared diatérmica (hecha de metal).>
 
@@ -2627,6 +2644,7 @@ En relación con el libro de Física, según la figura 11.21, ¿de qué está he
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 361
 **Tema:** U11 t13 · termodinámica
 **Subtema:** Física · Termodinámica
+**Retirado:** VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática
 
 <Pared adiabática (hecha de asbesto).>
 

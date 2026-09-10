@@ -199,6 +199,26 @@ e inelástico), que comparten la p. 206 con el tema 13; y los temas 9, 11, 12 y 
 cinco planteles** que la piden: la EMO (`FIS-03`), la EMM y la EMOS (`FG-03`) y la
 **EMA y la EMMA** (`FIS-02`), que eran las únicas que pedían el tema 6.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (447/447 reactivos)**. Revisados los 34 sub-lotes de
+punta a punta (las tres leyes de Newton; fuerzas centrípeta y centrífuga; tipos de energía y
+su conservación; cantidad de movimiento; momento de una fuerza y magnitudes angulares;
+inercia rotacional y momento angular; conservación del momento angular, ECR y giroscopio;
+antecedentes históricos, las tres leyes de Kepler, Newton y la gravitación universal; peso y
+plano inclinado; campo gravitacional; el cosmos, el Big Bang y el Sistema Solar; el Sol, los
+planetas y los cometas; estática, sistemas de fuerzas, par de fuerzas, centro de gravedad y
+condiciones de equilibrio; sustentabilidad y contaminación; conservación de la cantidad de
+movimiento; fricción; las fuerzas y sus efectos; satélites naturales y artificiales, la
+Estación Espacial Internacional, la Luna, el proyecto Apolo; trabajo mecánico). Confirmados
+los 3 retiros preexistentes (#96 Hiparco, #115 Newton/Galileo, #380 Julio Verne, los tres
+PERSONA). Los pares deliberadamente contrastados que el propio archivo ya señala en sus
+notas `>` (Galileo/Newton sobre la inercia; masa/peso en la Luna; fusión/fisión; hidráulica/
+mareomotriz/geotérmica; conservativo en ausencia de fricción; centroide/centro de gravedad;
+primera/segunda condición de equilibrio; los tres tipos de equilibrio; ozono arriba/abajo;
+convertidores catalíticos/torres de lavado; antes/después del choque con U y v; pendiente/
+área en las gráficas del MRUA) se confirman como reactivos legítimamente distintos, no
+relleno. **0 retiros nuevos, 3 retiros preexistentes (sin cambios).**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
@@ -1784,6 +1804,7 @@ En relación con el libro de Física, ¿qué logró Hiparco, astrónomo griego q
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 151
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · el dato (un catálogo de estrellas) no aporta a entender la gravitación universal, a diferencia de Aristarco/Copérnico/Kepler/Newton en el mismo subtema
 
 <Hiparco, astrónomo griego que vivió en 125 a. C. aproximadamente, logró hacer una lista con más de mil estrellas.>
 
@@ -2096,6 +2117,7 @@ De acuerdo con el libro de Física, ¿en qué año nació Newton y qué ocurrió
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 153
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · dato curioso (coincidencia de fechas), no un concepto de física
 
 <Newton, el gran físico y matemático inglés, nació en 1642, año en que murió Galileo Galilei.>
 
@@ -2552,6 +2574,7 @@ De conformidad con el libro de Física, ¿quién propuso la teoría del Big Bang
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 156
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · quién y cuándo propuso la teoría, sin ningún contenido más allá de repetir el nombre "Big Bang" ya dado en la pregunta — el 144 (elementos primarios de la explosión) sí aporta contenido
 
 <El físico ruso, nacionalizado estadounidense, George Gamow propuso en el año de 1948 que el universo se creó en una gran explosión o Big Bang.>
 
@@ -6395,6 +6418,7 @@ De conformidad con el libro de Física, ¿quién fue Julio Verne?
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 163
 **Tema:** U5 t4 · satélites naturales y artificiales
 **Subtema:** física · dinámica
+**Retirado:** PERSONA · referencia literaria/cultural, no contenido de física
 
 <Escritores como Julio Verne, novelista francés (1828-1905), se anticiparon a la exploración de la Luna a través de sus novelas de ficción científica.>
 

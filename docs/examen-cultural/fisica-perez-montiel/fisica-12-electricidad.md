@@ -87,6 +87,20 @@ Thomson.
 **Pendiente:** ninguno. Unidad 12 (Electricidad) cerrada, 20/20 subtemas,
 106 reactivos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (106/106 reactivos)**. Revisados los 20 sub-lotes de
+punta a punta (antecedentes históricos; carga eléctrica y su conservación; interacción
+entre cargas; formas de electrizar; electroscopio y jaula de Faraday; conductores,
+aislantes y semiconductores; unidades de carga; ley de Coulomb; campo eléctrico y líneas de
+fuerza; potencial eléctrico; corriente eléctrica; fuerza electromotriz; conexión de pilas;
+resistencia eléctrica y superconductividad; ley de Ohm; circuitos y conexión de
+resistencias; potencia eléctrica y efecto Joule; leyes de Kirchhoff; capacitores;
+electroquímica y ley de Faraday). Confirmado el retiro preexistente (#5, PERSONA,
+Thomson). La mención breve de Ohm en antecedentes históricos (#3) y su enunciado técnico
+completo en el sub-lote dedicado (#72) se confirman como niveles de detalle distintos, no
+relleno — mismo patrón ya establecido en el resto del banco. **0 retiros nuevos, 1 retiro
+preexistente (sin cambios).**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
@@ -175,6 +189,7 @@ En relación con el libro de Física, ¿qué investigó el físico inglés Josep
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 387
 **Subtema:** Antecedentes históricos · Joseph Thomson
+**Retirado:** PERSONA · dice el área que investigó ("la estructura de la materia y de los electrones") sin decir qué encontró — a diferencia de Química #19 sobre el mismo Thomson, que sí da el hallazgo concreto (relación carga/masa)
 
 El inglés Joseph Thomson (1856-1940), investigó la estructura de la materia y de los electrones.
 
@@ -1533,6 +1548,7 @@ En relación con el libro de Física, ¿quién fue Gustav Robert Kirchhoff y qu�
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 439
 **Subtema:** Leyes de Kirchhoff · Quién fue Kirchhoff
+**Retirado:** PERSONA · nacionalidad y fechas de Kirchhoff, sin explicar en qué consisten sus dos leyes
 
 Gustav Robert Kirchhoff, físico alemán (1824-1887), propuso a mediados del siglo XIX dos leyes que llevan su nombre.
 

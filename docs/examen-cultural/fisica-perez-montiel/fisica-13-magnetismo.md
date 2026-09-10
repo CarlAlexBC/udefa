@@ -65,6 +65,15 @@ págs.) y 14 (Electromagnetismo, 42 págs.) también quedaron cerradas (29 ago
 2026), completando el hueco de tropa de `EMMG_MG_TEC_MANTO_I_2026`
 documentado en `docs/examen-tropa/enlace-fisica-algebra.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (34/34 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (propiedades de los imanes; campo magnético y líneas de fuerza; densidad de
+flujo magnético y permeabilidad; magnetismo terrestre; teorías del magnetismo, temperatura
+de Curie y levitación; reluctancia; materiales ferro/para/diamagnéticos). El trío
+ferromagnético/paramagnético/diamagnético (#32-34) se confirma como reactivos
+legítimamente distintos por definición y ejemplo, no relleno. **0 retiros nuevos, 0
+retiros preexistentes.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no

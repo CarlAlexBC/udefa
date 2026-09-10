@@ -111,6 +111,24 @@ El capítulo 11 termina en la p. 243 (la 244 en blanco, la 245 abre el capítulo
 
 **Pendiente:** ninguno. El capítulo 11 está cerrado en 162 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 12 (`biologia-12-flujo-informacion-genetica.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (162/162 reactivos)**. Revisados los 39 sub-lotes de
+punta a punta (qué es la reproducción sexual, meiosis y fecundación, dotaciones
+cromosómicas, números de cromosomas por especie, entrecruzamiento, fases de la meiosis,
+mitosis vs. meiosis, cariotipo, gametogénesis, autosomas y cromosomas X/Y, no disyunción,
+variabilidad genética, transferencia horizontal/vertical de genes, los experimentos de
+Mendel —hibridación, generaciones P/F1/F2, líneas puras, la relación 3:1, la primera ley,
+vocabulario genético, el tablero de Punnett, la relación 1:2:1, el test cross—, el
+cruzamiento dihíbrido y la segunda ley con la relación 9:3:3:1, la teoría cromosómica de
+Sutton, el trabajo de Morgan con *Drosophila*, Müller y los mutágenos, la dominancia
+incompleta, la codominancia y los grupos sanguíneos, los alelos múltiples, el sexo
+biológico y sus categorías, los cromosomas sexuales y la determinación cromosómica del
+sexo, la herencia poligénica, la interacción genes-ambiente, y el Ensayo 11-1 del síndrome
+de Down). **0 retiros nuevos, 0 retiros preexistentes.** Los pares de reactivos
+contrapuestos (genotipo/fenotipo, heterocigoto/homocigoto en el test cross, relación
+genotípica vs. fenotípica, macho heterogamético/hembra homogamética, los tres ejemplos de
+color por temperatura) prueban cada uno un dato distinto y no son relleno.
+
 > **No renombres ni partas en viñetas este `**Pendiente:**`.** El generador de
 > `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el primer
 > renglón en blanco; si desaparece, Biología se reporta como cerrada, y un pendiente

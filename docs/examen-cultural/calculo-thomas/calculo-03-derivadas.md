@@ -110,6 +110,26 @@ archivo (capítulo 3) es el último del temario de Cálculo: no quedan otros cap
 por empezar, así que sostiene el pendiente de la materia hasta que el propio
 capítulo 3 se cierre. **Cálculo NO está cerrada para la EMI.**
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (80/80 reactivos)**. Revisados los 23
+sub-lotes de punta a punta (pendiente de una curva y tangente; cociente diferencial y
+derivada en un punto; tangente vertical; la función derivada; diferenciación y
+notaciones; diferenciabilidad en intervalos, esquina y cúspide; diferenciable implica
+continua; reglas de constante/potencia/múltiplo/suma; reglas del producto y del
+cociente; derivadas de orden superior; razón instantánea de cambio; velocidad,
+rapidez, aceleración y sacudida; caída libre; economía y sensibilidad al cambio;
+derivadas trigonométricas; movimiento armónico simple; regla de la cadena;
+diferenciación implícita; tasas relacionadas; linealización; diferenciales; error y
+sensibilidad al cambio). El reactivo 48 (sensibilidad como medida vía ƒ'(x), §3.4) y
+el 79 (sensibilidad vía dƒ=ƒ'(x)dx, §3.9) son dos formulaciones distintas del mismo
+concepto en dos secciones distintas del libro — no relleno. **0 retiros nuevos, 0
+retiros preexistentes.**
+
+**Con este archivo se cierra la auditoría ronda 3 del libro Thomas completo** (3
+archivos, 269 reactivos: cap 1 con 108, cap 2 con 81, cap 3 con 80) **y con él, toda
+la materia Cálculo** (Salazar + Thomas, 6 archivos, 495 reactivos), sin retiros
+nuevos en ningún archivo.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

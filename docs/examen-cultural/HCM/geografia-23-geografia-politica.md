@@ -62,6 +62,13 @@ EMA** en los cuatro capítulos que pide su temario (`GEO-03-2026`): 3
 (Geomorfología, unidades orogénicas + regiones geomorfológicas), 4 (Litorales), 7
 (Climatología) y 23 (Geografía Política y Administrativa).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (40/40 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (definición y elementos de un Estado, fronteras norte y sur, ríos
+internacionales, aguas territoriales, división política colonial y de la federación,
+cambios posteriores, zonas estadísticas y número de municipios). **0 retiros nuevos.**
+No hay reactivos ya retirados en este archivo.
+
 ---
 
 ## Sub-lote 1 · Definición y elementos de un Estado

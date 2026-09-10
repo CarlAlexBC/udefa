@@ -112,6 +112,24 @@ está en el temario; el siguiente del temario es el 31).
 
 **Pendiente:** ninguno. El capítulo 12 está cerrado en 131 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 31 (`biologia-31-tejidos-organos-sistemas.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (131/131 reactivos)**. Revisados los 27 sub-lotes de
+punta a punta (la evolución del concepto de gen —Beadle y Tatum, *Neurospora*, "un gen: una
+enzima" a "una proteína" a "un polipéptido"—, el dogma central de Crick y sus excepciones
+—Temin, Baltimore, el Nobel 1975—, los tres tipos de ARN y sus funciones, el mecanismo de
+la transcripción —promotor, ARN polimerasas, la burbuja de transcripción, el fin de la
+transcripción—, la cadena codificante y la regulación, la maduración del ARNm —capuchón,
+cola de poli-A, splicing—, el ARN ribosomal y los ribosomas, el ARN de transferencia, el
+splicing alternativo, el código genético —Gamow, el código de tripletes, Nirenberg y
+Matthaei, el código degenerado y universal con sus excepciones—, las aminoacil-ARNt
+sintetasas, las tres etapas de la traducción —iniciación, elongación, terminación—, el
+polirribosoma y los destinos de las proteínas, la redefinición molecular de las mutaciones,
+la anemia falciforme, el corrimiento del marco de lectura, la revisión del concepto de
+gen —transcriptoma y proteoma— y el Ensayo 12-1 del mensajero evasivo). **0 retiros
+nuevos, 0 retiros preexistentes.** Los pares de reactivos contrapuestos (las funciones de
+ARNm/ARNr/ARNt, los tres pasos de la maduración del ARNm, transcriptoma/proteoma) prueban
+cada uno un dato distinto y no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
 > primer renglón en blanco; si desaparece, o si empieza con "ninguno", Biología se

@@ -529,4 +529,13 @@ Los elementos más electronegativos (los halógenos, el oxígeno, el nitrógeno 
 pide el temario de Medicina (9.2, 9.4 y 9.5). Química quedó cerrada; el resumen lo
 sostiene el `.md` del capítulo 24.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (30/30 reactivos)**. Revisados los 3 sub-lotes de
+punta a punta (el enlace iónico —qué elementos forman cationes y aniones—, el enlace
+covalente —Lewis, pares solitarios, estructura de Lewis, regla del octeto, enlace simple/
+doble/triple, longitud de enlace—, y la electronegatividad —Pauling, su carácter relativo y
+su tendencia en la tabla periódica—). **0 retiros nuevos, 0 retiros preexistentes.** El par
+enlace iónico/enlace covalente (reactivos 1 y 6-7) y el trío enlace simple/doble/triple
+prueban cada uno un dato distinto y no son relleno.
+
 **Reactivos en este archivo:** 30

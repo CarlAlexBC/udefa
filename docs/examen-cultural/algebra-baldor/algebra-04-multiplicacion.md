@@ -102,6 +102,15 @@ nacimiento de Pitágoras. Son dos cosas distintas con el mismo número.
 Álgebra lo declara el archivo del capítulo en curso — hoy
 `algebra-05-division.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (30/30 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (Pitágoras, concepto de multiplicación, leyes conmutativa/asociativa/
+distributiva, ley de los signos y de los coeficientes, multiplicación de monomios/
+polinomio por monomio/dos polinomios, coeficientes separados, polinomios homogéneos,
+producto continuado y cambios de signos). **0 retiros nuevos.** El único retiro que tiene
+el archivo (#1, dónde nació y murió Pitágoras, MARCO) ya venía de una ronda de detector
+anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.
@@ -133,6 +142,7 @@ En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágora
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 63
 **Subtema:** Multiplicación · Pitágoras
+**Retirado:** MARCO · recuadro biográfico del libro: no es contenido del temario (mismo criterio ya aplicado a Ptolomeo y Caldea/Asiria en este libro)
 
 Célebre filósofo griego nacido en Samos y muerto en Metaponte.
 

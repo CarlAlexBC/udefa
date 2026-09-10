@@ -192,6 +192,13 @@ nuevo** (`calculo-03-...md`). Con esto **se cierra también toda la materia de C
 para la EMT** una vez que exista y se cierre ese archivo — Unidad 1 (107 reactivos) +
 Unidad 2 (27 reactivos) = 134 hasta ahora.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (27/27 reactivos)**. Revisados los 5
+sub-lotes de punta a punta (límite por la izquierda/derecha y condición de existencia;
+límite directo y los siete teoremas de límites; indeterminaciones 0/0 y clasificación
+de límites en el infinito; el truco de multiplicar por 1 y el número e; las cuatro
+condiciones de continuidad). **0 retiros nuevos, 0 retiros preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Límite por la izquierda y por la derecha (2.1, pp. 67-68)

@@ -195,6 +195,20 @@ cuatro cerrados. **De este libro, la EMMA no debe nada.**
 (pp. 47–102); los *Ejercicios de repaso* y los bloques de ejercicios de las pp. 103–107 quedan fuera
 por la norma de teoría sobre práctica.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (210/210 reactivos)**. Revisados los 15
+sub-lotes de punta a punta (portadilla histórica de Viète; terminología de conjuntos
+y conjuntos numéricos; decimales, porcentaje y propiedades de los reales; la recta de
+los números reales, desigualdades y valor absoluto; exponentes enteros; radicales;
+exponentes racionales; polinomios y su terminología; álgebra de polinomios y
+productos notables; suma/diferencia de cubos —con la errata ya documentada—;
+factorización de polinomios cuadráticos y fórmulas de factorización; expresiones
+racionales, MCD y fracciones complejas). Los reactivos #1, #3 y #4 sobre Viète (edad
+de la notación, obra, notación de potencias) se dejaron activos porque cargan
+contenido sobre la notación algebraica misma — a diferencia del ya retirado #2, que
+sólo pregunta un ranking superlativo sin ningún aporte descrito. **0 retiros nuevos, 1
+retiro preexistente confirmado sin cambios.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se privilegian
@@ -250,6 +264,7 @@ De conformidad con el libro de Geometría Analítica, ¿quién fue el más grand
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 47
 **Subtema:** Conceptos fundamentales del álgebra · un poco de historia
+**Retirado:** PERSONA · ranking superlativo sin ningún aporte matemático descrito, mismo criterio que Thales de Mileto en Álgebra
 
 El más grande matemático francés del siglo XVI fue François Viète (1540-1603), abogado y miembro del Parlamento, quien dedicó la mayor parte de su tiempo libre a las matemáticas.
 

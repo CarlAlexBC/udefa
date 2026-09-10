@@ -71,6 +71,17 @@ bloques que pide la **EMMG** (`HISMÉX-03-2026`) también están cerrados: el **
 `historia-mexico-03-conquista.md` y el **5** en `historia-mexico-05-independencia.md`, así que
 **Historia de México (Menchaca) queda cerrada del todo**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (346/346 reactivos)**. Revisados los 26 sub-lotes
+(teorías del poblamiento, etapa lítica, áreas culturales, horizontes, y las trece culturas
+de Mesoamérica hasta cerrar con la mexica) — 15 retirados en total, todos por el mismo
+motivo: repetir la misma lista (localidades, dioses, gobernantes, obras) en más de un
+reactivo sin agregar ningún dato nuevo (huasteca 3, mixteca 3, purépecha 1, mexica 8 —
+dioses, gobernantes, arquitectura y escultura). A diferencia de `conquista.md`, este
+archivo casi no tiene relleno: su contenido es el temario mismo (culturas prehispánicas),
+no hay una sección de "contexto europeo" tangencial que cazar — el relleno aquí es
+puramente de repetición de listas, no de tema fuera de lugar.
+
 ## Avisos al aspirante (erratas del libro)
 
 Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del
@@ -3242,6 +3253,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes loca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite la misma lista de localidades que el 203, sólo cambia cuál entrada se pregunta — no agrega nada nuevo
 
 Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
 
@@ -3257,6 +3269,7 @@ De acuerdo con el libro de Historia de México 1, ¿en qué entidad se localizab
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite la misma lista de localidades que el 203 y el 204, sólo cambia cuál entrada se pregunta — no agrega nada nuevo
 
 Tamuín en San Luis Potosí, Huejutla en Hidalgo, Tizicoac en Puebla, Tancama en Querétaro, y Tuxpan, Temapache y Pánuco en Veracruz son algunas de las localidades huastecas.
 
@@ -3332,6 +3345,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuáles se cuentan entre los
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 69
 **Subtema:** cultura huasteca
+**Retirado:** repite el mismo reconocimiento de la lista de dioses que el 209, sin describir un atributo propio de cada uno — no agrega nada nuevo
 
 También destacan en la escultura en barro y piedra, en la que es posible identificar a sus dioses más importantes: Quetzalcóatl, Xipe, Tláloc, Chicomecóatl, Tlahuizcalpantecuhtli, Mixcóatl, Ome Tochtli, Tlazoltéotl y Ehécatl.
 
@@ -3606,6 +3620,7 @@ De acuerdo con el libro de Historia de México 1, ¿qué dios mixteco era el dio
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
 **Subtema:** cultura mixteca
+**Retirado:** repite la misma lista de dioses que el 227, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
 
@@ -3621,6 +3636,7 @@ De acuerdo con el libro de Historia de México 1, ¿de qué era dios Cohuy?
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
 **Subtema:** cultura mixteca
+**Retirado:** repite la misma lista de dioses que el 227, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
 
@@ -3636,6 +3652,7 @@ De acuerdo con el libro de Historia de México 1, ¿qué dios mixteco era el dio
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 70
 **Subtema:** cultura mixteca
+**Retirado:** repite la misma lista de dioses que el 227, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Quetzalcóatl, Hituayuta, dios de la regeneración; Yoxoloyua, dios de los mercaderes; Cohuy, dios del maíz y Quahue, dios de los cazadores.
 
@@ -4064,6 +4081,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de los siguientes era 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 71
 **Subtema:** cultura purépecha
+**Retirado:** repite la misma lista de dioses que el 257, sólo cambia el formato de la pregunta — no agrega nada nuevo
 
 La obtención de nuevos súbditos que rindieran culto a dioses como Curicaueri, Xataranga, Thares Upeme, Chupi-Tiripeme y Uitzimengari.
 
@@ -4492,6 +4510,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes deid
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de dioses que el 285, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
 
@@ -4507,6 +4526,7 @@ De conformidad con el libro de Historia de México 1, ¿cuál de los siguientes 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de dioses que el 285, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
 
@@ -4522,6 +4542,7 @@ En relación con el libro de Historia de México 1, ¿cuál de estos nombres era
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de dioses que el 285, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin.
 
@@ -4537,6 +4558,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes era 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de dioses que el 285, sólo cambia qué nombre se pregunta — no agrega nada nuevo
 
 Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin. (El libro escribe *Chalchihutlicue*; la grafía estándar es *Chalchiuhtlicue*.)
 
@@ -4552,6 +4574,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuáles se contaban entre lo
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 72
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de dioses que el 285, sólo cambia qué nombres se preguntan — no agrega nada nuevo
 
 Los mexicas tuvieron una religión politeísta en la que los principales dioses eran Huitzilopochtli, Tláloc, Quetzalcóatl, Tezcatlipoca, Tonatiuh, Xiuhtecutli, Xochipilli, Macuixóchitl, Chalchihutlicue, Mictlantecutli, Coatlicue, Chicomecóatl, Xipe Totec y Tonatzin. (El libro escribe *Xiuhtecutli*, *Macuixóchitl* y *Tonatzin*; las grafías estándar son *Xiuhtecuhtli*, *Macuilxóchitl* y *Tonantzin*.)
 
@@ -4736,6 +4759,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuáles se cuentan entre los
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
 **Subtema:** cultura mexica
+**Retirado:** repite la misma lista de señores que el 301, sólo cambia cuántos nombres se preguntan — no agrega nada nuevo
 
 En total, los mexicas tuvieron once señores: Acamapichtli, Huitzilíhuitl, Chimalpopoca, Izcóatl, Motecuhzoma Ilhuicamina, Axayácatl, Tizoc, Ahuizótl, Motecuhzoma Xocoyotzin, Cuitláhuac y Cuauhtémoc.
 
@@ -5029,6 +5053,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuál de las siguientes era 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
 **Subtema:** cultura mexica
+**Retirado:** repite el mismo dato del 320 en formato de reconocimiento — no agrega nada nuevo
 
 La traza urbana de su ciudad, la Gran Plaza, el Templo Mayor, el acueducto de Chapultepec y las calzadas, son un ejemplo de su desarrollo arquitectónico.
 
@@ -5119,6 +5144,7 @@ De acuerdo con el libro de Historia de México 1, ¿qué piezas escultóricas me
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 73
 **Subtema:** cultura mexica
+**Retirado:** repite el mismo dato del 326 en formato de reconocimiento — no agrega nada nuevo
 
 Además de múltiples representaciones de la serpiente emplumada, de seres mitológicos, animales marinos y piezas de chac mol.
 

@@ -68,6 +68,17 @@ apartado anterior.
 **Pendiente:** ninguno. **El capítulo 6 está cerrado.** Los cuatro apartados que
 pide el temario del HCM están completos, de la página 205 a la 279.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (600/600 reactivos)**. Revisados los 52 sub-lotes de
+punta a punta (Guerra Fría, organizaciones internacionales, Golfo Pérsico, fin del bloque
+socialista, América Latina país por país, Unión Europea, Torres Gemelas/invasión a Irak,
+potencias emergentes y la primera década en América) — **0 retiros nuevos**. Es un capítulo
+enciclopédico donde casi todos los reactivos que comparten un mismo párrafo fuente prueban
+un dato distinto (fecha, cifra, nombre, causa, consecuencia) en vez de repetir el mismo dato
+con otro disfraz; no apareció el patrón de "lista repetida sin agregar nada" que sí se
+encontró en `historia-mexico-02-poblamiento.md`. El único retiro que tiene el archivo (#138,
+Emir de Kuwait sin contexto) ya venía de las rondas Fase C / SIN_CONCEPTO anteriores.
+
 ## Verificación de transcripción (19 jul 2026)
 
 Los reactivos se escriben transcribiendo a mano desde imágenes del escaneo, así
@@ -2361,6 +2372,7 @@ De conformidad con el libro de Historia Universal, ¿quién fue el Emir de Kuwai
 **Respuesta:** A
 **Referencia:** Rodríguez Arvizu, José (2016) *Historia Universal*, Editorial Limusa, Pág. 240
 **Subtema:** Acontecimientos de nuestros días · Kuwait
+**Retirado:** PERSONA · nombre de un jefe de estado sin explicar nada del conflicto (a diferencia del 186, que sí explica el desenlace de la guerra)
 
 El Emir desde 1977, exiliado al momento de la invasión iraquí, fue Jaber al-Hamad al-Sabah.
 
@@ -8734,7 +8746,7 @@ Al año siguiente, João Goulart emprendió una política en la que destacó la 
 
 ### 555
 
-En relación con el libro de Historia Universal, ¿bajo la influencia de qué organismo lo derrocaron los militares en 1964?
+En relación con el libro de Historia Universal, ¿bajo la influencia de qué organismo derrocaron los militares a João Goulart en 1964?
 
 - A. De la *Central Intelligence Agency*
 - B. Del Fondo Monetario Internacional
@@ -8948,7 +8960,7 @@ En junio de 2010 la Convención Nacional del PT oficializó a Dilma Rousseff com
 
 ### 569
 
-En relación con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia y por qué partido?
+En relación con el libro de Historia Universal, ¿quién fue postulado a la vicepresidencia de Brasil y por qué partido?
 
 - A. Michel Temer, líder del Partido del Movimiento Democrático Brasileño
 - B. José Serra, líder del Partido de la Democracia Social Brasileña

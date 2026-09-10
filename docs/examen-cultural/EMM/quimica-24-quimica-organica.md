@@ -401,4 +401,18 @@ capítulos que pide el temario de Medicina `QUI-02-2026`: cap. 2 (153), cap. 3
 (43), cap. 4 (53), cap. 9 (30) y cap. 24 (22). El temario de Enfermería es un
 subconjunto y también queda cubierto.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (22/22 reactivos)**. Revisados los 2 sub-lotes de
+punta a punta (hidrocarburos alifáticos —alcanos e hidrocarburos saturados, isómeros
+estructurales, hidrocarburos insaturados, reacciones de adición, la regla de Markovnikov— y
+la química de los grupos funcionales —alcoholes, éteres, aldehídos/cetonas, ácidos
+carboxílicos, ésteres, aminas, reacción de condensación, saponificación—). **0 retiros
+nuevos, 0 retiros preexistentes.** El par aldehído/cetona (reactivos 16-17) prueba dos datos
+distintos sobre el mismo grupo carbonilo y no es relleno.
+
+Con este archivo cierra la ronda 3 de Química (Chang) para las 4 escuelas que la piden
+(EMM, EME, EMO, EMOS): 492 reactivos revisados en total entre los capítulos 2, 3, 4, 5, 9 y
+24 (153+43+53+191+30+22), todos limpios salvo el único retiro confirmado de una ronda de
+detector anterior (cap. 5, VISUAL).
+
 **Reactivos en este archivo:** 22

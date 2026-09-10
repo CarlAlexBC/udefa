@@ -375,6 +375,20 @@ propio. **Cálculo Diferencial es materia nueva del banco:** mientras no exista 
 de la Unidad 2, este archivo (ya cerrado) deja de sostener el pendiente de la materia —
 pasa al archivo de la Unidad 2 en cuanto se cree.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (107/107 reactivos)**. Revisados los 22
+sub-lotes de punta a punta (conjunto y elemento; definición de función y notación;
+nomenclatura de dominio/contradominio/rango; criterio de la recta vertical; variables y
+constantes; cociente incremental; gráfica de una función y sus cinco pasos; caso de la
+recta con sus tres pasos; nomenclatura de funciones básicas; clasificación algebraicas/
+trascendentes; monótona creciente/decreciente; explícita/implícita y par/impar; números
+reales naturales/enteros/racionales/irracionales; dominio de racionales y radicales;
+asíntotas verticales; propiedad del cero; rango; funciones compuestas; inyectiva/
+sobreyectiva/biyectiva; función inversa; álgebra de funciones y composición). Los pares
+con opciones cruzadas (3/4, 13/14/15, 23/24, 59/60, 62/63, 64/66, 65/67, 73/74) prueban
+cada uno un dato distinto del mismo par conceptual — no relleno. **0 retiros nuevos, 0
+retiros preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Conjunto y elemento, y el arranque de las funciones (p.8)

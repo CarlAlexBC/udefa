@@ -93,6 +93,18 @@ hojas 133 y 134: la portadilla del capítulo 5 está en la hoja 133.
 2026). Lo que falta de Biología lo declara el archivo del capítulo en curso —
 hoy `biologia-07-metabolismo.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (157/157 reactivos)**. Revisados los 40 sub-lotes de
+punta a punta (historia del modelo de membrana —Gorter/Grendel, Danielli, Robertson,
+balsas de membrana, mosaico fluido de Singer y Nicolson—, composición química, asimetría
+de las caras, proteínas integrales y periféricas, glucocálix, dominios y polaridad
+celular, funciones de las proteínas de membrana, canales/poros/acuaporinas,
+permeabilidad selectiva, transportadores uni/sim/antiporte, difusión y ósmosis, tonicidad
+y turgencia, transporte activo y su ciclo, la bomba de Na⁺-K⁺, transporte en masa
+—endocitosis, fagocitosis, exocitosis, endocitosis mediada por receptor—, fusión de
+membranas, los seres vivos como sistemas abiertos, y la nicotina y las membranas). **0
+retiros nuevos.** El archivo no tenía retiros previos.
+
 > **Ojo al escribir aquí:** el generador de `ESTADO.md` busca la cadena exacta
 > `**Pendiente:**` y se queda con el párrafo que le sigue hasta el primer renglón
 > en blanco. Si se parte en varias líneas con viñetas, o se le cambia el nombre,

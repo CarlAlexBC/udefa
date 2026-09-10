@@ -72,6 +72,13 @@ resueltos y los seis bloques de ejercicios de práctica (205, 206, 207, 209,
 las ecuaciones de segundo grado), que pide `EMMG_T_E_BALISTICA_2026` — ver
 `docs/examen-tropa/enlace-fisica-algebra.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (26/26 reactivos)**. Revisados los 9 sub-lotes de
+punta a punta (definición y signo de la potencia, potencia de un monomio, cuadrado y cubo
+de un polinomio, las seis leyes del Binomio de Newton, desarrollo de (a-b)ⁿ, la
+Observación sobre coeficientes repetidos, Triángulo de Pascal, término general). **0
+retiros nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
@@ -357,6 +364,7 @@ En relación con el libro de Álgebra, ¿quién descubrió la fórmula que permi
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 383
 **Subtema:** Potenciación · Fórmula del binomio, autoría
+**Retirado:** PERSONA · quién descubrió la fórmula, sin ningún dato de la fórmula misma — las cinco leyes del binomio de Newton (13-16 y anteriores) ya cubren el contenido
 
 Esta fórmula descubierta por Newton nos permite elevar un binomio a una potencia cualquiera, directamente, sin tener que hallar las potencias anteriores.
 

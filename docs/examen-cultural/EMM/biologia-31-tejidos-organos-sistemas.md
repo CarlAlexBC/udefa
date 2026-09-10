@@ -89,6 +89,24 @@ comunicantes— sí están cubiertos (reactivo 26). El capítulo termina en la p
 
 **Pendiente:** ninguno. El capítulo 31 está cerrado en 84 reactivos (23 jul 2026); lo que se dejó fuera a propósito está detallado arriba. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 32 (`biologia-32-sistema-nervioso.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (84/84 reactivos)**. Revisados los 16 sub-lotes de
+punta a punta (la historia de la anatomía y el ser humano como vertebrado, de las células a
+los sistemas, los cuatro tipos de tejidos y las cavidades, la matriz extracelular y las
+uniones celulares, el tejido epitelial y la piel, los tejidos conjuntivos —sangre,
+cartílago, hueso— y sus tipos especializados, el esqueleto humano, el tejido muscular y su
+clasificación estriado/liso y voluntario/involuntario, el tejido nervioso y la neurona, los
+órganos y sistemas de órganos, las articulaciones y las proteínas de la contracción, el
+Ensayo 31-1 de los sistemas de sostén, los sistemas del cuerpo humano y el Ensayo 31-2 de
+regeneración). **0 retiros nuevos.** El único retiro preexistente (#1, PERSONA) ya venía de
+una ronda de detector anterior. De paso se corrigió un artefacto de texto (no de contenido):
+los enunciados de los reactivos #11, #53, #54 y #55 traían la frase "órganos y sistemas de
+los vertebrados" repetida varias veces por un error de copiado, pegada entre "De acuerdo con
+el libro de Biología," y la pregunta; se limpió sin tocar la pregunta, las opciones ni la
+respuesta. Los pares/tríos contrapuestos (epidermis/dermis, estriado-liso vs.
+voluntario-involuntario, y el esqueleto hidrostático/exoesqueleto/endoesqueleto) prueban
+cada uno un dato distinto y no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
 > primer renglón en blanco; si desaparece, o si empieza con "ninguno", Biología se
@@ -117,6 +135,7 @@ De acuerdo con el libro de Biología, ¿quién fue el primero en disecar un cad�
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 740
 **Subtema:** tejidos, órganos y sistemas · historia de la anatomía
+**Retirado:** PERSONA · quién fue "el primero en" sin ningún hallazgo anatómico descrito
 
 El médico griego Alcmeón de Crotona, alrededor del 520 a. C., fue el primero en disecar un cadáver humano.
 
@@ -262,7 +281,7 @@ Los tejidos pueden unirse entre sí y formar órganos; esta unión no solo es es
 ## Sub-lote 3 · Los cuatro tipos de tejidos y las cavidades (figs. 31-3 y 31-4, pp. 741-742)
 
 ### 11
-De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
+De acuerdo con el libro de Biología, ¿cuántos tipos diferentes de células hay en el cuerpo humano y en cuántos tipos de tejidos se agrupan?
 - A. Alrededor de 200 tipos de células, que se agrupan en solo cuatro tipos de tejidos
 - B. Cuatro tipos de células, agrupadas en 200 tejidos
 - C. Veinte tipos de células y veinte tipos de tejidos
@@ -912,7 +931,7 @@ El tejido óseo almacena calcio y fosfato que pueden pasar a la sangre, reguland
 ## Sub-lote 10 · El esqueleto humano (fig. 31-7, p. 745)
 
 ### 53
-De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos contiene el esqueleto de un adulto?
+De acuerdo con el libro de Biología, ¿cuántos huesos contiene el esqueleto de un adulto?
 - A. 206 huesos
 - B. 300 huesos
 - C. 150 huesos
@@ -925,7 +944,7 @@ De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, ó
 El esqueleto de un adulto contiene 206 huesos.
 
 ### 54
-De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
+De acuerdo con el libro de Biología, ¿cuántos huesos pertenecen al cráneo y cómo se reparten?
 - A. 29 huesos, incluidos los 14 de la cara y los 6 huesecillos de los oídos
 - B. 14 huesos, todos de la cara
 - C. 6 huesos, todos de los oídos
@@ -938,7 +957,7 @@ De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, ó
 Veintinueve huesos pertenecen al cráneo, incluidos los 14 huesos de la cara y los 6 huesecillos de los oídos.
 
 ### 55
-De acuerdo con el libro de Biología, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, órganos y sistemas de los vertebrados, ¿cuántos huesos hay en cada mano y en cada pie?
+De acuerdo con el libro de Biología, ¿cuántos huesos hay en cada mano y en cada pie?
 - A. 27 huesos en cada mano y 26 en cada pie
 - B. 26 huesos en cada mano y 27 en cada pie
 - C. 10 huesos en cada mano y 10 en cada pie

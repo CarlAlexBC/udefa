@@ -106,6 +106,20 @@ los objetivos de aprendizaje y el resumen del capítulo.
 **Pendiente:** ninguno. Química quedó cerrada en todos los capítulos del temario
 de Medicina; el resumen lo sostiene el `.md` del capítulo 24.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (153/153 reactivos)**. Revisados los 22 sub-lotes de
+punta a punta (de Demócrito a Dalton, las cuatro hipótesis de la teoría atómica y las leyes
+de las proporciones, el electrón —Thomson, Millikan—, la radiactividad —Röntgen, Becquerel,
+Curie—, el protón y el núcleo —Rutherford—, el neutrón —Chadwick—, moléculas e iones,
+fórmulas químicas y modelos moleculares, fórmulas empíricas, fórmula de los compuestos
+iónicos, nomenclatura de compuestos iónicos binarios/ternarios, cationes con más de una
+carga y el sistema Stock, compuestos moleculares y prefijos griegos, ácidos y oxoácidos,
+oxoaniones, bases e hidratos, compuestos inorgánicos familiares, hidrocarburos y alcanos, y
+grupos funcionales). **0 retiros nuevos, 0 retiros preexistentes.** Los pares/tríos
+contrapuestos del capítulo (catión/anión, gases monoatómicos/diatómicos/poliatómicos,
+fórmula molecular/empírica, sistema antiguo -oso/-ico frente al sistema Stock, ácido
+gaseoso/disuelto en agua) prueban cada uno un dato distinto y no son relleno.
+
 ## Avisos al aspirante — el libro dice mal
 
 **El HClO₃ está mal nombrado, dos veces.** En la lista de oxoácidos de
@@ -180,6 +194,7 @@ En relación con el libro de Química, ¿quién formuló en 1808 una definición
 **Respuesta:** A
 **Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 41
 **Subtema:** teoría atómica · antecedentes
+**Retirado:** PERSONA · quién formuló la definición y en qué año, sin ningún contenido de esa definición — el 5 y el 6 ya cubren las hipótesis de Dalton
 
 En 1808, un científico y maestro de escuela inglés, John Dalton, formuló una definición precisa de los bloques de construcción indivisibles de la materia que llamamos átomos.
 

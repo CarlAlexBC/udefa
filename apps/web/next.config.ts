@@ -86,7 +86,12 @@ const CSP = [
   "img-src 'self' data: blob:",
   "font-src 'self'",
   // El backend vive en otro subdominio: sin esto, la web no podría hablarle.
-  "connect-src 'self' https://api.elmonoteteguia.com",
+  // En desarrollo, además, el backend local vive en :3001 -- sin este permiso
+  // extra el login local queda bloqueado por esta misma política (detectado
+  // 29 ago 2026: nadie había vuelto a loguearse en local desde que se activó).
+  process.env.NODE_ENV === "development"
+    ? "connect-src 'self' https://api.elmonoteteguia.com http://localhost:3001"
+    : "connect-src 'self' https://api.elmonoteteguia.com",
   "object-src 'none'",
   "base-uri 'self'",
   // Checkout Pro se abre navegando, no enviando un formulario a Mercado Pago;

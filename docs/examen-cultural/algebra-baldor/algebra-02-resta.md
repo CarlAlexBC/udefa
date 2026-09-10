@@ -73,6 +73,13 @@ que se descifraron las tablillas (1930), que el libro da como dato propio.
 Álgebra lo declara el archivo del capítulo en curso — hoy
 `algebra-03-signos-agrupacion.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (23/23 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (concepto de resta, regla general, el recuadro de Caldea y Asiria, el
+paréntesis del sustraendo, carácter general, resta de polinomios, ordenación y prueba).
+**0 retiros nuevos.** El único retiro que tiene el archivo (#5, pueblos del recuadro,
+MARCO) ya venía de una ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.

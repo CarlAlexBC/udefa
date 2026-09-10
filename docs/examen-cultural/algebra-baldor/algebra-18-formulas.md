@@ -45,6 +45,13 @@ cerrado. **Álgebra (Baldor) quedó cerrada del todo**: todos los capítulos que
 planteles que usan este libro —HCM, EME, EMM, EMO, EMOS, EMA, EMI y EMMG— están escritos
 y cerrados.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (15/15 reactivos)**. Revisados los 6 sub-lotes de
+punta a punta (Neper, qué es una fórmula, uso y ventaja, traducir al lenguaje vulgar,
+expresar una ley por símbolos, empleo y cambio del sujeto). **0 retiros nuevos.** Los 4
+retiros que tiene el archivo (#1–#4, todo el recuadro de Neper, MARCO) ya venían de una
+ronda de detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

@@ -113,6 +113,24 @@ cuatro capítulos que pide el temario —4 (64), 8 (58), 9 (53) y 12 (44)— est
 **219 reactivos** en total. El temario deja fuera a propósito el capítulo 11 (cónicas en
 coordenadas rectangulares).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (44/44 reactivos, 43 activos)**. Revisados
+los 17 sub-lotes de punta a punta (introducción e historia; terminología del sistema
+polar; convenciones de graficación; conversión polar-rectangular; gráficas polares
+básicas —círculo, recta, espiral—; pruebas de simetría; familias con nombre
+—cardioide, caracol, rosas, lemniscatas—; rotación de gráficas polares; sección
+cónica y excentricidad; ecuaciones polares de cónicas; aplicación a órbitas;
+escalares, vectores y magnitud; operaciones con vectores; vectores unitarios, base
+i/j y forma trigonométrica; producto punto y sus propiedades; forma alternativa,
+ángulo y ortogonalidad; componente, proyección y trabajo). El retiro preexistente
+(#2, PERSONA · Fontana) sigue vigente sin cambios. **0 retiros nuevos.**
+
+**Con este archivo se cierra la auditoría ronda 3 del libro Zill completo** (8
+archivos, 662 reactivos: cap 2 con 210, cap 3 con 89, cap 4 con 64, cap 8 con 58,
+cap 9 con 53, cap 10 con 69, cap 11 con 75, cap 12 con 44), sin retiros nuevos en
+ningún archivo — sólo los 4 retiros preexistentes confirmados sin cambios (cap 2:
+1, cap 4: 2, cap 12: 1).
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
@@ -157,6 +175,7 @@ En relación con el libro de Geometría Analítica, según la reseña histórica
 **Respuesta:** A
 **Referencia:** Zill, D. G. & Dewar, J. M. (2012) *Álgebra, Trigonometría y Geometría Analítica*, 3.ª ed., McGraw-Hill, Pág. 521
 **Subtema:** Coordenadas polares · Historia
+**Retirado:** PERSONA · quién acuñó el nombre de un sistema no explica ninguna técnica ni fórmula del sistema
 
 Fue el matemático italiano Gregorio Fontana (1735-1803) quien acuñó el término coordenadas polares.
 

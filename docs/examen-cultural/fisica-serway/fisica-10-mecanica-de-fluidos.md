@@ -38,6 +38,20 @@ El **10.7** (Flujo de fluidos viscosos en tuberías) y **10.8** (Otras aplicacio
 
 **Pendiente:** ninguno en este archivo. **El Capítulo 10 queda CERRADO.** Con él, **Física EMEFA (Serway) queda COMPLETA**: los cinco capítulos que pide el temario `FÍSICA-02-2026` —Cap. 1 (78), Cap. 2 (46), Cap. 3 (42), Cap. 5 (55) y Cap. 10 (54)— están escritos, **275 reactivos en total**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (54/54 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (fluido y presión; densidad y variación de la presión; la ley P = P₀ + ρgh y
+la ley de Pascal; el elevador hidráulico; mediciones de presión, el barómetro; manómetro,
+presión manométrica y flotación; fuerza de flotación y objeto totalmente sumergido; objeto
+que flota; dinámica de fluidos, tipos de flujo y flujo ideal; ecuación de continuidad;
+ecuación de Bernoulli, el principio; la ecuación de Bernoulli). **0 retiros nuevos, 0
+retiros preexistentes.**
+
+**Con este archivo se cierra la auditoría ronda 3 de TODA la materia Física** (17 archivos:
+13 de Pérez Montiel + 5 de Serway, sumando los 1,623 reactivos del banco), sin retiros
+nuevos en ningún archivo — solo los retiros preexistentes de rondas anteriores del
+detector automático, todos confirmados intactos.
+
 ---
 
 ## Sub-lote 1 · Fluido y presión (pp.269–270)

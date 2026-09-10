@@ -123,6 +123,18 @@ son las **preguntas de repaso del propio libro**, no teoría nueva.
 declara el archivo del capítulo en curso — hoy
 `biologia-05-membrana-plasmatica.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (190/190 reactivos)**. Revisados los 48 sub-lotes de
+punta a punta (tamaño y forma de las células, la célula como sistema abierto, límites y
+componentes de la célula eucarionte, matriz extracelular, pared celular, el descubrimiento
+del núcleo —Schleiden, Hertwig, Flemming, la mitosis, el experimento de Hämmerling—,
+envoltura y funciones del núcleo, centrifugación diferencial, sistema de endomembranas,
+retículo endoplasmático, complejo de Golgi, lisosomas, peroxisomas, mitocondrias,
+plástidos y cloroplastos, citoesqueleto —microtúbulos, actina, filamentos intermedios—,
+cilios y flagelos, centríolos y huso mitótico, cultivo de células, los primeros
+microscopistas —Leeuwenhoek, Hooke, Grew— y la metáfora de las células madre —Haeckel,
+Till y McCulloch—). **0 retiros nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico. Se

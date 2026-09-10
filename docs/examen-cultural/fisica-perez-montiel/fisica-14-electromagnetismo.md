@@ -74,6 +74,17 @@ que no vinieran ya del cuerpo del texto en alguno de los 13 subtemas.
 `EMMG_MG_TEC_MANTO_I_2026` quedan cerradas (29 ago 2026). Ver
 `docs/examen-tropa/enlace-fisica-algebra.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (76/76 reactivos)**. Revisados los 13 sub-lotes de
+punta a punta (desarrollo histórico; campo magnético producido por una corriente; fuerzas
+sobre cargas en movimiento; inducción electromagnética —Lenz y Faraday—; inductancia;
+corriente alterna; circuitos de CA; transformadores; bobina de inducción; generador
+eléctrico; motor eléctrico; síntesis de Maxwell; plantas generadoras y su transmisión).
+Confirmado el retiro preexistente (#7, PERSONA, Tesla). **0 retiros nuevos, 1 retiro
+preexistente (sin cambios).** Con este archivo se cierra la auditoría ronda 3 de **toda
+la Unidad Pérez Montiel** (13 archivos, U1 a U14 salvo U7 y U10, no requeridos por ningún
+temario).
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no
@@ -192,6 +203,7 @@ En relación con el libro de Física, ¿quién inventó el motor de inducción, 
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 481
 **Subtema:** Desarrollo histórico · Nikola Tesla, motor de inducción
+**Retirado:** PERSONA · quién inventó qué y en qué año, sin explicar el principio de funcionamiento (el 54, sobre el transformador de Faraday, sí lo explica)
 
 En 1888 Nikola Tesla inventó el motor de inducción, el cual funciona con corriente alterna.
 

@@ -128,6 +128,23 @@ inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biolog�
 el archivo del capítulo en curso — hoy, el capítulo 37 (`biologia-37-digestion.md`), que es
 el último del temario de la materia.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (153/153 reactivos)**. Revisados los 20 sub-lotes de
+punta a punta (la sangre, la hemolinfa y las funciones del transporte, la diversidad de los
+sistemas cardiovasculares —esponjas, moluscos, anélidos, peces, anfibios/reptiles, aves y
+mamíferos—, la composición de la sangre y el hematocrito, el plasma y las proteínas
+plasmáticas, la hematopoyesis y los glóbulos rojos, los glóbulos blancos y las plaquetas, la
+coagulación sanguínea y la hemofilia, las fases de la coagulación, el corazón como bomba y
+el corazón humano, el sistema de conducción del corazón, el ciclo cardíaco —sístole y
+diástole—, el gasto cardíaco y los vasos sanguíneos, la regulación del latido cardíaco, la
+resistencia vascular y la regulación de la perfusión, la presión sanguínea, la anatomía de
+arterias y venas, el centro de regulación cardiovascular y el retorno venoso, los
+barorreceptores y el reflejo cardiovascular, los capilares y la difusión de sustancias, y el
+sistema linfático completo). **0 retiros nuevos, 0 retiros preexistentes.** Los pares
+contrapuestos del capítulo (sistólica/diastólica, tricúspide/mitral, vasoconstricción/
+vasodilatación, sistema abierto/cerrado, capilares linfáticos ciegos/circuito continuo)
+prueban cada uno un dato distinto y no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta —en negrita y con dos puntos— y toma el párrafo
 > que le sigue hasta el primer renglón en blanco. Si se convierte en encabezado

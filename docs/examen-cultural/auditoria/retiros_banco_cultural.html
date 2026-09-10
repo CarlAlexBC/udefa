@@ -1,0 +1,481 @@
+<title>Retiros del Banco Cultural</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Manrope:ital,wght@0,400;0,500;0,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --crema: #f2ede1;
+    --crema-alta: #faf7f0;
+    --carbon: #221f1a;
+    --carbon-suave: #63594a;
+    --carbon-tenue: #8c8271;
+    --laton: #a3763c;
+    --laton-fuerte: #855f2c;
+    --oliva: #5c6a3d;
+    --oliva-tenue: #eef0e5;
+    --rojo-mate: #93453a;
+    --rojo-tenue: #f4e6e2;
+    --borde: rgba(34, 31, 26, 0.13);
+    --borde-fuerte: rgba(34, 31, 26, 0.22);
+    --sombra: 0 1px 2px rgba(34, 31, 26, 0.06);
+    --focus: #855f2c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --crema: #1c1a16;
+      --crema-alta: #232019;
+      --carbon: #ede7d9;
+      --carbon-suave: #b6ab96;
+      --carbon-tenue: #837a68;
+      --laton: #d9a860;
+      --laton-fuerte: #e6bd80;
+      --oliva: #a8b884;
+      --oliva-tenue: #2a2e20;
+      --rojo-mate: #d68b7d;
+      --rojo-tenue: #322220;
+      --borde: rgba(237, 231, 217, 0.14);
+      --borde-fuerte: rgba(237, 231, 217, 0.24);
+      --sombra: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --focus: #e6bd80;
+    }
+  }
+  :root[data-theme="dark"] {
+    --crema: #1c1a16;
+    --crema-alta: #232019;
+    --carbon: #ede7d9;
+    --carbon-suave: #b6ab96;
+    --carbon-tenue: #837a68;
+    --laton: #d9a860;
+    --laton-fuerte: #e6bd80;
+    --oliva: #a8b884;
+    --oliva-tenue: #2a2e20;
+    --rojo-mate: #d68b7d;
+    --rojo-tenue: #322220;
+    --borde: rgba(237, 231, 217, 0.14);
+    --borde-fuerte: rgba(237, 231, 217, 0.24);
+    --sombra: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --focus: #e6bd80;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--crema);
+    color: var(--carbon);
+    font-family: "Manrope", -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2 { text-wrap: balance; }
+
+  .marco {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 28px 20px 80px;
+  }
+
+  /* ---- Cabecera ---- */
+  header.top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    padding-bottom: 18px;
+    border-bottom: 2px solid var(--carbon);
+    margin-bottom: 22px;
+    flex-wrap: wrap;
+  }
+  .marca {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .marca .eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--laton-fuerte);
+  }
+  h1 {
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    margin: 2px 0 0;
+  }
+  .subtitulo {
+    color: var(--carbon-suave);
+    font-size: 14.5px;
+    max-width: 46ch;
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+  .contador-total {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .contador-total .num {
+    font-size: 34px;
+    font-weight: 800;
+    color: var(--rojo-mate);
+    line-height: 1;
+  }
+  .contador-total .etq {
+    font-size: 11.5px;
+    color: var(--carbon-tenue);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 2px;
+  }
+
+  /* ---- Controles ---- */
+  .controles {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 22px;
+    position: sticky;
+    top: 0;
+    background: var(--crema);
+    padding: 12px 0 14px;
+    z-index: 5;
+    border-bottom: 1px solid var(--borde);
+  }
+  .buscador {
+    position: relative;
+  }
+  .buscador input {
+    width: 100%;
+    font-family: inherit;
+    font-size: 14.5px;
+    padding: 10px 14px 10px 36px;
+    border-radius: 9px;
+    border: 1.5px solid var(--borde-fuerte);
+    background: var(--crema-alta);
+    color: var(--carbon);
+  }
+  .buscador input::placeholder { color: var(--carbon-tenue); }
+  .buscador input:focus {
+    outline: 2px solid var(--focus);
+    outline-offset: 1px;
+  }
+  .buscador svg {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    color: var(--carbon-tenue);
+    pointer-events: none;
+  }
+  .filas-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+  .chip {
+    font-family: inherit;
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 5px 11px;
+    border-radius: 999px;
+    border: 1.3px solid var(--borde-fuerte);
+    background: var(--crema-alta);
+    color: var(--carbon-suave);
+    cursor: pointer;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .chip:hover { border-color: var(--laton); color: var(--carbon); }
+  .chip:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+  .chip[data-activo="1"] {
+    background: var(--carbon);
+    border-color: var(--carbon);
+    color: var(--crema-alta);
+  }
+  .chip .n { opacity: 0.65; margin-left: 4px; }
+
+  .estado-filtro {
+    font-size: 12.5px;
+    color: var(--carbon-tenue);
+    min-height: 16px;
+  }
+  .estado-filtro button {
+    font: inherit;
+    color: var(--laton-fuerte);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ---- Grupos por materia ---- */
+  .grupo { margin-top: 30px; }
+  .grupo:first-of-type { margin-top: 4px; }
+  .grupo-cabecera {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    padding-bottom: 6px;
+    border-bottom: 1.5px solid var(--carbon);
+    margin-bottom: 4px;
+  }
+  .grupo-cabecera h2 {
+    font-size: 15.5px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+  .grupo-cabecera .n {
+    font-size: 12.5px;
+    color: var(--carbon-tenue);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- Filas de reactivo ---- */
+  .fila {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 14px;
+    padding: 13px 0;
+    border-bottom: 1px solid var(--borde);
+  }
+  .fila:last-child { border-bottom: none; }
+  .fila .num {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 13px;
+    color: var(--carbon-tenue);
+    padding-top: 2px;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .fila .cont { min-width: 0; }
+  .fila .enunciado {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--carbon);
+  }
+  .fila .fila-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-top: 6px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    display: inline-block;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    padding: 2px 7px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+  }
+  .badge[data-cat="PERSONA"] { background: var(--oliva-tenue); color: var(--oliva); }
+  .badge[data-cat="VISUAL"] { background: var(--rojo-tenue); color: var(--rojo-mate); }
+  .badge[data-cat="MARCO"] { background: var(--rojo-tenue); color: var(--rojo-mate); }
+  .badge[data-cat="TEMA"] { background: #e6e1ee; color: #5b4d80; }
+  .badge[data-cat="LIBRO"] { background: #e6e1ee; color: #5b4d80; }
+  .badge[data-cat="RELLENO"] { background: var(--oliva-tenue); color: var(--oliva); }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .badge[data-cat="TEMA"],
+    :root:not([data-theme="light"]) .badge[data-cat="LIBRO"] { background: #2c2636; color: #c3b3e6; }
+  }
+  :root[data-theme="dark"] .badge[data-cat="TEMA"],
+  :root[data-theme="dark"] .badge[data-cat="LIBRO"] { background: #2c2636; color: #c3b3e6; }
+
+  .fila .motivo {
+    font-size: 13px;
+    color: var(--carbon-suave);
+    line-height: 1.45;
+  }
+  .fila .archivo {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    color: var(--carbon-tenue);
+    margin-top: 5px;
+  }
+
+  .sin-resultados {
+    padding: 60px 0;
+    text-align: center;
+    color: var(--carbon-tenue);
+    font-size: 14px;
+  }
+
+  footer.pie {
+    margin-top: 50px;
+    padding-top: 16px;
+    border-top: 1px solid var(--borde);
+    font-size: 12px;
+    color: var(--carbon-tenue);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 520px) {
+    .fila { grid-template-columns: 34px 1fr; gap: 10px; }
+    .contador-total .num { font-size: 28px; }
+  }
+</style>
+
+<div class="marco">
+  <header class="top">
+    <div class="marca">
+      <span class="eyebrow">Banco cultural &middot; auditoría</span>
+      <h1>Reactivos retirados</h1>
+      <p class="subtitulo">Cada uno se marcó con <code>**Retirado:**</code> en su archivo &mdash; sigue en el <code>.md</code>, con su motivo escrito, listo para reactivarse si no estás de acuerdo.</p>
+    </div>
+    <div class="contador-total">
+      <div class="num" id="contador-total">&nbsp;</div>
+      <div class="etq">retirados</div>
+    </div>
+  </header>
+
+  <div class="controles">
+    <div class="buscador">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="text" id="buscador" placeholder="Buscar por enunciado, motivo o archivo&hellip;" autocomplete="off">
+    </div>
+    <div class="filas-chips" id="chips-materia"></div>
+    <div class="filas-chips" id="chips-categoria"></div>
+    <div class="estado-filtro" id="estado-filtro"></div>
+  </div>
+
+  <main id="lista"></main>
+
+  <footer class="pie">
+    Generado desde <code>**Retirado:**</code> en los <code>.md</code> del banco &mdash; no borra nada, sólo lista lo ya marcado. Vuelve a correr <code>auditoria/extraer_retirados.py</code> tras la próxima tanda para actualizar esta lista.
+  </footer>
+</div>
+
+<script>
+const DATA = [{"archivo": "EMM/biologia-03-origen-vida.md", "libro": "EMM", "numero": "82", "motivo": "TEMA · ecuación de Drake: astrobiología, fuera del temario de medicina", "enunciado": "De conformidad con el libro de Biología, ¿quién propuso en 1961 un modelo para estimar la probabilidad de existencia de civilizaciones extraterrestres?", "categoria": "TEMA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-03-origen-vida.md", "libro": "EMM", "numero": "199", "motivo": "TEMA · vitalismo del siglo XIX: historia de la ciencia, no contenido", "enunciado": "En relación con el libro de Biología, ¿quién era el principal exponente del vitalismo en el siglo XIX?", "categoria": "TEMA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-07-metabolismo.md", "libro": "EMM", "numero": "50", "motivo": "PERSONA · sólo dice quién \"retomó ideas\", sin decir qué aportó Prigogine — atribución sin concepto", "enunciado": "De conformidad con el libro de Biología, ¿quién fue la figura más trascendente que retomó las ideas de Schrödinger?", "categoria": "PERSONA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-07-metabolismo.md", "libro": "EMM", "numero": "238", "motivo": "TEMA · cita de filosofía de la ciencia, no contenido del temario", "enunciado": "De acuerdo con el libro de Biología, según el biólogo y filósofo francés Michel Morange, ¿por qué algunos físicos se sumergieron en la naturaleza de lo vivo?", "categoria": "TEMA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-14-epigenetica.md", "libro": "EMM", "numero": "46", "motivo": "PERSONA · quién acuñó el nombre del campo, no un concepto biológico — mismo criterio que Fontana/coordenadas polares en Zill", "enunciado": "De acuerdo con el libro de Biología, ¿quién acuñó el concepto moderno de epigenética y en qué momento?", "categoria": "PERSONA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-14-epigenetica.md", "libro": "EMM", "numero": "151", "motivo": "VISUAL · el color de los puntos en la ilustración es un detalle arbitrario, no el concepto de metilación", "enunciado": "De acuerdo con el libro de Biología, ¿qué representan los puntos amarillos de la figura 14-9?", "categoria": "VISUAL", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-31-tejidos-organos-sistemas.md", "libro": "EMM", "numero": "1", "motivo": "PERSONA · quién fue \"el primero en\" sin ningún hallazgo anatómico descrito", "enunciado": "De acuerdo con el libro de Biología, ¿quién fue el primero en disecar un cadáver humano, alrededor del 520 a. C.?", "categoria": "PERSONA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/biologia-32-sistema-nervioso.md", "libro": "EMM", "numero": "194", "motivo": "PERSONA · quién puso el nombre \"sinapsis\", no qué es o cómo funciona — el 193 (qué describió Ramón y Cajal) sí se queda", "enunciado": "De acuerdo con el libro de Biología, ¿quién llamó \"sinapsis\" a esas zonas, sobre la base de sus experimentos acerca de la velocidad de propagación de la señal en vías reflejas?", "categoria": "PERSONA", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "EMM/quimica-05-gases.md", "libro": "EMM", "numero": "102", "motivo": "VISUAL · pregunta por la analogía ilustrativa (una pelota de baloncesto), no por el dato químico (22.4 L)", "enunciado": "De conformidad con el libro de Química, ¿con qué objeto se compara el volumen molar en STP en la figura 5.11?", "categoria": "VISUAL", "libroNombre": "Biología y Química (EMM)"}, {"archivo": "fisica-perez-montiel/fisica-05-dinamica.md", "libro": "fisica-perez-montiel", "numero": "96", "motivo": "PERSONA · el dato (un catálogo de estrellas) no aporta a entender la gravitación universal, a diferencia de Aristarco/Copérnico/Kepler/Newton en el mismo subtema", "enunciado": "En relación con el libro de Física, ¿qué logró Hiparco, astrónomo griego que vivió en 125 a. C. aproximadamente?", "categoria": "PERSONA", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-05-dinamica.md", "libro": "fisica-perez-montiel", "numero": "115", "motivo": "PERSONA · dato curioso (coincidencia de fechas), no un concepto de física", "enunciado": "De acuerdo con el libro de Física, ¿en qué año nació Newton y qué ocurrió ese mismo año?", "categoria": "PERSONA", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-05-dinamica.md", "libro": "fisica-perez-montiel", "numero": "380", "motivo": "PERSONA · referencia literaria/cultural, no contenido de física", "enunciado": "De conformidad con el libro de Física, ¿quién fue Julio Verne?", "categoria": "PERSONA", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-11-termologia.md", "libro": "fisica-perez-montiel", "numero": "151", "motivo": "VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática", "enunciado": "De conformidad con el libro de Física, según la figura 11.20, ¿de qué está hecha la pared diatérmica?", "categoria": "VISUAL", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-11-termologia.md", "libro": "fisica-perez-montiel", "numero": "152", "motivo": "VISUAL · el material de la pared en el ejemplo es un detalle arbitrario de la ilustración, no el concepto de pared diatérmica/adiabática", "enunciado": "En relación con el libro de Física, según la figura 11.21, ¿de qué está hecha la pared adiabática?", "categoria": "VISUAL", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-12-electricidad.md", "libro": "fisica-perez-montiel", "numero": "5", "motivo": "PERSONA · dice el área que investigó (\"la estructura de la materia y de los electrones\") sin decir qué encontró — a diferencia de Química #19 sobre el mismo Thomson, que sí da el hallazgo concreto (relación carga/masa)", "enunciado": "En relación con el libro de Física, ¿qué investigó el físico inglés Joseph Thomson?", "categoria": "PERSONA", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "fisica-perez-montiel/fisica-14-electromagnetismo.md", "libro": "fisica-perez-montiel", "numero": "7", "motivo": "PERSONA · quién inventó qué y en qué año, sin explicar el principio de funcionamiento (el 54, sobre el transformador de Faraday, sí lo explica)", "enunciado": "En relación con el libro de Física, ¿quién inventó el motor de inducción, y en qué año?", "categoria": "PERSONA", "libroNombre": "Física (Pérez Montiel)"}, {"archivo": "geografia-lucio-victorio/geografia-02-ubicacion-tierra-universo.md", "libro": "geografia-lucio-victorio", "numero": "7", "motivo": "PERSONA · quién sostuvo la idea primero, sin explicar cómo la sustentó (a diferencia de sus reactivos sobre la medición del radio terrestre)", "enunciado": "De acuerdo con el libro de Geografía, ¿quién fue el primero en sostener que la Tierra es esférica?", "categoria": "PERSONA", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-02-ubicacion-tierra-universo.md", "libro": "geografia-lucio-victorio", "numero": "8", "motivo": "PERSONA · fechas de nacimiento/muerte puras, dato curioso sin ningún concepto geográfico", "enunciado": "De conformidad con el libro de Geografía, ¿en qué años vivió Eratóstenes de Cirene?", "categoria": "PERSONA", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-03-representacion-tierra.md", "libro": "geografia-lucio-victorio", "numero": "156", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "En relación con el libro de Geografía, ¿qué representa la Figura 3.13?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-04-litosfera.md", "libro": "geografia-lucio-victorio", "numero": "81", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "En relación con el libro de Geografía, según la Figura 4.26, ¿qué dos factores de contaminación ambiental se muestran?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-04-litosfera.md", "libro": "geografia-lucio-victorio", "numero": "107", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "De conformidad con el libro de Geografía, según la Figura 4.27, ¿qué se muestra?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-05-hidrosfera.md", "libro": "geografia-lucio-victorio", "numero": "125", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "De conformidad con el libro de Geografía, según la Figura 5.5, ¿qué ejemplos de mares y golfos se muestran?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-05-hidrosfera.md", "libro": "geografia-lucio-victorio", "numero": "126", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "En relación con el libro de Geografía, según la Figura 5.6, ¿qué es en realidad el llamado Mar de Galilea?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-05-hidrosfera.md", "libro": "geografia-lucio-victorio", "numero": "209", "motivo": "VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen", "enunciado": "De conformidad con el libro de Geografía, según la Figura 5.10, ¿qué modifica la Corriente del Golfo de México?", "categoria": "VISUAL", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-06-atmosfera.md", "libro": "geografia-lucio-victorio", "numero": "269", "motivo": "MARCO · se apoya en una cita/epígrafe reflexivo del libro, no en contenido geográfico del temario", "enunciado": "De conformidad con la cita del libro de Geografía sobre la contaminación ambiental, ¿qué hemos vivido creyendo sobre la naturaleza durante mucho tiempo, y qué descubrimos hoy?", "categoria": "MARCO", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "geografia-lucio-victorio/geografia-06-atmosfera.md", "libro": "geografia-lucio-victorio", "numero": "270", "motivo": "MARCO · se apoya en la misma cita/epígrafe reflexivo del libro que el 269, no en contenido geográfico del temario", "enunciado": "Según la cita del libro de Geografía, ¿qué se nos ha enseñado fundamentalmente desde hace dos siglos, y frente a lo cual debemos adoptar una posición contraria?", "categoria": "MARCO", "libroNombre": "Geografía (Lucio Victorio)"}, {"archivo": "HCM/historia-06-mundo-contemporaneo.md", "libro": "HCM", "numero": "138", "motivo": "PERSONA · nombre de un jefe de estado sin explicar nada del conflicto (a diferencia del 186, que sí explica el desenlace de la guerra)", "enunciado": "De conformidad con el libro de Historia Universal, ¿quién fue el Emir de Kuwait desde 1977, exiliado al momento de la invasión iraquí?", "categoria": "PERSONA", "libroNombre": "Historia Universal (HCM)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "8", "motivo": "PERSONA · el dato numérico exacto (104 grados) duplica al 7, que ya pregunta por el mismo cálculo de Toscanelli con contexto causal", "enunciado": "De conformidad con el libro de Historia de México 1, ¿en cuántos grados ecuatoriales había calculado Toscanelli la distancia de Lisboa a Cipango (Japón)?", "categoria": "PERSONA", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "9", "motivo": "dato aislado (fecha de la invasión musulmana) sin relación causal con la llegada europea a América — relleno de contexto español, no de la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, ¿en qué año cayó España bajo el dominio musulmán de los omeyas?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "10", "motivo": "dato aislado (una campaña militar árabe del año 1000) sin relación causal con la llegada europea a América", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿hasta qué ciudades llegó Almanzor en el año 1000?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "11", "motivo": "fecha aislada de la Reconquista sin relación causal con la llegada europea a América", "enunciado": "De conformidad con el libro de Historia de México 1, en el proceso de \"Reconquista\", ¿qué ciudades se recuperaron entre 1236 y 1248?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "13", "motivo": "fecha aislada (fundación del reino de Portugal) sin relación causal con la llegada europea a América — el 12 ya cubre los cuatro reinos", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿desde qué año era reino Portugal?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "16", "motivo": "trivia genealógica (con quién se casó una hija de los Reyes Católicos) sin relación causal con la conquista de México", "enunciado": "De acuerdo con el libro de Historia de México 1, los Reyes Católicos tuvieron dos hijas; ¿con quién se casó Catalina, la menor?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "17", "motivo": "trivia genealógica (matrimonio de Juana la Loca) sin relación causal con la conquista de México", "enunciado": "De conformidad con el libro de Historia de México 1, Juana la Loca, heredera de la Corona española, ¿con quién se casó?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "18", "motivo": "trivia genealógica (sucesión dinástica de Carlos I) sin relación causal con la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, a la muerte de Fernando el Católico en 1516, ¿en qué rey se convirtió Carlos, hijo de Juana la Loca y de Felipe?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "19", "motivo": "trivia genealógica (herencia de la Corona Imperial Alemana) sin relación causal con la conquista de México", "enunciado": "De acuerdo con el libro de Historia de México 1, al morir su abuelo Maximiliano en 1519 y heredar la Corona Imperial Alemana, ¿en qué emperador se convirtió Carlos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "20", "motivo": "dato de relleno (la frase \"nunca se ponía el sol\"), sin relación causal con la conquista de México — mismo criterio que el resto de la cadena genealógica", "enunciado": "De conformidad con el libro de Historia de México 1, ¿cómo describe el libro al gran Imperio de Carlos V?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "21", "motivo": "trivia genealógica (sucesión de Felipe II) sin relación causal con la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, ¿quién sucedió a Carlos V y de qué años gobernó?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "24", "motivo": "estadística demográfica de relleno, sin relación causal con la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, en la época de los descubrimientos, ¿en cuánto se calcula la población de España y qué porcentaje eran campesinos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "25", "motivo": "estadística demográfica de relleno, sin relación causal con la conquista de México", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿cuántos judíos había en España, que fueron expulsados en 1492?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "26", "motivo": "estadística demográfica de relleno, sin relación causal con la conquista de México", "enunciado": "De conformidad con el libro de Historia de México 1, ¿cuántos mudéjares había en la sociedad española de la época?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "27", "motivo": "estadística demográfica de relleno, sin relación causal con la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, los 75 000 eclesiásticos, \"una sociedad dentro de la sociedad\", ¿qué porcentaje de la población representaban?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "28", "motivo": "estadística demográfica de relleno, sin relación causal con la conquista de México", "enunciado": "De acuerdo con el libro de Historia de México 1, los 115 000 aristócratas eran el 2% de la población; ¿por cuántas familias unidas por lazos de sangre estaban formados?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "75", "motivo": "quién fundó una religión europea es relleno, no contenido de la conquista de México — mismo criterio que el 77", "enunciado": "En relación con el libro de Historia de México 1, ¿quién fundó el anglicanismo en Inglaterra?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "77", "motivo": "PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 117", "enunciado": "De conformidad con el libro de Historia de México 1, entre los grandes personajes del florecimiento religioso español, ¿quién fue el fundador de los jesuitas?", "categoria": "PERSONA", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "90", "motivo": "quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México (el 91, con la misma cita, sí pregunta por algo específico de la Nueva España)", "enunciado": "De conformidad con el libro de Historia de México 1, ¿quién fundó la orden mendicante de los franciscanos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "93", "motivo": "memorización de tres nombres propios sin más contenido — el 92 (de dónde vinieron) y el 94 (qué pasó con ellos) ya cubren el mismo hecho con más sustancia", "enunciado": "De conformidad con el libro de Historia de México 1, ¿quiénes fueron los tres franciscanos que arribaron en septiembre de 1523?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "99", "motivo": "conteo de conventos por provincia, estadística de relleno sin concepto detrás", "enunciado": "De conformidad con el libro de Historia de México 1, los franciscanos se organizaron en provincias; ¿con cuántos conventos contaban México, Michoacán y Yucatán?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "100", "motivo": "conteo de frailes, estadística de relleno sin concepto detrás — duplica el 101 con el mismo dato", "enunciado": "En relación con el libro de Historia de México 1, ¿cuántos frailes franciscanos había hacia la mitad del siglo XVI?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "101", "motivo": "conteo de frailes, estadística de relleno sin concepto detrás — duplica el 100 con el mismo dato", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿cuántos frailes franciscanos había hacia el final del siglo XVI?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "105", "motivo": "PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México", "enunciado": "De conformidad con el libro de Historia de México 1, ¿quién fue el fundador de la orden de los dominicos?", "categoria": "PERSONA", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "109", "motivo": "conteo de conventos y religiosos, estadística de relleno sin concepto detrás", "enunciado": "En relación con el libro de Historia de México 1, hacia finales del siglo XVI, ¿cuántos conventos y religiosos tenían los dominicos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "111", "motivo": "trivia organizacional (fecha de creación de una provincia) sin relación con el proceso de evangelización", "enunciado": "De conformidad con el libro de Historia de México 1, ¿qué provincia crearon los dominicos a mediados del siglo XVII?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "112", "motivo": "en quién se basa una orden religiosa europea es relleno, mismo criterio que los fundadores ya retirados", "enunciado": "En relación con el libro de Historia de México 1, ¿en la observancia de la conducta de quién se basa la orden de los agustinos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "114", "motivo": "trivia organizacional (provincias y fechas) sin relación con el proceso de evangelización — duplica el 115", "enunciado": "De conformidad con el libro de Historia de México 1, ¿en qué dos provincias se organizaron los agustinos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "115", "motivo": "conteo de conventos y religiosos, estadística de relleno — duplica el 114", "enunciado": "En relación con el libro de Historia de México 1, en el siglo XVI, ¿cuántos conventos y religiosos llegaron a tener los agustinos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "116", "motivo": "fecha de ratificación papal en Europa, sin relación con la conquista de México — mismo criterio que los fundadores", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿por quién fue ratificada la orden de los jesuitas y en qué año?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "117", "motivo": "PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 77", "enunciado": "De conformidad con el libro de Historia de México 1, ¿quién fue el fundador de la orden de los jesuitas?", "categoria": "PERSONA", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "121", "motivo": "conteo de frailes, estadística de relleno — duplica el 120", "enunciado": "En relación con el libro de Historia de México 1, ¿cerca de cuántos jesuitas habría para finales del siglo XVI?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "124", "motivo": "conteo de centros de misión, estadística de relleno sin concepto detrás", "enunciado": "En relación con el libro de Historia de México 1, ¿cuántos centros de misión poseían los jesuitas hacia 1745 en Baja California?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "126", "motivo": "fecha de llegada y conteo de conventos de una orden menor, estadística de relleno", "enunciado": "De conformidad con el libro de Historia de México 1, los dieguinos, o franciscanos descalzos, ¿en qué año llegaron y cuántos conventos fundaron?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "128", "motivo": "conteo de conventos, estadística de relleno sin concepto detrás", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿cuántos conventos tuvieron los mercedarios?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "129", "motivo": "fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización", "enunciado": "De conformidad con el libro de Historia de México 1, ¿en qué año llegaron los carmelitas contemplativos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "132", "motivo": "fecha aislada de fundación, sin relación con el proceso de evangelización (el 133 y 134, sobre el mismo templo, sí tienen sustancia narrativa)", "enunciado": "De conformidad con el libro de Historia de México 1, la Congregación del Oratorio de San Felipe Neri, ¿en qué año fue fundada en México?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "135", "motivo": "fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización", "enunciado": "De conformidad con el libro de Historia de México 1, ¿en qué año llegaron los benedictinos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "136", "motivo": "fundador y papel de una orden en Europa medieval, relleno sin relación con la conquista de México", "enunciado": "En relación con el libro de Historia de México 1, la orden de los benedictinos, ¿por quién y desde qué siglo fue fundada?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "137", "motivo": "fecha aislada de fundación de una orden femenina menor, sin relación con el proceso de evangelización", "enunciado": "De acuerdo con el libro de Historia de México 1, entre las órdenes religiosas femeninas, ¿en qué año se fundan las concepcionistas?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-03-conquista.md", "libro": "historia-mexico-menchaca", "numero": "138", "motivo": "lista de ciudades donde una orden femenina fundó conventos, dato geográfico de relleno sin concepto detrás", "enunciado": "De conformidad con el libro de Historia de México 1, las dominicas, orden religiosa femenina, ¿en qué lugares fundaron conventos?", "categoria": "RELLENO", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "historia-mexico-menchaca/historia-mexico-05-independencia.md", "libro": "historia-mexico-menchaca", "numero": "165", "motivo": "PERSONA · qué diputado representó a qué ciudad es un dato arbitrario de una lista de ocho, no una comprensión del Congreso", "enunciado": "De acuerdo con el libro de Historia de México 1, ¿quién fue el diputado que representó a Puebla en el Congreso de Chilpancingo?", "categoria": "PERSONA", "libroNombre": "Historia de México (Menchaca)"}, {"archivo": "larson-precalculo/matematicas-01-fundamentos-algebra.md", "libro": "larson-precalculo", "numero": "218", "motivo": "PERSONA · nombre y nacionalidad del inventor, sin ninguna propiedad de los logaritmos", "enunciado": "De conformidad con el libro de Matemáticas, ¿quién inventó los logaritmos y de qué nacionalidad era?", "categoria": "PERSONA", "libroNombre": "Precálculo (Larson)"}, {"archivo": "algebra-baldor/algebra-00-preliminares.md", "libro": "algebra-baldor", "numero": "113", "motivo": "PERSONA · atribuye \"comprender la verdadera naturaleza\" a Newton sin decir en qué consiste esa naturaleza", "enunciado": "En relación con el libro de Álgebra, ¿quién fue el primero en comprender la verdadera naturaleza de los números negativos?", "categoria": "PERSONA", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-01-suma.md", "libro": "algebra-baldor", "numero": "9", "motivo": "PERSONA · a quién se debe un documento, sin ningún contenido algebraico del documento (el 8 y el 10 sí preguntan por su contenido)", "enunciado": "En relación con el libro de Álgebra, ¿a quién se debe el papiro de Rhind?", "categoria": "PERSONA", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-02-resta.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, ¿qué pueblos hicieron una enorme contribución al acervo matemático de la humanidad, según el recuadro del capítulo II?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-03-signos-agrupacion.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario (mismo criterio ya aplicado a Ptolomeo y Caldea/Asiria en este libro)", "enunciado": "De conformidad con el libro de Álgebra, ¿quién fue Thales de Mileto?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-04-multiplicacion.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario (mismo criterio ya aplicado a Ptolomeo y Caldea/Asiria en este libro)", "enunciado": "En relación con el libro de Álgebra, ¿dónde nació y dónde murió Pitágoras?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fue Claudio Ptolomeo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Claudio Ptolomeo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿durante cuánto tiempo dominó la Astronomía el sistema geocéntrico de Ptolomeo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿de qué disciplina fue uno de los fundadores Ptolomeo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿cuál es la obra principal de Ptolomeo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-08-ecuaciones-primer-grado.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿hasta qué siglo se utilizó el Almagesto en las universidades?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de quién era hija Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿por qué se hizo célebre Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿dónde nació Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, al regresar a Alejandría, ¿qué funda Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿al frente de qué pensamiento se pone Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-10-descomposicion-factorial.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿por los comentarios a las obras de quiénes se distinguió Hypatia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-11-maximo-comun-divisor.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué conoció Aryabhata, del siglo V?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-11-maximo-comun-divisor.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué expuso Brahmagupta en sus obras *Ganita* y *Cuttaca*?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-11-maximo-comun-divisor.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es la obra de Bháskara, del siglo XII?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-12-minimo-comun-multiplo.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿quiénes fueron los verdaderos sistematizadores del Álgebra?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-12-minimo-comun-multiplo.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué hizo Al Juarismi, persa del siglo IX?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-12-minimo-comun-multiplo.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué aplicó el Álgebra Al Batani, sirio (858-929)?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-12-minimo-comun-multiplo.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué es conocido Omar Khayyan, persa del siglo XII?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué ciudades alcanza elevado desarrollo la cultura árabe?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué siglos abarcan las universidades hispano-árabes?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué fluye de las universidades hispano-árabes hacia Europa?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué rectificó Geber Ibn-Aphla?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué ciudad y siglo es Geber Ibn-Aphla?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué fue autor Arzaquel?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-13-fracciones-algebraicas.md", "libro": "algebra-baldor", "numero": "7", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué era Ben Ezra?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿a través de qué se introdujo en Europa la Matemática hispano-árabe?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿a qué universidades se trasladaron los eruditos?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿quién puso en latín las obras de Al Juarismi?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué tradujo Juan de Sacrobosco o Holywood?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿quién fue el más distinguido de los traductores?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-14-operaciones-fracciones.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué dio una visión latina Adelardo de Bath?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-18-formulas.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué título nobiliario tenía John Neper?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-18-formulas.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿qué introdujo John Neper para separar las cifras decimales de las enteras?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-18-formulas.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, al observar las relaciones entre las progresiones aritméticas y geométricas, ¿qué descubrió Neper?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-18-formulas.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿con quién surgió una discusión acerca de quién había sido el primero en trabajar con los logaritmos?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-20-funciones.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿cómo llamó Pascal a Pierre Fermat?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-20-funciones.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿con quién puede considerarse Fermat como el más grande matemático del siglo XVII?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-20-funciones.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿en qué trabajó incansablemente Fermat?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-20-funciones.md", "libro": "algebra-baldor", "numero": "8", "motivo": "PERSONA · a quién se debe la definición, sin decir cuál es la definición", "enunciado": "En relación con el libro de Álgebra, ¿a quién se debe la definición moderna de función?", "categoria": "PERSONA", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-21-representacion-grafica.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué es quizá más conocido Blas Pascal (1623-1662)?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-21-representacion-grafica.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué había demostrado Pascal a los doce años, según dice su hermana Gilberte?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-21-representacion-grafica.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿al sostener correspondencia con quién sienta Pascal las bases de la teoría de las probabilidades?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-21-representacion-grafica.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué trabajo de Pascal escribió cuando era un niño?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-24-ecuaciones-simultaneas.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Brook Taylor?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-24-ecuaciones-simultaneas.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿cómo se titula la obra fundamental de Brook Taylor?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-24-ecuaciones-simultaneas.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿qué contiene la obra fundamental de Brook Taylor?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-24-ecuaciones-simultaneas.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro, ¿de qué teorema es consecuencia el Teorema de Taylor?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Leonard Euler?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿en qué ciudad nació Leonard Euler?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de quién fue alumno Leonard Euler?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "De acuerdo con el libro de Álgebra, según el recuadro histórico, ¿por qué obra puede considerarse Leonard Euler el fundador de la ciencia moderna?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-25-ecuaciones-simultaneas-tres-incognitas.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué le ocurrió a Leonard Euler durante los últimos diecisiete años de su vida?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Nicolás Lobatchevski (1793-1856) y en qué universidad estudió?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué idea combate Lobatchevski?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué cuerpo de verdades —intacto por más de 22 siglos— combate Lobatchevski?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué se puede considerar precursor a Lobatchevski?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "23", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según la nota histórica, ¿a quién se tiene como verdadero precursor de la teoría de los números complejos?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "24", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según la nota histórica, ¿quién llamó \"número imaginario\" al número no real componente de un complejo?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "25", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según la nota histórica, ¿hasta que quién no sancionó su uso no adquirieron vigencia los números complejos en las matemáticas?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-32-numeros-complejos.md", "libro": "algebra-baldor", "numero": "26", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según la nota histórica, ¿quién fue quien más contribuyó a incorporar los números complejos, brindando una interpretación geométrica de ellos?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-33-ecuaciones-segundo-grado.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Niels Henrik Abel?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-33-ecuaciones-segundo-grado.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿con quién obtuvo Abel el Gran Premio de Matemáticas del Instituto de Francia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-33-ecuaciones-segundo-grado.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿por qué trabajo obtuvo Abel el Gran Premio de Matemáticas del Instituto de Francia?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-33-ecuaciones-segundo-grado.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué demostró Abel la imposibilidad de la resolución?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-33-ecuaciones-segundo-grado.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué teorema demostró Abel?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Karl Weierstrass?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué universidad fue profesor Weierstrass?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué puede considerarse a Weierstrass el verdadero padre?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué problema abordó Weierstrass en sus primeras investigaciones?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿al estudio de qué se dedicó Weierstrass durante el resto de su vida?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-36-ecuaciones-binomias-trinomias.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué discípula es inseparable el nombre de Weierstrass?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "1", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿de qué nacionalidad era Max Planck?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "2", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué premio recibió Max Planck y en qué año?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "3", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿alrededor de qué se desarrollaron los estudios de Planck?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "4", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿qué famosa teoría introdujo Planck al llevar a cabo la renovación de la Física?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "5", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿en qué está basada la teoría de los quanta?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "algebra-baldor/algebra-38-logaritmos.md", "libro": "algebra-baldor", "numero": "6", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Álgebra, según el recuadro histórico, ¿cuál es la base de la Física moderna?", "categoria": "MARCO", "libroNombre": "Álgebra (Baldor)"}, {"archivo": "zill-atg/zill-02-conceptos-fundamentales-algebra.md", "libro": "zill-atg", "numero": "2", "motivo": "PERSONA · ranking superlativo sin ningún aporte matemático descrito, mismo criterio que Thales de Mileto en Álgebra", "enunciado": "De conformidad con el libro de Geometría Analítica, ¿quién fue el más grande matemático francés del siglo XVI?", "categoria": "PERSONA", "libroNombre": "Álgebra, Trig. y Geom. Analítica (Zill)"}, {"archivo": "zill-atg/zill-04-coordenadas-rectangulares.md", "libro": "zill-atg", "numero": "9", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Geometría Analítica, según el recuadro histórico, ¿de qué se considera inventor a Descartes, y en qué obra se establecieron sus principios básicos?", "categoria": "MARCO", "libroNombre": "Álgebra, Trig. y Geom. Analítica (Zill)"}, {"archivo": "zill-atg/zill-04-coordenadas-rectangulares.md", "libro": "zill-atg", "numero": "10", "motivo": "MARCO · recuadro biográfico del libro: no es contenido del temario", "enunciado": "En relación con el libro de Geometría Analítica, según el recuadro histórico, ¿cómo se le llama a menudo a Descartes en filosofía y cuál es su famosa frase?", "categoria": "MARCO", "libroNombre": "Álgebra, Trig. y Geom. Analítica (Zill)"}, {"archivo": "zill-atg/zill-12-coordenadas-polares.md", "libro": "zill-atg", "numero": "2", "motivo": "PERSONA · quién acuñó el nombre de un sistema no explica ninguna técnica ni fórmula del sistema", "enunciado": "En relación con el libro de Geometría Analítica, según la reseña histórica, ¿quién acuñó el término \"coordenadas polares\"?", "categoria": "PERSONA", "libroNombre": "Álgebra, Trig. y Geom. Analítica (Zill)"}];
+
+const NOMBRES_CATEGORIA = {
+  PERSONA: 'Persona',
+  VISUAL: 'Visual',
+  MARCO: 'Marco',
+  TEMA: 'Tema',
+  LIBRO: 'Libro',
+  RELLENO: 'Relleno',
+};
+
+let filtroMateria = null;
+let filtroCategoria = null;
+let filtroTexto = '';
+
+function contarPor(campo, lista) {
+  const m = new Map();
+  for (const r of lista) m.set(r[campo], (m.get(r[campo]) || 0) + 1);
+  return m;
+}
+
+function construirChips(contenedorId, campo, filtroActivoGetter, onClick, nombreFn) {
+  const cont = document.getElementById(contenedorId);
+  const conteos = contarPor(campo, DATA);
+  const claves = [...conteos.keys()].sort((a, b) => conteos.get(b) - conteos.get(a));
+  cont.innerHTML = '';
+  const todos = document.createElement('button');
+  todos.className = 'chip';
+  todos.textContent = 'Todos';
+  todos.dataset.activo = filtroActivoGetter() === null ? '1' : '0';
+  todos.addEventListener('click', () => { onClick(null); render(); });
+  cont.appendChild(todos);
+  for (const clave of claves) {
+    const btn = document.createElement('button');
+    btn.className = 'chip';
+    btn.dataset.activo = filtroActivoGetter() === clave ? '1' : '0';
+    btn.innerHTML = `${nombreFn(clave)}<span class="n">${conteos.get(clave)}</span>`;
+    btn.addEventListener('click', () => { onClick(clave); render(); });
+    cont.appendChild(btn);
+  }
+}
+
+function coincideTexto(r, q) {
+  if (!q) return true;
+  const hay = (r.enunciado + ' ' + r.motivo + ' ' + r.archivo + ' ' + r.numero).toLowerCase();
+  return hay.includes(q.toLowerCase());
+}
+
+function render() {
+  construirChips('chips-materia', 'libroNombre', () => filtroMateria, (v) => { filtroMateria = v; }, (v) => v);
+  construirChips('chips-categoria', 'categoria', () => filtroCategoria, (v) => { filtroCategoria = v; }, (v) => NOMBRES_CATEGORIA[v] || v);
+
+  const filtradas = DATA.filter(r =>
+    (!filtroMateria || r.libroNombre === filtroMateria) &&
+    (!filtroCategoria || r.categoria === filtroCategoria) &&
+    coincideTexto(r, filtroTexto)
+  );
+
+  document.getElementById('contador-total').textContent = filtradas.length;
+
+  const estado = document.getElementById('estado-filtro');
+  const activos = [filtroMateria, filtroCategoria, filtroTexto ? `"${filtroTexto}"` : null].filter(Boolean);
+  estado.innerHTML = activos.length
+    ? `Mostrando ${filtradas.length} de ${DATA.length} &middot; filtrando por ${activos.join(', ')} &middot; <button id="limpiar">limpiar</button>`
+    : `Mostrando los ${DATA.length} retiros registrados`;
+  const limpiar = document.getElementById('limpiar');
+  if (limpiar) limpiar.addEventListener('click', () => {
+    filtroMateria = null; filtroCategoria = null; filtroTexto = '';
+    document.getElementById('buscador').value = '';
+    render();
+  });
+
+  const lista = document.getElementById('lista');
+  lista.innerHTML = '';
+
+  if (filtradas.length === 0) {
+    lista.innerHTML = '<p class="sin-resultados">Ningún retiro coincide con este filtro.</p>';
+    return;
+  }
+
+  const grupos = new Map();
+  for (const r of filtradas) {
+    const clave = r.libroNombre;
+    if (!grupos.has(clave)) grupos.set(clave, []);
+    grupos.get(clave).push(r);
+  }
+
+  for (const [nombreGrupo, filas] of [...grupos.entries()].sort((a, b) => b[1].length - a[1].length)) {
+    const grupo = document.createElement('section');
+    grupo.className = 'grupo';
+    const cab = document.createElement('div');
+    cab.className = 'grupo-cabecera';
+    cab.innerHTML = `<h2>${nombreGrupo}</h2><span class="n">${filas.length}</span>`;
+    grupo.appendChild(cab);
+
+    for (const r of filas) {
+      const fila = document.createElement('div');
+      fila.className = 'fila';
+      fila.innerHTML = `
+        <div class="num">#${r.numero}</div>
+        <div class="cont">
+          <div class="enunciado">${escapeHtml(r.enunciado)}</div>
+          <div class="fila-meta">
+            <span class="badge" data-cat="${r.categoria}">${NOMBRES_CATEGORIA[r.categoria] || r.categoria}</span>
+            <span class="motivo">${escapeHtml(r.motivo)}</span>
+          </div>
+          <div class="archivo">${escapeHtml(r.archivo)}</div>
+        </div>`;
+      grupo.appendChild(fila);
+    }
+    lista.appendChild(grupo);
+  }
+}
+
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+document.getElementById('buscador').addEventListener('input', (e) => {
+  filtroTexto = e.target.value;
+  render();
+});
+
+render();
+</script>

@@ -1,0 +1,481 @@
+<title>Retiros del Banco Cultural</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Manrope:ital,wght@0,400;0,500;0,600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --crema: #f2ede1;
+    --crema-alta: #faf7f0;
+    --carbon: #221f1a;
+    --carbon-suave: #63594a;
+    --carbon-tenue: #8c8271;
+    --laton: #a3763c;
+    --laton-fuerte: #855f2c;
+    --oliva: #5c6a3d;
+    --oliva-tenue: #eef0e5;
+    --rojo-mate: #93453a;
+    --rojo-tenue: #f4e6e2;
+    --borde: rgba(34, 31, 26, 0.13);
+    --borde-fuerte: rgba(34, 31, 26, 0.22);
+    --sombra: 0 1px 2px rgba(34, 31, 26, 0.06);
+    --focus: #855f2c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --crema: #1c1a16;
+      --crema-alta: #232019;
+      --carbon: #ede7d9;
+      --carbon-suave: #b6ab96;
+      --carbon-tenue: #837a68;
+      --laton: #d9a860;
+      --laton-fuerte: #e6bd80;
+      --oliva: #a8b884;
+      --oliva-tenue: #2a2e20;
+      --rojo-mate: #d68b7d;
+      --rojo-tenue: #322220;
+      --borde: rgba(237, 231, 217, 0.14);
+      --borde-fuerte: rgba(237, 231, 217, 0.24);
+      --sombra: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --focus: #e6bd80;
+    }
+  }
+  :root[data-theme="dark"] {
+    --crema: #1c1a16;
+    --crema-alta: #232019;
+    --carbon: #ede7d9;
+    --carbon-suave: #b6ab96;
+    --carbon-tenue: #837a68;
+    --laton: #d9a860;
+    --laton-fuerte: #e6bd80;
+    --oliva: #a8b884;
+    --oliva-tenue: #2a2e20;
+    --rojo-mate: #d68b7d;
+    --rojo-tenue: #322220;
+    --borde: rgba(237, 231, 217, 0.14);
+    --borde-fuerte: rgba(237, 231, 217, 0.24);
+    --sombra: 0 1px 2px rgba(0, 0, 0, 0.3);
+    --focus: #e6bd80;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--crema);
+    color: var(--carbon);
+    font-family: "Manrope", -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2 { text-wrap: balance; }
+
+  .marco {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 28px 20px 80px;
+  }
+
+  /* ---- Cabecera ---- */
+  header.top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    padding-bottom: 18px;
+    border-bottom: 2px solid var(--carbon);
+    margin-bottom: 22px;
+    flex-wrap: wrap;
+  }
+  .marca {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .marca .eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--laton-fuerte);
+  }
+  h1 {
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    margin: 2px 0 0;
+  }
+  .subtitulo {
+    color: var(--carbon-suave);
+    font-size: 14.5px;
+    max-width: 46ch;
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+  .contador-total {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .contador-total .num {
+    font-size: 34px;
+    font-weight: 800;
+    color: var(--rojo-mate);
+    line-height: 1;
+  }
+  .contador-total .etq {
+    font-size: 11.5px;
+    color: var(--carbon-tenue);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 2px;
+  }
+
+  /* ---- Controles ---- */
+  .controles {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 22px;
+    position: sticky;
+    top: 0;
+    background: var(--crema);
+    padding: 12px 0 14px;
+    z-index: 5;
+    border-bottom: 1px solid var(--borde);
+  }
+  .buscador {
+    position: relative;
+  }
+  .buscador input {
+    width: 100%;
+    font-family: inherit;
+    font-size: 14.5px;
+    padding: 10px 14px 10px 36px;
+    border-radius: 9px;
+    border: 1.5px solid var(--borde-fuerte);
+    background: var(--crema-alta);
+    color: var(--carbon);
+  }
+  .buscador input::placeholder { color: var(--carbon-tenue); }
+  .buscador input:focus {
+    outline: 2px solid var(--focus);
+    outline-offset: 1px;
+  }
+  .buscador svg {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    color: var(--carbon-tenue);
+    pointer-events: none;
+  }
+  .filas-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+  .chip {
+    font-family: inherit;
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 5px 11px;
+    border-radius: 999px;
+    border: 1.3px solid var(--borde-fuerte);
+    background: var(--crema-alta);
+    color: var(--carbon-suave);
+    cursor: pointer;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .chip:hover { border-color: var(--laton); color: var(--carbon); }
+  .chip:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+  .chip[data-activo="1"] {
+    background: var(--carbon);
+    border-color: var(--carbon);
+    color: var(--crema-alta);
+  }
+  .chip .n { opacity: 0.65; margin-left: 4px; }
+
+  .estado-filtro {
+    font-size: 12.5px;
+    color: var(--carbon-tenue);
+    min-height: 16px;
+  }
+  .estado-filtro button {
+    font: inherit;
+    color: var(--laton-fuerte);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ---- Grupos por materia ---- */
+  .grupo { margin-top: 30px; }
+  .grupo:first-of-type { margin-top: 4px; }
+  .grupo-cabecera {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    padding-bottom: 6px;
+    border-bottom: 1.5px solid var(--carbon);
+    margin-bottom: 4px;
+  }
+  .grupo-cabecera h2 {
+    font-size: 15.5px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+  .grupo-cabecera .n {
+    font-size: 12.5px;
+    color: var(--carbon-tenue);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---- Filas de reactivo ---- */
+  .fila {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 14px;
+    padding: 13px 0;
+    border-bottom: 1px solid var(--borde);
+  }
+  .fila:last-child { border-bottom: none; }
+  .fila .num {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 13px;
+    color: var(--carbon-tenue);
+    padding-top: 2px;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .fila .cont { min-width: 0; }
+  .fila .enunciado {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--carbon);
+  }
+  .fila .fila-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-top: 6px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    display: inline-block;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    padding: 2px 7px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+  }
+  .badge[data-cat="PERSONA"] { background: var(--oliva-tenue); color: var(--oliva); }
+  .badge[data-cat="VISUAL"] { background: var(--rojo-tenue); color: var(--rojo-mate); }
+  .badge[data-cat="MARCO"] { background: var(--rojo-tenue); color: var(--rojo-mate); }
+  .badge[data-cat="TEMA"] { background: #e6e1ee; color: #5b4d80; }
+  .badge[data-cat="LIBRO"] { background: #e6e1ee; color: #5b4d80; }
+  .badge[data-cat="RELLENO"] { background: var(--oliva-tenue); color: var(--oliva); }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .badge[data-cat="TEMA"],
+    :root:not([data-theme="light"]) .badge[data-cat="LIBRO"] { background: #2c2636; color: #c3b3e6; }
+  }
+  :root[data-theme="dark"] .badge[data-cat="TEMA"],
+  :root[data-theme="dark"] .badge[data-cat="LIBRO"] { background: #2c2636; color: #c3b3e6; }
+
+  .fila .motivo {
+    font-size: 13px;
+    color: var(--carbon-suave);
+    line-height: 1.45;
+  }
+  .fila .archivo {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    color: var(--carbon-tenue);
+    margin-top: 5px;
+  }
+
+  .sin-resultados {
+    padding: 60px 0;
+    text-align: center;
+    color: var(--carbon-tenue);
+    font-size: 14px;
+  }
+
+  footer.pie {
+    margin-top: 50px;
+    padding-top: 16px;
+    border-top: 1px solid var(--borde);
+    font-size: 12px;
+    color: var(--carbon-tenue);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 520px) {
+    .fila { grid-template-columns: 34px 1fr; gap: 10px; }
+    .contador-total .num { font-size: 28px; }
+  }
+</style>
+
+<div class="marco">
+  <header class="top">
+    <div class="marca">
+      <span class="eyebrow">Banco cultural &middot; auditoría</span>
+      <h1>Reactivos retirados</h1>
+      <p class="subtitulo">Cada uno se marcó con <code>**Retirado:**</code> en su archivo &mdash; sigue en el <code>.md</code>, con su motivo escrito, listo para reactivarse si no estás de acuerdo.</p>
+    </div>
+    <div class="contador-total">
+      <div class="num" id="contador-total">&nbsp;</div>
+      <div class="etq">retirados</div>
+    </div>
+  </header>
+
+  <div class="controles">
+    <div class="buscador">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="text" id="buscador" placeholder="Buscar por enunciado, motivo o archivo&hellip;" autocomplete="off">
+    </div>
+    <div class="filas-chips" id="chips-materia"></div>
+    <div class="filas-chips" id="chips-categoria"></div>
+    <div class="estado-filtro" id="estado-filtro"></div>
+  </div>
+
+  <main id="lista"></main>
+
+  <footer class="pie">
+    Generado desde <code>**Retirado:**</code> en los <code>.md</code> del banco &mdash; no borra nada, sólo lista lo ya marcado. Vuelve a correr <code>auditoria/extraer_retirados.py</code> tras la próxima tanda para actualizar esta lista.
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/;
+
+const NOMBRES_CATEGORIA = {
+  PERSONA: 'Persona',
+  VISUAL: 'Visual',
+  MARCO: 'Marco',
+  TEMA: 'Tema',
+  LIBRO: 'Libro',
+  RELLENO: 'Relleno',
+};
+
+let filtroMateria = null;
+let filtroCategoria = null;
+let filtroTexto = '';
+
+function contarPor(campo, lista) {
+  const m = new Map();
+  for (const r of lista) m.set(r[campo], (m.get(r[campo]) || 0) + 1);
+  return m;
+}
+
+function construirChips(contenedorId, campo, filtroActivoGetter, onClick, nombreFn) {
+  const cont = document.getElementById(contenedorId);
+  const conteos = contarPor(campo, DATA);
+  const claves = [...conteos.keys()].sort((a, b) => conteos.get(b) - conteos.get(a));
+  cont.innerHTML = '';
+  const todos = document.createElement('button');
+  todos.className = 'chip';
+  todos.textContent = 'Todos';
+  todos.dataset.activo = filtroActivoGetter() === null ? '1' : '0';
+  todos.addEventListener('click', () => { onClick(null); render(); });
+  cont.appendChild(todos);
+  for (const clave of claves) {
+    const btn = document.createElement('button');
+    btn.className = 'chip';
+    btn.dataset.activo = filtroActivoGetter() === clave ? '1' : '0';
+    btn.innerHTML = `${nombreFn(clave)}<span class="n">${conteos.get(clave)}</span>`;
+    btn.addEventListener('click', () => { onClick(clave); render(); });
+    cont.appendChild(btn);
+  }
+}
+
+function coincideTexto(r, q) {
+  if (!q) return true;
+  const hay = (r.enunciado + ' ' + r.motivo + ' ' + r.archivo + ' ' + r.numero).toLowerCase();
+  return hay.includes(q.toLowerCase());
+}
+
+function render() {
+  construirChips('chips-materia', 'libroNombre', () => filtroMateria, (v) => { filtroMateria = v; }, (v) => v);
+  construirChips('chips-categoria', 'categoria', () => filtroCategoria, (v) => { filtroCategoria = v; }, (v) => NOMBRES_CATEGORIA[v] || v);
+
+  const filtradas = DATA.filter(r =>
+    (!filtroMateria || r.libroNombre === filtroMateria) &&
+    (!filtroCategoria || r.categoria === filtroCategoria) &&
+    coincideTexto(r, filtroTexto)
+  );
+
+  document.getElementById('contador-total').textContent = filtradas.length;
+
+  const estado = document.getElementById('estado-filtro');
+  const activos = [filtroMateria, filtroCategoria, filtroTexto ? `"${filtroTexto}"` : null].filter(Boolean);
+  estado.innerHTML = activos.length
+    ? `Mostrando ${filtradas.length} de ${DATA.length} &middot; filtrando por ${activos.join(', ')} &middot; <button id="limpiar">limpiar</button>`
+    : `Mostrando los ${DATA.length} retiros registrados`;
+  const limpiar = document.getElementById('limpiar');
+  if (limpiar) limpiar.addEventListener('click', () => {
+    filtroMateria = null; filtroCategoria = null; filtroTexto = '';
+    document.getElementById('buscador').value = '';
+    render();
+  });
+
+  const lista = document.getElementById('lista');
+  lista.innerHTML = '';
+
+  if (filtradas.length === 0) {
+    lista.innerHTML = '<p class="sin-resultados">Ningún retiro coincide con este filtro.</p>';
+    return;
+  }
+
+  const grupos = new Map();
+  for (const r of filtradas) {
+    const clave = r.libroNombre;
+    if (!grupos.has(clave)) grupos.set(clave, []);
+    grupos.get(clave).push(r);
+  }
+
+  for (const [nombreGrupo, filas] of [...grupos.entries()].sort((a, b) => b[1].length - a[1].length)) {
+    const grupo = document.createElement('section');
+    grupo.className = 'grupo';
+    const cab = document.createElement('div');
+    cab.className = 'grupo-cabecera';
+    cab.innerHTML = `<h2>${nombreGrupo}</h2><span class="n">${filas.length}</span>`;
+    grupo.appendChild(cab);
+
+    for (const r of filas) {
+      const fila = document.createElement('div');
+      fila.className = 'fila';
+      fila.innerHTML = `
+        <div class="num">#${r.numero}</div>
+        <div class="cont">
+          <div class="enunciado">${escapeHtml(r.enunciado)}</div>
+          <div class="fila-meta">
+            <span class="badge" data-cat="${r.categoria}">${NOMBRES_CATEGORIA[r.categoria] || r.categoria}</span>
+            <span class="motivo">${escapeHtml(r.motivo)}</span>
+          </div>
+          <div class="archivo">${escapeHtml(r.archivo)}</div>
+        </div>`;
+      grupo.appendChild(fila);
+    }
+    lista.appendChild(grupo);
+  }
+}
+
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+document.getElementById('buscador').addEventListener('input', (e) => {
+  filtroTexto = e.target.value;
+  render();
+});
+
+render();
+</script>

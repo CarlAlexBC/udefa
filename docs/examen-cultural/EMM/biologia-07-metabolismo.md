@@ -125,6 +125,20 @@ en concreto de la sección de termodinámica. **Conviene cubrirla a fondo.**
 2026). Lo que falta de Biología lo declara el archivo del capítulo en curso —
 hoy `biologia-08-glucolisis-respiracion.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (240/240 reactivos)**. Revisados los 51 sub-lotes de
+punta a punta (energía y metabolismo, transformaciones energéticas, termodinámica y el
+experimento de Joule, primera y segunda ley, entropía, los sistemas vivos frente a la
+segunda ley —Schrödinger, Prigogine—, orden a partir de orden, heterogeneidades de la
+célula, entalpía, energía libre de Gibbs, espontaneidad, reacciones exergónicas/
+endergónicas, el metabolismo como red de redes, oxidorreducción, universalidad del
+metabolismo, el ATP, enzimas —sitio activo, ajuste inducido, isoenzimas, cofactores y
+coenzimas, regulación por temperatura y pH, inhibición competitiva/no competitiva/
+irreversible, cinética de Michaelis-Menten, efectos alostéricos, modificación covalente,
+precursores inactivos— y el apartado sobre los físicos y la biología). **0 retiros
+nuevos.** Los 2 retiros que tiene el archivo (#50 Prigogine/PERSONA, #238 cita de Morange/
+TEMA) ya venían de una ronda de detector anterior.
+
 **No se cubre**, por los criterios ya fijados:
 
 - **"Retomando la problemática inicial"** (pp. 143–144), el apartado de cierre.
@@ -1002,6 +1016,7 @@ De conformidad con el libro de Biología, ¿quién fue la figura más trascenden
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 131
 **Subtema:** Metabolismo · estado estacionario
+**Retirado:** PERSONA · sólo dice quién "retomó ideas", sin decir qué aportó Prigogine — atribución sin concepto
 
 La figura más trascendente que retomó las ideas de Schrödinger fue el físico ruso-belga Ilya Prigogine (1917-2003).
 

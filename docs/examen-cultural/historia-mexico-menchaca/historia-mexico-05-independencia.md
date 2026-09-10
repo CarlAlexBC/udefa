@@ -180,6 +180,18 @@ mapas, actividades y evaluación sumativa) quedan fuera. Los otros dos bloques q
 (`HISMÉX-03-2026`) también están cerrados: el **2** en `historia-mexico-02-poblamiento.md` y el **3**
 en `historia-mexico-03-conquista.md`, así que **Historia de México (Menchaca) queda cerrada del todo**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (292/292 reactivos)**. Revisados los 23 sub-lotes de punta
+a punta (causas internas y externas, conspiraciones, y las cuatro etapas de la guerra: inicio,
+organización, resistencia y consumación) — **0 retiros nuevos**. A diferencia de `conquista.md` y
+`poblamiento.md`, este archivo no tiene relleno: es una narrativa cronológica muy compacta donde
+cada reactivo prueba un dato distinto (fecha, lugar, cifra, decisión), incluidos los cuadros de
+datos (población novohispana) y los pares de reactivos con distractores contrapuestos (Acatempan/
+Teloloapan, Ascencio/Guerrero, entrada del Trigarante 27-sep/Acta 28-sep), que están construidos
+a propósito para confundir cifras y fechas vecinas, no por repetir una lista sin agregar nada
+nuevo. El único retiro que tiene el archivo (#165, qué diputado representó qué ciudad) ya venía
+marcado de una ronda de detector anterior (PERSONA).
+
 ## Avisos al aspirante (erratas del libro)
 
 Rarezas de escritura detectadas al recortar el escaneo a 600 dpi (no son suciedad del
@@ -2789,6 +2801,7 @@ De acuerdo con el libro de Historia de México 1, ¿quién fue el diputado que r
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 175
 **Subtema:** 5.2 Congreso de Chilpancingo
+**Retirado:** PERSONA · qué diputado representó a qué ciudad es un dato arbitrario de una lista de ocho, no una comprensión del Congreso
 
 Los diputados fueron: Ignacio López Rayón, que representó a Guadalajara; José María Liceaga a Guanajuato; Carlos María Bustamante a México; José Sixto Berduzco a Valladolid; José María Murguía a Oaxaca; Andrés Quintana Roo a Puebla; José Manuel de Herrera a Tecpan y José María Cos a Veracruz.
 

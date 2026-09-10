@@ -70,6 +70,11 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno en este archivo. **La Unidad III queda CERRADA** en lo que pide el temario `GEO-01-2026`: el **3.1** (pp. 78–83) y el **3.2** completo —**3.2.1 Las zonas térmicas** (pp. 84–85), **3.2.2 Las estaciones del año** (pp. 86–87) y **3.2.3 Los husos horarios** (pp. 88–90)—, en **186 reactivos**. Las Unidades **IV**, **V** y **VI** también quedaron cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (186/186 reactivos)**. Revisados los 8 sub-lotes de
+punta a punta. **0 retiros nuevos.** El único retiro que tiene el archivo (#156, VISUAL —
+pide ver la Figura 3.13) ya venía de la ronda de detector anterior.
+
 ---
 
 ## Sub-lote 1 · Puntos y líneas de la Tierra (3.1.1, p.78)
@@ -2488,6 +2493,7 @@ En relación con el libro de Geografía, ¿qué representa la Figura 3.13?
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 88
 **Subtema:** husos horarios · Figura 3.13
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 "Figura 3.13 Sistema de husos horarios sin modificación (horas legales)."
 

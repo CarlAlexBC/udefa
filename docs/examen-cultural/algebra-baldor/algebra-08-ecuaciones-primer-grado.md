@@ -70,6 +70,14 @@ resultado.
 Álgebra —los capítulos X, XVIII, XX, XXIV y (la EMOS) XXV, que piden EMM/EMO/EMOS—
 lo declara el archivo del capítulo en curso, hoy `algebra-10-descomposicion-factorial.md`.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (34/34 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (Ptolomeo, igualdad y ecuación, identidad, miembros y términos, clases de
+ecuaciones, grado, raíces y resolución, axioma fundamental, transposición, supresión y
+cambio de signos, regla general, verificación). **0 retiros nuevos.** Los 6 retiros que
+tiene el archivo (#1–#6, todo el recuadro de Ptolomeo, MARCO) ya venían de una ronda de
+detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.

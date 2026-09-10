@@ -38,6 +38,15 @@ El **5.7 en adelante** («Modelos de análisis en los que se utiliza la segunda 
 
 **Pendiente:** ninguno. El **Capítulo 5 queda CERRADO** (temario 5.1–5.6 completo, 55 reactivos), y con los Cap. 1, 2, 3 y 10 también cerrados, **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (55/55 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (concepto de fuerza; naturaleza vectorial de la fuerza y primera ley de
+Newton; masa y arranque de la segunda ley; segunda ley de Newton y el newton; fuerza
+gravitacional y peso; cierre de 5.5 y tercera ley de Newton; fuerza normal y diagrama de
+cuerpo libre). Los pares masa inercial/masa gravitacional y masa/peso se confirman como
+conceptos legítimamente distintos, no relleno. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Concepto de fuerza (p.101)

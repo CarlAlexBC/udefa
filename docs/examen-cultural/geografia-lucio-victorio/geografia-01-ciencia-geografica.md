@@ -55,6 +55,13 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno en este archivo. **La Unidad I queda cerrada** en lo que pide el temario `GEO-01-2026` (temas 1.3 y 1.4, con el 1.4.3 incluido por decisión de Carlo). Las Unidades **II**, **III**, **IV**, **V** y **VI** también están cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (63/63 reactivos)**. Revisados los 8 sub-lotes de punta
+a punta. **0 retiros nuevos.** Aun los tramos que parecen lista (los ejemplos de obra humana
+—Seikan, Wenchuan, Ferrocarril de Perú, Ghardaia, ríos africanos, capa de ozono— en el
+sub-lote 6) prueban cada uno un dato único (una cifra, un lugar) y no repiten el mismo dato
+bajo otro disfraz.
+
 ---
 
 ## Sub-lote 1 · División de la Geografía y las ramas de la Geografía Física (pp. 19–20)

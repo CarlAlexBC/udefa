@@ -75,7 +75,17 @@ Los `EJEMPLO` y el `Resumen` quedan fuera por norma, así que ninguno de estos d
 
 - Cubiertas las páginas impresas **263, 264 y 266**, con las que **cierra la 2.16 · Ley de cosenos y con ella el capítulo 2**: por qué los casos LLL y LAL necesitan esta ley, el recuadro *Ley de cosenos* en sus **dos formas** (estándar y alternativa), la estrategia de buscar primero el ángulo opuesto al lado más largo, lo que el signo del coseno dice sobre el ángulo, y la *Fórmula del área de Herón* con su semiperímetro y la `NOTA HISTÓRICA` de Herón de Alejandría. La **p. 265 no lleva reactivos** (`EJEMPLO 3` del softbol y `EJEMPLO 4` del barco). Las **pp. 267–270 son el bloque `2.16 Ejercicios`**.
 
-**Pendiente:** ninguno; el **capítulo 2 está CERRADO** en **82 reactivos**, con los cinco subtemas que pide el temario `MATE-03-2026`: **2.6**, **2.9**, **2.10**, **2.15** y **2.16**. **Matemáticas (Larson) está CERRADA por completo:** el **capítulo 3 · Fundamentos de geometría analítica**, que el temario pide **completo** (§3.1–§3.6, pp. 271–328), también está cerrado, en **113 reactivos**, en su propio archivo.
+**Pendiente:** ninguno; el **capítulo 2 está CERRADO** en **82 reactivos** (81 activos, 1 retirado). Los cinco subtemas que pide el temario `MATE-03-2026`: **2.6**, **2.9**, **2.10**, **2.15** y **2.16**. **Matemáticas (Larson) está CERRADA por completo:** el **capítulo 3 · Fundamentos de geometría analítica**, que el temario pide **completo** (§3.1–§3.6, pp. 271–328), también está cerrado, en **113 reactivos**, en su propio archivo.
+
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (82/82 reactivos)**. Revisados los 8
+sub-lotes de punta a punta (curvas básicas de seno y coseno; amplitud, periodo y
+traslaciones; traslaciones verticales; rumbos y movimiento armónico; identidades
+trigonométricas fundamentales; estrategias de evaluación, factorización y
+simplificación; Ley de senos con sus cuatro casos y el caso ambiguo; Ley de cosenos y
+fórmula de Herón). **1 retiro nuevo** (#79, PERSONA · Herón, mismo patrón ya aplicado
+al #218 de Napier en `matematicas-01-fundamentos-algebra.md`); 0 retiros
+preexistentes en este archivo.
 
 ---
 
@@ -1427,6 +1437,7 @@ De acuerdo con el libro de Matemáticas, ¿en honor a quién recibe su nombre la
 **Respuesta:** A
 **Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 266
 **Subtema:** ley de cosenos · fórmula de Herón
+**Retirado:** PERSONA · nombre, nacionalidad y fechas de Herón, sin ninguna propiedad de la fórmula — mismo patrón que el reactivo 218 (Napier) ya retirado en `matematicas-01-fundamentos-algebra.md`
 
 Esta fórmula recibe el nombre de fórmula del área de Herón en honor al matemático griego Herón (10-75 a.C.).
 

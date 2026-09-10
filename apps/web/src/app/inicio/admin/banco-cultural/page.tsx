@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react'
 import { apiFetch } from '@/lib/api'
 import { cn } from '@/lib/utils'
+import { renderizarEnfasis } from '@/lib/enfasis'
 import {
   AlertCircle,
   BookOpen,
@@ -199,7 +200,7 @@ export default function BancoCulturalPage() {
                   key={h.id}
                   className="rounded-md border border-border/60 px-3 py-2"
                 >
-                  <p className="text-sm text-foreground">{h.enunciado}</p>
+                  <p className="text-sm text-foreground">{renderizarEnfasis(h.enunciado)}</p>
                   <p className="mt-1 text-[11px] text-muted-foreground">
                     {[h.libro, h.capitulo, h.tema].filter(Boolean).join(' · ')}
                   </p>
@@ -458,7 +459,7 @@ function ModalReactivosTema({
                   <div className="flex items-start justify-between gap-2">
                     <p className="font-medium text-foreground">
                       <span className="text-muted-foreground">{i + 1}. </span>
-                      {r.enunciado}
+                      {renderizarEnfasis(r.enunciado)}
                     </p>
                     <button
                       type="button"
@@ -489,7 +490,7 @@ function ModalReactivosTema({
                             ) : (
                               <span className="mt-0.5 h-3.5 w-3.5 shrink-0" />
                             )}
-                            <span>{texto}</span>
+                            <span>{renderizarEnfasis(texto)}</span>
                           </li>
                         )
                       })}
@@ -497,7 +498,7 @@ function ModalReactivosTema({
                   )}
                   {r.explicacion && (
                     <p className="mt-2 border-l-2 border-border pl-3 text-xs italic text-muted-foreground">
-                      {r.explicacion}
+                      {renderizarEnfasis(r.explicacion)}
                     </p>
                   )}
                   {r.referencia && (

@@ -149,6 +149,16 @@ al nivel de reactivos.
 (pp. 112–158); los Ejemplos y los bloques de ejercicios quedan fuera por la norma de teoría sobre
 práctica. Con él, y con los capítulos 2 y 4, **la materia *Álgebra* de la EMMA queda cerrada**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (89/89 reactivos)**. Revisados los 11
+sub-lotes de punta a punta (terminología de ecuaciones y ecuaciones equivalentes;
+soluciones extrañas; traducción de palabras a ecuación con las fórmulas de velocidad
+y trabajo; ecuaciones cuadráticas —factorización, raíz cuadrada, completar el
+cuadrado—; fórmula cuadrática y discriminante; números complejos —unidad imaginaria,
+forma estándar, operaciones, conjugado, división—; desigualdades lineales y notación
+de intervalos; ecuaciones y desigualdades con valor absoluto; desigualdades
+polinomiales y racionales). **0 retiros nuevos, 0 retiros preexistentes.**
+
 ## Avisos al aspirante (erratas del libro)
 
 _Ninguno detectado por ahora en este capítulo._

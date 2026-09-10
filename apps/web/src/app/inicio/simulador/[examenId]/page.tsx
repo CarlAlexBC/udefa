@@ -6,6 +6,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { apiFetch, ApiError } from '@/lib/api'
 import { AVISO_SIMULADOR } from '@/lib/legal'
+import { renderizarEnfasis } from '@/lib/enfasis'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { logoDePlantel } from '@/lib/planteles'
@@ -583,7 +584,7 @@ export default function SimuladorPage({
             {reactivoActual.enunciado && (
               <div className="mb-4 flex min-h-[64px] items-center sm:mb-6 sm:min-h-[96px]">
                 <h2 className="text-xl font-semibold leading-snug text-foreground sm:text-2xl">
-                  {reactivoActual.enunciado}
+                  {renderizarEnfasis(reactivoActual.enunciado)}
                 </h2>
               </div>
             )}
@@ -1792,7 +1793,7 @@ function OpcionesReactivo({
                 botones de navegación. Por eso el énfasis es de color y de fondo
                 (borde, relleno y círculo de la letra), que no ocupan espacio. */}
             <span className={cn('text-base', seleccionada && 'text-foreground')}>
-              {opcion}
+              {renderizarEnfasis(opcion)}
             </span>
           </button>
         )

@@ -74,6 +74,17 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno. La Unidad VI (La Atmósfera) quedó **CERRADA por completo** el 18 ago 2026, con 270 reactivos (1–270). Con este archivo se **cierra la materia Geografía completa para la EMEFA** (las Unidades I–V ya estaban cerradas).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (270/270 reactivos)**. Revisados los 29 sub-lotes de
+punta a punta. **0 retiros nuevos.** Los 2 retiros del archivo (#269 y #270, MARCO — se
+apoyan en la cita/epígrafe reflexivo final del libro, no en contenido geográfico del temario)
+ya venían de la ronda de detector anterior.
+
+**Con este archivo se cierra la lectura exhaustiva de las seis Unidades del libro Lucio
+Victorio (Geografía, EMEFA): 63+111+186+135+223+270 = 988 reactivos, 0 retiros nuevos en
+toda la lectura. Solo se confirmaron los retiros que ya existían de rondas de detector
+anteriores.**
+
 ---
 
 ## Sub-lote 1 · Definición, origen y composición de la atmósfera (6.1.1, p. 192)
@@ -4184,6 +4195,7 @@ De conformidad con la cita del libro de Geografía sobre la contaminación ambie
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
 **Subtema:** la contaminación atmosférica
+**Retirado:** MARCO · se apoya en una cita/epígrafe reflexivo del libro, no en contenido geográfico del temario
 
 "«Estamos desviándonos del curso de la historia del hombre sobre la Tierra. Hemos vivido mucho tiempo con la idea de que la naturaleza era un bien inagotable, gratuito y eterno. Hoy descubrimos por el contrario que la naturaleza no es un bien inagotable, sino un bien raro; no gratuito y sí cada vez más caro de proteger; y no eterno, sino temporal.»"
 
@@ -4199,5 +4211,6 @@ Según la cita del libro de Geografía, ¿qué se nos ha enseñado fundamentalme
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 218
 **Subtema:** la contaminación atmosférica
+**Retirado:** MARCO · se apoya en la misma cita/epígrafe reflexivo del libro que el 269, no en contenido geográfico del temario
 
 "«Debemos, pues, adoptar una posición contraria a todo lo que se nos ha enseñado fundamentalmente desde hace dos siglos: el culto al progreso científico y técnico, la creencia en las ventajas de la urbanización y el fervor por el progreso industrial.»"

@@ -34,6 +34,13 @@ El cuerpo del capítulo termina en la **p.60**; las pp.61 en adelante son Ejempl
 
 **Pendiente:** ninguno. El **Capítulo 3 queda CERRADO** (los cuatro temas del temario —3.1, 3.2, 3.3 y 3.4— completos, 42 reactivos), y con los Cap. 1, 2, 5 y 10 también cerrados, **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (42/42 reactivos)**. Revisados los 8 sub-lotes de
+punta a punta (sistemas coordenados; cantidades vectoriales y escalares; magnitud, vectores
+iguales y suma gráfica; leyes de la suma, resta y producto por escalar; producto por
+escalar negativo; componentes de un vector; magnitud, dirección y vectores unitarios; suma
+de vectores por componentes). **0 retiros nuevos, 0 retiros preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Sistemas coordenados (p.53)

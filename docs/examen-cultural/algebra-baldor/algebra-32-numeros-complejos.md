@@ -52,6 +52,15 @@ Cálculo (Thomas 13ª) y Geometría Analítica (Zill 3ª), cuyos escaneos ya est
 **Pendiente:** ninguno de este capítulo. Con el capítulo XXXII, **Álgebra Baldor queda
 cerrada para la EMI**.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (43/43 reactivos)**. Revisados los 7 sub-lotes de
+punta a punta (Lobatchevski, cantidades imaginarias y reales, potencias de la unidad
+imaginaria, imaginarias puras, cantidades complejas y conjugadas con su nota histórica,
+operaciones con complejos, representación gráfica y plano gaussiano). **0 retiros
+nuevos.** Los 8 retiros que tiene el archivo (#1–#4, recuadro de Lobatchevski; #23–#26,
+nota histórica de Bombelli/Descartes/Euler/Wessel; todos MARCO) ya venían de una ronda de
+detector anterior.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se

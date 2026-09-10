@@ -89,6 +89,18 @@ todas escritas y con clave `**Tema:**`. Para la **EMM** (`FG-03-2026`) esta unid
 sirve **completa** (los 16 temas); las claves permiten que la EMA reciba sólo su
 subconjunto (temas 1, 3, 4, 5, 6, 7, 8 y 9).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (48/48 reactivos)**. Revisados los 6 sub-lotes de
+punta a punta (características y escala de un vector; coplanares/no coplanares/deslizantes/
+libres y sistemas colineales; concurrentes o angulares, resultante y equilibrante;
+propiedades de los vectores; composición y descomposición rectangular, vectores unitarios;
+suma de vectores concurrentes por paralelogramo, polígono y triángulo; productos por
+escalar, escalar y vectorial). Los pares deliberadamente contrastados que el propio
+archivo ya señala en sus notas `>` (dirección/sentido, deslizantes/libres, resultante/
+equilibrante, transmisibilidad/vectores libres, composición/descomposición, producto
+escalar/vectorial) se confirman como reactivos legítimamente distintos, no relleno. **0
+retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
@@ -450,7 +462,7 @@ De acuerdo con el libro de Física, en conclusión, ¿qué características tien
 
 ### 22
 
-De acuerdo con la ley conmutativa de la adición de vectores, ¿qué sucede cuando se suman dos vectores?
+De acuerdo con el libro de Física, según la ley conmutativa de la adición de vectores, ¿qué sucede cuando se suman dos vectores?
 
 - A. La resultante de la adición es la misma, sin importar el orden en que se sumen los vectores.
 - B. La resultante cambia según el orden en que se sumen los vectores.
@@ -466,7 +478,7 @@ De acuerdo con la ley conmutativa de la adición de vectores, ¿qué sucede cuan
 
 ### 23
 
-De acuerdo con la propiedad de transmisibilidad del punto de aplicación, ¿qué ocurre con el efecto externo de un vector deslizante?
+De acuerdo con el libro de Física, según la propiedad de transmisibilidad del punto de aplicación, ¿qué ocurre con el efecto externo de un vector deslizante?
 
 - A. No se modifica si es trasladado en su misma dirección, es decir, sobre su propia línea de acción.
 - B. Se modifica cada vez que se traslada sobre su línea de acción.
@@ -482,7 +494,7 @@ De acuerdo con la propiedad de transmisibilidad del punto de aplicación, ¿qué
 
 ### 24
 
-De acuerdo con la propiedad de los vectores libres, ¿qué ocurre con los vectores al trasladarlos?
+De acuerdo con el libro de Física, según la propiedad de los vectores libres, ¿qué ocurre con los vectores al trasladarlos?
 
 - A. No se modifican si se trasladan paralelamente a sí mismos.
 - B. No se modifican si se trasladan sobre su propia línea de acción.

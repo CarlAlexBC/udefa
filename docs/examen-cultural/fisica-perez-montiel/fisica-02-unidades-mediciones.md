@@ -57,6 +57,12 @@ temario) queda cerrada. **La materia Física está CERRADA para la EMO**
 todas las unidades que pide —U1, U2, U4, U5, U6, U8 y U11— están escritas y con
 clave `**Tema:**` para que el importador llame exactamente su selección.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (15/15 reactivos)**. Revisados los 4 sub-lotes de
+punta a punta (magnitud, medir y unidad de medida; magnitudes fundamentales y derivadas;
+sistemas de unidades absolutos; medición con métodos directos e indirectos). **0 retiros
+nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del

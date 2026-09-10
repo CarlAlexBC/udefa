@@ -55,6 +55,17 @@ masa molecular del Na₂SO₄ (p. 247), por ser un problema de cálculo.
 **Pendiente:** ninguno. La Unidad 6 queda cerrada para la EMO (temas 1, 2), la
 EMM y la EMMA (temas 1, 2, 3).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (49/49 reactivos)**. Revisados los 3 sub-lotes de
+punta a punta (estructura de la materia — de Tales de Mileto a la teoría atómica de Dalton,
+Avogadro y Mendeleiev; estados de agregación, incluidos movimiento browniano y difusión;
+propiedades generales o extensivas). El sub-lote histórico (Tales, Empédocles, Leucipo/
+Demócrito, Dalton, Lavoisier, Proust, Avogadro, Mendeleiev) prueba una contribución
+distinta por autor, no relleno. Los pares deliberadamente contrastados que el propio
+archivo ya señala en sus notas `>` (Ley de Proust vs. Ley de las Proporciones Múltiples de
+Dalton; átomo vs. molécula) se confirman como reactivos legítimamente distintos. **0
+retiros nuevos, 0 retiros preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal: la opción correcta y la justificación son **cita textual** del
@@ -616,6 +627,7 @@ De acuerdo con el libro de Física, el movimiento browniano fue descubierto en 1
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
+**Retirado:** PERSONA · quién y cuándo lo descubrió, sin el concepto — el 35 ya cubre qué es el movimiento browniano
 
 <[...] uno es el denominado movimiento browniano, descubierto en 1827 por el científico escocés Robert Brown (1773-1858).>
 

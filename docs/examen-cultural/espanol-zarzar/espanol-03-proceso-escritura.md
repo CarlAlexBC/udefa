@@ -48,6 +48,18 @@ cualquiera de los dos escaneos.
 
 **Pendiente:** ninguno. El Bloque 3 queda cerrado para el HCM, la EMMG y la EMT.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (90/90 reactivos)**. Revisados los 11 sub-lotes de
+punta a punta (principios básicos de la sintaxis y clases de palabras; clasificación y
+tilde en agudas/graves/esdrújulas; monosílabos con acento diacrítico; otras palabras con
+acento diacrítico; acento enfático y preguntas; por qué/porqué/por que/porque; diptongos e
+hiatos; reglas de puntuación — la coma; el punto y coma, punto y seguido, punto y aparte;
+propiedades de la redacción; conectores discursivos). Los pares de monosílabos con acento
+diacrítico (él/el, tú/tu, mí/mi, sí/si, etc.) y los tres ejemplos de conectores textuales
+(#88-90) se confirman como casos y ejemplos legítimamente distintos, no relleno. Es el
+archivo más grande de todo Español (90 reactivos). **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". El reactivo reproduce el libro

@@ -42,6 +42,15 @@ reactivos de cita literal.
 
 **Pendiente:** ninguno. El capítulo 5 está cerrado.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (42/42 reactivos)**. Revisados los 11 sub-lotes de
+punta a punta. **0 retiros nuevos.** Los reactivos 15 y 21 repiten la misma pregunta sobre
+el archipiélago de Revillagigedo (mismo listado de islas), pero es una duplicación
+**deliberada y ya documentada en el archivo**: replica el ejemplo 3 del Anexo "H" de la
+convocatoria desde sus dos citas posibles en el libro (Cuadro 5.1 en p.98 y texto corrido
+en p.102), para cubrir la ambigüedad de página que trae la propia convocatoria — no es un
+descuido de relleno. No hay reactivos ya retirados en este archivo.
+
 ---
 
 ## Sub-lote 1 · Origen de las islas

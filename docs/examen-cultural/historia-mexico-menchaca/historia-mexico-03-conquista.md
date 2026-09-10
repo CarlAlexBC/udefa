@@ -80,6 +80,15 @@ Conquista" y "La controversia del indio" (pp. 102–104) NO entran** (decisión 
 Bloque 3 cerrado, y estando ya cerrados los Bloques 2 y 5, **Historia de México (Menchaca) queda
 COMPLETA para la EMMG** en los tres bloques que pide su temario (`HISMÉX-03-2026`): 2, 3 y 5.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (los 138 reactivos leídos)**. Total 41 retiros: 16 en
+"causas" (sub-lote 1-3, demografía y genealogía europea sin relación causal), 1 en "conquista
+espiritual — plataforma" (fundador del anglicanismo), 21 en "órdenes religiosas" (sub-lote 7:
+fundadores europeos, fechas aisladas de llegada, conteos de conventos/frailes/centros de misión),
+más los 3 ya retirados en la ronda 2. Los reactivos 37-72 (caída de Tenochtitlan y expansión/
+encomienda) no tuvieron ningún retiro — es la narrativa central de la conquista, no relleno.
+Sigue en `historia-mexico-02-poblamiento.md` (346 reactivos, sin empezar esta lectura).
+
 ## Avisos al aspirante (erratas del libro)
 
 _Ninguno detectado por ahora en este bloque._
@@ -205,6 +214,7 @@ De conformidad con el libro de Historia de México 1, ¿en cuántos grados ecuat
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** PERSONA · el dato numérico exacto (104 grados) duplica al 7, que ya pregunta por el mismo cálculo de Toscanelli con contexto causal
 
 El geógrafo veneciano Toscanelli había calculado en 104 grados ecuatoriales la distancia de Lisboa a Cipango (una isla de Japón).
 
@@ -220,6 +230,7 @@ En relación con el libro de Historia de México 1, ¿en qué año cayó España
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato aislado (fecha de la invasión musulmana) sin relación causal con la llegada europea a América — relleno de contexto español, no de la conquista de México
 
 España cayó bajo el dominio musulmán, de los omeyas, en el año 750.
 
@@ -235,6 +246,7 @@ De acuerdo con el libro de Historia de México 1, ¿hasta qué ciudades llegó A
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato aislado (una campaña militar árabe del año 1000) sin relación causal con la llegada europea a América
 
 En el año 1000 Almanzor llegó hasta Compostela y Barcelona.
 
@@ -250,6 +262,7 @@ De conformidad con el libro de Historia de México 1, en el proceso de "Reconqui
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** fecha aislada de la Reconquista sin relación causal con la llegada europea a América
 
 De los siglos XI al XIII, en el proceso de "Reconquista", se recuperaron Córdoba y Sevilla entre 1236 y 1248, aunque también se dio un tercer avance musulmán.
 
@@ -280,6 +293,7 @@ De acuerdo con el libro de Historia de México 1, ¿desde qué año era reino Po
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 85
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** fecha aislada (fundación del reino de Portugal) sin relación causal con la llegada europea a América — el 12 ya cubre los cuatro reinos
 
 En el siglo XV existían en la Península Ibérica cuatro reinos: Portugal (reino desde 1139), Castilla, Aragón y Navarra.
 
@@ -329,6 +343,7 @@ De acuerdo con el libro de Historia de México 1, los Reyes Católicos tuvieron 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (con quién se casó una hija de los Reyes Católicos) sin relación causal con la conquista de México
 
 Los Reyes Católicos tuvieron dos hijas: Juana, la mayor, y Catalina, la menor. Catalina se casó con el rey de Inglaterra Enrique VIII.
 
@@ -344,6 +359,7 @@ De conformidad con el libro de Historia de México 1, Juana la Loca, heredera de
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (matrimonio de Juana la Loca) sin relación causal con la conquista de México
 
 Juana (apodada la Loca), heredera de la Corona española, se casó con Felipe de Habsburgo, hijo del emperador Maximiliano de Austria.
 
@@ -359,6 +375,7 @@ En relación con el libro de Historia de México 1, a la muerte de Fernando el C
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (sucesión dinástica de Carlos I) sin relación causal con la conquista de México
 
 A la muerte de Fernando el Católico en 1516, Carlos, hijo de Juana la Loca y de Felipe, heredó las coronas de Castilla, Navarra, Aragón, Sicilia y Nápoles, convirtiéndose en el rey Carlos I.
 
@@ -374,6 +391,7 @@ De acuerdo con el libro de Historia de México 1, al morir su abuelo Maximiliano
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (herencia de la Corona Imperial Alemana) sin relación causal con la conquista de México
 
 Al morir su abuelo Maximiliano (1519), heredó los dominios austriacos, los Países Bajos y la Corona Imperial Alemana, convirtiéndose en el emperador Carlos V.
 
@@ -389,6 +407,7 @@ De conformidad con el libro de Historia de México 1, ¿cómo describe el libro 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** dato de relleno (la frase "nunca se ponía el sol"), sin relación causal con la conquista de México — mismo criterio que el resto de la cadena genealógica
 
 Con estas posesiones y las descubiertas y conquistadas en América, Carlos V se convertiría en el emperador de un gran Imperio, en el cual "nunca se ponía el sol".
 
@@ -404,6 +423,7 @@ En relación con el libro de Historia de México 1, ¿quién sucedió a Carlos V
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** trivia genealógica (sucesión de Felipe II) sin relación causal con la conquista de México
 
 Al morir Carlos V le sucedió su hijo Felipe II, que gobernó de 1556 a 1598.
 
@@ -449,6 +469,7 @@ En relación con el libro de Historia de México 1, en la época de los descubri
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 La población se calcula en 8 millones de habitantes, de los cuales 80% eran campesinos.
 
@@ -464,6 +485,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos judíos había en E
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 500 000 judíos (que fueron expulsados en 1492).
 
@@ -479,6 +501,7 @@ De conformidad con el libro de Historia de México 1, ¿cuántos mudéjares hab�
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 Un millón de mudéjares.
 
@@ -494,6 +517,7 @@ En relación con el libro de Historia de México 1, los 75 000 eclesiásticos, "
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 75 000 eclesiásticos (1% de la población): es una sociedad dentro de la sociedad.
 
@@ -509,6 +533,7 @@ De acuerdo con el libro de Historia de México 1, los 115 000 aristócratas eran
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 86
 **Subtema:** 3.1 causas de la llegada europea
+**Retirado:** estadística demográfica de relleno, sin relación causal con la conquista de México
 
 115 000 aristócratas (2% de la población): 50 familias unidas por lazos de sangre (militares, nobleza urbana, caballeros).
 
@@ -1230,6 +1255,7 @@ En relación con el libro de Historia de México 1, ¿quién fundó el anglicani
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** quién fundó una religión europea es relleno, no contenido de la conquista de México — mismo criterio que el 77
 
 Enrique VIII de Inglaterra funda el anglicanismo; los príncipes alemanes abrazan el luteranismo, Ginebra el calvinismo, etc.
 
@@ -1260,6 +1286,7 @@ De conformidad con el libro de Historia de México 1, entre los grandes personaj
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 99
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 117
 
 El fundador de los jesuitas Ignacio de Loyola, el misionero de parte de la India Francisco Javier; Teresa de Jesús, Juan de la Cruz, etc.
 
@@ -1459,6 +1486,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fundó la orden m
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México (el 91, con la misma cita, sí pregunta por algo específico de la Nueva España)
 
 Franciscanos. Esta orden mendicante, fundada por San Francisco de Asís (1182-1226), en Italia, fue la primera en llegar a la Nueva España.
 
@@ -1504,6 +1532,7 @@ De conformidad con el libro de Historia de México 1, ¿quiénes fueron los tres
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** memorización de tres nombres propios sin más contenido — el 92 (de dónde vinieron) y el 94 (qué pasó con ellos) ya cubren el mismo hecho con más sustancia
 
 En septiembre de 1523 arribaron tres franciscanos provenientes de Gante, Bélgica: Juan Deckkeres (Tecto), Juan de Auwera (Aora) Pedro van de Moere (Gante).
 
@@ -1594,6 +1623,7 @@ De conformidad con el libro de Historia de México 1, los franciscanos se organi
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos por provincia, estadística de relleno sin concepto detrás
 
 Los franciscanos se organizaron en provincias: México, con 60 conventos; Michoacán con 49 conventos, y Yucatán con 21 conventos.
 
@@ -1609,6 +1639,7 @@ En relación con el libro de Historia de México 1, ¿cuántos frailes francisca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno sin concepto detrás — duplica el 101 con el mismo dato
 
 Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
 
@@ -1624,6 +1655,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos frailes franciscano
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno sin concepto detrás — duplica el 100 con el mismo dato
 
 Hacia la mitad del siglo XVI eran 380 frailes, y hacia el final del mismo siglo: 700.
 
@@ -1684,6 +1716,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fue el fundador d
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México
 
 Su fundador fue el español Santo Domingo de Guzmán, y su objetivo era proporcionar instrucción religiosa.
 
@@ -1744,6 +1777,7 @@ En relación con el libro de Historia de México 1, hacia finales del siglo XVI,
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos y religiosos, estadística de relleno sin concepto detrás
 
 Hacia finales del siglo XVI tenían 40 conventos y 210 religiosos.
 
@@ -1774,6 +1808,7 @@ De conformidad con el libro de Historia de México 1, ¿qué provincia crearon l
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** trivia organizacional (fecha de creación de una provincia) sin relación con el proceso de evangelización
 
 A mediados del siglo XVII crearon la provincia dominica de Puebla.
 
@@ -1789,6 +1824,7 @@ En relación con el libro de Historia de México 1, ¿en la observancia de la co
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** en quién se basa una orden religiosa europea es relleno, mismo criterio que los fundadores ya retirados
 
 Agustinos. Su fundación pertenece también en el siglo XIII. Se basa en la observancia de la conducta de San Agustín de Hipona (siglo V).
 
@@ -1819,6 +1855,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué dos provincias s
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** trivia organizacional (provincias y fechas) sin relación con el proceso de evangelización — duplica el 115
 
 Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
 
@@ -1834,6 +1871,7 @@ En relación con el libro de Historia de México 1, en el siglo XVI, ¿cuántos 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos y religiosos, estadística de relleno — duplica el 114
 
 Los agustinos se organizaron en dos provincias: la de México (1585) y la de Michoacán (1602), en el siglo XVI llegaron a tener 46 conventos y 212 religiosos.
 
@@ -1849,6 +1887,7 @@ De acuerdo con el libro de Historia de México 1, ¿por quién fue ratificada la
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha de ratificación papal en Europa, sin relación con la conquista de México — mismo criterio que los fundadores
 
 Jesuitas. Orden religiosa ratificada por el papa Paulo III en 1540.
 
@@ -1864,6 +1903,7 @@ De conformidad con el libro de Historia de México 1, ¿quién fue el fundador d
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fundó una orden religiosa en Europa es relleno, no contenido de la conquista de México; además duplica el 77
 
 Su fundador fue San Ignacio de Loyola.
 
@@ -1924,6 +1964,7 @@ En relación con el libro de Historia de México 1, ¿cerca de cuántos jesuitas
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de frailes, estadística de relleno — duplica el 120
 
 Llegaron a México hasta 1572, en número de nueve frailes, que para finales del siglo XVI serían cerca de 300.
 
@@ -1969,6 +2010,7 @@ En relación con el libro de Historia de México 1, ¿cuántos centros de misió
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de centros de misión, estadística de relleno sin concepto detrás
 
 Hacia 1745 poseían 37 centros de misión en Baja California.
 
@@ -1999,6 +2041,7 @@ De conformidad con el libro de Historia de México 1, los dieguinos, o francisca
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha de llegada y conteo de conventos de una orden menor, estadística de relleno
 
 Los dieguinos, o franciscanos descalzos, llegaron en 1580 y fundaron 16 conventos.
 
@@ -2014,6 +2057,7 @@ En relación con el libro de Historia de México 1, ¿quién fue el primer frail
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fue el primer fraile mercedario, sin ningún dato de su labor — mismo criterio que los "primer/fundador de una orden" ya retirados en este archivo
 
 Los mercedarios. El primer fraile que llegó a la Nueva España fue Bartolomé de Olmedo, capellán en la expedición de Cortés.
 
@@ -2029,6 +2073,7 @@ De acuerdo con el libro de Historia de México 1, ¿cuántos conventos tuvieron 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** conteo de conventos, estadística de relleno sin concepto detrás
 
 Al inicio, los mercedarios eran los capellanes militares, luego destacaron como personajes cultos y constructores de conventos. Tuvieron 19 conventos.
 
@@ -2044,6 +2089,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué año llegaron lo
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización
 
 Los carmelitas contemplativos llegaron en 1585.
 
@@ -2089,6 +2135,7 @@ De conformidad con el libro de Historia de México 1, la Congregación del Orato
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de fundación, sin relación con el proceso de evangelización (el 133 y 134, sobre el mismo templo, sí tienen sustancia narrativa)
 
 Congregación del Oratorio de San Felipe Neri. Fundada en México en 1659, construyeron conventos de difusión evangelizadora.
 
@@ -2134,6 +2181,7 @@ De conformidad con el libro de Historia de México 1, ¿en qué año llegaron lo
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de llegada de una orden menor, sin relación con el proceso de evangelización
 
 Los benedictinos llegaron en 1602.
 
@@ -2149,6 +2197,7 @@ En relación con el libro de Historia de México 1, la orden de los benedictinos
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fundador y papel de una orden en Europa medieval, relleno sin relación con la conquista de México
 
 Esta orden, fundada desde el siglo V por San Benito de Nursia, fue la orden que educó a Europa durante la Edad Media a través de su gran red de monasterios, centros de religión, cultura y trabajo.
 
@@ -2164,6 +2213,7 @@ De acuerdo con el libro de Historia de México 1, entre las órdenes religiosas 
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** fecha aislada de fundación de una orden femenina menor, sin relación con el proceso de evangelización
 
 Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
 
@@ -2179,6 +2229,7 @@ De conformidad con el libro de Historia de México 1, las dominicas, orden relig
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 102
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** lista de ciudades donde una orden femenina fundó conventos, dato geográfico de relleno sin concepto detrás
 
 Órdenes religiosas femeninas: concepcionistas (1540); dominicas, que fundaron conventos en Oaxaca, México, Guadalajara, Valladolid y Pátzcuaro; clarisas, carmelitas, etcétera.
 

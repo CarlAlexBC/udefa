@@ -96,6 +96,26 @@ del Anexo "H": "De acuerdo con", "De conformidad con", "En relación con".
 > (`## Pendiente`), si desaparece, o si empieza con "ninguno", Biología se reporta como
 > cerrada teniendo capítulos en blanco.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (119/119 reactivos)**. Revisado de punta a
+punta: el apartado de apertura de la talidomida; la historia de la biología del
+desarrollo (Hipócrates y Aristóteles, preformacionismo y epigénesis, Wolff,
+Spallanzani, vitalismo/mecanicismo, las capas germinales); la genética del
+desarrollo (el término "gen", el reduccionismo genético, el homúnculo); la
+definición de desarrollo, el cigoto y sus etapas; los mecanismos de diferenciación
+(competencia, especificación, determinación; desarrollo en mosaico y regulativo;
+inducción); la señalización (Hedgehog, Wnt, TGF-β/BMP, FGF, uniones gap, Notch,
+matriz extracelular, cresta neural); los morfógenos y la bandera francesa; el tubo
+neural con BMP y SHH; Drosophila como organismo modelo (el germario, el sincicio,
+Bicoid/Nanos/Oskar/Gurken); los genes de segmentación (gap, regla de pares,
+polaridad de segmento) y la cascada de segmentación; los genes Hox/homeóticos
+(Bateson, Lewis, el complejo bithorax, el homeodominio, la colinealidad, Carrasco,
+Pax-6); y Evo-Devo/Eco-Evo-Devo con los genes conservados y los genes "huérfanos"
+(nematodes, Octopus). Las citas biográficas (Lewis, Bateson, Carrasco, Boveri,
+Chabry, Spallanzani) cargan todas un aporte científico concreto, no sólo identidad
+— ninguna es candidata a retiro bajo el criterio PERSONA. **0 retiros nuevos, 0
+retiros preexistentes.**
+
 ---
 
 ### 1
@@ -161,6 +181,7 @@ De acuerdo con el libro de Biología, ¿quién fue el primero en estudiar el des
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
 **Subtema:** desarrollo · historia, Aristóteles
+**Retirado:** PERSONA · quién fue "el primero en" sin ningún hallazgo descrito — el 3 ya establece que Hipócrates y Aristóteles iniciaron estos estudios, mismo criterio que el 1 (disección) en biologia-31
 
 Aristóteles fue el primero en estudiar el desarrollo de embriones de ave de manera secuencial, a partir de lo cual elaboró dos hipótesis alternativas para explicar el desarrollo embrionario.
 

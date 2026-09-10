@@ -67,6 +67,14 @@ gráfica de sistemas 2×2 (arts. 305 en adelante), que son procedimiento.
 de Álgebra; con el XXV cerrado, la materia Álgebra queda cubierta para los cinco
 planteles.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (31/31 reactivos)**. Revisados los sub-lotes de
+punta a punta (Brook Taylor, ecuaciones simultáneas/equivalentes/independientes,
+incompatibles y sistema de ecuaciones, eliminación y sus tres métodos, la regla de cada
+método, determinante de segundo orden, su desarrollo, y la resolución por determinantes).
+**0 retiros nuevos.** Los 4 retiros que tiene el archivo (#1–#4, todo el recuadro de Brook
+Taylor, MARCO) ya venían de una ronda de detector anterior.
+
 ## Nota del banco: una inconsistencia del libro (resuelta)
 
 El libro se contradice con el nombre del **segundo método de eliminación**. El

@@ -82,6 +82,13 @@ capítulo añade.
 (`algebra-06-productos-cocientes-notables.md`) cierra el temario del HCM, y el
 capítulo VIII (`algebra-08-ecuaciones-primer-grado.md`) cubre el que añade la EME.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (32/32 reactivos)**. Revisados los 10 sub-lotes de
+punta a punta (Platón, concepto de división, leyes de los signos/coeficientes, división de
+monomios, polinomio entre monomio, división de dos polinomios, prueba y ordenación,
+coeficientes fraccionarios/separados, cociente mixto y potencias de negativos). **0
+retiros nuevos.** El archivo no tenía retiros previos.
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico.

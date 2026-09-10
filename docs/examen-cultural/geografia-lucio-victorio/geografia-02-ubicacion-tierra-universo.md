@@ -66,6 +66,14 @@ Recuerdo literal (Anexo "H"): la opción correcta y la justificación son cita d
 
 **Pendiente:** ninguno. **La Unidad II queda cerrada** en lo que pide el temario `GEO-01-2026` (sólo el tema 2.4). Las Unidades **I**, **III**, **IV**, **V** y **VI** también están cerradas, cada una en su propio archivo. **Geografía queda CERRADA por completo para la EMEFA** (18 ago 2026).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 8 sep
+2026):** ninguno — **archivo completo (111/111 reactivos)**. Revisados los 8 sub-lotes de
+punta a punta. **0 retiros nuevos.** Cada reactivo prueba una cifra, fecha o concepto
+distinto (incluidas las series aparentemente repetitivas, como las cuatro estrellas de la
+precesión de los equinoccios en 86-89, donde cada una corresponde a un momento distinto).
+Los 2 retiros que tiene el archivo (#7 y #8, sobre Eratóstenes) ya venían de la ronda de
+detector anterior.
+
 > Aviso para quien siga: **la Unidad III arranca en la p.77** y su tema 3.2 retoma las zonas térmicas y las estaciones del año, que aquí ya asomaron en el 2.4.3. No se duplican reactivos: los de aquí salen del capítulo de la traslación; los de allá saldrán del 3.2.
 
 ---
@@ -176,6 +184,7 @@ De acuerdo con el libro de Geografía, ¿quién fue el primero en sostener que l
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 66
 **Subtema:** la tierra como astro · eratóstenes
+**Retirado:** PERSONA · quién sostuvo la idea primero, sin explicar cómo la sustentó (a diferencia de sus reactivos sobre la medición del radio terrestre)
 
 "Eratóstenes de Cirene (276-196 a.C.) fue el primero en sostener que la Tierra es esférica."
 
@@ -191,6 +200,7 @@ De conformidad con el libro de Geografía, ¿en qué años vivió Eratóstenes d
 **Respuesta:** A
 **Referencia:** Lucio Victorio, Ángela del Rocío (2004) *Geografía*, Editorial Nueva Imagen, Pág. 66
 **Subtema:** la tierra como astro · eratóstenes
+**Retirado:** PERSONA · fechas de nacimiento/muerte puras, dato curioso sin ningún concepto geográfico
 
 "Eratóstenes de Cirene (276-196 a.C.) fue el primero en sostener que la Tierra es esférica."
 

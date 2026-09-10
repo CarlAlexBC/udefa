@@ -55,3 +55,8 @@ docs/examen-cultural/crop_*.png
 # trabajo, no del proyecto — igual que los escaneos del banco cultural. Lo que
 # SI entra a git es lo que salga de ellos: docs/examen-tropa/
 examenes_tropa/
+
+# Logos de escuelas sin procesar (las fuentes que Carlo remasteriza a mano).
+# ~32 MB. Lo que SI entra a git es el resultado ya procesado en
+# apps/web/public/planteles/.
+logo_escuelas/

@@ -223,6 +223,30 @@ de la información en el cuerpo celular de cada neurona.
 
 **Pendiente:** ninguno. El capítulo 32 está cerrado en 271 reactivos (23 jul 2026) y cubre completas las páginas impresas 756-775; el ensayo de cierre "Retomando la problemática inicial" y los ejercicios no llevan reactivos por norma. Lo que falta de Biología lo declara el archivo del capítulo en curso — hoy, el capítulo 35 (`biologia-35-respiracion.md`).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (271/271 reactivos)**. Revisados los 32 sub-lotes de
+punta a punta (evolución de los sistemas nerviosos y el proceso de encefalización, el
+encéfalo de los vertebrados y su tamaño, la neurona y las células de la glía, las señales y
+la división del sistema nervioso central/periférico, el encéfalo y las raíces de la médula,
+el sistema nervioso periférico y la protección del SNC, el arco reflejo, las acciones
+reflejas y los subsistemas somático/autónomo, el SNA simpático y parasimpático con la
+respuesta de lucha o huida, los efectos antagónicos del SNA sobre los órganos, la división
+entérica, el impulso nervioso —Galvani, el potencial eléctrico, el calamar—, el potencial de
+membrana y su medición, potencial de reposo/de acción y la respuesta "todo o nada", la
+frecuencia del potencial de acción, las bases iónicas y el axón en reposo, la
+despolarización/repolarización/hiperpolarización, la propagación del impulso y la bomba de
+Na+/K+-ATPasa, la conducción unidireccional y el período refractario, la vaina de mielina y
+la conducción saltatoria, las sinapsis eléctricas y químicas, la formación de la vaina de
+mielina, la transmisión sináptica química y sus receptores, los transmisores químicos
+—neurotransmisores, neuromoduladores, neurohormonas—, el cuadro 32-1 completo de sustancias
+transmisoras, el recuadro 32-1 del clorpirifós, el Ensayo 32-1 de los opiáceos endógenos, y
+los potenciales postsinápticos con la integración sináptica). **0 retiros nuevos.** El único
+retiro preexistente (#194, PERSONA) ya venía de una ronda de detector anterior. Los pares y
+tríos contrapuestos del capítulo (eferente/aferente, simpático/parasimpático en cada órgano,
+canales de fuga/canales regulados por potencial, despolarización/repolarización/
+hiperpolarización, PEPS/PIPS, sinapsis eléctrica/química) prueban cada uno un dato distinto y
+no son relleno.
+
 > **No renombres ni partas en viñetas el `**Pendiente:**` de arriba.** El generador
 > de `ESTADO.md` busca la cadena exacta y toma el párrafo que le sigue hasta el
 > primer renglón en blanco; si desaparece, o si empieza con "ninguno", Biología se
@@ -1798,6 +1822,7 @@ De acuerdo con el libro de Biología, en los paneles b) y c) de la figura 32-7 s
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
 **Subtema:** sistema nervioso · neurotransmisores
+**Retirado:** VISUAL · exige reconocer visualmente cuál estructura química dibujada corresponde a cuál neurotransmisor; la plataforma no muestra la figura
 
 Los paneles muestran la estructura química de la noradrenalina y la estructura química de la acetilcolina.
 
@@ -3140,6 +3165,7 @@ De acuerdo con el libro de Biología, ¿quién llamó "sinapsis" a esas zonas, s
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 770
 **Subtema:** sistema nervioso · la sinapsis
+**Retirado:** PERSONA · quién puso el nombre "sinapsis", no qué es o cómo funciona — el 193 (qué describió Ramón y Cajal) sí se queda
 
 Sobre la base de sus experimentos acerca de la velocidad de propagación de la señal en vías reflejas, el fisiólogo inglés Charles Sherrington (1857-1952) llamó sinapsis a esas zonas.
 
@@ -3221,6 +3247,7 @@ De acuerdo con el libro de Biología, según la figura 32-14a, ¿qué muestra la
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
 **Subtema:** sistema nervioso · neurona en cultivo
+**Retirado:** VISUAL · pide ver el estado de desarrollo de una neurona en una fotografía de cultivo que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 En la figura 32-14a se muestra una neurona en formación en cultivo; se ha desarrollado el axón y aún están desarrollándose las dendritas.
 
@@ -3460,6 +3487,7 @@ De acuerdo con el libro de Biología, según la figura 32-16, ¿qué se observa 
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
 **Subtema:** sistema nervioso · vesículas sinápticas
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen ("Nótense..."), y el dato ya está cubierto por el 214 (empaquetado y almacenamiento en vesículas)
 
 Nótense en las terminales axónicas las numerosas vesículas sinápticas llenas de neurotransmisor.
 

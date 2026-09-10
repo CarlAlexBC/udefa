@@ -37,6 +37,18 @@ Recuerdo literal (Anexo "H"): la correcta y la justificación son cita del libro
 
 **Pendiente:** ninguno. **El Capítulo 1 queda CERRADO**, y con los Cap. 2, 3, 5 y 10 también cerrados (cada uno en su propio archivo), **Física EMEFA (Serway) queda COMPLETA**: 275 reactivos en total.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (78/78 reactivos)**. Revisados los 12 sub-lotes de
+punta a punta (estándares de longitud/masa/tiempo y su historia; el metro de 1983, Tabla
+1.1, estándar de masa; estándar de tiempo; cantidades deducidas, densidad, prefijos y
+modelado; modelo científico, de partícula y geométrico; las cuatro categorías de modelos y
+las representaciones; tipos de representación; análisis dimensional; conversión de
+unidades; orden de magnitud y arranque de cifras significativas; reglas de cifras
+significativas; redondeo y guía de cifras significativas). La progresión histórica de
+definiciones del metro (#7, #8, #9) y las dos reglas de redondeo (#75/#76) se confirman
+como datos legítimamente distintos, no relleno. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ---
 
 ## Sub-lote 1 · Estándares de longitud, masa y tiempo (p.3)

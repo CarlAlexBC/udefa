@@ -124,6 +124,24 @@ regla aplicada a los datos falsos de Historia.
 > (`## Pendiente`), si desaparece, o si empieza con "ninguno", Biología se reporta como
 > cerrada. Por eso el capítulo en curso sostiene, en un solo párrafo, lo que falta.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9 sep
+2026):** ninguno — **archivo completo (143/143 reactivos)**. Revisados los 18 sub-lotes de
+punta a punta (qué es la digestión y su estudio histórico, la evolución de los sistemas
+digestivos y las capas del tubo digestivo, la boca, el ensayo 37-1 de la historia de la
+comprensión de la digestión, el recorrido del alimento, la lengua/glándulas salivales/
+saliva, la deglución, la dentición de los mamíferos, las papilas gustativas, el cuadro 37-1
+completo de enzimas digestivas, el estómago —cardias, jugo gástrico, criptas gástricas,
+HCl, pepsina, úlceras por *H. pylori*, gastrina, píloro—, el intestino delgado y su
+absorción, el hígado y la bilis, el páncreas endocrino, el recuadro 37-1 del colesterol
+—HDL/LDL, aterosclerosis—, el control endocrino y nervioso de la función intestinal
+—secretina, colecistocinina, péptido inhibidor gástrico—, y el intestino grueso completo
+—absorción de agua, microbiota y vitamina K, apéndice, materia fecal, cálculos biliares—).
+**0 retiros nuevos, 0 retiros preexistentes.** Con este capítulo cierra la Sección VI y el
+temario completo de Biología (Curtis) para la EMM. Los pares/tríos contrapuestos del
+capítulo (mecanicistas/químicos, HDL "camión de basura"/LDL "camión de reparto",
+simpático/parasimpático en el intestino) prueban cada uno un dato distinto y no son
+relleno.
+
 ## Cómo se escriben estos reactivos
 
 Recuerdo literal, formato del Anexo "H". La opción correcta y la justificación
