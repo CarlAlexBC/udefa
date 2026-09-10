@@ -99,6 +99,18 @@ completarse también los capítulos 8, 9 y 12: en total **219 reactivos** (cap 4
 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
 coordenadas rectangulares).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (64/64 reactivos, 62 activos)**. Revisados
+los 18 sub-lotes de punta a punta (el plano coordenado y las coordenadas; fórmulas de
+distancia y punto medio; el recuadro histórico de Descartes; terminología de
+ecuaciones con dos variables; el círculo y su ecuación en forma normal y general;
+semicírculos; desigualdades e intersecciones; simetría y sus pruebas; pendiente de
+una recta; formas de la ecuación de una recta; rectas paralelas y perpendiculares;
+variación directa, inversa, conjunta y combinada). Los 2 retiros preexistentes (#9-10,
+MARCO · recuadro biográfico de Descartes) siguen vigentes sin cambios; el reactivo #4
+(por qué se llama "cartesiano" al plano) se dejó activo por ser terminología del tema,
+no biografía. **0 retiros nuevos.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
