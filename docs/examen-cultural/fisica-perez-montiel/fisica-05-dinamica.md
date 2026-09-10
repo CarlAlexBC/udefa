@@ -2574,6 +2574,7 @@ De conformidad con el libro de Física, ¿quién propuso la teoría del Big Bang
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 156
 **Tema:** U5 t3 · gravitación universal
 **Subtema:** física · gravitación universal
+**Retirado:** PERSONA · quién y cuándo propuso la teoría, sin ningún contenido más allá de repetir el nombre "Big Bang" ya dado en la pregunta — el 144 (elementos primarios de la explosión) sí aporta contenido
 
 <El físico ruso, nacionalizado estadounidense, George Gamow propuso en el año de 1948 que el universo se creó en una gran explosión o Big Bang.>
 

@@ -627,6 +627,7 @@ De acuerdo con el libro de Física, el movimiento browniano fue descubierto en 1
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 249
 **Tema:** U6 t2 · estados de agregación
 **Subtema:** Física · Estados de agregación
+**Retirado:** PERSONA · quién y cuándo lo descubrió, sin el concepto — el 35 ya cubre qué es el movimiento browniano
 
 <[...] uno es el denominado movimiento browniano, descubierto en 1827 por el científico escocés Robert Brown (1773-1858).>
 

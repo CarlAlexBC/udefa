@@ -1548,6 +1548,7 @@ En relación con el libro de Física, ¿quién fue Gustav Robert Kirchhoff y qu�
 **Respuesta:** A
 **Referencia:** Pérez Montiel, Héctor (2018) *Física General*, Grupo Editorial Patria, Pág. 439
 **Subtema:** Leyes de Kirchhoff · Quién fue Kirchhoff
+**Retirado:** PERSONA · nacionalidad y fechas de Kirchhoff, sin explicar en qué consisten sus dos leyes
 
 Gustav Robert Kirchhoff, físico alemán (1824-1887), propuso a mediados del siglo XIX dos leyes que llevan su nombre.
 

@@ -462,7 +462,7 @@ De acuerdo con el libro de Física, en conclusión, ¿qué características tien
 
 ### 22
 
-De acuerdo con la ley conmutativa de la adición de vectores, ¿qué sucede cuando se suman dos vectores?
+De acuerdo con el libro de Física, según la ley conmutativa de la adición de vectores, ¿qué sucede cuando se suman dos vectores?
 
 - A. La resultante de la adición es la misma, sin importar el orden en que se sumen los vectores.
 - B. La resultante cambia según el orden en que se sumen los vectores.
@@ -478,7 +478,7 @@ De acuerdo con la ley conmutativa de la adición de vectores, ¿qué sucede cuan
 
 ### 23
 
-De acuerdo con la propiedad de transmisibilidad del punto de aplicación, ¿qué ocurre con el efecto externo de un vector deslizante?
+De acuerdo con el libro de Física, según la propiedad de transmisibilidad del punto de aplicación, ¿qué ocurre con el efecto externo de un vector deslizante?
 
 - A. No se modifica si es trasladado en su misma dirección, es decir, sobre su propia línea de acción.
 - B. Se modifica cada vez que se traslada sobre su línea de acción.
@@ -494,7 +494,7 @@ De acuerdo con la propiedad de transmisibilidad del punto de aplicación, ¿qué
 
 ### 24
 
-De acuerdo con la propiedad de los vectores libres, ¿qué ocurre con los vectores al trasladarlos?
+De acuerdo con el libro de Física, según la propiedad de los vectores libres, ¿qué ocurre con los vectores al trasladarlos?
 
 - A. No se modifican si se trasladan paralelamente a sí mismos.
 - B. No se modifican si se trasladan sobre su propia línea de acción.
