@@ -2057,6 +2057,7 @@ En relación con el libro de Historia de México 1, ¿quién fue el primer frail
 **Respuesta:** A
 **Referencia:** Menchaca y Martínez Ruiz (2018) *Historia de México 1*, Grupo Editorial Patria, Pág. 101
 **Subtema:** 3.3 conquista espiritual
+**Retirado:** PERSONA · quién fue el primer fraile mercedario, sin ningún dato de su labor — mismo criterio que los "primer/fundador de una orden" ya retirados en este archivo
 
 Los mercedarios. El primer fraile que llegó a la Nueva España fue Bartolomé de Olmedo, capellán en la expedición de Cortés.
 
