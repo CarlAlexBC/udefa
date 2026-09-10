@@ -122,6 +122,19 @@ con el mismo alcance "Completo" que pide la EMMA, y el capítulo 11
 (`zill-11-temas-geometria-analitica.md`, 75 react., ya cerrado), la materia *Trigonometría y
 Geometría Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos.
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (69/69 reactivos)**. Revisados los 7
+sub-lotes de punta a punta (resolución de triángulos rectángulos; ángulos de
+elevación y depresión; Ley de senos con el caso ambiguo; Ley de cosenos, rumbo y las
+Notas del aula; movimiento armónico simple; forma trigonométrica de los números
+complejos —plano complejo, módulo, argumento, producto/cociente—; potencias y raíces
+—teorema de DeMoivre, raíces n-ésimas—). El reactivo #63 (DeMoivre) se dejó activo:
+pregunta de atribución con distractores de otros matemáticos franceses (Pascal,
+Fermat, Cauchy), el mismo patrón ya aceptado para el plano cartesiano en
+`zill-04-coordenadas-rectangulares.md` (#4), no la trivia de nacionalidad/fechas que
+se retiró en Napier/Herón/Descartes de Larson. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ## Avisos al aspirante (erratas del libro)
 
 _Ninguno detectado por ahora en este capítulo._
