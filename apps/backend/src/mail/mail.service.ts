@@ -84,10 +84,55 @@ export class MailService implements OnModuleInit {
     return `<!DOCTYPE html>
 <html lang="es">
 <head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /></head>
-<body style="margin:0; padding:0; background:#0B0A09;">
+<body style="margin:0; padding:0;">
 ${cuerpo}
 </body>
 </html>`;
+  }
+
+  /**
+   * Encabezado tipo insignia para los correos de recordatorio: la cadete en
+   * miniatura junto a una etiqueta en oliva (mismo lenguaje que las tarjetas
+   * de fase del panel: "FASE 01/02/03") y el nombre de la marca. Se usa
+   * `<table>` en vez de flex/grid porque es lo único que Outlook de
+   * escritorio soporta de forma confiable en correo.
+   *
+   * Colores del sistema de diseño acordado (no inventar otros):
+   * carbón #161513, crema #F7F3EA, latón #C99A3B, oliva militar #4B5121,
+   * piedra #6B6659.
+   */
+  private encabezado(imagen: string, etiqueta: string): string {
+    const sello = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/marca/sello.png`;
+    return `
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tr>
+        <td width="72" style="vertical-align:top;">
+          <img src="${imagen}" alt="Cadete de El Monote te Guía" width="72" height="90" style="display:block; width:72px; height:90px; border-radius:8px;" />
+        </td>
+        <td style="vertical-align:top; padding-left:16px;">
+          <p style="margin:0; font-size:11px; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; color:#C99A3B; background:transparent; border:1px solid #C99A3B; display:inline-block; padding:5px 14px; border-radius:999px;">${etiqueta}</p>
+          <h1 style="margin:10px 0 0; font-size:19px; font-weight:600; color:#F7F3EA;">El Monote te Guía</h1>
+        </td>
+        <td width="56" style="vertical-align:top; text-align:right;">
+          <img src="${sello}" alt="Sello El Monote te Guía" width="56" height="56" style="display:block; width:56px; height:56px; margin-left:auto;" />
+        </td>
+      </tr>
+    </table>`;
+  }
+
+  /**
+   * Tarjeta de los correos de recordatorio. Se probaron 3 formas de ponerle
+   * un sello institucional tenue de fondo (background-image en un <div>,
+   * el atributo HTML `background` en una celda de tabla, y una <img> con
+   * position:absolute) — las 3 se rompieron distinto en Gmail, así que se
+   * descartó: esta tarjeta se queda sin decoración de fondo, solo el borde
+   * superior en oliva.
+   */
+  private tarjeta(contenidoInterno: string): string {
+    return `
+    <div style="max-width:520px; margin:0 auto; font-family: Arial, Helvetica, sans-serif; background-color:#161513; border-radius:16px; border-top:4px solid #4B5121; overflow:hidden;">
+      ${contenidoInterno}
+    </div>`;
   }
 
   /**
@@ -172,22 +217,24 @@ ${cuerpo}
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
     const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/acompana-correo.png`;
-    const html = `
-    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
-      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
-        Hola ${opts.nombre}. Notamos que comenzaste tu proceso de preparación para <strong>${opts.paqueteTitulo}</strong>, y nos encantaría acompañarte a completarlo. Con tu acceso podrás avanzar con un simulador apegado al examen real y un panel que te muestra, paso a paso, en qué enfocar tu estudio.
-      </p>
-      <p style="margin:24px 0;">
-        <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
-          Continuar mi preparación
-        </a>
-      </p>
-      <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
-        Si tuviste alguna duda durante el proceso, responde este correo: con gusto te orientamos.
-      </p>
-    </div>`;
+    const html = this.tarjeta(`
+      <div style="padding:28px 32px 4px;">
+        ${this.encabezado(imagen, 'Recordatorio')}
+      </div>
+      <div style="padding:12px 32px 32px; color:#F7F3EA;">
+        <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+          Hola ${opts.nombre}. Notamos que comenzaste tu proceso de preparación para <strong>${opts.paqueteTitulo}</strong>, y nos encantaría acompañarte a completarlo. Con tu acceso podrás avanzar con un simulador apegado al examen real y un panel que te muestra, paso a paso, en qué enfocar tu estudio.
+        </p>
+        <p style="margin:24px 0 16px;">
+          <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 22px; border-radius:8px; display:inline-block;">
+            Continuar mi preparación
+          </a>
+        </p>
+        <p style="font-size:13px; color:#6B6659; line-height:1.6; margin:0;">
+          Si tuviste alguna duda durante el proceso, responde este correo: con gusto te orientamos.
+        </p>
+      </div>
+    `);
     return this.enviar({
       to: opts.to,
       subject: 'Tu proceso de preparación te espera — El Monote te Guía',
@@ -210,31 +257,33 @@ ${cuerpo}
     const entrar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/login`;
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
     const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/presenta-correo.png`;
-    const html = `
-    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
-      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
-        Hola ${opts.nombre}. El examen psicológico (Psicométrico, Personalidad y Axiológico) lo armamos con apoyo de psicólogos militares y con la experiencia de haber presentado el proceso real de admisión. Su panel de resultados no se queda en calificarte: identifica los patrones detrás de tus respuestas y te remite a la sección exacta de la Guía del Aspirante que conviene reforzar.
-      </p>
-      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
-        Para que lo conozcas antes de decidir, habilitamos especialmente para ti un acceso de prueba por 60 minutos a este módulo.
-      </p>
-      <div style="border:1px solid #3D3A34; border-radius:8px; padding:16px; margin:20px 0;">
-        <p style="font-size:12px; color:#9A9382; text-transform:uppercase; letter-spacing:1px; margin:0 0 8px;">Tu acceso de prueba</p>
-        <p style="font-size:15px; margin:0 0 4px;"><strong>Correo:</strong> ${opts.to}</p>
-        <p style="font-size:15px; margin:0;"><strong>Contraseña:</strong> ${opts.passwordPrueba}</p>
+    const html = this.tarjeta(`
+      <div style="padding:28px 32px 4px;">
+        ${this.encabezado(imagen, 'Acceso de prueba')}
       </div>
-      <p style="margin:24px 0;">
-        <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
-          Explorar el examen psicológico
-        </a>
-      </p>
-      <p style="font-size:13px; color:#9A9382; line-height:1.6; margin:0;">
-        Cuando decidas continuar, tu proceso de ${opts.paqueteTitulo} sigue disponible:
-        <a href="${retomar}" style="color:#C99A3B;">continúa aquí</a>.
-      </p>
-    </div>`;
+      <div style="padding:12px 32px 32px; color:#F7F3EA;">
+        <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+          Hola ${opts.nombre}. El examen psicológico (Psicométrico, Personalidad y Axiológico) lo armamos con apoyo de psicólogos militares y con la experiencia de haber presentado el proceso real de admisión. Su panel de resultados no se queda en calificarte: identifica los patrones detrás de tus respuestas y te remite a la sección exacta de la Guía del Aspirante que conviene reforzar.
+        </p>
+        <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+          Para que lo conozcas antes de decidir, habilitamos especialmente para ti un acceso de prueba por 60 minutos a este módulo.
+        </p>
+        <div style="border:1px solid #4B5121; border-radius:8px; padding:16px; margin:20px 0;">
+          <p style="font-size:12px; color:#C99A3B; text-transform:uppercase; letter-spacing:1px; margin:0 0 8px; font-weight:600;">Tu acceso de prueba</p>
+          <p style="font-size:15px; margin:0 0 4px;"><strong>Correo:</strong> ${opts.to}</p>
+          <p style="font-size:15px; margin:0;"><strong>Contraseña:</strong> ${opts.passwordPrueba}</p>
+        </div>
+        <p style="margin:24px 0 16px;">
+          <a href="${entrar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 22px; border-radius:8px; display:inline-block;">
+            Explorar el examen psicológico
+          </a>
+        </p>
+        <p style="font-size:13px; color:#6B6659; line-height:1.6; margin:0;">
+          Cuando decidas continuar, tu proceso de ${opts.paqueteTitulo} sigue disponible:
+          <a href="${retomar}" style="color:#C99A3B;">continúa aquí</a>.
+        </p>
+      </div>
+    `);
     return this.enviar({
       to: opts.to,
       subject: 'Conoce tu preparación por dentro, antes de decidir',
@@ -255,22 +304,24 @@ ${cuerpo}
   }) {
     const retomar = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/precios`;
     const imagen = `${process.env.FRONTEND_URL ?? 'http://localhost:3000'}/cadete/confianza-correo.png`;
-    const html = `
-    <div style="font-family: Arial, Helvetica, sans-serif; max-width: 520px; margin: 0 auto; background:#161513; color:#F7F3EA; padding:32px; border-radius:12px;">
-      <img src="${imagen}" alt="Cadete de El Monote te Guía" width="110" height="138" style="display:block; width:110px; height:138px; max-width:110px; margin:0 auto 16px;" />
-      <h1 style="color:#C99A3B; font-size:20px; margin:0 0 12px; text-align:center;">El Monote te Guía</h1>
-      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
-        Hola ${opts.nombre}. Queremos que tomes esta decisión con calma y confianza, no bajo presión. Si tu interés en prepararte con <strong>${opts.paqueteTitulo}</strong> continúa, seguimos aquí para acompañarte en el momento en que decidas retomarlo.
-      </p>
-      <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
-        Tu preparación incluye el simulacro cronometrado, tal como se vive el día del examen, y un panel de resultados que no solo califica: identifica tus patrones y te dice exactamente qué capítulo de la Guía del Aspirante conviene reforzar. Es el mismo método con el que nació este proyecto, construido con apoyo de psicólogos militares y la experiencia de haber presentado el proceso real de admisión.
-      </p>
-      <p style="margin:24px 0;">
-        <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 20px; border-radius:8px; display:inline-block;">
-          Continuar mi preparación
-        </a>
-      </p>
-    </div>`;
+    const html = this.tarjeta(`
+      <div style="padding:28px 32px 4px;">
+        ${this.encabezado(imagen, 'Sin presión')}
+      </div>
+      <div style="padding:12px 32px 32px; color:#F7F3EA;">
+        <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+          Hola ${opts.nombre}. Queremos que tomes esta decisión con calma y confianza, no bajo presión. Si tu interés en prepararte con <strong>${opts.paqueteTitulo}</strong> continúa, seguimos aquí para acompañarte en el momento en que decidas retomarlo.
+        </p>
+        <p style="font-size:15px; line-height:1.6; margin:0 0 16px;">
+          Tu preparación incluye el simulacro cronometrado, tal como se vive el día del examen, y un panel de resultados que no solo califica: identifica tus patrones y te dice exactamente qué capítulo de la Guía del Aspirante conviene reforzar. Es el mismo método con el que nació este proyecto, construido con apoyo de psicólogos militares y la experiencia de haber presentado el proceso real de admisión.
+        </p>
+        <p style="margin:24px 0 0;">
+          <a href="${retomar}" style="background:#C99A3B; color:#161513; text-decoration:none; font-weight:bold; padding:12px 22px; border-radius:8px; display:inline-block;">
+            Continuar mi preparación
+          </a>
+        </p>
+      </div>
+    `);
     return this.enviar({
       to: opts.to,
       subject: `Tu preparación para ${opts.paqueteTitulo} sigue disponible`,
