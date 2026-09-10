@@ -144,6 +144,18 @@ completarse también los capítulos 4, 8 y 12: en total **219 reactivos** (cap 4
 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
 coordenadas rectangulares).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (53/53 reactivos)**. Revisados los 20
+sub-lotes de punta a punta (círculo unitario y funciones circulares; identidad
+pitagórica, límites, dominio y rango; periodicidad; funciones pares/impares y
+propiedades adicionales; ángulo de referencia; ciclo y propiedades de las gráficas de
+seno/coseno; amplitud y desplazamiento vertical; periodo y desplazamiento de fase;
+definición y dominio de las otras cuatro funciones; periodicidad y paridad;
+transformaciones; identidades pitagóricas, de suma/diferencia y de ángulo doble/mitad
+—con las dos erratas del libro ya documentadas—; funciones trigonométricas inversas;
+propiedades de composición; ecuaciones trigonométricas). **0 retiros nuevos, 0
+retiros preexistentes.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
