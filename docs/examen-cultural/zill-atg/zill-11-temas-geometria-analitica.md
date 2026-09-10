@@ -102,6 +102,18 @@ El capítulo 11 está CERRADO. Con este capítulo y los capítulos 8 (`zill-08`,
 Analítica* (`TGA-02-2026`) de la EMMA queda CERRADA al nivel de reactivos**: los cuatro capítulos
 que pide su temario (8, 9, 10 y 11), todos "Completo".
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (75/75 reactivos)**. Revisados los 5
+sub-lotes de punta a punta (la parábola —definición, formas normales, cuerda focal,
+paraboloide—; la elipse —definición, ejes, excentricidad, propiedad reflectora,
+primera ley de Kepler—; la hipérbola —definición, asíntotas, rectángulo auxiliar,
+excentricidad, con la errata ya documentada—; rotación de ejes —ecuaciones de
+rotación, Teorema 11.4.1, discriminante y clasificación de cónicas—; ecuaciones
+paramétricas —curva plana, orientación, curva cerrada simple, cicloide—). El
+reactivo #2 (Apolonio, 200 a.C.) se dejó activo por cargar contenido temático —qué
+escribió y sobre qué— no sólo identidad. **0 retiros nuevos, 0 retiros
+preexistentes.**
+
 ## Avisos al aspirante (erratas del libro)
 
 - **§11.3, p. 500 (excentricidad de la hipérbola).** El libro escribe: "Ya que 0 < a < √(a²+b²),
