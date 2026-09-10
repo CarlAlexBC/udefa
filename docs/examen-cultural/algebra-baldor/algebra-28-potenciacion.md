@@ -364,6 +364,7 @@ En relación con el libro de Álgebra, ¿quién descubrió la fórmula que permi
 **Respuesta:** A
 **Referencia:** Baldor, Aurelio (2019) *Álgebra*, Grupo Editorial Patria, Pág. 383
 **Subtema:** Potenciación · Fórmula del binomio, autoría
+**Retirado:** PERSONA · quién descubrió la fórmula, sin ningún dato de la fórmula misma — las cinco leyes del binomio de Newton (13-16 y anteriores) ya cubren el contenido
 
 Esta fórmula descubierta por Newton nos permite elevar un binomio a una potencia cualquiera, directamente, sin tener que hallar las potencias anteriores.
 
