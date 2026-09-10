@@ -1955,6 +1955,7 @@ En relación con el libro de Biología, ¿quién propuso en 1967 la teoría de e
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 45
 **Subtema:** Origen de la vida · origen de los eucariotas
+**Retirado:** PERSONA · quién propuso la teoría y en qué año, sin ningún contenido de la teoría — el 106 (cómo se originaron las organelas), el 108 (etimología) y el 109 (qué organelas explica) ya cubren el concepto
 
 En 1967, la investigadora estadounidense Lynn Margulis (1938-2011) propuso la teoría de endosimbiosis en serie.
 

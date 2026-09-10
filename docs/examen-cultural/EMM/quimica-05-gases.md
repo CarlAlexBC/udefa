@@ -574,6 +574,7 @@ De acuerdo con el libro de Química, ¿quién formuló la segunda ley del movimi
 **Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 177
 **Tema:** 5.2 · presión de un gas
 **Subtema:** Química · unidades SI de presión
+**Retirado:** PERSONA · quién formuló la ley y en qué siglo, sin ningún contenido de la ley — el 26 (F = masa × aceleración) ya cubre el concepto
 
 La segunda ley del movimiento, formulada por Sir Isaac Newton a fines del siglo XVII, define otra fuerza, de la cual se derivan las unidades de presión.
 

@@ -1897,6 +1897,7 @@ En relación con el libro de Biología, ¿qué premio recibió Peter Mitchell po
 **Respuesta:** A
 **Referencia:** Curtis, Helena (2022) *Biología*, Editorial Médica Panamericana, Pág. 152
 **Subtema:** Respiración celular · acoplamiento quimiosmótico
+**Retirado:** PERSONA · qué premio y en qué año recibió Mitchell, sin ningún contenido del acoplamiento quimiosmótico — hallazgo detectado al revisar el 107 (que sí se queda, porque explica el hallazgo mismo)
 
 Por su trabajo, recibió el Premio Nobel en 1978.
 

@@ -181,6 +181,7 @@ De acuerdo con el libro de Biología, ¿quién fue el primero en estudiar el des
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 327
 **Subtema:** desarrollo · historia, Aristóteles
+**Retirado:** PERSONA · quién fue "el primero en" sin ningún hallazgo descrito — el 3 ya establece que Hipócrates y Aristóteles iniciaron estos estudios, mismo criterio que el 1 (disección) en biologia-31
 
 Aristóteles fue el primero en estudiar el desarrollo de embriones de ave de manera secuencial, a partir de lo cual elaboró dos hipótesis alternativas para explicar el desarrollo embrionario.
 

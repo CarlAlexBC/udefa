@@ -194,6 +194,7 @@ En relación con el libro de Química, ¿quién formuló en 1808 una definición
 **Respuesta:** A
 **Referencia:** Chang, Raymond y Overby, Jason (2019) *Química*, McGraw-Hill, Pág. 41
 **Subtema:** teoría atómica · antecedentes
+**Retirado:** PERSONA · quién formuló la definición y en qué año, sin ningún contenido de esa definición — el 5 y el 6 ya cubren las hipótesis de Dalton
 
 En 1808, un científico y maestro de escuela inglés, John Dalton, formuló una definición precisa de los bloques de construcción indivisibles de la materia que llamamos átomos.
 

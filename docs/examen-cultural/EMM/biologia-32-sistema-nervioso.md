@@ -1822,6 +1822,7 @@ De acuerdo con el libro de Biología, en los paneles b) y c) de la figura 32-7 s
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 764
 **Subtema:** sistema nervioso · neurotransmisores
+**Retirado:** VISUAL · exige reconocer visualmente cuál estructura química dibujada corresponde a cuál neurotransmisor; la plataforma no muestra la figura
 
 Los paneles muestran la estructura química de la noradrenalina y la estructura química de la acetilcolina.
 
@@ -3246,6 +3247,7 @@ De acuerdo con el libro de Biología, según la figura 32-14a, ¿qué muestra la
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 771
 **Subtema:** sistema nervioso · neurona en cultivo
+**Retirado:** VISUAL · pide ver el estado de desarrollo de una neurona en una fotografía de cultivo que la plataforma no muestra; la cita es sólo el pie de la imagen
 
 En la figura 32-14a se muestra una neurona en formación en cultivo; se ha desarrollado el axón y aún están desarrollándose las dendritas.
 
@@ -3485,6 +3487,7 @@ De acuerdo con el libro de Biología, según la figura 32-16, ¿qué se observa 
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 772
 **Subtema:** sistema nervioso · vesículas sinápticas
+**Retirado:** VISUAL · pide ver una figura que la plataforma no muestra; la cita es sólo el pie de la imagen ("Nótense..."), y el dato ya está cubierto por el 214 (empaquetado y almacenamiento en vesículas)
 
 Nótense en las terminales axónicas las numerosas vesículas sinápticas llenas de neurotransmisor.
 

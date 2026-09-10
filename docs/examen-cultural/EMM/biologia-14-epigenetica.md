@@ -2209,6 +2209,7 @@ En relación con el libro de Biología, ¿quién propuso la metáfora del *switc
 **Respuesta:** A
 **Referencia:** Curtis, Barnes, Schnek, Massarini (2022) *Biología*, Editorial Médica Panamericana, Pág. 302
 **Subtema:** epigenética · ensayo 14-1, Julian Huxley
+**Retirado:** PERSONA · quién propuso la metáfora, sin ningún contenido de la metáfora — el 104 (los dos sentidos del *switch*) y el 106 (qué explica en el modelo) ya cubren el concepto
 
 Esta metáfora fue propuesta por Julian Huxley (1887-1975), en el contexto del modelo del paisaje epigenético (*epigenetic landscape*) de Conrad Waddington (1905-1975).
 
