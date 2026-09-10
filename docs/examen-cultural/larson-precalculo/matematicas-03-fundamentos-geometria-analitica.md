@@ -74,7 +74,27 @@ La **§3.1 · Coordenadas rectangulares está CERRADA** (pp. 272–277):
 - Cubiertas las páginas impresas **310, 311, 314 y 315**, con las que **cierra la §3.5 · Elipses** (Sub-lote 8): el recuadro *Definición de elipse* (focos, suma de distancias constante), los vértices, el eje mayor y el eje menor, la suma constante (a + c) + (a − c) = 2a con base en la figura 3.37, el `COMENTARIO` de que cuando a = b la elipse se vuelve un círculo, el recuadro *Ecuación estándar de una elipse* (las dos orientaciones, la ubicación de los focos con c² = a² − b², y el caso con centro en el origen), la aplicación (engranajes, arcos de soporte, diseños acústicos, órbitas), y la sección *Excentricidad*: por qué era difícil detectarla en los planetas antiguos, el recuadro *Definición de excentricidad* (e = c/a, 0 < e < 1), qué significa que la razón c/a se acerque a 0 o a 1, y las excentricidades de la Luna y de los ocho planetas. Las pp. **312 y 313 son sólo `EJEMPLO`s** (1 a 4), sin reactivos; las **pp. 316–318 son el bloque `3.5 Ejercicios`**.
 - Cubiertas las páginas impresas **319, 320, 321, 323, 324 y 325**, con las que **cierra la §3.6 · Hipérbolas y con ella el capítulo 3 completo** (Sub-lote 9): la comparación de la definición de hipérbola con la de la elipse, el recuadro *Definición de hipérbola*, las ramas, el eje transversal y el centro, la relación entre a, b y c (distinta a la de la elipse), el recuadro *Ecuación estándar de una hipérbola* (vértices y focos, c² = a² + b², y el eje conjugado), las asíntotas (cuántas son, el rectángulo por el que pasan, y el recuadro con sus ecuaciones), la *excentricidad* de la hipérbola (e = c/a, e > 1, y qué forma toman las ramas), la aplicación en radares durante la Segunda Guerra Mundial, las órbitas de los cometas (elípticas, parabólicas e hiperbólicas, y cuáles permanecen en el Sistema Solar), el criterio de velocidad v vs. √(2GM/p), el recuadro *Clasificación de una cónica a partir de su ecuación general* (círculo, parábola, elipse e hipérbola con las condiciones A = C, AC = 0, AC > 0 y AC < 0) con su nota de validez, y la `NOTA HISTÓRICA` de **Caroline Herschel**. La p. **322 es sólo `EJEMPLO 3` y `TECNOLOGÍA`**, sin reactivos; las **pp. 326–328 son el bloque `3.6 Ejercicios`**, con las que termina el libro.
 
-**Pendiente:** ninguno. El **capítulo 3 está CERRADO** en **113 reactivos**, con sus seis secciones completas (§3.1 a §3.6, pp. 271–328), tal como lo pide el temario `MATE-03-2026`. Con este capítulo **se cierra Matemáticas (Larson) completa para la EMEFA**: los capítulos 1 (284 reactivos), 2 (82 reactivos) y 3 (113 reactivos) están los tres CERRADOS.
+**Pendiente:** ninguno. El **capítulo 3 está CERRADO** en **113 reactivos** (112 activos, 1 retirado), con sus seis secciones completas (§3.1 a §3.6, pp. 271–328), tal como lo pide el temario `MATE-03-2026`. Con este capítulo **se cierra Matemáticas (Larson) completa para la EMEFA**: los capítulos 1 (284 reactivos), 2 (82 reactivos) y 3 (113 reactivos) están los tres CERRADOS.
+
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (113/113 reactivos)**. Revisados los 9
+sub-lotes de punta a punta (el plano cartesiano; distancia, punto medio y
+traslaciones; pendiente y forma pendiente-intersección; punto-pendiente, rectas
+paralelas y perpendiculares; pendiente como tasa, depreciación y formas de la recta;
+inclinación, ángulo entre rectas y distancia punto-recta; cónicas, definición de
+parábola y propiedad de reflexión; elipses con su excentricidad; hipérbolas,
+asíntotas, excentricidad y clasificación de cónicas). Las notas históricas de
+Caroline Herschel (#112-113) se dejaron activas: a diferencia del retiro, cargan
+contenido (el logro, la cuenta de cometas), el mismo criterio con que se dejaron
+activos los reactivos de propósito y fecha de publicación de Napier (#219-220) en el
+capítulo 1. **1 retiro nuevo** (#1, PERSONA · Descartes, mismo patrón que Napier y
+Herón); 0 retiros preexistentes en este archivo.
+
+**Con este archivo se cierra la auditoría ronda 3 del libro Larson completo** (3
+archivos, 479 reactivos: cap 1 con 284, cap 2 con 82, cap 3 con 113) **y con él, toda
+la materia Matemáticas (Larson) para la EMEFA**. 2 retiros nuevos en total (Herón en
+cap 2, Descartes en cap 3), ambos bajo el mismo patrón PERSONA ya aplicado a Napier
+en cap 1.
 
 ---
 
@@ -92,6 +112,7 @@ De acuerdo con el libro de Matemáticas, ¿en honor a quién se llama plano cart
 **Respuesta:** A
 **Referencia:** Larson, Ron (2018) *Precálculo. Introducción a las matemáticas universitarias*, Cengage Learning, Pág. 272
 **Subtema:** coordenadas rectangulares · plano cartesiano
+**Retirado:** PERSONA · nombre, nacionalidad y fechas de Descartes, sin ninguna propiedad de las coordenadas rectangulares — mismo patrón que el reactivo 218 (Napier) en `matematicas-01-fundamentos-algebra.md` y el 79 (Herón) en `matematicas-02-fundamentos-trigonometria.md`
 
 Un plano llamado sistema de coordenadas rectangulares, o plano cartesiano, nombrado así en honor al matemático francés René Descartes (1596-1650).
 
