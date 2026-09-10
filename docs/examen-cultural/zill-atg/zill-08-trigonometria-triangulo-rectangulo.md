@@ -107,6 +107,21 @@ completarse también los capítulos 4, 9 y 12: en total **219 reactivos** (cap 4
 58, cap 9: 53, cap 12: 44). El temario deja fuera a propósito el capítulo 11 (cónicas en
 coordenadas rectangulares).
 
+**Pendiente auditoría profunda (ronda 3, lectura exhaustiva sin gatillo de detector, 9
+sep 2026):** ninguno — **archivo completo (58/58 reactivos)**. Revisados los 18
+sub-lotes de punta a punta (historia y etimología con Hiparco y Rheticus; ángulo y
+posición normal; medición en grados y coterminales; minutos y segundos; medida en
+radianes; conversión grados-radianes; terminología —recto, agudo, obtuso,
+complementarios, suplementarios, cuadrantal—; longitud de arco; las seis funciones
+trigonométricas del triángulo rectángulo; identidades por cociente y recíprocas;
+cofunciones; identidades pitagóricas; ángulos especiales y sus valores exactos;
+funciones de un ángulo general; dominios y acotamiento; signos por cuadrante;
+ángulo de referencia). Los reactivos de Hiparco y Rheticus (#2-3) cargan el aporte
+matemático de cada uno (tablas de cuerdas; funciones vía triángulo rectángulo), no
+sólo identidad — se dejaron activos por el mismo criterio que distinguió al #218
+(Napier, retirado) del #219-220 (Napier, activos) en Larson cap 1. **0 retiros
+nuevos, 0 retiros preexistentes.**
+
 ## Criterio: teoría sobre práctica
 
 **Decisión de Carlo (20 jul 2026):** el examen cultural es teórico, no práctico. Se
